@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-06-16T16:19:52.956519+08:00",
+  "generated_at": "2026-06-16T16:42:02.695470+08:00",
   "count": 18,
   "items": [
     {
       "repo": "iptv-org/iptv",
       "url": "https://github.com/iptv-org/iptv",
       "stars_today": 2657,
-      "total_stars": 123337,
+      "total_stars": 123364,
       "language": "TypeScript",
       "description": "Star iptv-org / iptv Collection of publicly available IPTV channels from all over the world"
     },
@@ -16,7 +16,7 @@
       "repo": "Panniantong/Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "stars_today": 1100,
-      "total_stars": 31082,
+      "total_stars": 31133,
       "language": "Python",
       "description": "Star Panniantong / Agent-Reach Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees."
     },
@@ -24,7 +24,7 @@
       "repo": "NVIDIA/SkillSpector",
       "url": "https://github.com/NVIDIA/SkillSpector",
       "stars_today": 1079,
-      "total_stars": 6653,
+      "total_stars": 6665,
       "language": "Python",
       "description": "Star NVIDIA / SkillSpector Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks."
     },
@@ -32,7 +32,7 @@
       "repo": "freeCodeCamp/freeCodeCamp",
       "url": "https://github.com/freeCodeCamp/freeCodeCamp",
       "stars_today": 736,
-      "total_stars": 448110,
+      "total_stars": 448123,
       "language": "TypeScript",
       "description": "Sponsor Star freeCodeCamp / freeCodeCamp freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free."
     },
@@ -40,7 +40,7 @@
       "repo": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "stars_today": 562,
-      "total_stars": 33404,
+      "total_stars": 33420,
       "language": "Python",
       "description": "Sponsor Star rohitg00 / ai-engineering-from-scratch Learn it. Build it. Ship it for others."
     },
@@ -48,7 +48,7 @@
       "repo": "Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
       "url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
       "stars_today": 489,
-      "total_stars": 3139,
+      "total_stars": 3141,
       "language": "TeX",
       "description": "Star Introduction-to-Autonomous-Robots / Introduction-to-Autonomous-Robots Introduction to Autonomous Robots"
     },
@@ -56,7 +56,7 @@
       "repo": "chatwoot/chatwoot",
       "url": "https://github.com/chatwoot/chatwoot",
       "stars_today": 431,
-      "total_stars": 31856,
+      "total_stars": 31867,
       "language": "Ruby",
       "description": "Sponsor Star chatwoot / chatwoot Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬"
     },
@@ -64,7 +64,7 @@
       "repo": "shiyu-coder/Kronos",
       "url": "https://github.com/shiyu-coder/Kronos",
       "stars_today": 396,
-      "total_stars": 30418,
+      "total_stars": 30423,
       "language": "Python",
       "description": "Star shiyu-coder / Kronos Kronos: A Foundation Model for the Language of Financial Markets"
     },
@@ -72,7 +72,7 @@
       "repo": "jwasham/coding-interview-university",
       "url": "https://github.com/jwasham/coding-interview-university",
       "stars_today": 364,
-      "total_stars": 352507,
+      "total_stars": 352522,
       "language": "",
       "description": "Star jwasham / coding-interview-university A complete computer science study plan to become a software engineer."
     },
@@ -80,7 +80,7 @@
       "repo": "Free-TV/IPTV",
       "url": "https://github.com/Free-TV/IPTV",
       "stars_today": 361,
-      "total_stars": 17388,
+      "total_stars": 17390,
       "language": "Python",
       "description": "Star Free-TV / IPTV M3U Playlist for free TV channels"
     },
@@ -88,7 +88,7 @@
       "repo": "itsfatduck/optimizerDuck",
       "url": "https://github.com/itsfatduck/optimizerDuck",
       "stars_today": 340,
-      "total_stars": 3873,
+      "total_stars": 3883,
       "language": "C#",
       "description": "Star itsfatduck / optimizerDuck Free, open-source Windows optimization tool for performance, privacy, and simplicity."
     },
@@ -96,7 +96,7 @@
       "repo": "meshery/meshery",
       "url": "https://github.com/meshery/meshery",
       "stars_today": 228,
-      "total_stars": 10706,
+      "total_stars": 10709,
       "language": "TypeScript",
       "description": "Star meshery / meshery Meshery, the cloud native manager"
     },
@@ -104,7 +104,7 @@
       "repo": "music-assistant/server",
       "url": "https://github.com/music-assistant/server",
       "stars_today": 225,
-      "total_stars": 2450,
+      "total_stars": 2455,
       "language": "Python",
       "description": "Sponsor Star music-assistant / server Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike."
     },
@@ -112,7 +112,7 @@
       "repo": "mikeroyal/Self-Hosting-Guide",
       "url": "https://github.com/mikeroyal/Self-Hosting-Guide",
       "stars_today": 188,
-      "total_stars": 21282,
+      "total_stars": 21295,
       "language": "Dockerfile",
       "description": "Star mikeroyal / Self-Hosting-Guide Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking."
     },
@@ -120,7 +120,7 @@
       "repo": "Raphire/Win11Debloat",
       "url": "https://github.com/Raphire/Win11Debloat",
       "stars_today": 112,
-      "total_stars": 48176,
+      "total_stars": 48191,
       "language": "PowerShell",
       "description": "Sponsor Star Raphire / Win11Debloat A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11."
     },
@@ -128,7 +128,7 @@
       "repo": "krahets/hello-algo",
       "url": "https://github.com/krahets/hello-algo",
       "stars_today": 71,
-      "total_stars": 127173,
+      "total_stars": 127194,
       "language": "Java",
       "description": "Star krahets / hello-algo 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现"
     },
@@ -136,7 +136,7 @@
       "repo": "trycua/cua",
       "url": "https://github.com/trycua/cua",
       "stars_today": 70,
-      "total_stars": 18274,
+      "total_stars": 18283,
       "language": "HTML",
       "description": "Sponsor Star trycua / cua Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows)."
     },
@@ -144,7 +144,7 @@
       "repo": "teslamate-org/teslamate",
       "url": "https://github.com/teslamate-org/teslamate",
       "stars_today": 33,
-      "total_stars": 8317,
+      "total_stars": 8320,
       "language": "Elixir",
       "description": "Star teslamate-org / teslamate A self-hosted data logger for your Tesla 🚘 [main maintainer= @JakobLichterfeld ]"
     }
