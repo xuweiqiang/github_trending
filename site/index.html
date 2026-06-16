@@ -364,7 +364,7 @@
         <div class="toolbar">
           <label class="search">
             <span aria-hidden="true">⌕</span>
-            <input id="searchInput" type="search" placeholder="搜索仓库、语言或描述" autocomplete="off" />
+            <input id="searchInput" type="search" placeholder="搜索仓库、语言或中文描述" autocomplete="off" />
           </label>
           <div class="status" id="statusText">正在加载数据...</div>
         </div>
@@ -392,6 +392,8 @@
         items: [],
         query: "",
       };
+
+      const refreshIntervalMs = 15 * 60 * 1000;
 
       const elements = {
         repoCount: document.querySelector("#repoCount"),
@@ -450,7 +452,9 @@
         if (!query) {
           return true;
         }
-        const haystack = [item.repo, item.language, item.description].map(normalize).join(" ");
+        const haystack = [item.repo, item.language, item.description_zh, item.description]
+          .map(normalize)
+          .join(" ");
         return haystack.includes(query);
       }
 
@@ -487,7 +491,7 @@
           link.rel = "noopener noreferrer";
           link.textContent = item.repo || "-";
           const description = document.createElement("p");
-          description.textContent = item.description || "暂无描述";
+          description.textContent = item.description_zh || item.description || "暂无描述";
           repo.append(link, description);
 
           const language = document.createElement("td");
@@ -517,7 +521,9 @@
 
       async function loadData() {
         try {
-          const response = await fetch("./data/trending_24h.json", { cache: "no-store" });
+          const response = await fetch(`./data/trending_24h.json?t=${Date.now()}`, {
+            cache: "no-store",
+          });
           if (!response.ok) {
             throw new Error(`HTTP ${response.status}`);
           }
@@ -540,6 +546,7 @@
       });
 
       loadData();
+      setInterval(loadData, refreshIntervalMs);
     </script>
   </body>
 </html>

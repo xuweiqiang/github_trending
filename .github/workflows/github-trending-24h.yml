@@ -2,8 +2,11 @@ name: Update GitHub Trending 24h
 
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - master
   schedule:
-    - cron: "5 * * * *"
+    - cron: "23 * * * *"
 
 permissions:
   contents: write
