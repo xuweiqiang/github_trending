@@ -1,0 +1,33 @@
+name: Update GitHub Trending 24h
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "5 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-trending:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Export trending data
+        run: python scripts/export_trending.py
+
+      - name: Auto commit data changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore(ci): update github trending 24h data"
+          file_pattern: data/trending_24h.json data/trending_24h.md
