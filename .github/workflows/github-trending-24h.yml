@@ -7,6 +7,12 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "github-trending-pages"
+  cancel-in-progress: false
 
 jobs:
   update-trending:
@@ -31,3 +37,21 @@ jobs:
         with:
           commit_message: "chore(ci): update github trending 24h data"
           file_pattern: data/trending_24h.json data/trending_24h.md
+
+      - name: Build static site
+        run: |
+          mkdir -p public/data
+          cp site/index.html public/index.html
+          cp data/trending_24h.json public/data/trending_24h.json
+          cp data/trending_24h.md public/data/trending_24h.md
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4

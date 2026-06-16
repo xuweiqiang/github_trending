@@ -1,0 +1,545 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>GitHub 24h Star 增长榜</title>
+    <style>
+      :root {
+        color-scheme: light;
+        --bg: #f7f8fb;
+        --panel: #ffffff;
+        --text: #172033;
+        --muted: #667085;
+        --line: #d9e0ea;
+        --accent: #0969da;
+        --accent-soft: #eaf3ff;
+        --gain: #138a43;
+        --shadow: 0 12px 36px rgba(16, 24, 40, 0.08);
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        min-width: 320px;
+        background: var(--bg);
+        color: var(--text);
+        font-family:
+          Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+          sans-serif;
+        letter-spacing: 0;
+      }
+
+      a {
+        color: inherit;
+        text-decoration: none;
+      }
+
+      .page {
+        max-width: 1180px;
+        margin: 0 auto;
+        padding: 28px 20px 44px;
+      }
+
+      .topbar {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 16px;
+        margin-bottom: 22px;
+      }
+
+      .brand {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+        min-width: 0;
+      }
+
+      .mark {
+        display: grid;
+        width: 42px;
+        height: 42px;
+        place-items: center;
+        border-radius: 8px;
+        background: #172033;
+        color: #fff;
+        font-weight: 800;
+      }
+
+      .brand h1 {
+        margin: 0;
+        font-size: 22px;
+        line-height: 1.25;
+      }
+
+      .brand p {
+        margin: 2px 0 0;
+        color: var(--muted);
+        font-size: 13px;
+      }
+
+      .actions {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        flex-wrap: wrap;
+        justify-content: flex-end;
+      }
+
+      .button {
+        display: inline-flex;
+        align-items: center;
+        gap: 8px;
+        min-height: 38px;
+        padding: 0 12px;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        background: var(--panel);
+        color: var(--text);
+        font-size: 14px;
+        font-weight: 650;
+        box-shadow: 0 1px 2px rgba(16, 24, 40, 0.04);
+      }
+
+      .button.primary {
+        border-color: var(--accent);
+        background: var(--accent);
+        color: #fff;
+      }
+
+      .summary {
+        display: grid;
+        grid-template-columns: repeat(4, minmax(0, 1fr));
+        gap: 12px;
+        margin-bottom: 16px;
+      }
+
+      .metric {
+        min-height: 94px;
+        padding: 16px;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        background: var(--panel);
+        box-shadow: 0 1px 2px rgba(16, 24, 40, 0.04);
+      }
+
+      .metric span {
+        display: block;
+        color: var(--muted);
+        font-size: 12px;
+        font-weight: 700;
+      }
+
+      .metric strong {
+        display: block;
+        margin-top: 8px;
+        font-size: 26px;
+        line-height: 1.1;
+      }
+
+      .metric small {
+        display: block;
+        margin-top: 6px;
+        color: var(--muted);
+        font-size: 12px;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      }
+
+      .toolbar {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 12px;
+        padding: 12px;
+        border: 1px solid var(--line);
+        border-radius: 8px 8px 0 0;
+        background: var(--panel);
+      }
+
+      .search {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        min-width: min(420px, 100%);
+        padding: 0 12px;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        background: #fff;
+      }
+
+      .search input {
+        width: 100%;
+        height: 38px;
+        border: 0;
+        outline: 0;
+        color: var(--text);
+        font: inherit;
+      }
+
+      .status {
+        color: var(--muted);
+        font-size: 13px;
+        text-align: right;
+      }
+
+      .table-wrap {
+        overflow-x: auto;
+        border: 1px solid var(--line);
+        border-top: 0;
+        border-radius: 0 0 8px 8px;
+        background: var(--panel);
+        box-shadow: var(--shadow);
+      }
+
+      table {
+        width: 100%;
+        min-width: 860px;
+        border-collapse: collapse;
+      }
+
+      th,
+      td {
+        padding: 14px 16px;
+        border-bottom: 1px solid var(--line);
+        text-align: left;
+        vertical-align: top;
+      }
+
+      th {
+        position: sticky;
+        top: 0;
+        z-index: 1;
+        background: #fbfcfe;
+        color: var(--muted);
+        font-size: 12px;
+        font-weight: 800;
+      }
+
+      tbody tr:hover {
+        background: #fbfdff;
+      }
+
+      tbody tr:last-child td {
+        border-bottom: 0;
+      }
+
+      .rank {
+        width: 62px;
+        color: var(--muted);
+        font-weight: 800;
+      }
+
+      .repo {
+        min-width: 270px;
+      }
+
+      .repo a {
+        color: var(--accent);
+        font-weight: 800;
+      }
+
+      .repo p {
+        margin: 7px 0 0;
+        max-width: 560px;
+        color: var(--muted);
+        font-size: 13px;
+        line-height: 1.45;
+      }
+
+      .gain {
+        color: var(--gain);
+        font-weight: 850;
+        white-space: nowrap;
+      }
+
+      .stars {
+        color: var(--text);
+        font-weight: 720;
+        white-space: nowrap;
+      }
+
+      .language {
+        display: inline-flex;
+        align-items: center;
+        min-height: 26px;
+        padding: 0 10px;
+        border-radius: 999px;
+        background: var(--accent-soft);
+        color: #175da8;
+        font-size: 12px;
+        font-weight: 800;
+        white-space: nowrap;
+      }
+
+      .empty,
+      .error {
+        padding: 28px;
+        border: 1px solid var(--line);
+        border-top: 0;
+        border-radius: 0 0 8px 8px;
+        background: var(--panel);
+        color: var(--muted);
+      }
+
+      @media (max-width: 760px) {
+        .page {
+          padding: 18px 12px 32px;
+        }
+
+        .topbar,
+        .toolbar {
+          align-items: stretch;
+          flex-direction: column;
+        }
+
+        .actions {
+          justify-content: flex-start;
+        }
+
+        .summary {
+          grid-template-columns: repeat(2, minmax(0, 1fr));
+        }
+
+        .brand h1 {
+          font-size: 19px;
+        }
+
+        .metric strong {
+          font-size: 22px;
+        }
+
+        .status {
+          text-align: left;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <main class="page">
+      <header class="topbar">
+        <div class="brand">
+          <div class="mark">GH</div>
+          <div>
+            <h1>GitHub 24h Star 增长榜</h1>
+            <p>由 GitHub Actions 定时抓取并自动部署</p>
+          </div>
+        </div>
+        <nav class="actions" aria-label="页面操作">
+          <a class="button" href="./data/trending_24h.json">JSON</a>
+          <a class="button" href="./data/trending_24h.md">Markdown</a>
+          <a class="button primary" href="https://github.com/trending?since=daily">GitHub Trending</a>
+        </nav>
+      </header>
+
+      <section class="summary" aria-label="运行摘要">
+        <div class="metric">
+          <span>榜单数量</span>
+          <strong id="repoCount">-</strong>
+          <small>当前展示仓库数</small>
+        </div>
+        <div class="metric">
+          <span>最高 24h 增长</span>
+          <strong id="topGain">-</strong>
+          <small id="topRepo">-</small>
+        </div>
+        <div class="metric">
+          <span>累计 24h 增长</span>
+          <strong id="totalGain">-</strong>
+          <small>榜单内仓库合计</small>
+        </div>
+        <div class="metric">
+          <span>数据更新时间</span>
+          <strong id="updatedDate">-</strong>
+          <small id="updatedTime">-</small>
+        </div>
+      </section>
+
+      <section aria-label="仓库榜单">
+        <div class="toolbar">
+          <label class="search">
+            <span aria-hidden="true">⌕</span>
+            <input id="searchInput" type="search" placeholder="搜索仓库、语言或描述" autocomplete="off" />
+          </label>
+          <div class="status" id="statusText">正在加载数据...</div>
+        </div>
+        <div class="table-wrap" id="tableWrap" hidden>
+          <table>
+            <thead>
+              <tr>
+                <th class="rank">排名</th>
+                <th>项目</th>
+                <th>语言</th>
+                <th>24h 增长</th>
+                <th>总 Stars</th>
+              </tr>
+            </thead>
+            <tbody id="repoRows"></tbody>
+          </table>
+        </div>
+        <div class="empty" id="emptyState" hidden>没有匹配的仓库。</div>
+        <div class="error" id="errorState" hidden>数据加载失败，请确认 `data/trending_24h.json` 已生成。</div>
+      </section>
+    </main>
+
+    <script>
+      const state = {
+        items: [],
+        query: "",
+      };
+
+      const elements = {
+        repoCount: document.querySelector("#repoCount"),
+        topGain: document.querySelector("#topGain"),
+        topRepo: document.querySelector("#topRepo"),
+        totalGain: document.querySelector("#totalGain"),
+        updatedDate: document.querySelector("#updatedDate"),
+        updatedTime: document.querySelector("#updatedTime"),
+        searchInput: document.querySelector("#searchInput"),
+        statusText: document.querySelector("#statusText"),
+        tableWrap: document.querySelector("#tableWrap"),
+        repoRows: document.querySelector("#repoRows"),
+        emptyState: document.querySelector("#emptyState"),
+        errorState: document.querySelector("#errorState"),
+      };
+
+      const numberFormatter = new Intl.NumberFormat("en-US");
+
+      function formatNumber(value) {
+        if (value === null || value === undefined || value === "") {
+          return "-";
+        }
+        return numberFormatter.format(Number(value));
+      }
+
+      function formatUpdatedAt(value) {
+        if (!value) {
+          return { date: "-", time: "-" };
+        }
+        const date = new Date(value);
+        if (Number.isNaN(date.getTime())) {
+          return { date: value, time: "" };
+        }
+        return {
+          date: date.toLocaleDateString("zh-CN", {
+            year: "numeric",
+            month: "2-digit",
+            day: "2-digit",
+            timeZone: "Asia/Shanghai",
+          }),
+          time: date.toLocaleTimeString("zh-CN", {
+            hour: "2-digit",
+            minute: "2-digit",
+            second: "2-digit",
+            hour12: false,
+            timeZone: "Asia/Shanghai",
+          }),
+        };
+      }
+
+      function normalize(value) {
+        return String(value || "").toLowerCase();
+      }
+
+      function itemMatchesQuery(item, query) {
+        if (!query) {
+          return true;
+        }
+        const haystack = [item.repo, item.language, item.description].map(normalize).join(" ");
+        return haystack.includes(query);
+      }
+
+      function renderSummary(data) {
+        const items = data.items || [];
+        const top = items[0] || {};
+        const totalGain = items.reduce((sum, item) => sum + Number(item.stars_today || 0), 0);
+        const updated = formatUpdatedAt(data.generated_at);
+
+        elements.repoCount.textContent = formatNumber(data.count || items.length);
+        elements.topGain.textContent = top.stars_today ? `+${formatNumber(top.stars_today)}` : "-";
+        elements.topRepo.textContent = top.repo || "-";
+        elements.totalGain.textContent = formatNumber(totalGain);
+        elements.updatedDate.textContent = updated.date;
+        elements.updatedTime.textContent = updated.time || "Asia/Shanghai";
+      }
+
+      function renderRows() {
+        const filtered = state.items.filter((item) => itemMatchesQuery(item, state.query));
+        elements.repoRows.textContent = "";
+
+        for (const [index, item] of filtered.entries()) {
+          const row = document.createElement("tr");
+
+          const rank = document.createElement("td");
+          rank.className = "rank";
+          rank.textContent = `#${index + 1}`;
+
+          const repo = document.createElement("td");
+          repo.className = "repo";
+          const link = document.createElement("a");
+          link.href = item.url || "#";
+          link.target = "_blank";
+          link.rel = "noopener noreferrer";
+          link.textContent = item.repo || "-";
+          const description = document.createElement("p");
+          description.textContent = item.description || "暂无描述";
+          repo.append(link, description);
+
+          const language = document.createElement("td");
+          const languageBadge = document.createElement("span");
+          languageBadge.className = "language";
+          languageBadge.textContent = item.language || "Unknown";
+          language.append(languageBadge);
+
+          const gain = document.createElement("td");
+          gain.className = "gain";
+          gain.textContent = `+${formatNumber(item.stars_today)}`;
+
+          const stars = document.createElement("td");
+          stars.className = "stars";
+          stars.textContent = formatNumber(item.total_stars);
+
+          row.append(rank, repo, language, gain, stars);
+          elements.repoRows.append(row);
+        }
+
+        elements.tableWrap.hidden = filtered.length === 0;
+        elements.emptyState.hidden = filtered.length !== 0;
+        elements.statusText.textContent = state.query
+          ? `匹配 ${filtered.length} / ${state.items.length} 个仓库`
+          : `展示 ${state.items.length} 个仓库`;
+      }
+
+      async function loadData() {
+        try {
+          const response = await fetch("./data/trending_24h.json", { cache: "no-store" });
+          if (!response.ok) {
+            throw new Error(`HTTP ${response.status}`);
+          }
+          const data = await response.json();
+          state.items = Array.isArray(data.items) ? data.items : [];
+          renderSummary(data);
+          renderRows();
+        } catch (error) {
+          console.error(error);
+          elements.statusText.textContent = "数据加载失败";
+          elements.tableWrap.hidden = true;
+          elements.emptyState.hidden = true;
+          elements.errorState.hidden = false;
+        }
+      }
+
+      elements.searchInput.addEventListener("input", (event) => {
+        state.query = normalize(event.target.value.trim());
+        renderRows();
+      });
+
+      loadData();
+    </script>
+  </body>
+</html>
