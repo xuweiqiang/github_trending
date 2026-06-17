@@ -1,19 +1,26 @@
 # GitHub 24h Star 增长榜
 
-- 生成时间: 2026-06-17 15:30:46 +0800
+- 生成时间: 2026-06-17 20:32:41 +0800
 
 | 排名 | 项目 | 24h 增长 | 总 Stars | 链接 |
 |---:|---|---:|---:|---|
-| 1 | `iptv-org/iptv` | 1197 | 124481 | [跳转](https://github.com/iptv-org/iptv) |
-| 2 | `freeCodeCamp/freeCodeCamp` | 633 | 448800 | [跳转](https://github.com/freeCodeCamp/freeCodeCamp) |
-| 3 | `OpenBMB/VoxCPM` | 408 | 30285 | [跳转](https://github.com/OpenBMB/VoxCPM) |
-| 4 | `n0-computer/iroh` | 334 | 9401 | [跳转](https://github.com/n0-computer/iroh) |
-| 5 | `meshery/meshery` | 228 | 10911 | [跳转](https://github.com/meshery/meshery) |
-| 6 | `teslamate-org/teslamate` | 215 | 8449 | [跳转](https://github.com/teslamate-org/teslamate) |
-| 7 | `rmyndharis/OpenWA` | 185 | 9200 | [跳转](https://github.com/rmyndharis/OpenWA) |
-| 8 | `music-assistant/server` | 157 | 2625 | [跳转](https://github.com/music-assistant/server) |
-| 9 | `alibaba/zvec` | 156 | 10656 | [跳转](https://github.com/alibaba/zvec) |
-| 10 | `Universal-Debloater-Alliance/universal-android-debloater-next-generation` | 146 | 7453 | [跳转](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) |
-| 11 | `puppeteer/puppeteer` | 56 | 94966 | [跳转](https://github.com/puppeteer/puppeteer) |
-| 12 | `swc-project/swc` | 20 | 34014 | [跳转](https://github.com/swc-project/swc) |
-| 13 | `cypress-io/cypress` | 13 | 50275 | [跳转](https://github.com/cypress-io/cypress) |
+| 1 | `Panniantong/Agent-Reach` | 2025 | 32641 | [跳转](https://github.com/Panniantong/Agent-Reach) |
+| 2 | `mattpocock/skills` | 1849 | 132759 | [跳转](https://github.com/mattpocock/skills) |
+| 3 | `obra/superpowers` | 1109 | 230515 | [跳转](https://github.com/obra/superpowers) |
+| 4 | `freeCodeCamp/freeCodeCamp` | 764 | 448955 | [跳转](https://github.com/freeCodeCamp/freeCodeCamp) |
+| 5 | `krahets/hello-algo` | 516 | 127350 | [跳转](https://github.com/krahets/hello-algo) |
+| 6 | `Universal-Debloater-Alliance/universal-android-debloater-next-generation` | 465 | 7529 | [跳转](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) |
+| 7 | `n0-computer/iroh` | 422 | 9479 | [跳转](https://github.com/n0-computer/iroh) |
+| 8 | `chatwoot/chatwoot` | 400 | 32203 | [跳转](https://github.com/chatwoot/chatwoot) |
+| 9 | `DeusData/codebase-memory-mcp` | 367 | 4211 | [跳转](https://github.com/DeusData/codebase-memory-mcp) |
+| 10 | `meshery/meshery` | 199 | 10941 | [跳转](https://github.com/meshery/meshery) |
+| 11 | `bytedance/UI-TARS-desktop` | 148 | 36583 | [跳转](https://github.com/bytedance/UI-TARS-desktop) |
+| 12 | `penpot/penpot` | 94 | 49902 | [跳转](https://github.com/penpot/penpot) |
+| 13 | `nautechsystems/nautilus_trader` | 86 | 23634 | [跳转](https://github.com/nautechsystems/nautilus_trader) |
+| 14 | `google-research/timesfm` | 84 | 21508 | [跳转](https://github.com/google-research/timesfm) |
+| 15 | `calesthio/OpenMontage` | 71 | 4937 | [跳转](https://github.com/calesthio/OpenMontage) |
+| 16 | `makeplane/plane` | 68 | 51002 | [跳转](https://github.com/makeplane/plane) |
+| 17 | `continuedev/continue` | 38 | 33760 | [跳转](https://github.com/continuedev/continue) |
+| 18 | `alexzhang13/rlm` | 37 | 4808 | [跳转](https://github.com/alexzhang13/rlm) |
+| 19 | `yairm210/Unciv` | 25 | 10558 | [跳转](https://github.com/yairm210/Unciv) |
+| 20 | `RocketChat/Rocket.Chat` | 15 | 45498 | [跳转](https://github.com/RocketChat/Rocket.Chat) |
