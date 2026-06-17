@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-06-18T06:16:37.759758+08:00",
+  "generated_at": "2026-06-18T07:53:19.164687+08:00",
   "count": 20,
   "items": [
     {
       "repo": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "stars_today": 1570,
-      "total_stars": 133410,
+      "total_stars": 133502,
       "language": "Shell",
       "description": "Sponsor Star mattpocock / skills Skills for Real Engineers. Straight from my .claude directory."
     },
@@ -16,7 +16,7 @@
       "repo": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "stars_today": 1205,
-      "total_stars": 230982,
+      "total_stars": 231024,
       "language": "Shell",
       "description": "Sponsor Star obra / superpowers An agentic skills framework & software development methodology that works."
     },
@@ -24,7 +24,7 @@
       "repo": "Panniantong/Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "stars_today": 1154,
-      "total_stars": 33086,
+      "total_stars": 33131,
       "language": "Python",
       "description": "Star Panniantong / Agent-Reach Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees."
     },
@@ -32,7 +32,7 @@
       "repo": "freeCodeCamp/freeCodeCamp",
       "url": "https://github.com/freeCodeCamp/freeCodeCamp",
       "stars_today": 764,
-      "total_stars": 449113,
+      "total_stars": 449124,
       "language": "TypeScript",
       "description": "Sponsor Star freeCodeCamp / freeCodeCamp freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free."
     },
@@ -40,7 +40,7 @@
       "repo": "DeusData/codebase-memory-mcp",
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "stars_today": 718,
-      "total_stars": 5113,
+      "total_stars": 5209,
       "language": "C",
       "description": "Star DeusData / codebase-memory-mcp High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies."
     },
@@ -48,7 +48,7 @@
       "repo": "google-research/timesfm",
       "url": "https://github.com/google-research/timesfm",
       "stars_today": 712,
-      "total_stars": 21830,
+      "total_stars": 21868,
       "language": "Python",
       "description": "Star google-research / timesfm TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting."
     },
@@ -56,7 +56,7 @@
       "repo": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
       "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
       "stars_today": 465,
-      "total_stars": 7620,
+      "total_stars": 7631,
       "language": "Rust",
       "description": "Star Universal-Debloater-Alliance / universal-android-debloater-next-generation Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device."
     },
@@ -64,15 +64,15 @@
       "repo": "n0-computer/iroh",
       "url": "https://github.com/n0-computer/iroh",
       "stars_today": 422,
-      "total_stars": 9619,
+      "total_stars": 9633,
       "language": "Rust",
       "description": "Star n0-computer / iroh IP addresses break, dial keys instead. Modular networking stack in Rust."
     },
     {
       "repo": "chatwoot/chatwoot",
       "url": "https://github.com/chatwoot/chatwoot",
-      "stars_today": 400,
-      "total_stars": 32339,
+      "stars_today": 310,
+      "total_stars": 32355,
       "language": "Ruby",
       "description": "Sponsor Star chatwoot / chatwoot Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬"
     },
@@ -80,7 +80,7 @@
       "repo": "meshery/meshery",
       "url": "https://github.com/meshery/meshery",
       "stars_today": 199,
-      "total_stars": 11001,
+      "total_stars": 11012,
       "language": "TypeScript",
       "description": "Star meshery / meshery Meshery, the cloud native manager"
     },
@@ -88,7 +88,7 @@
       "repo": "bytedance/UI-TARS-desktop",
       "url": "https://github.com/bytedance/UI-TARS-desktop",
       "stars_today": 148,
-      "total_stars": 36677,
+      "total_stars": 36683,
       "language": "TypeScript",
       "description": "Star bytedance / UI-TARS-desktop The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra"
     },
@@ -96,7 +96,7 @@
       "repo": "krahets/hello-algo",
       "url": "https://github.com/krahets/hello-algo",
       "stars_today": 109,
-      "total_stars": 127424,
+      "total_stars": 127430,
       "language": "Java",
       "description": "Star krahets / hello-algo 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现"
     },
@@ -104,7 +104,7 @@
       "repo": "penpot/penpot",
       "url": "https://github.com/penpot/penpot",
       "stars_today": 94,
-      "total_stars": 50048,
+      "total_stars": 50067,
       "language": "Clojure",
       "description": "Star penpot / penpot Penpot: The open-source design tool for design and code collaboration"
     },
@@ -112,7 +112,7 @@
       "repo": "nautechsystems/nautilus_trader",
       "url": "https://github.com/nautechsystems/nautilus_trader",
       "stars_today": 86,
-      "total_stars": 23780,
+      "total_stars": 23798,
       "language": "Rust",
       "description": "Star nautechsystems / nautilus_trader Production-grade Rust-native trading engine with deterministic event-driven architecture"
     },
@@ -120,7 +120,7 @@
       "repo": "calesthio/OpenMontage",
       "url": "https://github.com/calesthio/OpenMontage",
       "stars_today": 71,
-      "total_stars": 5238,
+      "total_stars": 5279,
       "language": "Python",
       "description": "Star calesthio / OpenMontage World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio."
     },
@@ -128,7 +128,7 @@
       "repo": "makeplane/plane",
       "url": "https://github.com/makeplane/plane",
       "stars_today": 68,
-      "total_stars": 51227,
+      "total_stars": 51259,
       "language": "TypeScript",
       "description": "Star makeplane / plane 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage."
     },
@@ -136,7 +136,7 @@
       "repo": "yairm210/Unciv",
       "url": "https://github.com/yairm210/Unciv",
       "stars_today": 41,
-      "total_stars": 10634,
+      "total_stars": 10645,
       "language": "Kotlin",
       "description": "Star yairm210 / Unciv Open-source Android/Desktop remake of Civ V"
     },
@@ -144,7 +144,7 @@
       "repo": "continuedev/continue",
       "url": "https://github.com/continuedev/continue",
       "stars_today": 38,
-      "total_stars": 33866,
+      "total_stars": 33882,
       "language": "TypeScript",
       "description": "Star continuedev / continue open-source coding agent"
     },
@@ -152,7 +152,7 @@
       "repo": "alexzhang13/rlm",
       "url": "https://github.com/alexzhang13/rlm",
       "stars_today": 37,
-      "total_stars": 4899,
+      "total_stars": 4908,
       "language": "Python",
       "description": "Star alexzhang13 / rlm General plug-and-play inference library for Recursive Language Models (RLMs), supporting various sandboxes."
     },
@@ -160,7 +160,7 @@
       "repo": "RocketChat/Rocket.Chat",
       "url": "https://github.com/RocketChat/Rocket.Chat",
       "stars_today": 15,
-      "total_stars": 45558,
+      "total_stars": 45568,
       "language": "TypeScript",
       "description": "Sponsor Star RocketChat / Rocket.Chat The Secure CommsOS™ for mission-critical operations"
     }
