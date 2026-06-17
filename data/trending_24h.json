@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-06-17T09:44:37.849758+08:00",
+  "generated_at": "2026-06-17T15:30:46.229895+08:00",
   "count": 13,
   "items": [
     {
       "repo": "iptv-org/iptv",
       "url": "https://github.com/iptv-org/iptv",
       "stars_today": 1197,
-      "total_stars": 124138,
+      "total_stars": 124481,
       "language": "TypeScript",
       "description": "Star iptv-org / iptv Collection of publicly available IPTV channels from all over the world"
     },
@@ -16,7 +16,7 @@
       "repo": "freeCodeCamp/freeCodeCamp",
       "url": "https://github.com/freeCodeCamp/freeCodeCamp",
       "stars_today": 633,
-      "total_stars": 448589,
+      "total_stars": 448800,
       "language": "TypeScript",
       "description": "Sponsor Star freeCodeCamp / freeCodeCamp freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free."
     },
@@ -24,7 +24,7 @@
       "repo": "OpenBMB/VoxCPM",
       "url": "https://github.com/OpenBMB/VoxCPM",
       "stars_today": 408,
-      "total_stars": 30144,
+      "total_stars": 30285,
       "language": "Python",
       "description": "Star OpenBMB / VoxCPM VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning"
     },
@@ -32,7 +32,7 @@
       "repo": "n0-computer/iroh",
       "url": "https://github.com/n0-computer/iroh",
       "stars_today": 334,
-      "total_stars": 9306,
+      "total_stars": 9401,
       "language": "Rust",
       "description": "Star n0-computer / iroh IP addresses break, dial keys instead. Modular networking stack in Rust."
     },
@@ -40,7 +40,7 @@
       "repo": "meshery/meshery",
       "url": "https://github.com/meshery/meshery",
       "stars_today": 228,
-      "total_stars": 10857,
+      "total_stars": 10911,
       "language": "TypeScript",
       "description": "Star meshery / meshery Meshery, the cloud native manager"
     },
@@ -48,7 +48,7 @@
       "repo": "teslamate-org/teslamate",
       "url": "https://github.com/teslamate-org/teslamate",
       "stars_today": 215,
-      "total_stars": 8417,
+      "total_stars": 8449,
       "language": "Elixir",
       "description": "Star teslamate-org / teslamate A self-hosted data logger for your Tesla 🚘 [main maintainer= @JakobLichterfeld ]"
     },
@@ -56,7 +56,7 @@
       "repo": "rmyndharis/OpenWA",
       "url": "https://github.com/rmyndharis/OpenWA",
       "stars_today": 185,
-      "total_stars": 9096,
+      "total_stars": 9200,
       "language": "TypeScript",
       "description": "Star rmyndharis / OpenWA Free, Open Source, Self-Hosted WhatsApp API Gateway"
     },
@@ -64,7 +64,7 @@
       "repo": "music-assistant/server",
       "url": "https://github.com/music-assistant/server",
       "stars_today": 157,
-      "total_stars": 2569,
+      "total_stars": 2625,
       "language": "Python",
       "description": "Sponsor Star music-assistant / server Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike."
     },
@@ -72,7 +72,7 @@
       "repo": "alibaba/zvec",
       "url": "https://github.com/alibaba/zvec",
       "stars_today": 156,
-      "total_stars": 10483,
+      "total_stars": 10656,
       "language": "C++",
       "description": "Star alibaba / zvec A lightweight, lightning-fast, in-process vector database"
     },
@@ -80,7 +80,7 @@
       "repo": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
       "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
       "stars_today": 146,
-      "total_stars": 7330,
+      "total_stars": 7453,
       "language": "Rust",
       "description": "Star Universal-Debloater-Alliance / universal-android-debloater-next-generation Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device."
     },
@@ -88,7 +88,7 @@
       "repo": "puppeteer/puppeteer",
       "url": "https://github.com/puppeteer/puppeteer",
       "stars_today": 56,
-      "total_stars": 94905,
+      "total_stars": 94966,
       "language": "TypeScript",
       "description": "Star puppeteer / puppeteer JavaScript API for Chrome and Firefox"
     },
@@ -96,7 +96,7 @@
       "repo": "swc-project/swc",
       "url": "https://github.com/swc-project/swc",
       "stars_today": 20,
-      "total_stars": 33975,
+      "total_stars": 34014,
       "language": "Rust",
       "description": "Sponsor Star swc-project / swc Rust-based platform for the Web"
     },
@@ -104,7 +104,7 @@
       "repo": "cypress-io/cypress",
       "url": "https://github.com/cypress-io/cypress",
       "stars_today": 13,
-      "total_stars": 50220,
+      "total_stars": 50275,
       "language": "TypeScript",
       "description": "Star cypress-io / cypress Fast, easy and reliable testing for anything that runs in a browser."
     }
