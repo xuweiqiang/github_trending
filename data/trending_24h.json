@@ -1,168 +1,136 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-06-18T17:49:20.426720+08:00",
-  "count": 20,
+  "generated_at": "2026-06-18T21:44:29.141397+08:00",
+  "count": 16,
   "items": [
-    {
-      "repo": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "stars_today": 1523,
-      "total_stars": 134528,
-      "language": "Shell",
-      "description": "Sponsor Star mattpocock / skills Skills for Real Engineers. Straight from my .claude directory."
-    },
-    {
-      "repo": "Panniantong/Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars_today": 1161,
-      "total_stars": 33882,
-      "language": "Python",
-      "description": "Star Panniantong / Agent-Reach Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees."
-    },
-    {
-      "repo": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "stars_today": 1129,
-      "total_stars": 231723,
-      "language": "Shell",
-      "description": "Sponsor Star obra / superpowers An agentic skills framework & software development methodology that works."
-    },
-    {
-      "repo": "freeCodeCamp/freeCodeCamp",
-      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-      "stars_today": 757,
-      "total_stars": 449297,
-      "language": "TypeScript",
-      "description": "Sponsor Star freeCodeCamp / freeCodeCamp freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free."
-    },
-    {
-      "repo": "google-research/timesfm",
-      "url": "https://github.com/google-research/timesfm",
-      "stars_today": 606,
-      "total_stars": 22216,
-      "language": "Python",
-      "description": "Star google-research / timesfm TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting."
-    },
-    {
-      "repo": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
-      "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
-      "stars_today": 457,
-      "total_stars": 7742,
-      "language": "Rust",
-      "description": "Star Universal-Debloater-Alliance / universal-android-debloater-next-generation Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device."
-    },
-    {
-      "repo": "n0-computer/iroh",
-      "url": "https://github.com/n0-computer/iroh",
-      "stars_today": 421,
-      "total_stars": 9788,
-      "language": "Rust",
-      "description": "Star n0-computer / iroh IP addresses break, dial keys instead. Modular networking stack in Rust."
-    },
     {
       "repo": "DeusData/codebase-memory-mcp",
       "url": "https://github.com/DeusData/codebase-memory-mcp",
-      "stars_today": 371,
-      "total_stars": 6256,
+      "stars_today": 2308,
+      "total_stars": 6571,
       "language": "C",
       "description": "Star DeusData / codebase-memory-mcp High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies."
     },
     {
-      "repo": "chatwoot/chatwoot",
-      "url": "https://github.com/chatwoot/chatwoot",
-      "stars_today": 264,
-      "total_stars": 32496,
-      "language": "Ruby",
-      "description": "Sponsor Star chatwoot / chatwoot Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬"
+      "repo": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "stars_today": 1435,
+      "total_stars": 231969,
+      "language": "Shell",
+      "description": "Sponsor Star obra / superpowers An agentic skills framework & software development methodology that works."
     },
     {
-      "repo": "meshery/meshery",
-      "url": "https://github.com/meshery/meshery",
-      "stars_today": 196,
-      "total_stars": 11091,
+      "repo": "Kilo-Org/kilocode",
+      "url": "https://github.com/Kilo-Org/kilocode",
+      "stars_today": 1339,
+      "total_stars": 21547,
       "language": "TypeScript",
-      "description": "Star meshery / meshery Meshery, the cloud native manager"
+      "description": "Star Kilo-Org / kilocode Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent."
     },
     {
-      "repo": "bytedance/UI-TARS-desktop",
-      "url": "https://github.com/bytedance/UI-TARS-desktop",
-      "stars_today": 150,
-      "total_stars": 36789,
-      "language": "TypeScript",
-      "description": "Star bytedance / UI-TARS-desktop The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra"
-    },
-    {
-      "repo": "nautechsystems/nautilus_trader",
-      "url": "https://github.com/nautechsystems/nautilus_trader",
-      "stars_today": 98,
-      "total_stars": 23928,
-      "language": "Rust",
-      "description": "Star nautechsystems / nautilus_trader Production-grade Rust-native trading engine with deterministic event-driven architecture"
-    },
-    {
-      "repo": "calesthio/OpenMontage",
-      "url": "https://github.com/calesthio/OpenMontage",
-      "stars_today": 98,
-      "total_stars": 5693,
+      "repo": "google-research/timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "stars_today": 858,
+      "total_stars": 22467,
       "language": "Python",
-      "description": "Star calesthio / OpenMontage World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio."
-    },
-    {
-      "repo": "krahets/hello-algo",
-      "url": "https://github.com/krahets/hello-algo",
-      "stars_today": 96,
-      "total_stars": 127630,
-      "language": "Java",
-      "description": "Star krahets / hello-algo 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现"
+      "description": "Star google-research / timesfm TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting."
     },
     {
       "repo": "makeplane/plane",
       "url": "https://github.com/makeplane/plane",
-      "stars_today": 89,
-      "total_stars": 51542,
+      "stars_today": 610,
+      "total_stars": 51631,
       "language": "TypeScript",
       "description": "Star makeplane / plane 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage."
     },
     {
-      "repo": "penpot/penpot",
-      "url": "https://github.com/penpot/penpot",
-      "stars_today": 70,
-      "total_stars": 50267,
-      "language": "Clojure",
-      "description": "Star penpot / penpot Penpot: The open-source design tool for design and code collaboration"
+      "repo": "alibaba/zvec",
+      "url": "https://github.com/alibaba/zvec",
+      "stars_today": 435,
+      "total_stars": 11051,
+      "language": "C++",
+      "description": "Star alibaba / zvec A lightweight, lightning-fast, in-process vector database"
     },
     {
-      "repo": "continuedev/continue",
-      "url": "https://github.com/continuedev/continue",
-      "stars_today": 49,
-      "total_stars": 34031,
+      "repo": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "stars_today": 417,
+      "total_stars": 449375,
       "language": "TypeScript",
-      "description": "Star continuedev / continue open-source coding agent"
+      "description": "Sponsor Star freeCodeCamp / freeCodeCamp freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free."
     },
     {
-      "repo": "alexzhang13/rlm",
-      "url": "https://github.com/alexzhang13/rlm",
-      "stars_today": 43,
-      "total_stars": 4990,
+      "repo": "n0-computer/iroh",
+      "url": "https://github.com/n0-computer/iroh",
+      "stars_today": 369,
+      "total_stars": 9863,
+      "language": "Rust",
+      "description": "Star n0-computer / iroh IP addresses break, dial keys instead. Modular networking stack in Rust."
+    },
+    {
+      "repo": "zai-org/GLM-5",
+      "url": "https://github.com/zai-org/GLM-5",
+      "stars_today": 286,
+      "total_stars": 3914,
+      "language": "",
+      "description": "Star zai-org / GLM-5 GLM-5: From Vibe Coding to Agentic Engineering"
+    },
+    {
+      "repo": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+      "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+      "stars_today": 247,
+      "total_stars": 7785,
+      "language": "Rust",
+      "description": "Star Universal-Debloater-Alliance / universal-android-debloater-next-generation Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device."
+    },
+    {
+      "repo": "LibreTranslate/LibreTranslate",
+      "url": "https://github.com/LibreTranslate/LibreTranslate",
+      "stars_today": 179,
+      "total_stars": 14825,
       "language": "Python",
-      "description": "Star alexzhang13 / rlm General plug-and-play inference library for Recursive Language Models (RLMs), supporting various sandboxes."
+      "description": "Sponsor Star LibreTranslate / LibreTranslate Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup."
     },
     {
-      "repo": "yairm210/Unciv",
-      "url": "https://github.com/yairm210/Unciv",
-      "stars_today": 24,
-      "total_stars": 10755,
-      "language": "Kotlin",
-      "description": "Star yairm210 / Unciv Open-source Android/Desktop remake of Civ V"
-    },
-    {
-      "repo": "RocketChat/Rocket.Chat",
-      "url": "https://github.com/RocketChat/Rocket.Chat",
-      "stars_today": 22,
-      "total_stars": 45652,
+      "repo": "withastro/flue",
+      "url": "https://github.com/withastro/flue",
+      "stars_today": 164,
+      "total_stars": 5354,
       "language": "TypeScript",
-      "description": "Sponsor Star RocketChat / Rocket.Chat The Secure CommsOS™ for mission-critical operations"
+      "description": "Sponsor Star withastro / flue The sandbox agent framework."
+    },
+    {
+      "repo": "Lightricks/LTX-2",
+      "url": "https://github.com/Lightricks/LTX-2",
+      "stars_today": 47,
+      "total_stars": 7397,
+      "language": "Python",
+      "description": "Star Lightricks / LTX-2 Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model."
+    },
+    {
+      "repo": "owainlewis/awesome-artificial-intelligence",
+      "url": "https://github.com/owainlewis/awesome-artificial-intelligence",
+      "stars_today": 33,
+      "total_stars": 14178,
+      "language": "",
+      "description": "Star owainlewis / awesome-artificial-intelligence A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers."
+    },
+    {
+      "repo": "Kong/insomnia",
+      "url": "https://github.com/Kong/insomnia",
+      "stars_today": 13,
+      "total_stars": 38538,
+      "language": "TypeScript",
+      "description": "Star Kong / insomnia The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage."
+    },
+    {
+      "repo": "dotnet/aspnetcore",
+      "url": "https://github.com/dotnet/aspnetcore",
+      "stars_today": 11,
+      "total_stars": 38067,
+      "language": "C#",
+      "description": "Star dotnet / aspnetcore ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux."
     }
   ]
 }
