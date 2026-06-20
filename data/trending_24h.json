@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-06-20T12:44:27.770832+08:00",
+  "generated_at": "2026-06-20T16:29:49.906577+08:00",
   "count": 15,
   "items": [
     {
       "repo": "chopratejas/headroom",
       "url": "https://github.com/chopratejas/headroom",
       "stars_today": 4005,
-      "total_stars": 39174,
+      "total_stars": 39741,
       "language": "Python",
       "description": "Sponsor Star chopratejas / headroom Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server."
     },
@@ -16,7 +16,7 @@
       "repo": "google-research/timesfm",
       "url": "https://github.com/google-research/timesfm",
       "stars_today": 1510,
-      "total_stars": 24137,
+      "total_stars": 24199,
       "language": "Python",
       "description": "Star google-research / timesfm TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting."
     },
@@ -24,7 +24,7 @@
       "repo": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "stars_today": 1110,
-      "total_stars": 233511,
+      "total_stars": 233654,
       "language": "Shell",
       "description": "Sponsor Star obra / superpowers An agentic skills framework & software development methodology that works."
     },
@@ -32,7 +32,7 @@
       "repo": "DeusData/codebase-memory-mcp",
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "stars_today": 1058,
-      "total_stars": 8422,
+      "total_stars": 8616,
       "language": "C",
       "description": "Star DeusData / codebase-memory-mcp High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies."
     },
@@ -40,7 +40,7 @@
       "repo": "palmier-io/palmier-pro",
       "url": "https://github.com/palmier-io/palmier-pro",
       "stars_today": 756,
-      "total_stars": 2032,
+      "total_stars": 2151,
       "language": "Swift",
       "description": "Star palmier-io / palmier-pro macOS video editor built for AI"
     },
@@ -48,7 +48,7 @@
       "repo": "zai-org/GLM-5",
       "url": "https://github.com/zai-org/GLM-5",
       "stars_today": 480,
-      "total_stars": 4634,
+      "total_stars": 4685,
       "language": "",
       "description": "Star zai-org / GLM-5 GLM-5: From Vibe Coding to Agentic Engineering"
     },
@@ -56,7 +56,7 @@
       "repo": "withastro/flue",
       "url": "https://github.com/withastro/flue",
       "stars_today": 309,
-      "total_stars": 5877,
+      "total_stars": 5918,
       "language": "TypeScript",
       "description": "Sponsor Star withastro / flue The sandbox agent framework."
     },
@@ -64,7 +64,7 @@
       "repo": "n0-computer/iroh",
       "url": "https://github.com/n0-computer/iroh",
       "stars_today": 302,
-      "total_stars": 10266,
+      "total_stars": 10286,
       "language": "Rust",
       "description": "Star n0-computer / iroh IP addresses break, dial keys instead. Modular networking stack in Rust."
     },
@@ -72,7 +72,7 @@
       "repo": "Kong/insomnia",
       "url": "https://github.com/Kong/insomnia",
       "stars_today": 292,
-      "total_stars": 39027,
+      "total_stars": 39075,
       "language": "TypeScript",
       "description": "Star Kong / insomnia The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage."
     },
@@ -80,7 +80,7 @@
       "repo": "Lightricks/LTX-2",
       "url": "https://github.com/Lightricks/LTX-2",
       "stars_today": 196,
-      "total_stars": 7695,
+      "total_stars": 7725,
       "language": "Python",
       "description": "Star Lightricks / LTX-2 Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model."
     },
@@ -88,7 +88,7 @@
       "repo": "koala73/worldmonitor",
       "url": "https://github.com/koala73/worldmonitor",
       "stars_today": 156,
-      "total_stars": 57367,
+      "total_stars": 57492,
       "language": "TypeScript",
       "description": "Star koala73 / worldmonitor Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface"
     },
@@ -96,7 +96,7 @@
       "repo": "calesthio/OpenMontage",
       "url": "https://github.com/calesthio/OpenMontage",
       "stars_today": 156,
-      "total_stars": 6391,
+      "total_stars": 6483,
       "language": "Python",
       "description": "Star calesthio / OpenMontage World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio."
     },
@@ -104,7 +104,7 @@
       "repo": "BuilderIO/agent-native",
       "url": "https://github.com/BuilderIO/agent-native",
       "stars_today": 147,
-      "total_stars": 1105,
+      "total_stars": 1146,
       "language": "TypeScript",
       "description": "Star BuilderIO / agent-native A framework for building agent-native applications."
     },
@@ -112,7 +112,7 @@
       "repo": "aishwaryanr/awesome-generative-ai-guide",
       "url": "https://github.com/aishwaryanr/awesome-generative-ai-guide",
       "stars_today": 107,
-      "total_stars": 27687,
+      "total_stars": 27733,
       "language": "HTML",
       "description": "Star aishwaryanr / awesome-generative-ai-guide A one stop repository for generative AI research updates, interview resources, notebooks and much more!"
     },
@@ -120,7 +120,7 @@
       "repo": "penpot/penpot",
       "url": "https://github.com/penpot/penpot",
       "stars_today": 85,
-      "total_stars": 50649,
+      "total_stars": 50714,
       "language": "Clojure",
       "description": "Star penpot / penpot Penpot: The open-source design tool for design and code collaboration"
     }
