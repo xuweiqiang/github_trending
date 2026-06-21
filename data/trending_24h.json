@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-06-21T15:12:51.639467+08:00",
+  "generated_at": "2026-06-21T18:50:00.955513+08:00",
   "count": 16,
   "items": [
     {
       "repo": "chopratejas/headroom",
       "url": "https://github.com/chopratejas/headroom",
       "stars_today": 3795,
-      "total_stars": 42388,
+      "total_stars": 42735,
       "language": "Python",
       "description": "Sponsor Star chopratejas / headroom Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server."
     },
@@ -16,7 +16,7 @@
       "repo": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "stars_today": 1395,
-      "total_stars": 138559,
+      "total_stars": 138812,
       "language": "Shell",
       "description": "Sponsor Star mattpocock / skills Skills for Real Engineers. Straight from my .claude directory."
     },
@@ -24,7 +24,7 @@
       "repo": "DeusData/codebase-memory-mcp",
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "stars_today": 1271,
-      "total_stars": 9603,
+      "total_stars": 9757,
       "language": "C",
       "description": "Star DeusData / codebase-memory-mcp High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies."
     },
@@ -32,7 +32,7 @@
       "repo": "palmier-io/palmier-pro",
       "url": "https://github.com/palmier-io/palmier-pro",
       "stars_today": 902,
-      "total_stars": 3786,
+      "total_stars": 4031,
       "language": "Swift",
       "description": "Star palmier-io / palmier-pro macOS video editor built for AI"
     },
@@ -40,7 +40,7 @@
       "repo": "tursodatabase/turso",
       "url": "https://github.com/tursodatabase/turso",
       "stars_today": 801,
-      "total_stars": 20448,
+      "total_stars": 20522,
       "language": "Rust",
       "description": "Star tursodatabase / turso Turso is an in-process SQL database, compatible with SQLite."
     },
@@ -48,89 +48,89 @@
       "repo": "calesthio/OpenMontage",
       "url": "https://github.com/calesthio/OpenMontage",
       "stars_today": 677,
-      "total_stars": 7286,
+      "total_stars": 7440,
       "language": "Python",
       "description": "Star calesthio / OpenMontage World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio."
     },
     {
-      "repo": "Kilo-Org/kilocode",
-      "url": "https://github.com/Kilo-Org/kilocode",
-      "stars_today": 513,
-      "total_stars": 23457,
+      "repo": "koala73/worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "stars_today": 633,
+      "total_stars": 57710,
       "language": "TypeScript",
-      "description": "Star Kilo-Org / kilocode Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent."
+      "description": "Star koala73 / worldmonitor Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface"
     },
     {
-      "repo": "google-research/timesfm",
-      "url": "https://github.com/google-research/timesfm",
-      "stars_today": 433,
-      "total_stars": 24648,
+      "repo": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "stars_today": 519,
+      "total_stars": 43810,
       "language": "Python",
-      "description": "Star google-research / timesfm TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting."
+      "description": "Star ZhuLinsen / daily_stock_analysis LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs."
     },
     {
       "repo": "penpot/penpot",
       "url": "https://github.com/penpot/penpot",
       "stars_today": 420,
-      "total_stars": 51698,
+      "total_stars": 51864,
       "language": "Clojure",
       "description": "Star penpot / penpot Penpot: The open-source design tool for design and code collaboration"
     },
     {
-      "repo": "Kong/insomnia",
-      "url": "https://github.com/Kong/insomnia",
-      "stars_today": 329,
-      "total_stars": 39416,
-      "language": "TypeScript",
-      "description": "Star Kong / insomnia The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage."
+      "repo": "bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "stars_today": 415,
+      "total_stars": 72197,
+      "language": "Python",
+      "description": "Star bytedance / deer-flow An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours."
     },
     {
-      "repo": "withastro/flue",
-      "url": "https://github.com/withastro/flue",
-      "stars_today": 316,
-      "total_stars": 6171,
-      "language": "TypeScript",
-      "description": "Sponsor Star withastro / flue The sandbox agent framework."
+      "repo": "topoteretes/cognee",
+      "url": "https://github.com/topoteretes/cognee",
+      "stars_today": 361,
+      "total_stars": 18379,
+      "language": "Python",
+      "description": "Sponsor Star topoteretes / cognee Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine."
     },
     {
-      "repo": "jamiepine/voicebox",
-      "url": "https://github.com/jamiepine/voicebox",
-      "stars_today": 145,
-      "total_stars": 31119,
-      "language": "TypeScript",
-      "description": "Star jamiepine / voicebox The open-source AI voice studio. Clone, dictate, create."
+      "repo": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "stars_today": 352,
+      "total_stars": 43990,
+      "language": "JavaScript",
+      "description": "Sponsor Star asgeirtj / system_prompts_leaks Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly."
     },
     {
-      "repo": "twentyhq/twenty",
-      "url": "https://github.com/twentyhq/twenty",
-      "stars_today": 140,
-      "total_stars": 50941,
-      "language": "TypeScript",
-      "description": "Star twentyhq / twenty The open alternative to Salesforce, designed for AI."
+      "repo": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "stars_today": 343,
+      "total_stars": 17200,
+      "language": "Python",
+      "description": "Sponsor Star mukul975 / Anthropic-Cybersecurity-Skills 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0"
     },
     {
-      "repo": "pppscn/SmsForwarder",
-      "url": "https://github.com/pppscn/SmsForwarder",
-      "stars_today": 104,
-      "total_stars": 26540,
-      "language": "Kotlin",
-      "description": "Star pppscn / SmsForwarder 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正"
+      "repo": "smicallef/spiderfoot",
+      "url": "https://github.com/smicallef/spiderfoot",
+      "stars_today": 288,
+      "total_stars": 18546,
+      "language": "Python",
+      "description": "Star smicallef / spiderfoot SpiderFoot automates OSINT for threat intelligence and mapping your attack surface."
     },
     {
-      "repo": "1jehuang/jcode",
-      "url": "https://github.com/1jehuang/jcode",
-      "stars_today": 87,
-      "total_stars": 7440,
-      "language": "Rust",
-      "description": "Star 1jehuang / jcode Coding Agent Harness"
+      "repo": "mikumifa/biliTickerBuy",
+      "url": "https://github.com/mikumifa/biliTickerBuy",
+      "stars_today": 164,
+      "total_stars": 3673,
+      "language": "Python",
+      "description": "Star mikumifa / biliTickerBuy b站会员购购票辅助工具"
     },
     {
-      "repo": "owainlewis/awesome-artificial-intelligence",
-      "url": "https://github.com/owainlewis/awesome-artificial-intelligence",
-      "stars_today": 48,
-      "total_stars": 14867,
+      "repo": "byoungd/English-level-up-tips",
+      "url": "https://github.com/byoungd/English-level-up-tips",
+      "stars_today": 121,
+      "total_stars": 53863,
       "language": "",
-      "description": "Star owainlewis / awesome-artificial-intelligence A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers."
+      "description": "Star byoungd / English-level-up-tips An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语"
     }
   ]
 }
