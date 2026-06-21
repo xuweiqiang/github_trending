@@ -1,54 +1,54 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-06-21T06:37:16.178253+08:00",
+  "generated_at": "2026-06-21T09:42:44.154496+08:00",
   "count": 17,
   "items": [
     {
       "repo": "chopratejas/headroom",
       "url": "https://github.com/chopratejas/headroom",
-      "stars_today": 3786,
-      "total_stars": 41712,
+      "stars_today": 3795,
+      "total_stars": 41942,
       "language": "Python",
       "description": "Sponsor Star chopratejas / headroom Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server."
     },
     {
       "repo": "tw93/Pake",
       "url": "https://github.com/tw93/Pake",
-      "stars_today": 2398,
-      "total_stars": 54592,
+      "stars_today": 2546,
+      "total_stars": 54836,
       "language": "Rust",
       "description": "Sponsor Star tw93 / Pake 🤱🏻 Turn any webpage into a desktop app with one command."
     },
     {
       "repo": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
-      "stars_today": 1360,
-      "total_stars": 138134,
+      "stars_today": 1395,
+      "total_stars": 138270,
       "language": "Shell",
       "description": "Sponsor Star mattpocock / skills Skills for Real Engineers. Straight from my .claude directory."
     },
     {
       "repo": "DeusData/codebase-memory-mcp",
       "url": "https://github.com/DeusData/codebase-memory-mcp",
-      "stars_today": 1267,
-      "total_stars": 9272,
+      "stars_today": 1271,
+      "total_stars": 9384,
       "language": "C",
       "description": "Star DeusData / codebase-memory-mcp High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies."
     },
     {
       "repo": "palmier-io/palmier-pro",
       "url": "https://github.com/palmier-io/palmier-pro",
-      "stars_today": 904,
-      "total_stars": 3245,
+      "stars_today": 902,
+      "total_stars": 3409,
       "language": "Swift",
       "description": "Star palmier-io / palmier-pro macOS video editor built for AI"
     },
     {
       "repo": "tursodatabase/turso",
       "url": "https://github.com/tursodatabase/turso",
-      "stars_today": 774,
-      "total_stars": 20283,
+      "stars_today": 801,
+      "total_stars": 20347,
       "language": "Rust",
       "description": "Star tursodatabase / turso Turso is an in-process SQL database, compatible with SQLite."
     },
@@ -56,89 +56,89 @@
       "repo": "calesthio/OpenMontage",
       "url": "https://github.com/calesthio/OpenMontage",
       "stars_today": 677,
-      "total_stars": 6991,
+      "total_stars": 7086,
       "language": "Python",
       "description": "Star calesthio / OpenMontage World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio."
     },
     {
       "repo": "Kilo-Org/kilocode",
       "url": "https://github.com/Kilo-Org/kilocode",
-      "stars_today": 470,
-      "total_stars": 23320,
+      "stars_today": 513,
+      "total_stars": 23370,
       "language": "TypeScript",
       "description": "Star Kilo-Org / kilocode Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent."
     },
     {
       "repo": "google-research/timesfm",
       "url": "https://github.com/google-research/timesfm",
-      "stars_today": 432,
-      "total_stars": 24502,
+      "stars_today": 433,
+      "total_stars": 24560,
       "language": "Python",
       "description": "Star google-research / timesfm TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting."
     },
     {
       "repo": "penpot/penpot",
       "url": "https://github.com/penpot/penpot",
-      "stars_today": 424,
-      "total_stars": 51353,
+      "stars_today": 420,
+      "total_stars": 51453,
       "language": "Clojure",
       "description": "Star penpot / penpot Penpot: The open-source design tool for design and code collaboration"
     },
     {
       "repo": "Kong/insomnia",
       "url": "https://github.com/Kong/insomnia",
-      "stars_today": 327,
-      "total_stars": 39299,
+      "stars_today": 329,
+      "total_stars": 39337,
       "language": "TypeScript",
       "description": "Star Kong / insomnia The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage."
     },
     {
       "repo": "withastro/flue",
       "url": "https://github.com/withastro/flue",
-      "stars_today": 313,
-      "total_stars": 6074,
+      "stars_today": 316,
+      "total_stars": 6105,
       "language": "TypeScript",
       "description": "Sponsor Star withastro / flue The sandbox agent framework."
     },
     {
-      "repo": "owainlewis/awesome-artificial-intelligence",
-      "url": "https://github.com/owainlewis/awesome-artificial-intelligence",
-      "stars_today": 223,
-      "total_stars": 14755,
-      "language": "",
-      "description": "Star owainlewis / awesome-artificial-intelligence A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers."
+      "repo": "jamiepine/voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "stars_today": 145,
+      "total_stars": 31034,
+      "language": "TypeScript",
+      "description": "Star jamiepine / voicebox The open-source AI voice studio. Clone, dictate, create."
     },
     {
       "repo": "twentyhq/twenty",
       "url": "https://github.com/twentyhq/twenty",
       "stars_today": 140,
-      "total_stars": 50832,
+      "total_stars": 50872,
       "language": "TypeScript",
       "description": "Star twentyhq / twenty The open alternative to Salesforce, designed for AI."
     },
     {
-      "repo": "jamiepine/voicebox",
-      "url": "https://github.com/jamiepine/voicebox",
-      "stars_today": 140,
-      "total_stars": 30983,
-      "language": "TypeScript",
-      "description": "Star jamiepine / voicebox The open-source AI voice studio. Clone, dictate, create."
-    },
-    {
       "repo": "pppscn/SmsForwarder",
       "url": "https://github.com/pppscn/SmsForwarder",
-      "stars_today": 134,
-      "total_stars": 26476,
+      "stars_today": 104,
+      "total_stars": 26495,
       "language": "Kotlin",
       "description": "Star pppscn / SmsForwarder 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正"
     },
     {
       "repo": "1jehuang/jcode",
       "url": "https://github.com/1jehuang/jcode",
-      "stars_today": 108,
-      "total_stars": 7385,
+      "stars_today": 87,
+      "total_stars": 7403,
       "language": "Rust",
       "description": "Star 1jehuang / jcode Coding Agent Harness"
+    },
+    {
+      "repo": "owainlewis/awesome-artificial-intelligence",
+      "url": "https://github.com/owainlewis/awesome-artificial-intelligence",
+      "stars_today": 48,
+      "total_stars": 14792,
+      "language": "",
+      "description": "Star owainlewis / awesome-artificial-intelligence A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers."
     }
   ]
 }
