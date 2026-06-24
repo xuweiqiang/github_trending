@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-06-24T23:12:32.495620+08:00",
+  "generated_at": "2026-06-25T01:22:27.994611+08:00",
   "count": 13,
   "items": [
     {
       "repo": "calesthio/OpenMontage",
       "url": "https://github.com/calesthio/OpenMontage",
       "stars_today": 3703,
-      "total_stars": 18253,
+      "total_stars": 18597,
       "language": "Python",
       "description": "Sponsor Star calesthio / OpenMontage World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio."
     },
@@ -16,7 +16,7 @@
       "repo": "apple/container",
       "url": "https://github.com/apple/container",
       "stars_today": 1746,
-      "total_stars": 41643,
+      "total_stars": 41823,
       "language": "Swift",
       "description": "Star apple / container A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon."
     },
@@ -24,7 +24,7 @@
       "repo": "ZhuLinsen/daily_stock_analysis",
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "stars_today": 1461,
-      "total_stars": 48162,
+      "total_stars": 48286,
       "language": "Python",
       "description": "Star ZhuLinsen / daily_stock_analysis LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs."
     },
@@ -32,7 +32,7 @@
       "repo": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "stars_today": 1174,
-      "total_stars": 201727,
+      "total_stars": 201824,
       "language": "Python",
       "description": "Star NousResearch / hermes-agent The agent that grows with you"
     },
@@ -40,7 +40,7 @@
       "repo": "JCodesMore/ai-website-cloner-template",
       "url": "https://github.com/JCodesMore/ai-website-cloner-template",
       "stars_today": 693,
-      "total_stars": 19047,
+      "total_stars": 19128,
       "language": "TypeScript",
       "description": "Star JCodesMore / ai-website-cloner-template Clone any website with one command using AI coding agents"
     },
@@ -48,31 +48,39 @@
       "repo": "google-labs-code/design.md",
       "url": "https://github.com/google-labs-code/design.md",
       "stars_today": 504,
-      "total_stars": 16920,
+      "total_stars": 17053,
       "language": "TypeScript",
       "description": "Star google-labs-code / design.md A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system."
+    },
+    {
+      "repo": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "stars_today": 387,
+      "total_stars": 6624,
+      "language": "TypeScript",
+      "description": "Star stablyai / orca Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile."
     },
     {
       "repo": "revfactory/harness",
       "url": "https://github.com/revfactory/harness",
       "stars_today": 274,
-      "total_stars": 7624,
+      "total_stars": 7656,
       "language": "HTML",
       "description": "Star revfactory / harness A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use."
     },
     {
-      "repo": "stablyai/orca",
-      "url": "https://github.com/stablyai/orca",
-      "stars_today": 265,
-      "total_stars": 6562,
-      "language": "TypeScript",
-      "description": "Star stablyai / orca Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile."
+      "repo": "kunchenguid/no-mistakes",
+      "url": "https://github.com/kunchenguid/no-mistakes",
+      "stars_today": 182,
+      "total_stars": 1872,
+      "language": "Go",
+      "description": "Star kunchenguid / no-mistakes git push no-mistakes"
     },
     {
       "repo": "interviewstreet/hiring-agent",
       "url": "https://github.com/interviewstreet/hiring-agent",
       "stars_today": 152,
-      "total_stars": 1948,
+      "total_stars": 2010,
       "language": "Python",
       "description": "Star interviewstreet / hiring-agent AI agent to evaluate and score resumes."
     },
@@ -80,23 +88,15 @@
       "repo": "Flowseal/zapret-discord-youtube",
       "url": "https://github.com/Flowseal/zapret-discord-youtube",
       "stars_today": 103,
-      "total_stars": 29987,
+      "total_stars": 29997,
       "language": "Batchfile",
       "description": ""
-    },
-    {
-      "repo": "kunchenguid/no-mistakes",
-      "url": "https://github.com/kunchenguid/no-mistakes",
-      "stars_today": 90,
-      "total_stars": 1822,
-      "language": "Go",
-      "description": "Star kunchenguid / no-mistakes git push no-mistakes"
     },
     {
       "repo": "andreknieriem/headunit-revived",
       "url": "https://github.com/andreknieriem/headunit-revived",
       "stars_today": 79,
-      "total_stars": 1370,
+      "total_stars": 1384,
       "language": "Kotlin",
       "description": "Star andreknieriem / headunit-revived Headunit App for displaying Android Auto"
     },
@@ -104,7 +104,7 @@
       "repo": "flutter/flutter",
       "url": "https://github.com/flutter/flutter",
       "stars_today": 44,
-      "total_stars": 177168,
+      "total_stars": 177214,
       "language": "Dart",
       "description": "Star flutter / flutter Flutter makes it easy and fast to build beautiful apps for mobile and beyond"
     }
