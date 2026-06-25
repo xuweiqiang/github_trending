@@ -1,19 +1,21 @@
 # GitHub 24h Star 增长榜
 
-- 生成时间: 2026-06-25 18:22:42 +0800
+- 生成时间: 2026-06-25 20:35:38 +0800
 
 | 排名 | 项目 | 24h 增长 | 总 Stars | 链接 |
 |---:|---|---:|---:|---|
-| 1 | `calesthio/OpenMontage` | 3719 | 21079 | [跳转](https://github.com/calesthio/OpenMontage) |
-| 2 | `apple/container` | 1838 | 42757 | [跳转](https://github.com/apple/container) |
-| 3 | `ZhuLinsen/daily_stock_analysis` | 1468 | 49255 | [跳转](https://github.com/ZhuLinsen/daily_stock_analysis) |
-| 4 | `NousResearch/hermes-agent` | 1178 | 202601 | [跳转](https://github.com/NousResearch/hermes-agent) |
-| 5 | `JCodesMore/ai-website-cloner-template` | 692 | 19841 | [跳转](https://github.com/JCodesMore/ai-website-cloner-template) |
-| 6 | `google-labs-code/design.md` | 619 | 17869 | [跳转](https://github.com/google-labs-code/design.md) |
-| 7 | `stablyai/orca` | 331 | 7141 | [跳转](https://github.com/stablyai/orca) |
-| 8 | `revfactory/harness` | 277 | 7903 | [跳转](https://github.com/revfactory/harness) |
-| 9 | `interviewstreet/hiring-agent` | 203 | 2582 | [跳转](https://github.com/interviewstreet/hiring-agent) |
-| 10 | `kunchenguid/no-mistakes` | 110 | 2666 | [跳转](https://github.com/kunchenguid/no-mistakes) |
-| 11 | `flutter/flutter` | 73 | 177556 | [跳转](https://github.com/flutter/flutter) |
-| 12 | `Flowseal/zapret-discord-youtube` | 61 | 30075 | [跳转](https://github.com/Flowseal/zapret-discord-youtube) |
-| 13 | `andreknieriem/headunit-revived` | 41 | 1496 | [跳转](https://github.com/andreknieriem/headunit-revived) |
+| 1 | `calesthio/OpenMontage` | 3719 | 21311 | [跳转](https://github.com/calesthio/OpenMontage) |
+| 2 | `apple/container` | 1838 | 42830 | [跳转](https://github.com/apple/container) |
+| 3 | `mukul975/Anthropic-Cybersecurity-Skills` | 1031 | 20846 | [跳转](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) |
+| 4 | `garrytan/gstack` | 922 | 115349 | [跳转](https://github.com/garrytan/gstack) |
+| 5 | `JCodesMore/ai-website-cloner-template` | 692 | 19941 | [跳转](https://github.com/JCodesMore/ai-website-cloner-template) |
+| 6 | `shanraisshan/claude-code-best-practice` | 670 | 60165 | [跳转](https://github.com/shanraisshan/claude-code-best-practice) |
+| 7 | `google-labs-code/design.md` | 619 | 18116 | [跳转](https://github.com/google-labs-code/design.md) |
+| 8 | `opendatalab/MinerU` | 524 | 69133 | [跳转](https://github.com/opendatalab/MinerU) |
+| 9 | `NanmiCoder/MediaCrawler` | 347 | 52571 | [跳转](https://github.com/NanmiCoder/MediaCrawler) |
+| 10 | `alibaba/page-agent` | 280 | 19604 | [跳转](https://github.com/alibaba/page-agent) |
+| 11 | `xbtlin/ai-berkshire` | 201 | 1542 | [跳转](https://github.com/xbtlin/ai-berkshire) |
+| 12 | `IceWhaleTech/CasaOS` | 174 | 34495 | [跳转](https://github.com/IceWhaleTech/CasaOS) |
+| 13 | `Free-TV/IPTV` | 141 | 18068 | [跳转](https://github.com/Free-TV/IPTV) |
+| 14 | `mauriceboe/TREK` | 112 | 6189 | [跳转](https://github.com/mauriceboe/TREK) |
+| 15 | `aws/agent-toolkit-for-aws` | 15 | 1014 | [跳转](https://github.com/aws/agent-toolkit-for-aws) |
