@@ -1,142 +1,142 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-06-27T06:38:55.159438+08:00",
+  "generated_at": "2026-06-27T09:25:30.010010+08:00",
   "count": 17,
   "items": [
     {
       "repo": "google-labs-code/design.md",
       "url": "https://github.com/google-labs-code/design.md",
-      "stars_today": 2319,
-      "total_stars": 21143,
+      "stars_today": 2407,
+      "total_stars": 21277,
       "language": "TypeScript",
       "description": "Star google-labs-code / design.md A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system."
     },
     {
       "repo": "calesthio/OpenMontage",
       "url": "https://github.com/calesthio/OpenMontage",
-      "stars_today": 1674,
-      "total_stars": 23536,
+      "stars_today": 1754,
+      "total_stars": 23644,
       "language": "Python",
       "description": "Sponsor Star calesthio / OpenMontage World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio."
     },
     {
       "repo": "xbtlin/ai-berkshire",
       "url": "https://github.com/xbtlin/ai-berkshire",
-      "stars_today": 1270,
-      "total_stars": 3073,
+      "stars_today": 1274,
+      "total_stars": 3129,
       "language": "Python",
       "description": "Star xbtlin / ai-berkshire AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis."
     },
     {
       "repo": "Panniantong/Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars_today": 1164,
-      "total_stars": 42279,
+      "stars_today": 1194,
+      "total_stars": 42372,
       "language": "Python",
       "description": "Star Panniantong / Agent-Reach Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees."
     },
     {
       "repo": "JCodesMore/ai-website-cloner-template",
       "url": "https://github.com/JCodesMore/ai-website-cloner-template",
-      "stars_today": 1076,
-      "total_stars": 21314,
+      "stars_today": 1088,
+      "total_stars": 21377,
       "language": "TypeScript",
       "description": "Star JCodesMore / ai-website-cloner-template Clone any website with one command using AI coding agents"
     },
     {
       "repo": "mauriceboe/TREK",
       "url": "https://github.com/mauriceboe/TREK",
-      "stars_today": 1063,
-      "total_stars": 7609,
+      "stars_today": 1060,
+      "total_stars": 7667,
       "language": "TypeScript",
       "description": "Star mauriceboe / TREK A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more."
     },
     {
       "repo": "opendatalab/MinerU",
       "url": "https://github.com/opendatalab/MinerU",
-      "stars_today": 944,
-      "total_stars": 70368,
+      "stars_today": 960,
+      "total_stars": 70435,
       "language": "Python",
       "description": "Star opendatalab / MinerU Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows."
     },
     {
       "repo": "garrytan/gstack",
       "url": "https://github.com/garrytan/gstack",
-      "stars_today": 919,
-      "total_stars": 116588,
+      "stars_today": 950,
+      "total_stars": 116646,
       "language": "TypeScript",
       "description": "Star garrytan / gstack Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA"
     },
     {
       "repo": "NanmiCoder/MediaCrawler",
       "url": "https://github.com/NanmiCoder/MediaCrawler",
-      "stars_today": 640,
-      "total_stars": 53335,
+      "stars_today": 673,
+      "total_stars": 53366,
       "language": "Python",
       "description": "Sponsor Star NanmiCoder / MediaCrawler 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫"
     },
     {
       "repo": "IceWhaleTech/CasaOS",
       "url": "https://github.com/IceWhaleTech/CasaOS",
-      "stars_today": 612,
-      "total_stars": 35335,
+      "stars_today": 619,
+      "total_stars": 35389,
       "language": "Go",
       "description": "Star IceWhaleTech / CasaOS CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system."
     },
     {
+      "repo": "simplex-chat/simplex-chat",
+      "url": "https://github.com/simplex-chat/simplex-chat",
+      "stars_today": 432,
+      "total_stars": 12598,
+      "language": "Haskell",
+      "description": "Sponsor Star simplex-chat / simplex-chat SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!"
+    },
+    {
       "repo": "kunchenguid/no-mistakes",
       "url": "https://github.com/kunchenguid/no-mistakes",
-      "stars_today": 412,
-      "total_stars": 3389,
+      "stars_today": 398,
+      "total_stars": 3438,
       "language": "Go",
       "description": "Star kunchenguid / no-mistakes git push no-mistakes"
     },
     {
       "repo": "aws/agent-toolkit-for-aws",
       "url": "https://github.com/aws/agent-toolkit-for-aws",
-      "stars_today": 238,
-      "total_stars": 1340,
+      "stars_today": 243,
+      "total_stars": 1359,
       "language": "Python",
       "description": "Star aws / agent-toolkit-for-aws Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS"
     },
     {
-      "repo": "simplex-chat/simplex-chat",
-      "url": "https://github.com/simplex-chat/simplex-chat",
-      "stars_today": 191,
-      "total_stars": 12467,
-      "language": "Haskell",
-      "description": "Sponsor Star simplex-chat / simplex-chat SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!"
-    },
-    {
       "repo": "alchaincyf/zhangxuefeng-skill",
       "url": "https://github.com/alchaincyf/zhangxuefeng-skill",
-      "stars_today": 185,
-      "total_stars": 9239,
+      "stars_today": 160,
+      "total_stars": 9261,
       "language": "",
       "description": "Star alchaincyf / zhangxuefeng-skill 张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。"
     },
     {
       "repo": "ripienaar/free-for-dev",
       "url": "https://github.com/ripienaar/free-for-dev",
-      "stars_today": 137,
-      "total_stars": 123702,
+      "stars_today": 90,
+      "total_stars": 123745,
       "language": "HTML",
       "description": "Star ripienaar / free-for-dev A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev"
     },
     {
       "repo": "commaai/openpilot",
       "url": "https://github.com/commaai/openpilot",
-      "stars_today": 67,
-      "total_stars": 61765,
+      "stars_today": 80,
+      "total_stars": 61793,
       "language": "Python",
       "description": "Star commaai / openpilot openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars."
     },
     {
       "repo": "grafana/grafana",
       "url": "https://github.com/grafana/grafana",
-      "stars_today": 17,
-      "total_stars": 74874,
+      "stars_today": 32,
+      "total_stars": 74907,
       "language": "TypeScript",
       "description": "Star grafana / grafana The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more."
     }
