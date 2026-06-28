@@ -1,30 +1,30 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-06-28T06:32:11.729436+08:00",
+  "generated_at": "2026-06-28T09:30:46.106621+08:00",
   "count": 20,
   "items": [
     {
       "repo": "google-labs-code/design.md",
       "url": "https://github.com/google-labs-code/design.md",
-      "stars_today": 1542,
-      "total_stars": 22291,
+      "stars_today": 1541,
+      "total_stars": 22355,
       "language": "TypeScript",
       "description": "Star google-labs-code / design.md A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system."
     },
     {
       "repo": "simplex-chat/simplex-chat",
       "url": "https://github.com/simplex-chat/simplex-chat",
-      "stars_today": 1470,
-      "total_stars": 13776,
+      "stars_today": 1469,
+      "total_stars": 13865,
       "language": "Haskell",
       "description": "Sponsor Star simplex-chat / simplex-chat SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!"
     },
     {
       "repo": "topoteretes/cognee",
       "url": "https://github.com/topoteretes/cognee",
-      "stars_today": 808,
-      "total_stars": 23958,
+      "stars_today": 780,
+      "total_stars": 24020,
       "language": "Python",
       "description": "Sponsor Star topoteretes / cognee Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine."
     },
@@ -32,15 +32,15 @@
       "repo": "JCodesMore/ai-website-cloner-template",
       "url": "https://github.com/JCodesMore/ai-website-cloner-template",
       "stars_today": 750,
-      "total_stars": 22078,
+      "total_stars": 22136,
       "language": "TypeScript",
       "description": "Star JCodesMore / ai-website-cloner-template Clone any website with one command using AI coding agents"
     },
     {
       "repo": "xbtlin/ai-berkshire",
       "url": "https://github.com/xbtlin/ai-berkshire",
-      "stars_today": 686,
-      "total_stars": 4050,
+      "stars_today": 685,
+      "total_stars": 4146,
       "language": "Python",
       "description": "Star xbtlin / ai-berkshire AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis."
     },
@@ -48,7 +48,7 @@
       "repo": "garrytan/gstack",
       "url": "https://github.com/garrytan/gstack",
       "stars_today": 674,
-      "total_stars": 117205,
+      "total_stars": 117262,
       "language": "TypeScript",
       "description": "Star garrytan / gstack Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA"
     },
@@ -56,7 +56,7 @@
       "repo": "hugohe3/ppt-master",
       "url": "https://github.com/hugohe3/ppt-master",
       "stars_today": 589,
-      "total_stars": 33021,
+      "total_stars": 33093,
       "language": "Python",
       "description": "Star hugohe3 / ppt-master AI generates a real, editable PowerPoint from any document — native shapes & animations, speaker notes voiced as audio narration, and the option to follow your own .pptx template, not slide images · by Hugo He"
     },
@@ -64,7 +64,7 @@
       "repo": "IceWhaleTech/CasaOS",
       "url": "https://github.com/IceWhaleTech/CasaOS",
       "stars_today": 502,
-      "total_stars": 35760,
+      "total_stars": 35794,
       "language": "Go",
       "description": "Star IceWhaleTech / CasaOS CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system."
     },
@@ -72,97 +72,97 @@
       "repo": "ripienaar/free-for-dev",
       "url": "https://github.com/ripienaar/free-for-dev",
       "stars_today": 459,
-      "total_stars": 124145,
+      "total_stars": 124181,
       "language": "HTML",
       "description": "Star ripienaar / free-for-dev A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev"
-    },
-    {
-      "repo": "anomalyco/opencode",
-      "url": "https://github.com/anomalyco/opencode",
-      "stars_today": 428,
-      "total_stars": 179697,
-      "language": "TypeScript",
-      "description": "Sponsor Star anomalyco / opencode The open source coding agent."
     },
     {
       "repo": "NanmiCoder/MediaCrawler",
       "url": "https://github.com/NanmiCoder/MediaCrawler",
       "stars_today": 394,
-      "total_stars": 53756,
+      "total_stars": 53782,
       "language": "Python",
       "description": "Sponsor Star NanmiCoder / MediaCrawler 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫"
+    },
+    {
+      "repo": "anomalyco/opencode",
+      "url": "https://github.com/anomalyco/opencode",
+      "stars_today": 392,
+      "total_stars": 179775,
+      "language": "TypeScript",
+      "description": "Sponsor Star anomalyco / opencode The open source coding agent."
     },
     {
       "repo": "commaai/openpilot",
       "url": "https://github.com/commaai/openpilot",
       "stars_today": 322,
-      "total_stars": 62053,
+      "total_stars": 62077,
       "language": "Python",
       "description": "Star commaai / openpilot openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars."
     },
     {
       "repo": "Anil-matcha/Open-Generative-AI",
       "url": "https://github.com/Anil-matcha/Open-Generative-AI",
-      "stars_today": 254,
-      "total_stars": 21352,
+      "stars_today": 255,
+      "total_stars": 21395,
       "language": "JavaScript",
       "description": "Star Anil-matcha / Open-Generative-AI Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed."
     },
     {
       "repo": "every-app/open-seo",
       "url": "https://github.com/every-app/open-seo",
-      "stars_today": 230,
-      "total_stars": 3352,
+      "stars_today": 239,
+      "total_stars": 3411,
       "language": "TypeScript",
       "description": "Star every-app / open-seo Open source alternative to Semrush and Ahrefs"
     },
     {
       "repo": "Fission-AI/OpenSpec",
       "url": "https://github.com/Fission-AI/OpenSpec",
-      "stars_today": 167,
-      "total_stars": 57096,
+      "stars_today": 177,
+      "total_stars": 57135,
       "language": "TypeScript",
       "description": "Star Fission-AI / OpenSpec Spec-driven development (SDD) for AI coding assistants."
     },
     {
       "repo": "luongnv89/claude-howto",
       "url": "https://github.com/luongnv89/claude-howto",
-      "stars_today": 138,
-      "total_stars": 38593,
+      "stars_today": 141,
+      "total_stars": 38635,
       "language": "Python",
       "description": "Sponsor Star luongnv89 / claude-howto A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value."
     },
     {
       "repo": "HKUDS/Vibe-Trading",
       "url": "https://github.com/HKUDS/Vibe-Trading",
-      "stars_today": 83,
-      "total_stars": 13678,
+      "stars_today": 92,
+      "total_stars": 13718,
       "language": "Python",
       "description": "Star HKUDS / Vibe-Trading \"Vibe-Trading: Your Personal Trading Agent\""
     },
     {
       "repo": "microsoft/PowerToys",
       "url": "https://github.com/microsoft/PowerToys",
-      "stars_today": 67,
-      "total_stars": 135685,
+      "stars_today": 57,
+      "total_stars": 135712,
       "language": "C",
       "description": "Star microsoft / PowerToys Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows"
     },
     {
-      "repo": "dbt-labs/dbt-core",
-      "url": "https://github.com/dbt-labs/dbt-core",
-      "stars_today": 45,
-      "total_stars": 13201,
-      "language": "Rust",
-      "description": "Star dbt-labs / dbt-core dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications."
-    },
-    {
       "repo": "keycloak/keycloak",
       "url": "https://github.com/keycloak/keycloak",
-      "stars_today": 11,
-      "total_stars": 35247,
+      "stars_today": 20,
+      "total_stars": 35282,
       "language": "Java",
       "description": "Sponsor Star keycloak / keycloak Open Source Identity and Access Management For Modern Applications and Services"
+    },
+    {
+      "repo": "dbt-labs/dbt-core",
+      "url": "https://github.com/dbt-labs/dbt-core",
+      "stars_today": 18,
+      "total_stars": 13222,
+      "language": "Rust",
+      "description": "Star dbt-labs / dbt-core dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications."
     }
   ]
 }
