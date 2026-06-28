@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-06-29T01:38:33.578596+08:00",
+  "generated_at": "2026-06-29T03:49:43.260559+08:00",
   "count": 13,
   "items": [
     {
       "repo": "DeusData/codebase-memory-mcp",
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "stars_today": 2162,
-      "total_stars": 19131,
+      "total_stars": 19310,
       "language": "C",
       "description": "Star DeusData / codebase-memory-mcp High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies."
     },
@@ -16,7 +16,7 @@
       "repo": "xbtlin/ai-berkshire",
       "url": "https://github.com/xbtlin/ai-berkshire",
       "stars_today": 1456,
-      "total_stars": 5162,
+      "total_stars": 5202,
       "language": "Python",
       "description": "Star xbtlin / ai-berkshire AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis."
     },
@@ -24,15 +24,23 @@
       "repo": "simplex-chat/simplex-chat",
       "url": "https://github.com/simplex-chat/simplex-chat",
       "stars_today": 1183,
-      "total_stars": 14689,
+      "total_stars": 14806,
       "language": "Haskell",
       "description": "Sponsor Star simplex-chat / simplex-chat SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!"
+    },
+    {
+      "repo": "altic-dev/FluidVoice",
+      "url": "https://github.com/altic-dev/FluidVoice",
+      "stars_today": 491,
+      "total_stars": 3572,
+      "language": "Swift",
+      "description": "Sponsor Star altic-dev / FluidVoice FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))"
     },
     {
       "repo": "HKUDS/Vibe-Trading",
       "url": "https://github.com/HKUDS/Vibe-Trading",
       "stars_today": 490,
-      "total_stars": 14164,
+      "total_stars": 14209,
       "language": "Python",
       "description": "Star HKUDS / Vibe-Trading \"Vibe-Trading: Your Personal Trading Agent\""
     },
@@ -40,7 +48,7 @@
       "repo": "ripienaar/free-for-dev",
       "url": "https://github.com/ripienaar/free-for-dev",
       "stars_today": 472,
-      "total_stars": 124827,
+      "total_stars": 124975,
       "language": "HTML",
       "description": "Star ripienaar / free-for-dev A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev"
     },
@@ -48,7 +56,7 @@
       "repo": "opendatalab/MinerU",
       "url": "https://github.com/opendatalab/MinerU",
       "stars_today": 426,
-      "total_stars": 71403,
+      "total_stars": 71455,
       "language": "Python",
       "description": "Star opendatalab / MinerU Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows."
     },
@@ -56,7 +64,7 @@
       "repo": "Robbyant/lingbot-map",
       "url": "https://github.com/Robbyant/lingbot-map",
       "stars_today": 372,
-      "total_stars": 8111,
+      "total_stars": 8142,
       "language": "Python",
       "description": "Star Robbyant / lingbot-map A feed-forward 3D foundation model for reconstructing scenes from streaming data"
     },
@@ -64,7 +72,7 @@
       "repo": "browser-use/video-use",
       "url": "https://github.com/browser-use/video-use",
       "stars_today": 324,
-      "total_stars": 10833,
+      "total_stars": 10893,
       "language": "Python",
       "description": "Star browser-use / video-use Edit videos with coding agents"
     },
@@ -72,23 +80,15 @@
       "repo": "commaai/openpilot",
       "url": "https://github.com/commaai/openpilot",
       "stars_today": 265,
-      "total_stars": 62294,
+      "total_stars": 62328,
       "language": "Python",
       "description": "Star commaai / openpilot openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars."
-    },
-    {
-      "repo": "altic-dev/FluidVoice",
-      "url": "https://github.com/altic-dev/FluidVoice",
-      "stars_today": 264,
-      "total_stars": 3483,
-      "language": "Swift",
-      "description": "Sponsor Star altic-dev / FluidVoice FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))"
     },
     {
       "repo": "cupy/cupy",
       "url": "https://github.com/cupy/cupy",
       "stars_today": 172,
-      "total_stars": 11425,
+      "total_stars": 11453,
       "language": "Python",
       "description": "Sponsor Star cupy / cupy NumPy & SciPy for GPU"
     },
@@ -96,7 +96,7 @@
       "repo": "ByteByteGoHq/system-design-101",
       "url": "https://github.com/ByteByteGoHq/system-design-101",
       "stars_today": 132,
-      "total_stars": 84268,
+      "total_stars": 84324,
       "language": "",
       "description": "Star ByteByteGoHq / system-design-101 Explain complex systems using visuals and simple terms. Help you prepare for system design interviews."
     },
@@ -104,7 +104,7 @@
       "repo": "usestrix/strix",
       "url": "https://github.com/usestrix/strix",
       "stars_today": 88,
-      "total_stars": 26550,
+      "total_stars": 26605,
       "language": "Python",
       "description": "Star usestrix / strix Open-source AI hackers to find and fix your app’s vulnerabilities."
     }
