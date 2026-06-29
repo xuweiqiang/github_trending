@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-06-29T13:03:28.635878+08:00",
+  "generated_at": "2026-06-29T16:03:12.378712+08:00",
   "count": 13,
   "items": [
     {
       "repo": "DeusData/codebase-memory-mcp",
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "stars_today": 2190,
-      "total_stars": 20122,
+      "total_stars": 20432,
       "language": "C",
       "description": "Star DeusData / codebase-memory-mcp High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies."
     },
@@ -16,7 +16,7 @@
       "repo": "xbtlin/ai-berkshire",
       "url": "https://github.com/xbtlin/ai-berkshire",
       "stars_today": 1445,
-      "total_stars": 5681,
+      "total_stars": 5963,
       "language": "Python",
       "description": "Star xbtlin / ai-berkshire AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis."
     },
@@ -24,7 +24,7 @@
       "repo": "simplex-chat/simplex-chat",
       "url": "https://github.com/simplex-chat/simplex-chat",
       "stars_today": 1180,
-      "total_stars": 15354,
+      "total_stars": 15623,
       "language": "Haskell",
       "description": "Sponsor Star simplex-chat / simplex-chat SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!"
     },
@@ -32,7 +32,7 @@
       "repo": "ripienaar/free-for-dev",
       "url": "https://github.com/ripienaar/free-for-dev",
       "stars_today": 495,
-      "total_stars": 125632,
+      "total_stars": 125982,
       "language": "HTML",
       "description": "Star ripienaar / free-for-dev A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev"
     },
@@ -40,7 +40,7 @@
       "repo": "HKUDS/Vibe-Trading",
       "url": "https://github.com/HKUDS/Vibe-Trading",
       "stars_today": 492,
-      "total_stars": 14496,
+      "total_stars": 14644,
       "language": "Python",
       "description": "Star HKUDS / Vibe-Trading \"Vibe-Trading: Your Personal Trading Agent\""
     },
@@ -48,7 +48,7 @@
       "repo": "opendatalab/MinerU",
       "url": "https://github.com/opendatalab/MinerU",
       "stars_today": 380,
-      "total_stars": 71825,
+      "total_stars": 71974,
       "language": "Python",
       "description": "Star opendatalab / MinerU Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows."
     },
@@ -56,7 +56,7 @@
       "repo": "Robbyant/lingbot-map",
       "url": "https://github.com/Robbyant/lingbot-map",
       "stars_today": 372,
-      "total_stars": 8326,
+      "total_stars": 8404,
       "language": "Python",
       "description": "Star Robbyant / lingbot-map A feed-forward 3D foundation model for reconstructing scenes from streaming data"
     },
@@ -64,7 +64,7 @@
       "repo": "altic-dev/FluidVoice",
       "url": "https://github.com/altic-dev/FluidVoice",
       "stars_today": 365,
-      "total_stars": 3862,
+      "total_stars": 3963,
       "language": "Swift",
       "description": "Sponsor Star altic-dev / FluidVoice FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))"
     },
@@ -72,7 +72,7 @@
       "repo": "commaai/openpilot",
       "url": "https://github.com/commaai/openpilot",
       "stars_today": 266,
-      "total_stars": 62509,
+      "total_stars": 62579,
       "language": "Python",
       "description": "Star commaai / openpilot openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars."
     },
@@ -80,7 +80,7 @@
       "repo": "ByteByteGoHq/system-design-101",
       "url": "https://github.com/ByteByteGoHq/system-design-101",
       "stars_today": 250,
-      "total_stars": 84655,
+      "total_stars": 84788,
       "language": "",
       "description": "Star ByteByteGoHq / system-design-101 Explain complex systems using visuals and simple terms. Help you prepare for system design interviews."
     },
@@ -88,7 +88,7 @@
       "repo": "browser-use/video-use",
       "url": "https://github.com/browser-use/video-use",
       "stars_today": 196,
-      "total_stars": 11264,
+      "total_stars": 11434,
       "language": "Python",
       "description": "Star browser-use / video-use Edit videos with coding agents"
     },
@@ -96,7 +96,7 @@
       "repo": "cupy/cupy",
       "url": "https://github.com/cupy/cupy",
       "stars_today": 174,
-      "total_stars": 11582,
+      "total_stars": 11627,
       "language": "Python",
       "description": "Sponsor Star cupy / cupy NumPy & SciPy for GPU"
     },
@@ -104,7 +104,7 @@
       "repo": "usestrix/strix",
       "url": "https://github.com/usestrix/strix",
       "stars_today": 122,
-      "total_stars": 26884,
+      "total_stars": 26998,
       "language": "Python",
       "description": "Star usestrix / strix Open-source AI hackers to find and fix your app’s vulnerabilities."
     }
