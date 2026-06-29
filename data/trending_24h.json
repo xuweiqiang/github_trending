@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-06-30T01:55:24.306086+08:00",
+  "generated_at": "2026-06-30T04:17:40.675593+08:00",
   "count": 15,
   "items": [
     {
       "repo": "ripienaar/free-for-dev",
       "url": "https://github.com/ripienaar/free-for-dev",
       "stars_today": 1971,
-      "total_stars": 126574,
+      "total_stars": 126642,
       "language": "HTML",
       "description": "Star ripienaar / free-for-dev A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev"
     },
@@ -16,7 +16,7 @@
       "repo": "simplex-chat/simplex-chat",
       "url": "https://github.com/simplex-chat/simplex-chat",
       "stars_today": 1611,
-      "total_stars": 16313,
+      "total_stars": 16420,
       "language": "Haskell",
       "description": "Sponsor Star simplex-chat / simplex-chat SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!"
     },
@@ -24,7 +24,7 @@
       "repo": "xbtlin/ai-berkshire",
       "url": "https://github.com/xbtlin/ai-berkshire",
       "stars_today": 1397,
-      "total_stars": 6500,
+      "total_stars": 6537,
       "language": "Python",
       "description": "Star xbtlin / ai-berkshire AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis."
     },
@@ -32,7 +32,7 @@
       "repo": "msitarzewski/agency-agents",
       "url": "https://github.com/msitarzewski/agency-agents",
       "stars_today": 1221,
-      "total_stars": 118654,
+      "total_stars": 118738,
       "language": "Shell",
       "description": "Sponsor Star msitarzewski / agency-agents A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables."
     },
@@ -40,7 +40,7 @@
       "repo": "browser-use/video-use",
       "url": "https://github.com/browser-use/video-use",
       "stars_today": 976,
-      "total_stars": 11771,
+      "total_stars": 11838,
       "language": "Python",
       "description": "Star browser-use / video-use Edit videos with coding agents"
     },
@@ -48,7 +48,7 @@
       "repo": "HKUDS/Vibe-Trading",
       "url": "https://github.com/HKUDS/Vibe-Trading",
       "stars_today": 840,
-      "total_stars": 14956,
+      "total_stars": 15011,
       "language": "Python",
       "description": "Star HKUDS / Vibe-Trading \"Vibe-Trading: Your Personal Trading Agent\""
     },
@@ -56,7 +56,7 @@
       "repo": "altic-dev/FluidVoice",
       "url": "https://github.com/altic-dev/FluidVoice",
       "stars_today": 836,
-      "total_stars": 4251,
+      "total_stars": 4296,
       "language": "Swift",
       "description": "Sponsor Star altic-dev / FluidVoice FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))"
     },
@@ -64,7 +64,7 @@
       "repo": "commaai/openpilot",
       "url": "https://github.com/commaai/openpilot",
       "stars_today": 465,
-      "total_stars": 62709,
+      "total_stars": 62732,
       "language": "Python",
       "description": "Star commaai / openpilot openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars."
     },
@@ -72,7 +72,7 @@
       "repo": "cupy/cupy",
       "url": "https://github.com/cupy/cupy",
       "stars_today": 352,
-      "total_stars": 11770,
+      "total_stars": 11792,
       "language": "Python",
       "description": "Sponsor Star cupy / cupy NumPy & SciPy for GPU"
     },
@@ -80,7 +80,7 @@
       "repo": "0xNyk/council-of-high-intelligence",
       "url": "https://github.com/0xNyk/council-of-high-intelligence",
       "stars_today": 323,
-      "total_stars": 1728,
+      "total_stars": 1795,
       "language": "Shell",
       "description": "Star 0xNyk / council-of-high-intelligence 18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds & more — structured multi-round deliberation with genuine model diversity. One command: /council"
     },
@@ -88,7 +88,7 @@
       "repo": "refactoringhq/tolaria",
       "url": "https://github.com/refactoringhq/tolaria",
       "stars_today": 249,
-      "total_stars": 17431,
+      "total_stars": 17459,
       "language": "TypeScript",
       "description": "Star refactoringhq / tolaria Desktop app to manage markdown knowledge bases"
     },
@@ -96,7 +96,7 @@
       "repo": "soxoj/maigret",
       "url": "https://github.com/soxoj/maigret",
       "stars_today": 191,
-      "total_stars": 34248,
+      "total_stars": 34303,
       "language": "Python",
       "description": "Sponsor Star soxoj / maigret 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites"
     },
@@ -104,7 +104,7 @@
       "repo": "veracrypt/VeraCrypt",
       "url": "https://github.com/veracrypt/VeraCrypt",
       "stars_today": 187,
-      "total_stars": 10418,
+      "total_stars": 10439,
       "language": "C",
       "description": "Star veracrypt / VeraCrypt Disk encryption with strong security based on TrueCrypt"
     },
@@ -112,7 +112,7 @@
       "repo": "Unclecheng-li/VulnClaw",
       "url": "https://github.com/Unclecheng-li/VulnClaw",
       "stars_today": 105,
-      "total_stars": 1075,
+      "total_stars": 1094,
       "language": "Python",
       "description": "Star Unclecheng-li / VulnClaw 基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。"
     },
@@ -120,7 +120,7 @@
       "repo": "logto-io/logto",
       "url": "https://github.com/logto-io/logto",
       "stars_today": 77,
-      "total_stars": 12503,
+      "total_stars": 12570,
       "language": "TypeScript",
       "description": "Sponsor Star logto-io / logto 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC."
     }
