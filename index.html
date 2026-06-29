@@ -1,0 +1,432 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>暑假每日计划 · 归档清单</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@500;700;900&family=Noto+Sans+SC:wght@400;500;700&display=swap');
+  :root{
+    --paper:#EFF2F1;--card:#FFFFFF;--ink:#20303A;--ink-soft:#5C6E76;--ink-faint:#93A2A8;
+    --line:#DEE5E4;--line-soft:#EBF0EF;--peak:#C8772E;--trail:#2E6E7E;--done:#4F8A6B;--done-bg:#EAF3EE;
+    --archive:#8A6A3B;--archive-bg:#F4EFE5;
+    --shadow:0 1px 2px rgba(32,48,58,.05),0 6px 20px rgba(32,48,58,.06);
+    --serif:'Noto Serif SC','Songti SC',serif;
+    --sans:'Noto Sans SC',system-ui,'PingFang SC','Microsoft YaHei',sans-serif;
+  }
+  *{box-sizing:border-box;}html,body{margin:0;padding:0;}
+  body{font-family:var(--sans);background:var(--paper);color:var(--ink);line-height:1.5;-webkit-font-smoothing:antialiased;}
+  .wrap{max-width:760px;margin:0 auto;padding:0 16px 80px;}
+
+  .hero{position:relative;margin:0 -16px 14px;padding:22px 20px 18px;
+    background:linear-gradient(180deg,#DCE7E6 0%,#E9EEED 62%,var(--paper) 100%);
+    border-bottom:1px solid var(--line);overflow:hidden;}
+  .hero .eyebrow{font-size:12px;letter-spacing:.28em;color:var(--trail);font-weight:700;text-transform:uppercase;margin:0 0 6px;}
+  .hero h1{font-family:var(--serif);font-weight:900;font-size:clamp(25px,6.6vw,36px);line-height:1.08;margin:0 0 4px;}
+  .hero .sub{font-size:13.5px;color:var(--ink-soft);margin:0;}
+  .ascent{margin-top:12px;}.ascent svg{display:block;width:100%;height:auto;}
+  .ascent-stats{display:flex;align-items:baseline;gap:10px;margin-top:8px;flex-wrap:wrap;}
+  .pct{font-family:var(--serif);font-weight:900;font-size:32px;color:var(--peak);line-height:1;}
+  .pct-label{font-size:13px;color:var(--ink-soft);}
+  .pct-frac{font-size:12.5px;color:var(--ink-faint);margin-left:auto;}
+
+  .controls{position:sticky;top:0;z-index:20;background:var(--paper);padding:10px 0 8px;margin-bottom:4px;border-bottom:1px solid var(--line-soft);}
+  .seg{display:flex;background:#E2E8E7;border-radius:10px;padding:3px;gap:2px;}
+  .seg button{flex:1;font-family:var(--sans);font-size:13.5px;font-weight:600;color:var(--ink-soft);border:0;background:transparent;padding:8px 8px;border-radius:8px;cursor:pointer;}
+  .seg button.on{background:var(--card);color:var(--ink);box-shadow:0 1px 2px rgba(0,0,0,.08);}
+  .filters{display:flex;gap:8px;align-items:center;margin-top:10px;flex-wrap:wrap;}
+  select{font-family:var(--sans);font-size:13px;color:var(--ink);border:1px solid var(--line);background:var(--card);border-radius:8px;padding:7px 10px;}
+  .toggle{display:inline-flex;align-items:center;gap:6px;font-size:13px;color:var(--ink-soft);cursor:pointer;}
+  .toggle input{accent-color:var(--trail);width:15px;height:15px;}
+  .reset{margin-left:auto;font-size:12.5px;color:var(--ink-faint);background:none;border:0;cursor:pointer;text-decoration:underline;text-underline-offset:2px;}
+
+  .weekdiv{display:flex;align-items:center;gap:10px;margin:22px 2px 4px;}
+  .weekdiv .wn{font-family:var(--serif);font-weight:900;font-size:15px;color:var(--trail);}
+  .weekdiv .wr{font-size:12.5px;color:var(--ink-faint);}
+  .weekdiv .gbar{height:4px;border-radius:99px;background:var(--line);overflow:hidden;flex:1;max-width:120px;margin-left:auto;}
+  .weekdiv .gbar i{display:block;height:100%;background:var(--done);width:0;transition:width .3s;}
+
+  .day{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:12px 14px 10px;margin:9px 0;box-shadow:var(--shadow);}
+  .day.is-sun{background:#F6F4EE;border-color:#E8E0D0;}
+  .day-head{display:flex;align-items:baseline;gap:8px;margin-bottom:8px;}
+  .day-date{font-family:var(--serif);font-weight:700;font-size:15.5px;}
+  .day-dow{font-size:12.5px;color:var(--ink-faint);}
+  .day-prog{margin-left:auto;font-size:12px;color:var(--ink-faint);}
+
+  .task{display:flex;gap:11px;align-items:flex-start;padding:9px 2px;cursor:pointer;border-top:1px solid var(--line-soft);}
+  .task:first-of-type{border-top:0;}
+  .box{flex:none;width:21px;height:21px;border-radius:6px;border:2px solid var(--ink-faint);margin-top:1px;display:grid;place-items:center;transition:all .15s;}
+  .task.done .box{background:var(--done);border-color:var(--done);}
+  .box svg{width:12px;height:12px;opacity:0;transform:scale(.5);transition:all .15s;}
+  .task.done .box svg{opacity:1;transform:scale(1);}
+  .body{flex:1;min-width:0;}
+  .ttext{font-size:14px;color:var(--ink);font-weight:500;}
+  .task.done .ttext{color:var(--ink-soft);text-decoration:line-through;text-decoration-color:#A9C7B7;}
+  .note{font-size:11.5px;color:var(--ink-faint);margin-top:3px;line-height:1.4;}
+  .meta-row{display:flex;gap:6px;align-items:center;margin-top:6px;flex-wrap:wrap;}
+  .chip{font-size:10.5px;font-weight:600;padding:2px 8px;border-radius:99px;color:#fff;}
+  .chip.muted{background:#E7ECEB;color:var(--ink-soft);}
+  .chip.opt{background:#F1ECE2;color:var(--peak);border:1px solid #E8DCC4;}
+  .habit{font-size:11px;color:var(--ink-faint);margin-top:8px;padding-top:7px;border-top:1px dashed var(--line);}
+  .habit.arch{color:var(--archive);font-weight:600;}
+
+  /* subject groups */
+  .group{margin:16px 0 0;}
+  .group-head{display:flex;align-items:center;gap:10px;margin:0 2px 8px;}
+  .group-title{font-family:var(--serif);font-weight:700;font-size:17px;margin:0;}
+  .group-meta{font-size:12.5px;color:var(--ink-faint);margin-left:auto;}
+  .badge{font-family:var(--serif);font-weight:900;font-size:13px;color:#fff;width:28px;height:28px;border-radius:8px;display:grid;place-items:center;flex:none;}
+  .gbar{height:4px;border-radius:99px;background:var(--line);overflow:hidden;flex:1;max-width:120px;}
+  .gbar i{display:block;height:100%;width:0;transition:width .3s;}
+  .scard{display:flex;gap:11px;align-items:flex-start;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:11px 13px;margin-bottom:7px;box-shadow:var(--shadow);cursor:pointer;}
+  .scard.done{background:var(--done-bg);border-color:#D2E4DA;}
+
+  /* archive */
+  .ritual{background:linear-gradient(135deg,#8A6A3B,#A07F4C);color:#FBF6EC;border-radius:14px;padding:15px 16px;margin:6px 0 14px;box-shadow:var(--shadow);}
+  .ritual h3{font-family:var(--serif);margin:0 0 6px;font-size:16px;}
+  .ritual p{margin:0;font-size:12.5px;line-height:1.65;color:#F0E6D2;}
+  .acard{display:flex;gap:11px;align-items:flex-start;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:11px 13px;margin-bottom:7px;box-shadow:var(--shadow);cursor:pointer;}
+  .acard.done{background:var(--archive-bg);border-color:#E4D9C2;}
+  .acard .box{border-radius:6px;}
+  .acard.done .box{background:var(--archive);border-color:var(--archive);}
+  .when{font-size:11px;color:var(--archive);background:var(--archive-bg);border:1px solid #E8DCC4;padding:2px 8px;border-radius:99px;font-weight:600;}
+  .acard.done .when{opacity:.65;}
+
+  .empty{text-align:center;color:var(--ink-faint);font-size:14px;padding:40px 0;}
+  .foot{margin-top:28px;padding:18px;border-radius:14px;background:linear-gradient(135deg,#23535E,#2E6E7E);color:#EAF2F1;box-shadow:var(--shadow);}
+  .foot p{margin:0 0 8px;font-size:13px;line-height:1.65;color:#DCEAE8;}
+  .foot .line{font-family:var(--serif);font-weight:700;font-size:17px;color:#fff;margin:6px 0 0;}
+  .foot .by{font-size:11.5px;color:#9FC2BF;margin-top:10px;}
+  @media (prefers-reduced-motion:reduce){*{transition:none!important;}}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header class="hero">
+    <p class="eyebrow">宝华曜新 · 新九年级</p>
+    <h1>暑假每日执行计划</h1>
+    <p class="sub">7月6日 – 8月16日（6周）· 每天勾选，每周日整理归档 · 进度自动保存</p>
+    <div class="ascent">
+      <svg viewBox="0 0 320 168" aria-hidden="true">
+        <polygon points="0,168 70,96 130,140 200,80 260,128 320,70 320,168" fill="#C9D8D6"/>
+        <polygon points="0,168 90,118 170,150 250,108 320,140 320,168" fill="#B7CBC8"/>
+        <path id="trailBg" d="M22,150 L70,120 L108,134 L150,96 L196,112 L242,66 L292,34" fill="none" stroke="#9FB6B3" stroke-width="3" stroke-linecap="round" stroke-dasharray="2 7"/>
+        <path id="trailFg" d="M22,150 L70,120 L108,134 L150,96 L196,112 L242,66 L292,34" fill="none" stroke="#4F8A6B" stroke-width="3.5" stroke-linecap="round"/>
+        <g transform="translate(292,34)"><line x1="0" y1="0" x2="0" y2="-26" stroke="#20303A" stroke-width="2.5"/><path d="M0,-26 L18,-21 L0,-15 Z" fill="#C8772E"/></g>
+        <text x="288" y="20" text-anchor="end" font-family="'Noto Serif SC',serif" font-weight="700" font-size="12" fill="#20303A">九月 · 顶峰相见</text>
+        <g id="climber"><circle r="6.5" fill="#fff" stroke="#C8772E" stroke-width="3"/></g>
+      </svg>
+    </div>
+    <div class="ascent-stats">
+      <span class="pct" id="pctNum">0%</span><span class="pct-label">已登高</span>
+      <span class="pct-frac" id="pctFrac">0 / 0 项</span>
+    </div>
+  </header>
+
+  <div class="controls">
+    <div class="seg" role="tablist">
+      <button id="vDay" class="on" onclick="setView('day')">每日计划</button>
+      <button id="vSubject" onclick="setView('subject')">按学科</button>
+      <button id="vArchive" onclick="setView('archive')">归档清单</button>
+    </div>
+    <div class="filters" id="filterBar">
+      <select id="subjFilter" onchange="render()"><option value="">全部学科</option></select>
+      <label class="toggle"><input type="checkbox" id="hideDone" onchange="render()">隐藏已完成</label>
+      <button class="reset" onclick="resetAll()">清空进度</button>
+    </div>
+  </div>
+
+  <main id="list"></main>
+
+  <footer class="foot">
+    <p>这份作业不仅是知识的巩固，更是迈向初三的第一步。每天踏实一点，每周日把成果整理归位，假期结束时你会带着满满的底气走进考场。</p>
+    <p class="line">九月，我们顶峰相见！</p>
+    <p class="by">每日习惯：锻炼≥30分钟、英语听读15分钟（原版书 / E听说）。周次与日期为建议节奏，可按自己进度前后调整；标「选做/视情况」的项目不计入登高进度。</p>
+  </footer>
+</div>
+
+<script>
+/* ---------- subjects ---------- */
+const SUBJECTS={
+  yw:{name:'语文',color:'#B5483D'}, sx:{name:'数学',color:'#2E6E7E'},
+  yy:{name:'英语',color:'#4F6BB0'}, wl:{name:'物理',color:'#6B5BA6'},
+  hx:{name:'化学',color:'#3E8E7E'}, ls:{name:'历史',color:'#8A6A3B'},
+  df:{name:'道法',color:'#C8772E'}, ty:{name:'体育',color:'#4F8A6B'},
+  zl:{name:'整理复盘',color:'#7A8A86'}, fx:{name:'返校准备',color:'#5C6E76'},
+};
+/* ---------- daily tasks (d = ISO date) ---------- */
+const TASKS=[
+  // ===== Week 1 : 7/6 - 7/12 =====
+  {d:'2026-07-06',s:'ty',t:'与家长协商，确定体育项目（武术 / 小球类）',n:'武术：开学课堂统一教练；小球类：需自行额外练习'},
+  {d:'2026-07-06',s:'yy',t:'选定一本英文原版读物并开始阅读',n:'好句划线（描写/对话/哲理），空白处批注 fun/sad/meaningful 等'},
+  {d:'2026-07-07',s:'yw',t:'古诗文阅读专辑 第21–23篇'},
+  {d:'2026-07-07',s:'yy',t:'《考纲词汇 专项训练》第1部分',n:'红笔自行校对，错题录入错题本'},
+  {d:'2026-07-08',s:'sx',t:'数学暑假作业 第1套（按分层完成）',n:'17、23题AB必做C选做；24题A必做BC选做'},
+  {d:'2026-07-08',s:'wl',t:'物理专题巩固练习卷 第1份'},
+  {d:'2026-07-09',s:'yw',t:'古诗文阅读专辑 第24–25篇（本周完成5篇）'},
+  {d:'2026-07-09',s:'yw',t:'现代文阅读 ×1（累计 1/8）'},
+  {d:'2026-07-10',s:'ls',t:'历史第1册：熟悉教材 + 观摩空中课堂复习课',n:'目录/导语/课文/大事年表/插图/课后活动；笔记摘写在书上'},
+  {d:'2026-07-10',s:'yy',t:'《新题型探索 第13期》第一部分'},
+  {d:'2026-07-11',s:'yw',t:'预习九上古诗文（第一批，写入新开4号本）'},
+  {d:'2026-07-11',s:'df',t:'整理六年级道法课本，完善课本内笔记'},
+  {d:'2026-07-12',s:'yw',t:'开始阅读《唐诗三百首》，启动任务单'},
+  {d:'2026-07-12',s:'hx',t:'八年级基础知识复习填空（自行打印）',n:'仅期末成绩<40分同学完成',o:true},
+  {d:'2026-07-12',s:'zl',t:'本周复盘 + 按「归档清单」整理本周成果'},
+
+  // ===== Week 2 : 7/13 - 7/19 =====
+  {d:'2026-07-13',s:'yw',t:'古诗文阅读专辑 第26–28篇'},
+  {d:'2026-07-13',s:'yy',t:'《考纲词汇 专项训练》第2部分'},
+  {d:'2026-07-14',s:'sx',t:'数学暑假作业 第2套'},
+  {d:'2026-07-14',s:'wl',t:'物理专题巩固练习卷 第2份'},
+  {d:'2026-07-15',s:'yw',t:'古诗文阅读专辑 第29–30篇（本周完成5篇）'},
+  {d:'2026-07-15',s:'yy',t:'《主题精读 第13期》第一部分'},
+  {d:'2026-07-16',s:'sx',t:'相似形探究：构思创意图案草图，标注知识点'},
+  {d:'2026-07-16',s:'hx',t:'整理「溶液」预习笔记'},
+  {d:'2026-07-17',s:'ls',t:'历史第2册：熟悉教材 + 观摩空中课堂复习课（笔记摘书上）'},
+  {d:'2026-07-17',s:'yy',t:'E听说暑假听说练习（一）'},
+  {d:'2026-07-18',s:'sx',t:'相似形探究：完成A4手绘誊正',n:'手绘工整、配图优美；标注点坐标、函数解析式等'},
+  {d:'2026-07-18',s:'wl',t:'物理专题导学案（一）'},
+  {d:'2026-07-19',s:'yw',t:'现代文阅读 ×1（累计 2/8）'},
+  {d:'2026-07-19',s:'yw',t:'完成《唐诗三百首》任务单'},
+  {d:'2026-07-19',s:'yw',t:'作文集创作 ×1'},
+  {d:'2026-07-19',s:'zl',t:'本周复盘 + 按「归档清单」整理本周成果'},
+
+  // ===== Week 3 : 7/20 - 7/26 =====
+  {d:'2026-07-20',s:'yw',t:'古诗文阅读专辑 第31–33篇'},
+  {d:'2026-07-20',s:'yy',t:'《考纲词汇 专项训练》第3部分'},
+  {d:'2026-07-21',s:'sx',t:'数学暑假作业 第3套'},
+  {d:'2026-07-21',s:'wl',t:'物理专题巩固练习卷 第3份'},
+  {d:'2026-07-22',s:'yw',t:'古诗文阅读专辑 第34–35篇（本周完成5篇）'},
+  {d:'2026-07-22',s:'yy',t:'《新题型探索 第13期》第二部分'},
+  {d:'2026-07-23',s:'sx',t:'相似三角形专题作业（一）'},
+  {d:'2026-07-23',s:'hx',t:'化学能力提升卷 第1份'},
+  {d:'2026-07-24',s:'ls',t:'历史第3册：熟悉教材 + 观摩空中课堂复习课（笔记摘书上）'},
+  {d:'2026-07-24',s:'df',t:'整理七年级道法课本，完善课本内笔记'},
+  {d:'2026-07-25',s:'yw',t:'现代文阅读 ×2（累计 4/8）'},
+  {d:'2026-07-25',s:'yw',t:'预习九上古诗文（第二批，写入4号本）'},
+  {d:'2026-07-26',s:'yw',t:'开始阅读《简爱》，启动任务单'},
+  {d:'2026-07-26',s:'yy',t:'英文原版读物：阅读过半（坚持划线批注）'},
+  {d:'2026-07-26',s:'yw',t:'作文集创作 ×1'},
+  {d:'2026-07-26',s:'zl',t:'本周复盘 + 按「归档清单」整理本周成果'},
+
+  // ===== Week 4 : 7/27 - 8/2 =====
+  {d:'2026-07-27',s:'yw',t:'古诗文阅读专辑 第36–38篇'},
+  {d:'2026-07-27',s:'yy',t:'《考纲词汇 专项训练》第4部分'},
+  {d:'2026-07-28',s:'sx',t:'数学暑假作业 第4套'},
+  {d:'2026-07-28',s:'wl',t:'物理专题巩固练习卷 第4份'},
+  {d:'2026-07-29',s:'yw',t:'古诗文阅读专辑 第39–40篇（本周完成5篇）'},
+  {d:'2026-07-29',s:'yy',t:'《主题精读 第13期》第二部分'},
+  {d:'2026-07-30',s:'sx',t:'相似三角形专题作业（二）'},
+  {d:'2026-07-30',s:'hx',t:'化学能力提升卷 第2份'},
+  {d:'2026-07-31',s:'ls',t:'历史第4册：熟悉教材 + 观摩空中课堂复习课（笔记摘书上）'},
+  {d:'2026-07-31',s:'yy',t:'E听说暑假听说练习（二）'},
+  {d:'2026-08-01',s:'yw',t:'现代文阅读 ×2（累计 6/8）'},
+  {d:'2026-08-01',s:'wl',t:'物理专题导学案（二）',n:'黑马3班、胜己班后面的同步练习不做'},
+  {d:'2026-08-02',s:'yw',t:'完成《简爱》任务单'},
+  {d:'2026-08-02',s:'yw',t:'作文集创作 ×1'},
+  {d:'2026-08-02',s:'zl',t:'本周复盘 + 按「归档清单」整理本周成果'},
+
+  // ===== Week 5 : 8/3 - 8/9 =====
+  {d:'2026-08-03',s:'yw',t:'古诗文阅读专辑 第41–43篇'},
+  {d:'2026-08-03',s:'yy',t:'《考纲词汇 专项训练》第5部分'},
+  {d:'2026-08-04',s:'sx',t:'数学暑假作业 第5套'},
+  {d:'2026-08-04',s:'wl',t:'物理专题巩固练习卷 第5份（完成5份）'},
+  {d:'2026-08-05',s:'yw',t:'古诗文阅读专辑 第44–45篇（本周完成5篇）'},
+  {d:'2026-08-05',s:'yy',t:'《新题型探索 第13期》完成并红笔校对'},
+  {d:'2026-08-06',s:'sx',t:'预习《三角初步》内容'},
+  {d:'2026-08-06',s:'hx',t:'化学能力提升卷 第3份'},
+  {d:'2026-08-07',s:'df',t:'整理八年级道法课本，完善课本内笔记'},
+  {d:'2026-08-07',s:'yy',t:'读完英文原版读物，完成全部划线批注'},
+  {d:'2026-08-08',s:'yw',t:'现代文阅读 ×1（累计 7/8）'},
+  {d:'2026-08-08',s:'yw',t:'预习九上古诗文（第三批，完成）'},
+  {d:'2026-08-09',s:'yw',t:'作文集创作 ×1'},
+  {d:'2026-08-09',s:'zl',t:'本周复盘 + 按「归档清单」整理本周成果'},
+
+  // ===== Week 6 : 8/10 - 8/16（收尾 + 返校准备）=====
+  {d:'2026-08-10',s:'yw',t:'古诗文阅读专辑 第46–48篇'},
+  {d:'2026-08-10',s:'yy',t:'《考纲词汇 专项训练》第6部分（完成全册）'},
+  {d:'2026-08-11',s:'sx',t:'预习后完成数学暑假作业 第6套（三角初步）'},
+  {d:'2026-08-11',s:'hx',t:'化学能力提升卷 第4份（完成4份）'},
+  {d:'2026-08-12',s:'yw',t:'古诗文阅读专辑 第49–50篇（完成全部30篇）'},
+  {d:'2026-08-12',s:'yy',t:'《主题精读 第13期》完成并红笔校对'},
+  {d:'2026-08-13',s:'yy',t:'E听说暑假听说练习（三，完成）'},
+  {d:'2026-08-13',s:'yw',t:'现代文阅读 ×1（完成全部8篇）'},
+  {d:'2026-08-14',s:'yw',t:'整理、编排作文集成册'},
+  {d:'2026-08-14',s:'df',t:'绘制各册道法知识结构思维导图（每册一张A4）',n:'学有余力同学选做',o:true},
+  {d:'2026-08-15',s:'fx',t:'核对并打包全部返校上交材料（见「归档清单」）'},
+  {d:'2026-08-15',s:'fx',t:'确认开学「假期作业练习」范围＝三本英语练习册'},
+  {d:'2026-08-16',s:'zl',t:'查漏补缺：把假期内未完成的项目补齐'},
+  {d:'2026-08-16',s:'zl',t:'总复盘 + 最终归档：核对「归档清单」全部已归档'},
+];
+TASKS.forEach((t,i)=>t.id='t'+i);
+
+/* ---------- archive registry ---------- */
+const ARCHIVE=[
+  // 返校日上交（需单独打包）
+  {id:'a1',g:'submit',s:'yy',t:'《考纲词汇 专项训练》',w:'完成约8/10 · 8/15打包'},
+  {id:'a2',g:'submit',s:'yy',t:'《新题型探索 第13期》',w:'完成约8/5 · 8/15打包'},
+  {id:'a3',g:'submit',s:'yy',t:'《主题精读 第13期》',w:'完成约8/12 · 8/15打包'},
+  {id:'a4',g:'submit',s:'yy',t:'英文原版读物一本',w:'完成约8/7 · 8/15打包',n:'卓然 / 星曜班同学需上交',o:true},
+  {id:'a5',g:'submit',s:'fx',t:'确认开学「假期作业练习」范围＝上述三本',w:'返校日确认'},
+  // 完成即归档（按周整理入文件夹）
+  {id:'a6',g:'file',s:'yw',t:'古诗文阅读专辑（30篇）',w:'每周完成5篇即归档 · 8/12齐'},
+  {id:'a7',g:'file',s:'yw',t:'现代文阅读（8篇）',w:'随完成归档 · 8/13齐'},
+  {id:'a8',g:'file',s:'yw',t:'九上古诗文预习（4号本）',w:'分3批 · 8/8完成，妥存4号本'},
+  {id:'a9',g:'file',s:'yw',t:'名著任务单《唐诗三百首》',w:'7/19完成后归档'},
+  {id:'a10',g:'file',s:'yw',t:'名著任务单《简爱》',w:'8/2完成后归档'},
+  {id:'a11',g:'file',s:'yw',t:'作文集',w:'8/14装订成册'},
+  {id:'a12',g:'file',s:'sx',t:'A4手绘相似形图案',w:'7/18完成 → 收入作业袋/作品集'},
+  {id:'a13',g:'file',s:'sx',t:'数学暑假作业 1–6套',w:'每完成一套即归入数学文件夹 · 8/11齐'},
+  {id:'a14',g:'file',s:'sx',t:'相似三角形两项专题',w:'7/30完成后归档'},
+  {id:'a15',g:'file',s:'wl',t:'物理专题卷×5 + 导学案×2',w:'随完成归入物理文件夹 · 8/3齐'},
+  {id:'a16',g:'file',s:'hx',t:'化学能力提升卷×4 + 溶液预习笔记',w:'随完成归入化学文件夹 · 8/11齐'},
+  {id:'a17',g:'file',s:'hx',t:'八年级基础知识复习填空',w:'7/12完成（仅期末<40分）',o:true},
+  {id:'a18',g:'file',s:'ls',t:'历史4册（笔记摘写在书上）',w:'随完成保存课本 · 7/31齐'},
+  {id:'a19',g:'file',s:'df',t:'道法六~八年级课本及笔记',w:'8/7完成后妥存课本'},
+  {id:'a20',g:'file',s:'df',t:'道法各册思维导图',w:'8/14（选做）',o:true},
+  {id:'a21',g:'file',s:'yy',t:'英语错题本',w:'持续积累 · 假期末检查完整性'},
+  {id:'a22',g:'file',s:'yy',t:'E听说练习记录（截图/记录）',w:'随完成保存'},
+];
+
+/* ---------- state ---------- */
+const KEY='bhyx-summer-daily-2026-v1';
+let state={}, view='day';
+function load(){try{const v=localStorage.getItem(KEY);if(v)state=JSON.parse(v);}catch(e){state={};}}
+function save(){try{localStorage.setItem(KEY,JSON.stringify(state));}catch(e){}}
+
+/* ---------- date helpers ---------- */
+const WEEKS=[
+  {n:1,s:'2026-07-06',e:'2026-07-12',r:'7/6 – 7/12'},
+  {n:2,s:'2026-07-13',e:'2026-07-19',r:'7/13 – 7/19'},
+  {n:3,s:'2026-07-20',e:'2026-07-26',r:'7/20 – 7/26'},
+  {n:4,s:'2026-07-27',e:'2026-08-02',r:'7/27 – 8/2'},
+  {n:5,s:'2026-08-03',e:'2026-08-09',r:'8/3 – 8/9'},
+  {n:6,s:'2026-08-10',e:'2026-08-16',r:'8/10 – 8/16'},
+];
+const DOW=['周日','周一','周二','周三','周四','周五','周六'];
+function dateParts(iso){const dt=new Date(iso+'T00:00:00');return{m:dt.getMonth()+1,day:dt.getDate(),dow:dt.getDay()};}
+
+/* ---------- UI ---------- */
+function setView(v){
+  view=v;
+  vDay.classList.toggle('on',v==='day');
+  vSubject.classList.toggle('on',v==='subject');
+  vArchive.classList.toggle('on',v==='archive');
+  render();
+}
+function fillFilter(){const sel=subjFilter;Object.entries(SUBJECTS).forEach(([k,v])=>{const o=document.createElement('option');o.value=k;o.textContent=v.name;sel.appendChild(o);});}
+function checkSvg(){return '<svg viewBox="0 0 24 24" fill="none"><path d="M5 12.5l4.2 4.2L19 7" stroke="#fff" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/></svg>';}
+
+function taskRow(t,showWeek){
+  const done=!!state[t.id],sub=SUBJECTS[t.s];
+  let chips=`<span class="chip" style="background:${sub.color}">${sub.name}</span>`;
+  if(t.o)chips+=`<span class="chip opt">选做 / 视情况</span>`;
+  return `<div class="task ${done?'done':''}" onclick="toggle('${t.id}')">
+    <div class="box">${checkSvg()}</div>
+    <div class="body"><div class="ttext">${t.t}</div>${t.n?`<div class="note">${t.n}</div>`:''}
+    <div class="meta-row">${chips}</div></div></div>`;
+}
+
+function renderDaily(tasks){
+  let html='';
+  WEEKS.forEach(wk=>{
+    const wt=tasks.filter(t=>t.d>=wk.s&&t.d<=wk.e);
+    if(!wt.length)return;
+    const all=TASKS.filter(t=>t.d>=wk.s&&t.d<=wk.e),done=all.filter(t=>state[t.id]).length;
+    const label=wk.n===6?`第6周 · 收尾 + 返校准备`:`第${wk.n}周`;
+    html+=`<div class="weekdiv"><span class="wn">${label}</span><span class="wr">${wk.r}</span>
+      <div class="gbar"><i style="width:${Math.round(done/all.length*100)}%"></i></div></div>`;
+    const days=[...new Set(wt.map(t=>t.d))];
+    days.forEach(d=>{
+      const dt=dateParts(d),dr=wt.filter(t=>t.d===d);
+      const allD=TASKS.filter(t=>t.d===d),doneD=allD.filter(t=>state[t.id]).length;
+      const isSun=dt.dow===0;
+      const habit=isSun?`<div class="habit arch">整理归档日 · 见「归档清单」，把本周成果归位</div>`
+                       :`<div class="habit">今日习惯 · 锻炼≥30分钟 · 英语听读15分钟</div>`;
+      html+=`<div class="day ${isSun?'is-sun':''}">
+        <div class="day-head"><span class="day-date">${dt.m}月${dt.day}日</span>
+        <span class="day-dow">${DOW[dt.dow]}</span><span class="day-prog">${doneD}/${allD.length}</span></div>
+        ${dr.map(t=>taskRow(t)).join('')}${habit}</div>`;
+    });
+  });
+  return html;
+}
+
+function renderSubject(tasks){
+  let html='';
+  Object.keys(SUBJECTS).forEach(k=>{
+    const inS=tasks.filter(t=>t.s===k);if(!inS.length)return;
+    const all=TASKS.filter(t=>t.s===k),done=all.filter(t=>state[t.id]).length,sub=SUBJECTS[k];
+    html+=`<section class="group"><div class="group-head">
+      <span class="badge" style="background:${sub.color}">${sub.name[0]}</span>
+      <h2 class="group-title">${sub.name}</h2>
+      <div class="gbar"><i style="width:${Math.round(done/all.length*100)}%;background:${sub.color}"></i></div>
+      <span class="group-meta">${done}/${all.length}</span></div>`;
+    html+=inS.map(t=>{
+      const dn=!!state[t.id],dt=dateParts(t.d);
+      let chips=`<span class="chip muted">${dt.m}/${dt.day}</span>`;
+      if(t.o)chips+=`<span class="chip opt">选做</span>`;
+      return `<div class="scard ${dn?'done':''}" onclick="toggle('${t.id}')"><div class="box">${checkSvg()}</div>
+        <div class="body"><div class="ttext">${t.t}</div>${t.n?`<div class="note">${t.n}</div>`:''}
+        <div class="meta-row">${chips}</div></div></div>`;
+    }).join('');
+    html+=`</section>`;
+  });
+  return html;
+}
+
+function renderArchive(){
+  const subjF=subjFilter.value,hide=hideDone.checked;
+  let items=ARCHIVE.filter(a=>!subjF||a.s===subjF);if(hide)items=items.filter(a=>!state[a.id]);
+  const total=ARCHIVE.filter(a=>!a.o).length,done=ARCHIVE.filter(a=>!a.o&&state[a.id]).length;
+  let html=`<div class="ritual"><h3>每周日 = 整理归档日</h3>
+    <p>① 把本周完成的练习卷 / 试卷归入对应学科文件夹；② 更新英语错题本、补全各科笔记；③ 在下方清单勾选「已归档」；④ 英语三本 + 原版书单独放进「返校上交袋」。</p></div>`;
+  const groups=[['submit','返校日上交（单独打包）'],['file','完成即归档（随完成整理）']];
+  groups.forEach(([g,title])=>{
+    const list=items.filter(a=>a.g===g);if(!list.length)return;
+    html+=`<section class="group"><div class="group-head">
+      <h2 class="group-title">${title}</h2></div>`;
+    html+=list.map(a=>{
+      const dn=!!state[a.id],sub=SUBJECTS[a.s];
+      let chips=`<span class="chip" style="background:${sub.color}">${sub.name}</span><span class="when">${a.w}</span>`;
+      if(a.o)chips+=`<span class="chip opt">视情况</span>`;
+      return `<div class="acard ${dn?'done':''}" onclick="toggle('${a.id}')"><div class="box">${checkSvg()}</div>
+        <div class="body"><div class="ttext">${a.t}</div>${a.n?`<div class="note">${a.n}</div>`:''}
+        <div class="meta-row">${chips}</div></div></div>`;
+    }).join('');
+    html+=`</section>`;
+  });
+  return `<div style="display:flex;align-items:baseline;gap:8px;margin:14px 2px 2px">
+      <span style="font-family:var(--serif);font-weight:900;font-size:15px;color:var(--archive)">归档进度</span>
+      <span style="font-size:12.5px;color:var(--ink-faint);margin-left:auto">${done}/${total} 项已归档</span></div>`+html;
+}
+
+function render(){
+  filterBar.style.display='flex';
+  const subjF=subjFilter.value,hide=hideDone.checked;
+  let html;
+  if(view==='archive'){html=renderArchive();}
+  else{
+    let tasks=TASKS.filter(t=>!subjF||t.s===subjF);if(hide)tasks=tasks.filter(t=>!state[t.id]);
+    html=view==='day'?renderDaily(tasks):renderSubject(tasks);
+  }
+  list.innerHTML=html||'<div class="empty">没有符合条件的项目 — 试试取消筛选。</div>';
+  updateProgress();
+}
+
+function updateProgress(){
+  const req=TASKS.filter(t=>!t.o),done=req.filter(t=>state[t.id]).length,pct=req.length?done/req.length:0;
+  pctNum.textContent=Math.round(pct*100)+'%';
+  pctFrac.textContent=done+' / '+req.length+' 项（不含选做）';
+  const trail=document.getElementById('trailFg'),climber=document.getElementById('climber'),len=trail.getTotalLength();
+  trail.style.strokeDasharray=len;trail.style.strokeDashoffset=len*(1-pct);
+  const p=trail.getPointAtLength(len*pct);climber.setAttribute('transform',`translate(${p.x},${p.y})`);
+}
+function toggle(id){if(state[id])delete state[id];else state[id]=true;save();render();}
+function resetAll(){if(!confirm('确定清空所有勾选（含归档）吗？此操作无法撤销。'))return;state={};save();render();}
+
+(function(){fillFilter();load();render();})();
+</script>
+</body>
+</html>
