@@ -1,70 +1,70 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-06-30T07:29:16.099650+08:00",
+  "generated_at": "2026-06-30T12:38:10.222338+08:00",
   "count": 15,
   "items": [
     {
       "repo": "ripienaar/free-for-dev",
       "url": "https://github.com/ripienaar/free-for-dev",
-      "stars_today": 1971,
-      "total_stars": 126691,
+      "stars_today": 1935,
+      "total_stars": 126844,
       "language": "HTML",
       "description": "Star ripienaar / free-for-dev A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev"
     },
     {
       "repo": "simplex-chat/simplex-chat",
       "url": "https://github.com/simplex-chat/simplex-chat",
-      "stars_today": 1611,
-      "total_stars": 16531,
+      "stars_today": 1607,
+      "total_stars": 16797,
       "language": "Haskell",
       "description": "Sponsor Star simplex-chat / simplex-chat SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!"
     },
     {
-      "repo": "xbtlin/ai-berkshire",
-      "url": "https://github.com/xbtlin/ai-berkshire",
-      "stars_today": 1397,
-      "total_stars": 6574,
-      "language": "Python",
-      "description": "Star xbtlin / ai-berkshire AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis."
-    },
-    {
       "repo": "msitarzewski/agency-agents",
       "url": "https://github.com/msitarzewski/agency-agents",
-      "stars_today": 1369,
-      "total_stars": 118826,
+      "stars_today": 1425,
+      "total_stars": 119226,
       "language": "Shell",
       "description": "Sponsor Star msitarzewski / agency-agents A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables."
     },
     {
+      "repo": "xbtlin/ai-berkshire",
+      "url": "https://github.com/xbtlin/ai-berkshire",
+      "stars_today": 1386,
+      "total_stars": 6853,
+      "language": "Python",
+      "description": "Star xbtlin / ai-berkshire AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis."
+    },
+    {
       "repo": "browser-use/video-use",
       "url": "https://github.com/browser-use/video-use",
-      "stars_today": 976,
-      "total_stars": 11907,
+      "stars_today": 967,
+      "total_stars": 12055,
       "language": "Python",
       "description": "Star browser-use / video-use Edit videos with coding agents"
     },
     {
       "repo": "HKUDS/Vibe-Trading",
       "url": "https://github.com/HKUDS/Vibe-Trading",
-      "stars_today": 840,
-      "total_stars": 15063,
+      "stars_today": 839,
+      "total_stars": 15233,
       "language": "Python",
       "description": "Star HKUDS / Vibe-Trading \"Vibe-Trading: Your Personal Trading Agent\""
     },
     {
       "repo": "altic-dev/FluidVoice",
       "url": "https://github.com/altic-dev/FluidVoice",
-      "stars_today": 836,
-      "total_stars": 4360,
+      "stars_today": 830,
+      "total_stars": 4487,
       "language": "Swift",
       "description": "Sponsor Star altic-dev / FluidVoice FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))"
     },
     {
       "repo": "commaai/openpilot",
       "url": "https://github.com/commaai/openpilot",
-      "stars_today": 465,
-      "total_stars": 62752,
+      "stars_today": 458,
+      "total_stars": 62816,
       "language": "Python",
       "description": "Star commaai / openpilot openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars."
     },
@@ -72,57 +72,57 @@
       "repo": "cupy/cupy",
       "url": "https://github.com/cupy/cupy",
       "stars_today": 352,
-      "total_stars": 11808,
+      "total_stars": 11882,
       "language": "Python",
       "description": "Sponsor Star cupy / cupy NumPy & SciPy for GPU"
     },
     {
       "repo": "0xNyk/council-of-high-intelligence",
       "url": "https://github.com/0xNyk/council-of-high-intelligence",
-      "stars_today": 323,
-      "total_stars": 1860,
+      "stars_today": 331,
+      "total_stars": 2019,
       "language": "Shell",
       "description": "Star 0xNyk / council-of-high-intelligence 18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds & more — structured multi-round deliberation with genuine model diversity. One command: /council"
     },
     {
       "repo": "refactoringhq/tolaria",
       "url": "https://github.com/refactoringhq/tolaria",
-      "stars_today": 249,
-      "total_stars": 17490,
+      "stars_today": 280,
+      "total_stars": 17608,
       "language": "TypeScript",
       "description": "Star refactoringhq / tolaria Desktop app to manage markdown knowledge bases"
     },
     {
       "repo": "soxoj/maigret",
       "url": "https://github.com/soxoj/maigret",
-      "stars_today": 191,
-      "total_stars": 34344,
+      "stars_today": 224,
+      "total_stars": 34489,
       "language": "Python",
       "description": "Sponsor Star soxoj / maigret 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites"
     },
     {
       "repo": "veracrypt/VeraCrypt",
       "url": "https://github.com/veracrypt/VeraCrypt",
-      "stars_today": 187,
-      "total_stars": 10466,
+      "stars_today": 186,
+      "total_stars": 10532,
       "language": "C",
       "description": "Star veracrypt / VeraCrypt Disk encryption with strong security based on TrueCrypt"
     },
     {
-      "repo": "Unclecheng-li/VulnClaw",
-      "url": "https://github.com/Unclecheng-li/VulnClaw",
-      "stars_today": 105,
-      "total_stars": 1110,
-      "language": "Python",
-      "description": "Star Unclecheng-li / VulnClaw 基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。"
-    },
-    {
       "repo": "logto-io/logto",
       "url": "https://github.com/logto-io/logto",
-      "stars_today": 77,
-      "total_stars": 12631,
+      "stars_today": 158,
+      "total_stars": 12773,
       "language": "TypeScript",
       "description": "Sponsor Star logto-io / logto 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC."
+    },
+    {
+      "repo": "Unclecheng-li/VulnClaw",
+      "url": "https://github.com/Unclecheng-li/VulnClaw",
+      "stars_today": 129,
+      "total_stars": 1237,
+      "language": "Python",
+      "description": "Star Unclecheng-li / VulnClaw 基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。"
     }
   ]
 }
