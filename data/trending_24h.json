@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-06-30T22:46:17.141182+08:00",
-  "count": 17,
+  "generated_at": "2026-07-01T01:18:50.762634+08:00",
+  "count": 18,
   "items": [
     {
       "repo": "msitarzewski/agency-agents",
       "url": "https://github.com/msitarzewski/agency-agents",
       "stars_today": 1793,
-      "total_stars": 120245,
+      "total_stars": 120481,
       "language": "Shell",
       "description": "Sponsor Star msitarzewski / agency-agents A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables."
     },
@@ -16,7 +16,7 @@
       "repo": "simplex-chat/simplex-chat",
       "url": "https://github.com/simplex-chat/simplex-chat",
       "stars_today": 1229,
-      "total_stars": 17232,
+      "total_stars": 17263,
       "language": "Haskell",
       "description": "Sponsor Star simplex-chat / simplex-chat SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!"
     },
@@ -24,7 +24,7 @@
       "repo": "xbtlin/ai-berkshire",
       "url": "https://github.com/xbtlin/ai-berkshire",
       "stars_today": 966,
-      "total_stars": 7345,
+      "total_stars": 7407,
       "language": "Python",
       "description": "Star xbtlin / ai-berkshire AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis."
     },
@@ -32,7 +32,7 @@
       "repo": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "stars_today": 884,
-      "total_stars": 242161,
+      "total_stars": 242285,
       "language": "Shell",
       "description": "Sponsor Star obra / superpowers An agentic skills framework & software development methodology that works."
     },
@@ -40,7 +40,7 @@
       "repo": "ripienaar/free-for-dev",
       "url": "https://github.com/ripienaar/free-for-dev",
       "stars_today": 740,
-      "total_stars": 127176,
+      "total_stars": 127221,
       "language": "HTML",
       "description": "Star ripienaar / free-for-dev A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev"
     },
@@ -48,7 +48,7 @@
       "repo": "browser-use/video-use",
       "url": "https://github.com/browser-use/video-use",
       "stars_today": 722,
-      "total_stars": 12377,
+      "total_stars": 12444,
       "language": "Python",
       "description": "Star browser-use / video-use Edit videos with coding agents"
     },
@@ -56,55 +56,47 @@
       "repo": "HKUDS/Vibe-Trading",
       "url": "https://github.com/HKUDS/Vibe-Trading",
       "stars_today": 719,
-      "total_stars": 15586,
+      "total_stars": 15650,
       "language": "Python",
       "description": "Star HKUDS / Vibe-Trading \"Vibe-Trading: Your Personal Trading Agent\""
-    },
-    {
-      "repo": "diegosouzapw/OmniRoute",
-      "url": "https://github.com/diegosouzapw/OmniRoute",
-      "stars_today": 617,
-      "total_stars": 8210,
-      "language": "TypeScript",
-      "description": "Sponsor Star diegosouzapw / OmniRoute Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA."
     },
     {
       "repo": "altic-dev/FluidVoice",
       "url": "https://github.com/altic-dev/FluidVoice",
       "stars_today": 586,
-      "total_stars": 4745,
+      "total_stars": 4804,
       "language": "Swift",
       "description": "Sponsor Star altic-dev / FluidVoice FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))"
     },
     {
       "repo": "ogulcancelik/herdr",
       "url": "https://github.com/ogulcancelik/herdr",
-      "stars_today": 467,
-      "total_stars": 8790,
+      "stars_today": 485,
+      "total_stars": 8860,
       "language": "Rust",
       "description": "Sponsor Star ogulcancelik / herdr agent multiplexer that lives in your terminal."
     },
     {
-      "repo": "Robbyant/lingbot-map",
-      "url": "https://github.com/Robbyant/lingbot-map",
-      "stars_today": 465,
-      "total_stars": 8717,
-      "language": "Python",
-      "description": "Star Robbyant / lingbot-map A feed-forward 3D foundation model for reconstructing scenes from streaming data"
+      "repo": "diegosouzapw/OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "stars_today": 459,
+      "total_stars": 8304,
+      "language": "TypeScript",
+      "description": "Sponsor Star diegosouzapw / OmniRoute Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA."
     },
     {
       "repo": "google/agents-cli",
       "url": "https://github.com/google/agents-cli",
       "stars_today": 433,
-      "total_stars": 3904,
+      "total_stars": 4010,
       "language": "Python",
       "description": "Star google / agents-cli The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud."
     },
     {
       "repo": "facebook/astryx",
       "url": "https://github.com/facebook/astryx",
-      "stars_today": 426,
-      "total_stars": 1512,
+      "stars_today": 399,
+      "total_stars": 1603,
       "language": "TypeScript",
       "description": "Star facebook / astryx An open source design system that's fully customizable and agent ready"
     },
@@ -112,31 +104,47 @@
       "repo": "usestrix/strix",
       "url": "https://github.com/usestrix/strix",
       "stars_today": 395,
-      "total_stars": 27744,
+      "total_stars": 27900,
       "language": "Python",
       "description": "Star usestrix / strix Open-source AI penetration testing tool to find and fix your app’s vulnerabilities."
+    },
+    {
+      "repo": "CoreBunch/Instatic",
+      "url": "https://github.com/CoreBunch/Instatic",
+      "stars_today": 351,
+      "total_stars": 1380,
+      "language": "TypeScript",
+      "description": "Star CoreBunch / Instatic Instatic is a modern self-hosted visual CMS - get it running in 1 minute"
     },
     {
       "repo": "roboflow/supervision",
       "url": "https://github.com/roboflow/supervision",
       "stars_today": 336,
-      "total_stars": 45768,
+      "total_stars": 45816,
       "language": "Python",
       "description": "Star roboflow / supervision We write your reusable computer vision tools. 💜"
+    },
+    {
+      "repo": "Robbyant/lingbot-map",
+      "url": "https://github.com/Robbyant/lingbot-map",
+      "stars_today": 210,
+      "total_stars": 8763,
+      "language": "Python",
+      "description": "Star Robbyant / lingbot-map A feed-forward 3D foundation model for reconstructing scenes from streaming data"
     },
     {
       "repo": "microsoft/AI-For-Beginners",
       "url": "https://github.com/microsoft/AI-For-Beginners",
       "stars_today": 180,
-      "total_stars": 48987,
+      "total_stars": 49116,
       "language": "Jupyter Notebook",
       "description": "Star microsoft / AI-For-Beginners 12 Weeks, 24 Lessons, AI for All!"
     },
     {
       "repo": "Mebus/cupp",
       "url": "https://github.com/Mebus/cupp",
-      "stars_today": 18,
-      "total_stars": 6037,
+      "stars_today": 61,
+      "total_stars": 6054,
       "language": "Python",
       "description": "Star Mebus / cupp Common User Passwords Profiler (CUPP)"
     }
