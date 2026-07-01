@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-07-01T09:35:08.109970+08:00",
+  "generated_at": "2026-07-01T14:47:52.110971+08:00",
   "count": 19,
   "items": [
     {
       "repo": "msitarzewski/agency-agents",
       "url": "https://github.com/msitarzewski/agency-agents",
       "stars_today": 1791,
-      "total_stars": 120960,
+      "total_stars": 121408,
       "language": "Shell",
       "description": "Sponsor Star msitarzewski / agency-agents A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables."
     },
@@ -16,7 +16,7 @@
       "repo": "hasaneyldrm/exercises-dataset",
       "url": "https://github.com/hasaneyldrm/exercises-dataset",
       "stars_today": 1343,
-      "total_stars": 6705,
+      "total_stars": 7342,
       "language": "HTML",
       "description": "Star hasaneyldrm / exercises-dataset A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video."
     },
@@ -24,7 +24,7 @@
       "repo": "simplex-chat/simplex-chat",
       "url": "https://github.com/simplex-chat/simplex-chat",
       "stars_today": 1235,
-      "total_stars": 17343,
+      "total_stars": 17432,
       "language": "Haskell",
       "description": "Sponsor Star simplex-chat / simplex-chat SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!"
     },
@@ -32,7 +32,7 @@
       "repo": "xbtlin/ai-berkshire",
       "url": "https://github.com/xbtlin/ai-berkshire",
       "stars_today": 969,
-      "total_stars": 7512,
+      "total_stars": 7753,
       "language": "Python",
       "description": "Star xbtlin / ai-berkshire AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis."
     },
@@ -40,7 +40,7 @@
       "repo": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "stars_today": 890,
-      "total_stars": 242534,
+      "total_stars": 242810,
       "language": "Shell",
       "description": "Sponsor Star obra / superpowers An agentic skills framework & software development methodology that works."
     },
@@ -48,7 +48,7 @@
       "repo": "ripienaar/free-for-dev",
       "url": "https://github.com/ripienaar/free-for-dev",
       "stars_today": 742,
-      "total_stars": 127333,
+      "total_stars": 127427,
       "language": "HTML",
       "description": "Star ripienaar / free-for-dev A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev"
     },
@@ -56,7 +56,7 @@
       "repo": "browser-use/video-use",
       "url": "https://github.com/browser-use/video-use",
       "stars_today": 721,
-      "total_stars": 12619,
+      "total_stars": 12810,
       "language": "Python",
       "description": "Star browser-use / video-use Edit videos with coding agents"
     },
@@ -64,7 +64,7 @@
       "repo": "HKUDS/Vibe-Trading",
       "url": "https://github.com/HKUDS/Vibe-Trading",
       "stars_today": 721,
-      "total_stars": 15806,
+      "total_stars": 15963,
       "language": "Python",
       "description": "Star HKUDS / Vibe-Trading \"Vibe-Trading: Your Personal Trading Agent\""
     },
@@ -72,7 +72,7 @@
       "repo": "altic-dev/FluidVoice",
       "url": "https://github.com/altic-dev/FluidVoice",
       "stars_today": 588,
-      "total_stars": 4937,
+      "total_stars": 5086,
       "language": "Swift",
       "description": "Sponsor Star altic-dev / FluidVoice Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model - Local Wispr Flow alternative. One ⭐ takes us a long way :)) Windows, iOS and Linux coming soon."
     },
@@ -80,7 +80,7 @@
       "repo": "usestrix/strix",
       "url": "https://github.com/usestrix/strix",
       "stars_today": 515,
-      "total_stars": 28143,
+      "total_stars": 28378,
       "language": "Python",
       "description": "Star usestrix / strix Open-source AI penetration testing tool to find and fix your app’s vulnerabilities."
     },
@@ -88,7 +88,7 @@
       "repo": "ogulcancelik/herdr",
       "url": "https://github.com/ogulcancelik/herdr",
       "stars_today": 486,
-      "total_stars": 9034,
+      "total_stars": 9156,
       "language": "Rust",
       "description": "Sponsor Star ogulcancelik / herdr agent multiplexer that lives in your terminal."
     },
@@ -96,7 +96,7 @@
       "repo": "google/agents-cli",
       "url": "https://github.com/google/agents-cli",
       "stars_today": 445,
-      "total_stars": 4208,
+      "total_stars": 4379,
       "language": "Python",
       "description": "Star google / agents-cli The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud."
     },
@@ -104,7 +104,7 @@
       "repo": "diegosouzapw/OmniRoute",
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "stars_today": 387,
-      "total_stars": 8553,
+      "total_stars": 8827,
       "language": "TypeScript",
       "description": "Sponsor Star diegosouzapw / OmniRoute Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA."
     },
@@ -112,7 +112,7 @@
       "repo": "facebook/astryx",
       "url": "https://github.com/facebook/astryx",
       "stars_today": 364,
-      "total_stars": 1798,
+      "total_stars": 1955,
       "language": "TypeScript",
       "description": "Star facebook / astryx An open source design system that's fully customizable and agent ready"
     },
@@ -120,7 +120,7 @@
       "repo": "CoreBunch/Instatic",
       "url": "https://github.com/CoreBunch/Instatic",
       "stars_today": 351,
-      "total_stars": 1544,
+      "total_stars": 1645,
       "language": "TypeScript",
       "description": "Star CoreBunch / Instatic Instatic is a modern self-hosted visual CMS - get it running in 1 minute"
     },
@@ -128,7 +128,7 @@
       "repo": "roboflow/supervision",
       "url": "https://github.com/roboflow/supervision",
       "stars_today": 309,
-      "total_stars": 45918,
+      "total_stars": 46008,
       "language": "Python",
       "description": "Star roboflow / supervision We write your reusable computer vision tools. 💜"
     },
@@ -136,7 +136,7 @@
       "repo": "microsoft/AI-For-Beginners",
       "url": "https://github.com/microsoft/AI-For-Beginners",
       "stars_today": 252,
-      "total_stars": 49389,
+      "total_stars": 49680,
       "language": "Jupyter Notebook",
       "description": "Star microsoft / AI-For-Beginners 12 Weeks, 24 Lessons, AI for All!"
     },
@@ -144,7 +144,7 @@
       "repo": "Robbyant/lingbot-map",
       "url": "https://github.com/Robbyant/lingbot-map",
       "stars_today": 189,
-      "total_stars": 8879,
+      "total_stars": 8981,
       "language": "Python",
       "description": "Star Robbyant / lingbot-map A feed-forward 3D foundation model for reconstructing scenes from streaming data"
     },
@@ -152,7 +152,7 @@
       "repo": "Mebus/cupp",
       "url": "https://github.com/Mebus/cupp",
       "stars_today": 32,
-      "total_stars": 6107,
+      "total_stars": 6145,
       "language": "Python",
       "description": "Star Mebus / cupp Common User Passwords Profiler (CUPP)"
     }
