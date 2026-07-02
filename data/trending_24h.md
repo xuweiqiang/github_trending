@@ -1,26 +1,24 @@
 # GitHub 24h Star 增长榜
 
-- 生成时间: 2026-07-02 17:38:18 +0800
+- 生成时间: 2026-07-02 20:23:22 +0800
 
 | 排名 | 项目 | 24h 增长 | 总 Stars | 链接 |
 |---:|---|---:|---:|---|
-| 1 | `hasaneyldrm/exercises-dataset` | 2470 | 8794 | [跳转](https://github.com/hasaneyldrm/exercises-dataset) |
-| 2 | `msitarzewski/agency-agents` | 2114 | 124705 | [跳转](https://github.com/msitarzewski/agency-agents) |
-| 3 | `usestrix/strix` | 1211 | 30524 | [跳转](https://github.com/usestrix/strix) |
-| 4 | `microsoft/AI-For-Beginners` | 1096 | 50899 | [跳转](https://github.com/microsoft/AI-For-Beginners) |
-| 5 | `diegosouzapw/OmniRoute` | 1010 | 9961 | [跳转](https://github.com/diegosouzapw/OmniRoute) |
-| 6 | `facebook/astryx` | 708 | 3108 | [跳转](https://github.com/facebook/astryx) |
-| 7 | `HKUDS/Vibe-Trading` | 694 | 17036 | [跳转](https://github.com/HKUDS/Vibe-Trading) |
-| 8 | `browser-use/video-use` | 693 | 13448 | [跳转](https://github.com/browser-use/video-use) |
-| 9 | `ogulcancelik/herdr` | 609 | 9867 | [跳转](https://github.com/ogulcancelik/herdr) |
-| 10 | `altic-dev/FluidVoice` | 572 | 5690 | [跳转](https://github.com/altic-dev/FluidVoice) |
-| 11 | `CoreBunch/Instatic` | 508 | 2165 | [跳转](https://github.com/CoreBunch/Instatic) |
-| 12 | `allenai/olmocr` | 334 | 18467 | [跳转](https://github.com/allenai/olmocr) |
-| 13 | `Mebus/cupp` | 184 | 6291 | [跳转](https://github.com/Mebus/cupp) |
-| 14 | `0xNyk/council-of-high-intelligence` | 161 | 2854 | [跳转](https://github.com/0xNyk/council-of-high-intelligence) |
-| 15 | `refactoringhq/tolaria` | 150 | 18149 | [跳转](https://github.com/refactoringhq/tolaria) |
-| 16 | `Unclecheng-li/VulnClaw` | 132 | 1702 | [跳转](https://github.com/Unclecheng-li/VulnClaw) |
-| 17 | `yikart/AiToEarn` | 116 | 22818 | [跳转](https://github.com/yikart/AiToEarn) |
-| 18 | `logto-io/logto` | 113 | 13446 | [跳转](https://github.com/logto-io/logto) |
-| 19 | `TencentCloud/CubeSandbox` | 79 | 6967 | [跳转](https://github.com/TencentCloud/CubeSandbox) |
-| 20 | `togatoga/karukan` | 42 | 624 | [跳转](https://github.com/togatoga/karukan) |
+| 1 | `hasaneyldrm/exercises-dataset` | 2470 | 8899 | [跳转](https://github.com/hasaneyldrm/exercises-dataset) |
+| 2 | `msitarzewski/agency-agents` | 2114 | 124972 | [跳转](https://github.com/msitarzewski/agency-agents) |
+| 3 | `usestrix/strix` | 1211 | 30841 | [跳转](https://github.com/usestrix/strix) |
+| 4 | `microsoft/AI-For-Beginners` | 1096 | 51053 | [跳转](https://github.com/microsoft/AI-For-Beginners) |
+| 5 | `obra/superpowers` | 1047 | 243980 | [跳转](https://github.com/obra/superpowers) |
+| 6 | `JuliusBrussee/caveman` | 866 | 79570 | [跳转](https://github.com/JuliusBrussee/caveman) |
+| 7 | `affaan-m/ECC` | 721 | 224878 | [跳转](https://github.com/affaan-m/ECC) |
+| 8 | `HKUDS/Vibe-Trading` | 694 | 17118 | [跳转](https://github.com/HKUDS/Vibe-Trading) |
+| 9 | `browser-use/video-use` | 693 | 13522 | [跳转](https://github.com/browser-use/video-use) |
+| 10 | `santifer/career-ops` | 322 | 57332 | [跳转](https://github.com/santifer/career-ops) |
+| 11 | `ChromeDevTools/chrome-devtools-mcp` | 92 | 44931 | [跳转](https://github.com/ChromeDevTools/chrome-devtools-mcp) |
+| 12 | `langflow-ai/langflow` | 74 | 150412 | [跳转](https://github.com/langflow-ai/langflow) |
+| 13 | `openai/codex-plugin-cc` | 72 | 22299 | [跳转](https://github.com/openai/codex-plugin-cc) |
+| 14 | `agentskills/agentskills` | 47 | 21415 | [跳转](https://github.com/agentskills/agentskills) |
+| 15 | `pytorch/pytorch` | 45 | 101067 | [跳转](https://github.com/pytorch/pytorch) |
+| 16 | `harvard-edge/cs249r_book` | 33 | 25169 | [跳转](https://github.com/harvard-edge/cs249r_book) |
+| 17 | `ryanmcdermott/clean-code-javascript` | 11 | 94469 | [跳转](https://github.com/ryanmcdermott/clean-code-javascript) |
+| 18 | `actions/checkout` | 5 | 8092 | [跳转](https://github.com/actions/checkout) |
