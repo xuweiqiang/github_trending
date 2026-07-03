@@ -1,23 +1,26 @@
 # GitHub 24h Star 增长榜
 
-- 生成时间: 2026-07-03 15:42:22 +0800
+- 生成时间: 2026-07-03 19:03:39 +0800
 
 | 排名 | 项目 | 24h 增长 | 总 Stars | 链接 |
 |---:|---|---:|---:|---|
-| 1 | `msitarzewski/agency-agents` | 3032 | 125921 | [跳转](https://github.com/msitarzewski/agency-agents) |
-| 2 | `usestrix/strix` | 2137 | 33049 | [跳转](https://github.com/usestrix/strix) |
-| 3 | `HKUDS/Vibe-Trading` | 939 | 17518 | [跳转](https://github.com/HKUDS/Vibe-Trading) |
-| 4 | `hasaneyldrm/exercises-dataset` | 938 | 9545 | [跳转](https://github.com/hasaneyldrm/exercises-dataset) |
-| 5 | `JuliusBrussee/caveman` | 926 | 81791 | [跳转](https://github.com/JuliusBrussee/caveman) |
-| 6 | `obra/superpowers` | 897 | 244841 | [跳转](https://github.com/obra/superpowers) |
-| 7 | `browser-use/video-use` | 554 | 14025 | [跳转](https://github.com/browser-use/video-use) |
-| 8 | `affaan-m/ECC` | 486 | 225374 | [跳转](https://github.com/affaan-m/ECC) |
-| 9 | `santifer/career-ops` | 372 | 58156 | [跳转](https://github.com/santifer/career-ops) |
-| 10 | `openai/codex-plugin-cc` | 352 | 22817 | [跳转](https://github.com/openai/codex-plugin-cc) |
-| 11 | `langflow-ai/langflow` | 117 | 150948 | [跳转](https://github.com/langflow-ai/langflow) |
-| 12 | `ChromeDevTools/chrome-devtools-mcp` | 104 | 45223 | [跳转](https://github.com/ChromeDevTools/chrome-devtools-mcp) |
-| 13 | `agentskills/agentskills` | 86 | 21736 | [跳转](https://github.com/agentskills/agentskills) |
-| 14 | `harvard-edge/cs249r_book` | 68 | 25816 | [跳转](https://github.com/harvard-edge/cs249r_book) |
-| 15 | `pytorch/pytorch` | 65 | 101311 | [跳转](https://github.com/pytorch/pytorch) |
-| 16 | `ryanmcdermott/clean-code-javascript` | 27 | 94641 | [跳转](https://github.com/ryanmcdermott/clean-code-javascript) |
-| 17 | `actions/checkout` | 26 | 8199 | [跳转](https://github.com/actions/checkout) |
+| 1 | `msitarzewski/agency-agents` | 3032 | 126102 | [跳转](https://github.com/msitarzewski/agency-agents) |
+| 2 | `usestrix/strix` | 2137 | 33492 | [跳转](https://github.com/usestrix/strix) |
+| 3 | `facebook/astryx` | 1108 | 4025 | [跳转](https://github.com/facebook/astryx) |
+| 4 | `safishamsi/graphify` | 937 | 76540 | [跳转](https://github.com/safishamsi/graphify) |
+| 5 | `JuliusBrussee/caveman` | 926 | 82311 | [跳转](https://github.com/JuliusBrussee/caveman) |
+| 6 | `obra/superpowers` | 897 | 245082 | [跳转](https://github.com/obra/superpowers) |
+| 7 | `ogulcancelik/herdr` | 571 | 10377 | [跳转](https://github.com/ogulcancelik/herdr) |
+| 8 | `openai/codex-plugin-cc` | 352 | 22898 | [跳转](https://github.com/openai/codex-plugin-cc) |
+| 9 | `TencentCloud/CubeSandbox` | 314 | 7027 | [跳转](https://github.com/TencentCloud/CubeSandbox) |
+| 10 | `rommapp/romm` | 236 | 9552 | [跳转](https://github.com/rommapp/romm) |
+| 11 | `anthropics/claude-code` | 202 | 135620 | [跳转](https://github.com/anthropics/claude-code) |
+| 12 | `supabase/supabase` | 145 | 105217 | [跳转](https://github.com/supabase/supabase) |
+| 13 | `ChromeDevTools/chrome-devtools-mcp` | 104 | 45306 | [跳转](https://github.com/ChromeDevTools/chrome-devtools-mcp) |
+| 14 | `agentskills/agentskills` | 86 | 21798 | [跳转](https://github.com/agentskills/agentskills) |
+| 15 | `elastic/elasticsearch` | 77 | 77221 | [跳转](https://github.com/elastic/elasticsearch) |
+| 16 | `harvard-edge/cs249r_book` | 68 | 25922 | [跳转](https://github.com/harvard-edge/cs249r_book) |
+| 17 | `pytorch/pytorch` | 65 | 101342 | [跳转](https://github.com/pytorch/pytorch) |
+| 18 | `apache/maven` | 53 | 5180 | [跳转](https://github.com/apache/maven) |
+| 19 | `ansible/ansible` | 50 | 69080 | [跳转](https://github.com/ansible/ansible) |
+| 20 | `actions/checkout` | 26 | 8213 | [跳转](https://github.com/actions/checkout) |
