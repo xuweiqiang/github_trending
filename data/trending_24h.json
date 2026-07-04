@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-07-05T06:14:42.200583+08:00",
+  "generated_at": "2026-07-05T07:17:39.891040+08:00",
   "count": 18,
   "items": [
     {
       "repo": "usestrix/strix",
       "url": "https://github.com/usestrix/strix",
       "stars_today": 1910,
-      "total_stars": 35946,
+      "total_stars": 35990,
       "language": "Python",
       "description": "Star usestrix / strix Open-source AI penetration testing tool to find and fix your app’s vulnerabilities."
     },
@@ -16,7 +16,7 @@
       "repo": "JuliusBrussee/caveman",
       "url": "https://github.com/JuliusBrussee/caveman",
       "stars_today": 1089,
-      "total_stars": 83872,
+      "total_stars": 83914,
       "language": "JavaScript",
       "description": "Sponsor Star JuliusBrussee / caveman 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman"
     },
@@ -24,7 +24,7 @@
       "repo": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "stars_today": 1013,
-      "total_stars": 156498,
+      "total_stars": 156527,
       "language": "Shell",
       "description": "Sponsor Star mattpocock / skills Skills for Real Engineers. Straight from my .claude directory."
     },
@@ -32,7 +32,7 @@
       "repo": "Zackriya-Solutions/meetily",
       "url": "https://github.com/Zackriya-Solutions/meetily",
       "stars_today": 865,
-      "total_stars": 15144,
+      "total_stars": 15202,
       "language": "Rust",
       "description": "Sponsor Star Zackriya-Solutions / meetily Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai ) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows."
     },
@@ -40,7 +40,7 @@
       "repo": "alibaba/page-agent",
       "url": "https://github.com/alibaba/page-agent",
       "stars_today": 726,
-      "total_stars": 23053,
+      "total_stars": 23078,
       "language": "TypeScript",
       "description": "Star alibaba / page-agent JavaScript in-page GUI agent. Control web interfaces with natural language."
     },
@@ -48,7 +48,7 @@
       "repo": "openai/codex-plugin-cc",
       "url": "https://github.com/openai/codex-plugin-cc",
       "stars_today": 716,
-      "total_stars": 24278,
+      "total_stars": 24345,
       "language": "JavaScript",
       "description": "Star openai / codex-plugin-cc Use Codex from Claude Code to review code or delegate tasks."
     },
@@ -56,7 +56,7 @@
       "repo": "ogulcancelik/herdr",
       "url": "https://github.com/ogulcancelik/herdr",
       "stars_today": 706,
-      "total_stars": 11380,
+      "total_stars": 11409,
       "language": "Rust",
       "description": "Sponsor Star ogulcancelik / herdr agent multiplexer that lives in your terminal."
     },
@@ -64,7 +64,7 @@
       "repo": "harvard-edge/cs249r_book",
       "url": "https://github.com/harvard-edge/cs249r_book",
       "stars_today": 446,
-      "total_stars": 26532,
+      "total_stars": 26547,
       "language": "Python",
       "description": "Star harvard-edge / cs249r_book Machine Learning Systems"
     },
@@ -72,7 +72,7 @@
       "repo": "asgeirtj/system_prompts_leaks",
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "stars_today": 432,
-      "total_stars": 48846,
+      "total_stars": 48877,
       "language": "JavaScript",
       "description": "Sponsor Star asgeirtj / system_prompts_leaks Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly."
     },
@@ -80,7 +80,7 @@
       "repo": "rommapp/romm",
       "url": "https://github.com/rommapp/romm",
       "stars_today": 400,
-      "total_stars": 10169,
+      "total_stars": 10185,
       "language": "Python",
       "description": "Star rommapp / romm A beautiful, powerful, self-hosted rom manager and player."
     },
@@ -88,7 +88,7 @@
       "repo": "agentskills/agentskills",
       "url": "https://github.com/agentskills/agentskills",
       "stars_today": 351,
-      "total_stars": 22297,
+      "total_stars": 22313,
       "language": "Python",
       "description": "Star agentskills / agentskills Specification and documentation for Agent Skills"
     },
@@ -96,7 +96,7 @@
       "repo": "chthollyphile/folia-major",
       "url": "https://github.com/chthollyphile/folia-major",
       "stars_today": 319,
-      "total_stars": 976,
+      "total_stars": 983,
       "language": "TypeScript",
       "description": "Star chthollyphile / folia-major 专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器"
     },
@@ -104,7 +104,7 @@
       "repo": "ChromeDevTools/chrome-devtools-mcp",
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "stars_today": 303,
-      "total_stars": 45747,
+      "total_stars": 45759,
       "language": "TypeScript",
       "description": "Star ChromeDevTools / chrome-devtools-mcp Chrome DevTools for coding agents"
     },
@@ -112,7 +112,7 @@
       "repo": "immich-app/immich",
       "url": "https://github.com/immich-app/immich",
       "stars_today": 198,
-      "total_stars": 105588,
+      "total_stars": 105603,
       "language": "TypeScript",
       "description": "Star immich-app / immich High performance self-hosted photo and video management solution."
     },
@@ -120,7 +120,7 @@
       "repo": "alirezarezvani/claude-skills",
       "url": "https://github.com/alirezarezvani/claude-skills",
       "stars_today": 197,
-      "total_stars": 20114,
+      "total_stars": 20134,
       "language": "Python",
       "description": "Star alirezarezvani / claude-skills 337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills."
     },
@@ -128,7 +128,7 @@
       "repo": "CoplayDev/unity-mcp",
       "url": "https://github.com/CoplayDev/unity-mcp",
       "stars_today": 68,
-      "total_stars": 11564,
+      "total_stars": 11579,
       "language": "C#",
       "description": "Sponsor Star CoplayDev / unity-mcp Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity."
     },
@@ -136,7 +136,7 @@
       "repo": "dotnet/skills",
       "url": "https://github.com/dotnet/skills",
       "stars_today": 57,
-      "total_stars": 3790,
+      "total_stars": 3798,
       "language": "C#",
       "description": "Star dotnet / skills Repository for skills to assist AI coding agents with .NET and C#"
     },
@@ -144,7 +144,7 @@
       "repo": "crynta/terax-ai",
       "url": "https://github.com/crynta/terax-ai",
       "stars_today": 44,
-      "total_stars": 8028,
+      "total_stars": 8041,
       "language": "TypeScript",
       "description": "Star crynta / terax-ai Lightweight (7MB) Terminal-first AI-native dev workspace"
     }
