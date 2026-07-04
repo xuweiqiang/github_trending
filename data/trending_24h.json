@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-07-04T17:33:37.242291+08:00",
-  "count": 19,
+  "generated_at": "2026-07-04T19:48:13.730869+08:00",
+  "count": 18,
   "items": [
     {
       "repo": "JuliusBrussee/caveman",
       "url": "https://github.com/JuliusBrussee/caveman",
       "stars_today": 2863,
-      "total_stars": 83321,
+      "total_stars": 83420,
       "language": "JavaScript",
       "description": "Sponsor Star JuliusBrussee / caveman 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman"
     },
@@ -16,39 +16,31 @@
       "repo": "usestrix/strix",
       "url": "https://github.com/usestrix/strix",
       "stars_today": 2803,
-      "total_stars": 35284,
+      "total_stars": 35457,
       "language": "Python",
       "description": "Star usestrix / strix Open-source AI penetration testing tool to find and fix your app’s vulnerabilities."
     },
     {
-      "repo": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "stars_today": 1209,
-      "total_stars": 245793,
+      "repo": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "stars_today": 1289,
+      "total_stars": 156055,
       "language": "Shell",
-      "description": "Sponsor Star obra / superpowers An agentic skills framework & software development methodology that works."
+      "description": "Sponsor Star mattpocock / skills Skills for Real Engineers. Straight from my .claude directory."
     },
     {
-      "repo": "msitarzewski/agency-agents",
-      "url": "https://github.com/msitarzewski/agency-agents",
-      "stars_today": 1208,
-      "total_stars": 126749,
-      "language": "Shell",
-      "description": "Sponsor Star msitarzewski / agency-agents A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables."
-    },
-    {
-      "repo": "facebook/astryx",
-      "url": "https://github.com/facebook/astryx",
-      "stars_today": 885,
-      "total_stars": 5001,
+      "repo": "alibaba/page-agent",
+      "url": "https://github.com/alibaba/page-agent",
+      "stars_today": 1110,
+      "total_stars": 22699,
       "language": "TypeScript",
-      "description": "Star facebook / astryx An open source design system that's fully customizable and agent ready"
+      "description": "Star alibaba / page-agent JavaScript in-page GUI agent. Control web interfaces with natural language."
     },
     {
       "repo": "harvard-edge/cs249r_book",
       "url": "https://github.com/harvard-edge/cs249r_book",
       "stars_today": 793,
-      "total_stars": 26342,
+      "total_stars": 26382,
       "language": "Python",
       "description": "Star harvard-edge / cs249r_book Machine Learning Systems"
     },
@@ -56,23 +48,39 @@
       "repo": "openai/codex-plugin-cc",
       "url": "https://github.com/openai/codex-plugin-cc",
       "stars_today": 634,
-      "total_stars": 23480,
+      "total_stars": 23592,
       "language": "JavaScript",
       "description": "Star openai / codex-plugin-cc Use Codex from Claude Code to review code or delegate tasks."
+    },
+    {
+      "repo": "Zackriya-Solutions/meetily",
+      "url": "https://github.com/Zackriya-Solutions/meetily",
+      "stars_today": 607,
+      "total_stars": 14435,
+      "language": "Rust",
+      "description": "Sponsor Star Zackriya-Solutions / meetily Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai ) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows."
     },
     {
       "repo": "ogulcancelik/herdr",
       "url": "https://github.com/ogulcancelik/herdr",
       "stars_today": 478,
-      "total_stars": 11023,
+      "total_stars": 11076,
       "language": "Rust",
       "description": "Sponsor Star ogulcancelik / herdr agent multiplexer that lives in your terminal."
+    },
+    {
+      "repo": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "stars_today": 432,
+      "total_stars": 48406,
+      "language": "JavaScript",
+      "description": "Sponsor Star asgeirtj / system_prompts_leaks Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly."
     },
     {
       "repo": "agentskills/agentskills",
       "url": "https://github.com/agentskills/agentskills",
       "stars_today": 406,
-      "total_stars": 22122,
+      "total_stars": 22158,
       "language": "Python",
       "description": "Star agentskills / agentskills Specification and documentation for Agent Skills"
     },
@@ -80,81 +88,65 @@
       "repo": "ChromeDevTools/chrome-devtools-mcp",
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "stars_today": 405,
-      "total_stars": 45591,
+      "total_stars": 45613,
       "language": "TypeScript",
       "description": "Star ChromeDevTools / chrome-devtools-mcp Chrome DevTools for coding agents"
     },
     {
-      "repo": "pytorch/pytorch",
-      "url": "https://github.com/pytorch/pytorch",
-      "stars_today": 293,
-      "total_stars": 101476,
-      "language": "Python",
-      "description": "Star pytorch / pytorch Tensors and Dynamic neural networks in Python with strong GPU acceleration"
+      "repo": "chthollyphile/folia-major",
+      "url": "https://github.com/chthollyphile/folia-major",
+      "stars_today": 319,
+      "total_stars": 915,
+      "language": "TypeScript",
+      "description": "Star chthollyphile / folia-major 专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器"
+    },
+    {
+      "repo": "immich-app/immich",
+      "url": "https://github.com/immich-app/immich",
+      "stars_today": 308,
+      "total_stars": 105373,
+      "language": "TypeScript",
+      "description": "Star immich-app / immich High performance self-hosted photo and video management solution."
     },
     {
       "repo": "rommapp/romm",
       "url": "https://github.com/rommapp/romm",
       "stars_today": 239,
-      "total_stars": 9927,
+      "total_stars": 9957,
       "language": "Python",
       "description": "Star rommapp / romm A beautiful, powerful, self-hosted rom manager and player."
     },
     {
-      "repo": "anthropics/claude-code",
-      "url": "https://github.com/anthropics/claude-code",
-      "stars_today": 221,
-      "total_stars": 135983,
+      "repo": "alirezarezvani/claude-skills",
+      "url": "https://github.com/alirezarezvani/claude-skills",
+      "stars_today": 130,
+      "total_stars": 19918,
       "language": "Python",
-      "description": "Star anthropics / claude-code Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
+      "description": "Star alirezarezvani / claude-skills 337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills."
     },
     {
-      "repo": "supabase/supabase",
-      "url": "https://github.com/supabase/supabase",
-      "stars_today": 169,
-      "total_stars": 105630,
+      "repo": "CoplayDev/unity-mcp",
+      "url": "https://github.com/CoplayDev/unity-mcp",
+      "stars_today": 49,
+      "total_stars": 11369,
+      "language": "C#",
+      "description": "Sponsor Star CoplayDev / unity-mcp Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity."
+    },
+    {
+      "repo": "crynta/terax-ai",
+      "url": "https://github.com/crynta/terax-ai",
+      "stars_today": 44,
+      "total_stars": 7906,
       "language": "TypeScript",
-      "description": "Sponsor Star supabase / supabase The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
+      "description": "Star crynta / terax-ai Lightweight (7MB) Terminal-first AI-native dev workspace"
     },
     {
-      "repo": "actions/checkout",
-      "url": "https://github.com/actions/checkout",
-      "stars_today": 129,
-      "total_stars": 8291,
-      "language": "TypeScript",
-      "description": "Star actions / checkout Action for checking out a repo"
-    },
-    {
-      "repo": "elastic/elasticsearch",
-      "url": "https://github.com/elastic/elasticsearch",
-      "stars_today": 91,
-      "total_stars": 77410,
-      "language": "Java",
-      "description": "Star elastic / elasticsearch Free and Open Source, Distributed, RESTful Search Engine"
-    },
-    {
-      "repo": "ansible/ansible",
-      "url": "https://github.com/ansible/ansible",
-      "stars_today": 65,
-      "total_stars": 69266,
-      "language": "Python",
-      "description": "Star ansible / ansible Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com ."
-    },
-    {
-      "repo": "TencentCloud/CubeSandbox",
-      "url": "https://github.com/TencentCloud/CubeSandbox",
-      "stars_today": 60,
-      "total_stars": 7249,
-      "language": "Rust",
-      "description": "Star TencentCloud / CubeSandbox Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents."
-    },
-    {
-      "repo": "apache/maven",
-      "url": "https://github.com/apache/maven",
-      "stars_today": 58,
-      "total_stars": 5260,
-      "language": "Java",
-      "description": "Star apache / maven Apache Maven core"
+      "repo": "dotnet/skills",
+      "url": "https://github.com/dotnet/skills",
+      "stars_today": 33,
+      "total_stars": 3671,
+      "language": "C#",
+      "description": "Star dotnet / skills Repository for skills to assist AI coding agents with .NET and C#"
     }
   ]
 }
