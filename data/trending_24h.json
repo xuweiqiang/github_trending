@@ -1,168 +1,136 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-07-06T17:13:17.519936+08:00",
-  "count": 20,
+  "generated_at": "2026-07-06T21:01:08.341299+08:00",
+  "count": 16,
   "items": [
-    {
-      "repo": "openai/codex-plugin-cc",
-      "url": "https://github.com/openai/codex-plugin-cc",
-      "stars_today": 1532,
-      "total_stars": 25899,
-      "language": "JavaScript",
-      "description": "Star openai / codex-plugin-cc Use Codex from Claude Code to review code or delegate tasks."
-    },
     {
       "repo": "Zackriya-Solutions/meetily",
       "url": "https://github.com/Zackriya-Solutions/meetily",
-      "stars_today": 1409,
-      "total_stars": 18037,
+      "stars_today": 2493,
+      "total_stars": 18374,
       "language": "Rust",
       "description": "Sponsor Star Zackriya-Solutions / meetily Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai ) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows."
     },
     {
-      "repo": "usestrix/strix",
-      "url": "https://github.com/usestrix/strix",
-      "stars_today": 1114,
-      "total_stars": 37562,
-      "language": "Python",
-      "description": "Star usestrix / strix Open-source AI penetration testing tool to find and fix your app’s vulnerabilities."
-    },
-    {
-      "repo": "JuliusBrussee/caveman",
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "stars_today": 1052,
-      "total_stars": 85279,
-      "language": "JavaScript",
-      "description": "Sponsor Star JuliusBrussee / caveman 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman"
-    },
-    {
-      "repo": "asgeirtj/system_prompts_leaks",
-      "url": "https://github.com/asgeirtj/system_prompts_leaks",
-      "stars_today": 981,
-      "total_stars": 50556,
-      "language": "JavaScript",
-      "description": "Sponsor Star asgeirtj / system_prompts_leaks Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly."
-    },
-    {
       "repo": "Leonxlnx/taste-skill",
       "url": "https://github.com/Leonxlnx/taste-skill",
-      "stars_today": 863,
-      "total_stars": 58141,
+      "stars_today": 1453,
+      "total_stars": 58357,
       "language": "JavaScript",
       "description": "Sponsor Star Leonxlnx / taste-skill Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop"
     },
     {
-      "repo": "alibaba/page-agent",
-      "url": "https://github.com/alibaba/page-agent",
-      "stars_today": 805,
-      "total_stars": 24321,
+      "repo": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "stars_today": 1386,
+      "total_stars": 50795,
+      "language": "JavaScript",
+      "description": "Sponsor Star asgeirtj / system_prompts_leaks Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly."
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "stars_today": 1114,
+      "total_stars": 70325,
+      "language": "Shell",
+      "description": "Star addyosmani / agent-skills Production-grade engineering skills for AI coding agents."
+    },
+    {
+      "repo": "openai/codex-plugin-cc",
+      "url": "https://github.com/openai/codex-plugin-cc",
+      "stars_today": 910,
+      "total_stars": 26025,
+      "language": "JavaScript",
+      "description": "Star openai / codex-plugin-cc Use Codex from Claude Code to review code or delegate tasks."
+    },
+    {
+      "repo": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "stars_today": 834,
+      "total_stars": 145668,
       "language": "TypeScript",
-      "description": "Star alibaba / page-agent JavaScript in-page GUI agent. Control web interfaces with natural language."
+      "description": "Star firecrawl / firecrawl The API to search, scrape, and interact with the web at scale. 🔥"
     },
     {
       "repo": "ogulcancelik/herdr",
       "url": "https://github.com/ogulcancelik/herdr",
-      "stars_today": 651,
-      "total_stars": 12400,
+      "stars_today": 783,
+      "total_stars": 12532,
       "language": "Rust",
       "description": "Sponsor Star ogulcancelik / herdr agent multiplexer that lives in your terminal."
     },
     {
-      "repo": "facebook/astryx",
-      "url": "https://github.com/facebook/astryx",
-      "stars_today": 522,
-      "total_stars": 6177,
-      "language": "TypeScript",
-      "description": "Star facebook / astryx An open source design system that's fully customizable and agent ready"
-    },
-    {
-      "repo": "immich-app/immich",
-      "url": "https://github.com/immich-app/immich",
-      "stars_today": 470,
-      "total_stars": 106344,
-      "language": "TypeScript",
-      "description": "Star immich-app / immich High performance self-hosted photo and video management solution."
-    },
-    {
-      "repo": "CoplayDev/unity-mcp",
-      "url": "https://github.com/CoplayDev/unity-mcp",
-      "stars_today": 414,
-      "total_stars": 12102,
-      "language": "C#",
-      "description": "Sponsor Star CoplayDev / unity-mcp Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity."
-    },
-    {
-      "repo": "rommapp/romm",
-      "url": "https://github.com/rommapp/romm",
-      "stars_today": 410,
-      "total_stars": 10698,
-      "language": "Python",
-      "description": "Star rommapp / romm A beautiful, powerful, self-hosted rom manager and player."
-    },
-    {
       "repo": "alirezarezvani/claude-skills",
       "url": "https://github.com/alirezarezvani/claude-skills",
-      "stars_today": 392,
-      "total_stars": 20839,
+      "stars_today": 611,
+      "total_stars": 20925,
       "language": "Python",
       "description": "Star alirezarezvani / claude-skills 337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills."
     },
     {
-      "repo": "harvard-edge/cs249r_book",
-      "url": "https://github.com/harvard-edge/cs249r_book",
-      "stars_today": 329,
-      "total_stars": 27002,
-      "language": "Python",
-      "description": "Star harvard-edge / cs249r_book Machine Learning Systems"
-    },
-    {
-      "repo": "dotnet/skills",
-      "url": "https://github.com/dotnet/skills",
-      "stars_today": 246,
-      "total_stars": 4137,
-      "language": "C#",
-      "description": "Star dotnet / skills Repository for skills to assist AI coding agents with .NET and C#"
-    },
-    {
-      "repo": "ruvnet/RuView",
-      "url": "https://github.com/ruvnet/RuView",
-      "stars_today": 161,
-      "total_stars": 76892,
-      "language": "Rust",
-      "description": "Star ruvnet / RuView π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video."
-    },
-    {
-      "repo": "anthropics/claude-code",
-      "url": "https://github.com/anthropics/claude-code",
-      "stars_today": 156,
-      "total_stars": 136442,
-      "language": "Python",
-      "description": "Star anthropics / claude-code Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
-    },
-    {
       "repo": "steipete/CodexBar",
       "url": "https://github.com/steipete/CodexBar",
-      "stars_today": 153,
-      "total_stars": 16465,
+      "stars_today": 598,
+      "total_stars": 16565,
       "language": "Swift",
       "description": "Sponsor Star steipete / CodexBar Show usage stats for OpenAI Codex and Claude Code, without having to login."
     },
     {
-      "repo": "hesreallyhim/awesome-claude-code",
-      "url": "https://github.com/hesreallyhim/awesome-claude-code",
-      "stars_today": 148,
-      "total_stars": 48618,
-      "language": "Python",
-      "description": "Sponsor Star hesreallyhim / awesome-claude-code A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins"
+      "repo": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "stars_today": 471,
+      "total_stars": 77024,
+      "language": "Rust",
+      "description": "Star ruvnet / RuView π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video."
     },
     {
-      "repo": "coreyhaines31/marketingskills",
-      "url": "https://github.com/coreyhaines31/marketingskills",
-      "stars_today": 145,
-      "total_stars": 36714,
-      "language": "JavaScript",
-      "description": "Sponsor Star coreyhaines31 / marketingskills Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering."
+      "repo": "bradautomates/claude-video",
+      "url": "https://github.com/bradautomates/claude-video",
+      "stars_today": 368,
+      "total_stars": 3811,
+      "language": "Python",
+      "description": "Star bradautomates / claude-video Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude."
+    },
+    {
+      "repo": "alibaba/zvec",
+      "url": "https://github.com/alibaba/zvec",
+      "stars_today": 355,
+      "total_stars": 13183,
+      "language": "C++",
+      "description": "Star alibaba / zvec A lightweight, lightning-fast, in-process vector database"
+    },
+    {
+      "repo": "sindresorhus/awesome",
+      "url": "https://github.com/sindresorhus/awesome",
+      "stars_today": 352,
+      "total_stars": 482008,
+      "language": "",
+      "description": "Sponsor Star sindresorhus / awesome 😎 Awesome lists about all kinds of interesting topics"
+    },
+    {
+      "repo": "gastownhall/gastown",
+      "url": "https://github.com/gastownhall/gastown",
+      "stars_today": 293,
+      "total_stars": 16543,
+      "language": "Go",
+      "description": "Star gastownhall / gastown Gas Town - multi-agent workspace manager"
+    },
+    {
+      "repo": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "stars_today": 237,
+      "total_stars": 49507,
+      "language": "Python",
+      "description": "Star mvanhorn / last30days-skill AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+    },
+    {
+      "repo": "karakeep-app/karakeep",
+      "url": "https://github.com/karakeep-app/karakeep",
+      "stars_today": 178,
+      "total_stars": 26696,
+      "language": "TypeScript",
+      "description": "Star karakeep-app / karakeep A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search"
     }
   ]
 }
