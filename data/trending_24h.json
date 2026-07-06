@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-07-06T21:01:08.341299+08:00",
+  "generated_at": "2026-07-07T00:32:37.794492+08:00",
   "count": 16,
   "items": [
     {
       "repo": "Zackriya-Solutions/meetily",
       "url": "https://github.com/Zackriya-Solutions/meetily",
       "stars_today": 2493,
-      "total_stars": 18374,
+      "total_stars": 18830,
       "language": "Rust",
       "description": "Sponsor Star Zackriya-Solutions / meetily Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai ) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows."
     },
@@ -16,7 +16,7 @@
       "repo": "Leonxlnx/taste-skill",
       "url": "https://github.com/Leonxlnx/taste-skill",
       "stars_today": 1453,
-      "total_stars": 58357,
+      "total_stars": 58604,
       "language": "JavaScript",
       "description": "Sponsor Star Leonxlnx / taste-skill Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop"
     },
@@ -24,7 +24,7 @@
       "repo": "asgeirtj/system_prompts_leaks",
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "stars_today": 1386,
-      "total_stars": 50795,
+      "total_stars": 51044,
       "language": "JavaScript",
       "description": "Sponsor Star asgeirtj / system_prompts_leaks Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly."
     },
@@ -32,7 +32,7 @@
       "repo": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "stars_today": 1114,
-      "total_stars": 70325,
+      "total_stars": 70503,
       "language": "Shell",
       "description": "Star addyosmani / agent-skills Production-grade engineering skills for AI coding agents."
     },
@@ -40,7 +40,7 @@
       "repo": "openai/codex-plugin-cc",
       "url": "https://github.com/openai/codex-plugin-cc",
       "stars_today": 910,
-      "total_stars": 26025,
+      "total_stars": 26145,
       "language": "JavaScript",
       "description": "Star openai / codex-plugin-cc Use Codex from Claude Code to review code or delegate tasks."
     },
@@ -48,7 +48,7 @@
       "repo": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "stars_today": 834,
-      "total_stars": 145668,
+      "total_stars": 145901,
       "language": "TypeScript",
       "description": "Star firecrawl / firecrawl The API to search, scrape, and interact with the web at scale. 🔥"
     },
@@ -56,7 +56,7 @@
       "repo": "ogulcancelik/herdr",
       "url": "https://github.com/ogulcancelik/herdr",
       "stars_today": 783,
-      "total_stars": 12532,
+      "total_stars": 12672,
       "language": "Rust",
       "description": "Sponsor Star ogulcancelik / herdr agent multiplexer that lives in your terminal."
     },
@@ -64,7 +64,7 @@
       "repo": "alirezarezvani/claude-skills",
       "url": "https://github.com/alirezarezvani/claude-skills",
       "stars_today": 611,
-      "total_stars": 20925,
+      "total_stars": 21019,
       "language": "Python",
       "description": "Star alirezarezvani / claude-skills 337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills."
     },
@@ -72,63 +72,63 @@
       "repo": "steipete/CodexBar",
       "url": "https://github.com/steipete/CodexBar",
       "stars_today": 598,
-      "total_stars": 16565,
+      "total_stars": 16642,
       "language": "Swift",
       "description": "Sponsor Star steipete / CodexBar Show usage stats for OpenAI Codex and Claude Code, without having to login."
+    },
+    {
+      "repo": "bradautomates/claude-video",
+      "url": "https://github.com/bradautomates/claude-video",
+      "stars_today": 539,
+      "total_stars": 4001,
+      "language": "Python",
+      "description": "Star bradautomates / claude-video Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude."
+    },
+    {
+      "repo": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "stars_today": 511,
+      "total_stars": 49595,
+      "language": "Python",
+      "description": "Star mvanhorn / last30days-skill AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
     },
     {
       "repo": "ruvnet/RuView",
       "url": "https://github.com/ruvnet/RuView",
       "stars_today": 471,
-      "total_stars": 77024,
+      "total_stars": 77206,
       "language": "Rust",
       "description": "Star ruvnet / RuView π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video."
     },
     {
-      "repo": "bradautomates/claude-video",
-      "url": "https://github.com/bradautomates/claude-video",
-      "stars_today": 368,
-      "total_stars": 3811,
-      "language": "Python",
-      "description": "Star bradautomates / claude-video Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude."
+      "repo": "sindresorhus/awesome",
+      "url": "https://github.com/sindresorhus/awesome",
+      "stars_today": 393,
+      "total_stars": 482110,
+      "language": "",
+      "description": "Sponsor Star sindresorhus / awesome 😎 Awesome lists about all kinds of interesting topics"
     },
     {
       "repo": "alibaba/zvec",
       "url": "https://github.com/alibaba/zvec",
       "stars_today": 355,
-      "total_stars": 13183,
+      "total_stars": 13270,
       "language": "C++",
       "description": "Star alibaba / zvec A lightweight, lightning-fast, in-process vector database"
-    },
-    {
-      "repo": "sindresorhus/awesome",
-      "url": "https://github.com/sindresorhus/awesome",
-      "stars_today": 352,
-      "total_stars": 482008,
-      "language": "",
-      "description": "Sponsor Star sindresorhus / awesome 😎 Awesome lists about all kinds of interesting topics"
     },
     {
       "repo": "gastownhall/gastown",
       "url": "https://github.com/gastownhall/gastown",
       "stars_today": 293,
-      "total_stars": 16543,
+      "total_stars": 16597,
       "language": "Go",
       "description": "Star gastownhall / gastown Gas Town - multi-agent workspace manager"
-    },
-    {
-      "repo": "mvanhorn/last30days-skill",
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "stars_today": 237,
-      "total_stars": 49507,
-      "language": "Python",
-      "description": "Star mvanhorn / last30days-skill AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
     },
     {
       "repo": "karakeep-app/karakeep",
       "url": "https://github.com/karakeep-app/karakeep",
       "stars_today": 178,
-      "total_stars": 26696,
+      "total_stars": 26764,
       "language": "TypeScript",
       "description": "Star karakeep-app / karakeep A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search"
     }
