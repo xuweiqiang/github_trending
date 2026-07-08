@@ -1,19 +1,19 @@
 # GitHub 24h Star 增长榜
 
-- 生成时间: 2026-07-08 14:41:16 +0800
+- 生成时间: 2026-07-08 17:41:06 +0800
 
 | 排名 | 项目 | 24h 增长 | 总 Stars | 链接 |
 |---:|---|---:|---:|---|
-| 1 | `MadsLorentzen/ai-job-search` | 2514 | 12101 | [跳转](https://github.com/MadsLorentzen/ai-job-search) |
-| 2 | `Zackriya-Solutions/meetily` | 1777 | 21081 | [跳转](https://github.com/Zackriya-Solutions/meetily) |
-| 3 | `asgeirtj/system_prompts_leaks` | 1691 | 53347 | [跳转](https://github.com/asgeirtj/system_prompts_leaks) |
-| 4 | `addyosmani/agent-skills` | 1317 | 72470 | [跳转](https://github.com/addyosmani/agent-skills) |
-| 5 | `ruvnet/RuView` | 1129 | 78680 | [跳转](https://github.com/ruvnet/RuView) |
-| 6 | `bradautomates/claude-video` | 965 | 5425 | [跳转](https://github.com/bradautomates/claude-video) |
-| 7 | `iOfficeAI/OfficeCLI` | 893 | 10527 | [跳转](https://github.com/iOfficeAI/OfficeCLI) |
-| 8 | `TencentCloud/CubeSandbox` | 664 | 8591 | [跳转](https://github.com/TencentCloud/CubeSandbox) |
-| 9 | `kyutai-labs/pocket-tts` | 531 | 6356 | [跳转](https://github.com/kyutai-labs/pocket-tts) |
-| 10 | `steipete/CodexBar` | 376 | 17111 | [跳转](https://github.com/steipete/CodexBar) |
-| 11 | `hesreallyhim/awesome-claude-code` | 144 | 49332 | [跳转](https://github.com/hesreallyhim/awesome-claude-code) |
-| 12 | `AhmadIbrahiim/Website-downloader` | 140 | 4235 | [跳转](https://github.com/AhmadIbrahiim/Website-downloader) |
-| 13 | `dotnet/skills` | 64 | 4361 | [跳转](https://github.com/dotnet/skills) |
+| 1 | `MadsLorentzen/ai-job-search` | 2514 | 12862 | [跳转](https://github.com/MadsLorentzen/ai-job-search) |
+| 2 | `Zackriya-Solutions/meetily` | 1777 | 21271 | [跳转](https://github.com/Zackriya-Solutions/meetily) |
+| 3 | `asgeirtj/system_prompts_leaks` | 1691 | 53502 | [跳转](https://github.com/asgeirtj/system_prompts_leaks) |
+| 4 | `addyosmani/agent-skills` | 1317 | 72649 | [跳转](https://github.com/addyosmani/agent-skills) |
+| 5 | `ruvnet/RuView` | 1129 | 78785 | [跳转](https://github.com/ruvnet/RuView) |
+| 6 | `bradautomates/claude-video` | 965 | 5591 | [跳转](https://github.com/bradautomates/claude-video) |
+| 7 | `iOfficeAI/OfficeCLI` | 893 | 10787 | [跳转](https://github.com/iOfficeAI/OfficeCLI) |
+| 8 | `TencentCloud/CubeSandbox` | 664 | 8663 | [跳转](https://github.com/TencentCloud/CubeSandbox) |
+| 9 | `kyutai-labs/pocket-tts` | 531 | 6448 | [跳转](https://github.com/kyutai-labs/pocket-tts) |
+| 10 | `steipete/CodexBar` | 376 | 17176 | [跳转](https://github.com/steipete/CodexBar) |
+| 11 | `hesreallyhim/awesome-claude-code` | 144 | 49443 | [跳转](https://github.com/hesreallyhim/awesome-claude-code) |
+| 12 | `AhmadIbrahiim/Website-downloader` | 140 | 4357 | [跳转](https://github.com/AhmadIbrahiim/Website-downloader) |
+| 13 | `dotnet/skills` | 64 | 4390 | [跳转](https://github.com/dotnet/skills) |
