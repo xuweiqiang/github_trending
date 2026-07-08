@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-07-08T19:59:15.334286+08:00",
-  "count": 15,
+  "generated_at": "2026-07-08T22:43:51.500778+08:00",
+  "count": 16,
   "items": [
     {
       "repo": "MadsLorentzen/ai-job-search",
       "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "stars_today": 2514,
-      "total_stars": 13351,
+      "stars_today": 5071,
+      "total_stars": 14020,
       "language": "TypeScript",
       "description": "Star MadsLorentzen / ai-job-search AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews."
     },
@@ -16,95 +16,103 @@
       "repo": "Diolinux/PhotoGIMP",
       "url": "https://github.com/Diolinux/PhotoGIMP",
       "stars_today": 2031,
-      "total_stars": 14615,
+      "total_stars": 14780,
       "language": "CSS",
       "description": "Star Diolinux / PhotoGIMP A Patch for GIMP 3+ for Photoshop Users"
     },
     {
-      "repo": "asgeirtj/system_prompts_leaks",
-      "url": "https://github.com/asgeirtj/system_prompts_leaks",
-      "stars_today": 1691,
-      "total_stars": 53596,
-      "language": "JavaScript",
-      "description": "Sponsor Star asgeirtj / system_prompts_leaks Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly."
+      "repo": "iOfficeAI/OfficeCLI",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "stars_today": 1712,
+      "total_stars": 11202,
+      "language": "C#",
+      "description": "Star iOfficeAI / OfficeCLI OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required."
     },
     {
       "repo": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
-      "stars_today": 1317,
-      "total_stars": 72805,
+      "stars_today": 1322,
+      "total_stars": 73168,
       "language": "JavaScript",
       "description": "Star addyosmani / agent-skills Production-grade engineering skills for AI coding agents."
     },
     {
-      "repo": "ruvnet/RuView",
-      "url": "https://github.com/ruvnet/RuView",
-      "stars_today": 1129,
-      "total_stars": 78844,
-      "language": "Rust",
-      "description": "Star ruvnet / RuView π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video."
+      "repo": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "stars_today": 1226,
+      "total_stars": 53747,
+      "language": "JavaScript",
+      "description": "Sponsor Star asgeirtj / system_prompts_leaks Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly."
     },
     {
       "repo": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "stars_today": 999,
-      "total_stars": 249382,
+      "total_stars": 249504,
       "language": "Shell",
       "description": "Sponsor Star obra / superpowers An agentic skills framework & software development methodology that works."
     },
     {
       "repo": "bradautomates/claude-video",
       "url": "https://github.com/bradautomates/claude-video",
-      "stars_today": 965,
-      "total_stars": 5675,
+      "stars_today": 948,
+      "total_stars": 5797,
       "language": "Python",
       "description": "Star bradautomates / claude-video Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude."
     },
     {
-      "repo": "iOfficeAI/OfficeCLI",
-      "url": "https://github.com/iOfficeAI/OfficeCLI",
-      "stars_today": 893,
-      "total_stars": 10956,
-      "language": "C#",
-      "description": "Star iOfficeAI / OfficeCLI OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required."
+      "repo": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "stars_today": 793,
+      "total_stars": 78902,
+      "language": "Rust",
+      "description": "Star ruvnet / RuView π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video."
     },
     {
       "repo": "alibaba/zvec",
       "url": "https://github.com/alibaba/zvec",
       "stars_today": 685,
-      "total_stars": 14209,
+      "total_stars": 14264,
       "language": "C++",
       "description": "Star alibaba / zvec A lightweight, lightning-fast, in-process vector database"
-    },
-    {
-      "repo": "TencentCloud/CubeSandbox",
-      "url": "https://github.com/TencentCloud/CubeSandbox",
-      "stars_today": 664,
-      "total_stars": 8715,
-      "language": "Rust",
-      "description": "Star TencentCloud / CubeSandbox Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents."
     },
     {
       "repo": "mvanhorn/last30days-skill",
       "url": "https://github.com/mvanhorn/last30days-skill",
       "stars_today": 659,
-      "total_stars": 50490,
+      "total_stars": 50548,
       "language": "Python",
       "description": "Star mvanhorn / last30days-skill AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
     },
     {
+      "repo": "TencentCloud/CubeSandbox",
+      "url": "https://github.com/TencentCloud/CubeSandbox",
+      "stars_today": 555,
+      "total_stars": 8776,
+      "language": "Rust",
+      "description": "Star TencentCloud / CubeSandbox Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents."
+    },
+    {
       "repo": "TencentCloud/TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars_today": 610,
-      "total_stars": 7328,
+      "stars_today": 351,
+      "total_stars": 7412,
       "language": "TypeScript",
       "description": "Star TencentCloud / TencentDB-Agent-Memory TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies."
+    },
+    {
+      "repo": "huxingyi/autoremesher",
+      "url": "https://github.com/huxingyi/autoremesher",
+      "stars_today": 292,
+      "total_stars": 1840,
+      "language": "C++",
+      "description": "Sponsor Star huxingyi / autoremesher Automatic quad remeshing tool"
     },
     {
       "repo": "prisma/prisma",
       "url": "https://github.com/prisma/prisma",
       "stars_today": 30,
-      "total_stars": 46385,
+      "total_stars": 46423,
       "language": "TypeScript",
       "description": "Star prisma / prisma Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB"
     },
@@ -112,7 +120,7 @@
       "repo": "argoproj/argo-cd",
       "url": "https://github.com/argoproj/argo-cd",
       "stars_today": 20,
-      "total_stars": 23361,
+      "total_stars": 23376,
       "language": "Go",
       "description": "Star argoproj / argo-cd Declarative Continuous Deployment for Kubernetes"
     },
@@ -120,7 +128,7 @@
       "repo": "wonderwhy-er/DesktopCommanderMCP",
       "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
       "stars_today": 20,
-      "total_stars": 6283,
+      "total_stars": 6309,
       "language": "TypeScript",
       "description": "Sponsor Star wonderwhy-er / DesktopCommanderMCP This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities"
     }
