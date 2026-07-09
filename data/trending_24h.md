@@ -1,22 +1,21 @@
 # GitHub 24h Star 增长榜
 
-- 生成时间: 2026-07-09 16:59:19 +0800
+- 生成时间: 2026-07-09 20:17:35 +0800
 
 | 排名 | 项目 | 24h 增长 | 总 Stars | 链接 |
 |---:|---|---:|---:|---|
-| 1 | `MadsLorentzen/ai-job-search` | 5079 | 16498 | [跳转](https://github.com/MadsLorentzen/ai-job-search) |
-| 2 | `iOfficeAI/OfficeCLI` | 1717 | 12660 | [跳转](https://github.com/iOfficeAI/OfficeCLI) |
-| 3 | `addyosmani/agent-skills` | 1297 | 75115 | [跳转](https://github.com/addyosmani/agent-skills) |
-| 4 | `asgeirtj/system_prompts_leaks` | 1218 | 54573 | [跳转](https://github.com/asgeirtj/system_prompts_leaks) |
-| 5 | `Diolinux/PhotoGIMP` | 1125 | 15221 | [跳转](https://github.com/Diolinux/PhotoGIMP) |
-| 6 | `obra/superpowers` | 1116 | 250312 | [跳转](https://github.com/obra/superpowers) |
-| 7 | `bradautomates/claude-video` | 951 | 6305 | [跳转](https://github.com/bradautomates/claude-video) |
-| 8 | `ruvnet/RuView` | 799 | 79436 | [跳转](https://github.com/ruvnet/RuView) |
-| 9 | `TencentCloud/CubeSandbox` | 564 | 9152 | [跳转](https://github.com/TencentCloud/CubeSandbox) |
-| 10 | `alibaba/zvec` | 395 | 14573 | [跳转](https://github.com/alibaba/zvec) |
-| 11 | `mvanhorn/last30days-skill` | 352 | 51033 | [跳转](https://github.com/mvanhorn/last30days-skill) |
-| 12 | `TencentCloud/TencentDB-Agent-Memory` | 318 | 7892 | [跳转](https://github.com/TencentCloud/TencentDB-Agent-Memory) |
-| 13 | `huxingyi/autoremesher` | 296 | 2147 | [跳转](https://github.com/huxingyi/autoremesher) |
-| 14 | `prisma/prisma` | 46 | 46695 | [跳转](https://github.com/prisma/prisma) |
-| 15 | `argoproj/argo-cd` | 29 | 23497 | [跳转](https://github.com/argoproj/argo-cd) |
-| 16 | `wonderwhy-er/DesktopCommanderMCP` | 28 | 6441 | [跳转](https://github.com/wonderwhy-er/DesktopCommanderMCP) |
+| 1 | `MadsLorentzen/ai-job-search` | 3728 | 17113 | [跳转](https://github.com/MadsLorentzen/ai-job-search) |
+| 2 | `addyosmani/agent-skills` | 2582 | 75375 | [跳转](https://github.com/addyosmani/agent-skills) |
+| 3 | `iOfficeAI/OfficeCLI` | 1923 | 12880 | [跳转](https://github.com/iOfficeAI/OfficeCLI) |
+| 4 | `VoltAgent/awesome-design-md` | 1569 | 99032 | [跳转](https://github.com/VoltAgent/awesome-design-md) |
+| 5 | `asgeirtj/system_prompts_leaks` | 1135 | 54717 | [跳转](https://github.com/asgeirtj/system_prompts_leaks) |
+| 6 | `bradautomates/claude-video` | 727 | 6405 | [跳转](https://github.com/bradautomates/claude-video) |
+| 7 | `kyutai-labs/pocket-tts` | 655 | 6735 | [跳转](https://github.com/kyutai-labs/pocket-tts) |
+| 8 | `SmartlyDressedGames/U3-SDK` | 541 | 1752 | [跳转](https://github.com/SmartlyDressedGames/U3-SDK) |
+| 9 | `vxcontrol/pentagi` | 454 | 19065 | [跳转](https://github.com/vxcontrol/pentagi) |
+| 10 | `imthenachoman/How-To-Secure-A-Linux-Server` | 399 | 28827 | [跳转](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) |
+| 11 | `prisma/prisma` | 373 | 46752 | [跳转](https://github.com/prisma/prisma) |
+| 12 | `huxingyi/autoremesher` | 296 | 2197 | [跳转](https://github.com/huxingyi/autoremesher) |
+| 13 | `unclecode/crawl4ai` | 195 | 71611 | [跳转](https://github.com/unclecode/crawl4ai) |
+| 14 | `anthropics/claude-cookbooks` | 194 | 46843 | [跳转](https://github.com/anthropics/claude-cookbooks) |
+| 15 | `wonderwhy-er/DesktopCommanderMCP` | 185 | 6465 | [跳转](https://github.com/wonderwhy-er/DesktopCommanderMCP) |
