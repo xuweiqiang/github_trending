@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-07-09T09:05:24.281279+08:00",
+  "generated_at": "2026-07-09T13:16:36.850178+08:00",
   "count": 15,
   "items": [
     {
       "repo": "iOfficeAI/OfficeCLI",
       "url": "https://github.com/iOfficeAI/OfficeCLI",
       "stars_today": 1717,
-      "total_stars": 11838,
+      "total_stars": 12279,
       "language": "C#",
       "description": "Star iOfficeAI / OfficeCLI OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required."
     },
@@ -16,7 +16,7 @@
       "repo": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "stars_today": 1297,
-      "total_stars": 74083,
+      "total_stars": 74606,
       "language": "JavaScript",
       "description": "Star addyosmani / agent-skills Production-grade engineering skills for AI coding agents."
     },
@@ -24,7 +24,7 @@
       "repo": "asgeirtj/system_prompts_leaks",
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "stars_today": 1218,
-      "total_stars": 54197,
+      "total_stars": 54420,
       "language": "JavaScript",
       "description": "Sponsor Star asgeirtj / system_prompts_leaks Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly."
     },
@@ -32,7 +32,7 @@
       "repo": "Diolinux/PhotoGIMP",
       "url": "https://github.com/Diolinux/PhotoGIMP",
       "stars_today": 1125,
-      "total_stars": 15035,
+      "total_stars": 15135,
       "language": "CSS",
       "description": "Star Diolinux / PhotoGIMP A Patch for GIMP 3+ for Photoshop Users"
     },
@@ -40,7 +40,7 @@
       "repo": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "stars_today": 1116,
-      "total_stars": 249820,
+      "total_stars": 250072,
       "language": "Shell",
       "description": "Sponsor Star obra / superpowers An agentic skills framework & software development methodology that works."
     },
@@ -48,7 +48,7 @@
       "repo": "bradautomates/claude-video",
       "url": "https://github.com/bradautomates/claude-video",
       "stars_today": 951,
-      "total_stars": 6054,
+      "total_stars": 6185,
       "language": "Python",
       "description": "Star bradautomates / claude-video Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude."
     },
@@ -56,7 +56,7 @@
       "repo": "ruvnet/RuView",
       "url": "https://github.com/ruvnet/RuView",
       "stars_today": 799,
-      "total_stars": 79146,
+      "total_stars": 79274,
       "language": "Rust",
       "description": "Star ruvnet / RuView π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video."
     },
@@ -64,7 +64,7 @@
       "repo": "TencentCloud/CubeSandbox",
       "url": "https://github.com/TencentCloud/CubeSandbox",
       "stars_today": 564,
-      "total_stars": 8930,
+      "total_stars": 9035,
       "language": "Rust",
       "description": "Star TencentCloud / CubeSandbox Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents."
     },
@@ -72,7 +72,7 @@
       "repo": "alibaba/zvec",
       "url": "https://github.com/alibaba/zvec",
       "stars_today": 395,
-      "total_stars": 14408,
+      "total_stars": 14498,
       "language": "C++",
       "description": "Star alibaba / zvec A lightweight, lightning-fast, in-process vector database"
     },
@@ -80,7 +80,7 @@
       "repo": "mvanhorn/last30days-skill",
       "url": "https://github.com/mvanhorn/last30days-skill",
       "stars_today": 352,
-      "total_stars": 50754,
+      "total_stars": 50909,
       "language": "Python",
       "description": "Star mvanhorn / last30days-skill AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
     },
@@ -88,7 +88,7 @@
       "repo": "TencentCloud/TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
       "stars_today": 318,
-      "total_stars": 7648,
+      "total_stars": 7782,
       "language": "TypeScript",
       "description": "Star TencentCloud / TencentDB-Agent-Memory TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies."
     },
@@ -96,7 +96,7 @@
       "repo": "huxingyi/autoremesher",
       "url": "https://github.com/huxingyi/autoremesher",
       "stars_today": 296,
-      "total_stars": 2011,
+      "total_stars": 2075,
       "language": "C++",
       "description": "Sponsor Star huxingyi / autoremesher Automatic quad remeshing tool"
     },
@@ -104,7 +104,7 @@
       "repo": "prisma/prisma",
       "url": "https://github.com/prisma/prisma",
       "stars_today": 46,
-      "total_stars": 46554,
+      "total_stars": 46635,
       "language": "TypeScript",
       "description": "Star prisma / prisma Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB"
     },
@@ -112,7 +112,7 @@
       "repo": "argoproj/argo-cd",
       "url": "https://github.com/argoproj/argo-cd",
       "stars_today": 29,
-      "total_stars": 23434,
+      "total_stars": 23465,
       "language": "Go",
       "description": "Star argoproj / argo-cd Declarative Continuous Deployment for Kubernetes"
     },
@@ -120,7 +120,7 @@
       "repo": "wonderwhy-er/DesktopCommanderMCP",
       "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
       "stars_today": 28,
-      "total_stars": 6375,
+      "total_stars": 6418,
       "language": "TypeScript",
       "description": "Sponsor Star wonderwhy-er / DesktopCommanderMCP This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities"
     }
