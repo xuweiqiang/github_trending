@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-07-10T05:51:06.765881+08:00",
+  "generated_at": "2026-07-10T07:40:12.464051+08:00",
   "count": 15,
   "items": [
     {
       "repo": "MadsLorentzen/ai-job-search",
       "url": "https://github.com/MadsLorentzen/ai-job-search",
       "stars_today": 3728,
-      "total_stars": 18687,
+      "total_stars": 18885,
       "language": "TypeScript",
       "description": "Star MadsLorentzen / ai-job-search AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews."
     },
@@ -16,7 +16,7 @@
       "repo": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "stars_today": 2582,
-      "total_stars": 75774,
+      "total_stars": 75833,
       "language": "JavaScript",
       "description": "Star addyosmani / agent-skills Production-grade engineering skills for AI coding agents."
     },
@@ -24,7 +24,7 @@
       "repo": "iOfficeAI/OfficeCLI",
       "url": "https://github.com/iOfficeAI/OfficeCLI",
       "stars_today": 1923,
-      "total_stars": 13327,
+      "total_stars": 13384,
       "language": "C#",
       "description": "Star iOfficeAI / OfficeCLI OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required."
     },
@@ -32,7 +32,7 @@
       "repo": "VoltAgent/awesome-design-md",
       "url": "https://github.com/VoltAgent/awesome-design-md",
       "stars_today": 1233,
-      "total_stars": 99544,
+      "total_stars": 99618,
       "language": "",
       "description": "Sponsor Star VoltAgent / awesome-design-md A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI."
     },
@@ -40,7 +40,7 @@
       "repo": "asgeirtj/system_prompts_leaks",
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "stars_today": 1135,
-      "total_stars": 55074,
+      "total_stars": 55124,
       "language": "JavaScript",
       "description": "Sponsor Star asgeirtj / system_prompts_leaks Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly."
     },
@@ -48,7 +48,7 @@
       "repo": "bradautomates/claude-video",
       "url": "https://github.com/bradautomates/claude-video",
       "stars_today": 727,
-      "total_stars": 6634,
+      "total_stars": 6667,
       "language": "Python",
       "description": "Star bradautomates / claude-video Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude."
     },
@@ -56,7 +56,7 @@
       "repo": "vxcontrol/pentagi",
       "url": "https://github.com/vxcontrol/pentagi",
       "stars_today": 543,
-      "total_stars": 19324,
+      "total_stars": 19369,
       "language": "Go",
       "description": "Star vxcontrol / pentagi Fully autonomous AI Agents system capable of performing complex penetration testing tasks"
     },
@@ -64,7 +64,7 @@
       "repo": "SmartlyDressedGames/U3-SDK",
       "url": "https://github.com/SmartlyDressedGames/U3-SDK",
       "stars_today": 541,
-      "total_stars": 1976,
+      "total_stars": 1995,
       "language": "C#",
       "description": "Star SmartlyDressedGames / U3-SDK Source code for Unturned, a free open-world zombie survival sandbox game."
     },
@@ -72,7 +72,7 @@
       "repo": "huxingyi/autoremesher",
       "url": "https://github.com/huxingyi/autoremesher",
       "stars_today": 405,
-      "total_stars": 2331,
+      "total_stars": 2352,
       "language": "C++",
       "description": "Sponsor Star huxingyi / autoremesher Automatic quad remeshing tool"
     },
@@ -80,15 +80,23 @@
       "repo": "prisma/prisma",
       "url": "https://github.com/prisma/prisma",
       "stars_today": 373,
-      "total_stars": 46871,
+      "total_stars": 46889,
       "language": "TypeScript",
       "description": "Star prisma / prisma Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB"
+    },
+    {
+      "repo": "anthropics/claude-cookbooks",
+      "url": "https://github.com/anthropics/claude-cookbooks",
+      "stars_today": 347,
+      "total_stars": 47133,
+      "language": "Jupyter Notebook",
+      "description": "Star anthropics / claude-cookbooks A collection of notebooks/recipes showcasing some fun and effective ways of using Claude."
     },
     {
       "repo": "imthenachoman/How-To-Secure-A-Linux-Server",
       "url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server",
       "stars_today": 306,
-      "total_stars": 29038,
+      "total_stars": 29061,
       "language": "",
       "description": "Sponsor Star imthenachoman / How-To-Secure-A-Linux-Server An evolving how-to guide for securing a Linux server."
     },
@@ -96,7 +104,7 @@
       "repo": "kyutai-labs/pocket-tts",
       "url": "https://github.com/kyutai-labs/pocket-tts",
       "stars_today": 273,
-      "total_stars": 6939,
+      "total_stars": 6965,
       "language": "Python",
       "description": "Star kyutai-labs / pocket-tts A TTS that fits in your CPU (and pocket)"
     },
@@ -104,23 +112,15 @@
       "repo": "unclecode/crawl4ai",
       "url": "https://github.com/unclecode/crawl4ai",
       "stars_today": 195,
-      "total_stars": 71776,
+      "total_stars": 71799,
       "language": "Python",
       "description": "Sponsor Star unclecode / crawl4ai 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN"
-    },
-    {
-      "repo": "anthropics/claude-cookbooks",
-      "url": "https://github.com/anthropics/claude-cookbooks",
-      "stars_today": 194,
-      "total_stars": 47098,
-      "language": "Jupyter Notebook",
-      "description": "Star anthropics / claude-cookbooks A collection of notebooks/recipes showcasing some fun and effective ways of using Claude."
     },
     {
       "repo": "wonderwhy-er/DesktopCommanderMCP",
       "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
       "stars_today": 185,
-      "total_stars": 6558,
+      "total_stars": 6566,
       "language": "TypeScript",
       "description": "Sponsor Star wonderwhy-er / DesktopCommanderMCP This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities"
     }
