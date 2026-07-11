@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-07-11T14:29:20.358296+08:00",
+  "generated_at": "2026-07-11T17:00:47.595960+08:00",
   "count": 19,
   "items": [
     {
       "repo": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "stars_today": 1712,
-      "total_stars": 164933,
+      "total_stars": 165069,
       "language": "Shell",
       "description": "Sponsor Star mattpocock / skills Skills for Real Engineers. Straight from my .claude directory."
     },
@@ -16,7 +16,7 @@
       "repo": "iOfficeAI/OfficeCLI",
       "url": "https://github.com/iOfficeAI/OfficeCLI",
       "stars_today": 1224,
-      "total_stars": 14607,
+      "total_stars": 14737,
       "language": "C#",
       "description": "Star iOfficeAI / OfficeCLI OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required."
     },
@@ -24,7 +24,7 @@
       "repo": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "stars_today": 1116,
-      "total_stars": 76976,
+      "total_stars": 77048,
       "language": "JavaScript",
       "description": "Star addyosmani / agent-skills Production-grade engineering skills for AI coding agents."
     },
@@ -32,7 +32,7 @@
       "repo": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "stars_today": 1013,
-      "total_stars": 251957,
+      "total_stars": 252042,
       "language": "Shell",
       "description": "Sponsor Star obra / superpowers An agentic skills framework & software development methodology that works."
     },
@@ -40,7 +40,7 @@
       "repo": "wonderwhy-er/DesktopCommanderMCP",
       "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
       "stars_today": 328,
-      "total_stars": 7462,
+      "total_stars": 7572,
       "language": "TypeScript",
       "description": "Sponsor Star wonderwhy-er / DesktopCommanderMCP This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities"
     },
@@ -48,7 +48,7 @@
       "repo": "oven-sh/bun",
       "url": "https://github.com/oven-sh/bun",
       "stars_today": 209,
-      "total_stars": 94382,
+      "total_stars": 94440,
       "language": "Rust",
       "description": "Star oven-sh / bun Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one"
     },
@@ -56,7 +56,7 @@
       "repo": "vercel/next.js",
       "url": "https://github.com/vercel/next.js",
       "stars_today": 191,
-      "total_stars": 140781,
+      "total_stars": 140810,
       "language": "JavaScript",
       "description": "Star vercel / next.js The React Framework"
     },
@@ -64,7 +64,7 @@
       "repo": "microsoft/TypeScript",
       "url": "https://github.com/microsoft/TypeScript",
       "stars_today": 177,
-      "total_stars": 109819,
+      "total_stars": 109841,
       "language": "TypeScript",
       "description": "Star microsoft / TypeScript TypeScript is a superset of JavaScript that compiles to clean JavaScript output."
     },
@@ -72,7 +72,7 @@
       "repo": "hashicorp/terraform",
       "url": "https://github.com/hashicorp/terraform",
       "stars_today": 172,
-      "total_stars": 49224,
+      "total_stars": 49250,
       "language": "Go",
       "description": "Star hashicorp / terraform Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned."
     },
@@ -80,7 +80,7 @@
       "repo": "tailscale/tailscale",
       "url": "https://github.com/tailscale/tailscale",
       "stars_today": 143,
-      "total_stars": 33742,
+      "total_stars": 33777,
       "language": "Go",
       "description": "Star tailscale / tailscale The easiest, most secure way to use WireGuard and 2FA."
     },
@@ -88,7 +88,7 @@
       "repo": "TencentCloud/TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
       "stars_today": 123,
-      "total_stars": 8315,
+      "total_stars": 8364,
       "language": "TypeScript",
       "description": "Star TencentCloud / TencentDB-Agent-Memory TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies."
     },
@@ -96,7 +96,7 @@
       "repo": "davila7/claude-code-templates",
       "url": "https://github.com/davila7/claude-code-templates",
       "stars_today": 118,
-      "total_stars": 28815,
+      "total_stars": 28842,
       "language": "Python",
       "description": "Star davila7 / claude-code-templates CLI tool for configuring and monitoring Claude Code"
     },
@@ -104,7 +104,7 @@
       "repo": "google-labs-code/stitch-skills",
       "url": "https://github.com/google-labs-code/stitch-skills",
       "stars_today": 117,
-      "total_stars": 6819,
+      "total_stars": 6863,
       "language": "TypeScript",
       "description": "Star google-labs-code / stitch-skills A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor."
     },
@@ -112,7 +112,7 @@
       "repo": "chriskohlhoff/asio",
       "url": "https://github.com/chriskohlhoff/asio",
       "stars_today": 92,
-      "total_stars": 6091,
+      "total_stars": 6101,
       "language": "C++",
       "description": "Star chriskohlhoff / asio Asio C++ Library"
     },
@@ -120,7 +120,7 @@
       "repo": "zeux/meshoptimizer",
       "url": "https://github.com/zeux/meshoptimizer",
       "stars_today": 91,
-      "total_stars": 8049,
+      "total_stars": 8060,
       "language": "C++",
       "description": "Star zeux / meshoptimizer Mesh optimization library that makes meshes smaller and faster to render"
     },
@@ -128,7 +128,7 @@
       "repo": "abseil/abseil-cpp",
       "url": "https://github.com/abseil/abseil-cpp",
       "stars_today": 89,
-      "total_stars": 17548,
+      "total_stars": 17558,
       "language": "C++",
       "description": "Star abseil / abseil-cpp Abseil Common Libraries (C++)"
     },
@@ -136,7 +136,7 @@
       "repo": "grpc/grpc",
       "url": "https://github.com/grpc/grpc",
       "stars_today": 78,
-      "total_stars": 45165,
+      "total_stars": 45183,
       "language": "C++",
       "description": "Star grpc / grpc C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)"
     },
@@ -144,7 +144,7 @@
       "repo": "catchorg/Catch2",
       "url": "https://github.com/catchorg/Catch2",
       "stars_today": 76,
-      "total_stars": 20636,
+      "total_stars": 20647,
       "language": "C++",
       "description": "Star catchorg / Catch2 A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)"
     },
@@ -152,7 +152,7 @@
       "repo": "jbeder/yaml-cpp",
       "url": "https://github.com/jbeder/yaml-cpp",
       "stars_today": 69,
-      "total_stars": 6102,
+      "total_stars": 6112,
       "language": "C++",
       "description": "Star jbeder / yaml-cpp A YAML parser and emitter in C++"
     }
