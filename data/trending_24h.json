@@ -1,70 +1,62 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-07-12T07:13:33.966683+08:00",
+  "generated_at": "2026-07-12T08:14:08.145970+08:00",
   "count": 20,
   "items": [
     {
       "repo": "wonderwhy-er/DesktopCommanderMCP",
       "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
-      "stars_today": 900,
-      "total_stars": 7758,
+      "stars_today": 909,
+      "total_stars": 7768,
       "language": "TypeScript",
       "description": "Sponsor Star wonderwhy-er / DesktopCommanderMCP This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities"
     },
     {
       "repo": "malisper/pgrust",
       "url": "https://github.com/malisper/pgrust",
-      "stars_today": 789,
-      "total_stars": 2019,
+      "stars_today": 774,
+      "total_stars": 2040,
       "language": "Rust",
       "description": "Star malisper / pgrust Postgres rewritten in Rust, now passing 100% of the Postgres regression tests"
     },
     {
       "repo": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "stars_today": 737,
-      "total_stars": 252423,
+      "stars_today": 740,
+      "total_stars": 252434,
       "language": "Shell",
       "description": "Sponsor Star obra / superpowers An agentic skills framework & software development methodology that works."
     },
     {
       "repo": "oven-sh/bun",
       "url": "https://github.com/oven-sh/bun",
-      "stars_today": 654,
-      "total_stars": 94546,
+      "stars_today": 658,
+      "total_stars": 94563,
       "language": "Rust",
       "description": "Star oven-sh / bun Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one"
     },
     {
       "repo": "google-labs-code/stitch-skills",
       "url": "https://github.com/google-labs-code/stitch-skills",
-      "stars_today": 338,
-      "total_stars": 7043,
+      "stars_today": 340,
+      "total_stars": 7051,
       "language": "TypeScript",
       "description": "Star google-labs-code / stitch-skills A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor."
     },
     {
       "repo": "vercel/next.js",
       "url": "https://github.com/vercel/next.js",
-      "stars_today": 331,
-      "total_stars": 140931,
+      "stars_today": 334,
+      "total_stars": 140945,
       "language": "JavaScript",
       "description": "Star vercel / next.js The React Framework"
     },
     {
-      "repo": "anthropics/claude-cookbooks",
-      "url": "https://github.com/anthropics/claude-cookbooks",
-      "stars_today": 322,
-      "total_stars": 47909,
-      "language": "Jupyter Notebook",
-      "description": "Star anthropics / claude-cookbooks A collection of notebooks/recipes showcasing some fun and effective ways of using Claude."
-    },
-    {
       "repo": "davila7/claude-code-templates",
       "url": "https://github.com/davila7/claude-code-templates",
-      "stars_today": 230,
-      "total_stars": 29003,
+      "stars_today": 232,
+      "total_stars": 29012,
       "language": "Python",
       "description": "Star davila7 / claude-code-templates CLI tool for configuring and monitoring Claude Code"
     },
@@ -72,97 +64,105 @@
       "repo": "hashicorp/terraform",
       "url": "https://github.com/hashicorp/terraform",
       "stars_today": 229,
-      "total_stars": 49355,
+      "total_stars": 49361,
       "language": "Go",
       "description": "Star hashicorp / terraform Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned."
     },
     {
-      "repo": "home-assistant/core",
-      "url": "https://github.com/home-assistant/core",
-      "stars_today": 169,
-      "total_stars": 88672,
-      "language": "Python",
-      "description": "Star home-assistant / core 🏡 Open source home automation that puts local control and privacy first."
+      "repo": "anthropics/claude-cookbooks",
+      "url": "https://github.com/anthropics/claude-cookbooks",
+      "stars_today": 219,
+      "total_stars": 47922,
+      "language": "Jupyter Notebook",
+      "description": "Star anthropics / claude-cookbooks A collection of notebooks/recipes showcasing some fun and effective ways of using Claude."
     },
     {
       "repo": "abseil/abseil-cpp",
       "url": "https://github.com/abseil/abseil-cpp",
-      "stars_today": 120,
-      "total_stars": 17786,
+      "stars_today": 118,
+      "total_stars": 17796,
       "language": "C++",
       "description": "Star abseil / abseil-cpp Abseil Common Libraries (C++)"
     },
     {
       "repo": "catchorg/Catch2",
       "url": "https://github.com/catchorg/Catch2",
-      "stars_today": 117,
-      "total_stars": 21016,
+      "stars_today": 113,
+      "total_stars": 21027,
       "language": "C++",
       "description": "Star catchorg / Catch2 A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)"
     },
     {
       "repo": "zeux/meshoptimizer",
       "url": "https://github.com/zeux/meshoptimizer",
-      "stars_today": 111,
-      "total_stars": 8132,
+      "stars_today": 110,
+      "total_stars": 8136,
       "language": "C++",
       "description": "Star zeux / meshoptimizer Mesh optimization library that makes meshes smaller and faster to render"
     },
     {
+      "repo": "DayuanJiang/next-ai-draw-io",
+      "url": "https://github.com/DayuanJiang/next-ai-draw-io",
+      "stars_today": 81,
+      "total_stars": 33280,
+      "language": "TypeScript",
+      "description": "Sponsor Star DayuanJiang / next-ai-draw-io A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization."
+    },
+    {
+      "repo": "home-assistant/core",
+      "url": "https://github.com/home-assistant/core",
+      "stars_today": 80,
+      "total_stars": 88684,
+      "language": "Python",
+      "description": "Star home-assistant / core 🏡 Open source home automation that puts local control and privacy first."
+    },
+    {
+      "repo": "chriskohlhoff/asio",
+      "url": "https://github.com/chriskohlhoff/asio",
+      "stars_today": 76,
+      "total_stars": 6137,
+      "language": "C++",
+      "description": "Star chriskohlhoff / asio Asio C++ Library"
+    },
+    {
+      "repo": "microsoft/PowerToys",
+      "url": "https://github.com/microsoft/PowerToys",
+      "stars_today": 39,
+      "total_stars": 136424,
+      "language": "C",
+      "description": "Star microsoft / PowerToys Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows"
+    },
+    {
       "repo": "prisma/prisma",
       "url": "https://github.com/prisma/prisma",
-      "stars_today": 85,
-      "total_stars": 47224,
+      "stars_today": 37,
+      "total_stars": 47250,
       "language": "TypeScript",
       "description": "Star prisma / prisma Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB"
     },
     {
       "repo": "openai/plugins",
       "url": "https://github.com/openai/plugins",
-      "stars_today": 75,
-      "total_stars": 4393,
+      "stars_today": 29,
+      "total_stars": 4401,
       "language": "JavaScript",
       "description": "Star openai / plugins OpenAI Plugins"
     },
     {
-      "repo": "chriskohlhoff/asio",
-      "url": "https://github.com/chriskohlhoff/asio",
-      "stars_today": 75,
-      "total_stars": 6134,
-      "language": "C++",
-      "description": "Star chriskohlhoff / asio Asio C++ Library"
-    },
-    {
-      "repo": "DayuanJiang/next-ai-draw-io",
-      "url": "https://github.com/DayuanJiang/next-ai-draw-io",
-      "stars_today": 74,
-      "total_stars": 33274,
-      "language": "TypeScript",
-      "description": "Sponsor Star DayuanJiang / next-ai-draw-io A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization."
-    },
-    {
-      "repo": "microsoft/PowerToys",
-      "url": "https://github.com/microsoft/PowerToys",
-      "stars_today": 65,
-      "total_stars": 136418,
-      "language": "C",
-      "description": "Star microsoft / PowerToys Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows"
+      "repo": "ansible/ansible",
+      "url": "https://github.com/ansible/ansible",
+      "stars_today": 24,
+      "total_stars": 69585,
+      "language": "Python",
+      "description": "Star ansible / ansible Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com ."
     },
     {
       "repo": "nasa/fprime",
       "url": "https://github.com/nasa/fprime",
-      "stars_today": 64,
-      "total_stars": 11472,
+      "stars_today": 22,
+      "total_stars": 11475,
       "language": "C++",
       "description": "Star nasa / fprime F´ - A flight software and embedded systems framework"
-    },
-    {
-      "repo": "cypress-io/cypress",
-      "url": "https://github.com/cypress-io/cypress",
-      "stars_today": 43,
-      "total_stars": 50610,
-      "language": "TypeScript",
-      "description": "Star cypress-io / cypress Fast, easy and reliable testing for anything that runs in a browser."
     }
   ]
 }
