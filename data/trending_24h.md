@@ -1,26 +1,23 @@
 # GitHub 24h Star 增长榜
 
-- 生成时间: 2026-07-12 18:47:58 +0800
+- 生成时间: 2026-07-12 20:09:36 +0800
 
 | 排名 | 项目 | 24h 增长 | 总 Stars | 链接 |
 |---:|---|---:|---:|---|
-| 1 | `wonderwhy-er/DesktopCommanderMCP` | 909 | 7849 | [跳转](https://github.com/wonderwhy-er/DesktopCommanderMCP) |
-| 2 | `malisper/pgrust` | 774 | 2236 | [跳转](https://github.com/malisper/pgrust) |
-| 3 | `obra/superpowers` | 740 | 252729 | [跳转](https://github.com/obra/superpowers) |
-| 4 | `oven-sh/bun` | 658 | 94617 | [跳转](https://github.com/oven-sh/bun) |
-| 5 | `google-labs-code/stitch-skills` | 340 | 7208 | [跳转](https://github.com/google-labs-code/stitch-skills) |
-| 6 | `vercel/next.js` | 334 | 141016 | [跳转](https://github.com/vercel/next.js) |
-| 7 | `davila7/claude-code-templates` | 232 | 29125 | [跳转](https://github.com/davila7/claude-code-templates) |
-| 8 | `hashicorp/terraform` | 229 | 49432 | [跳转](https://github.com/hashicorp/terraform) |
-| 9 | `anthropics/claude-cookbooks` | 219 | 48106 | [跳转](https://github.com/anthropics/claude-cookbooks) |
-| 10 | `abseil/abseil-cpp` | 118 | 17928 | [跳转](https://github.com/abseil/abseil-cpp) |
-| 11 | `catchorg/Catch2` | 113 | 21250 | [跳转](https://github.com/catchorg/Catch2) |
-| 12 | `zeux/meshoptimizer` | 110 | 8174 | [跳转](https://github.com/zeux/meshoptimizer) |
-| 13 | `DayuanJiang/next-ai-draw-io` | 81 | 33410 | [跳转](https://github.com/DayuanJiang/next-ai-draw-io) |
-| 14 | `home-assistant/core` | 80 | 88823 | [跳转](https://github.com/home-assistant/core) |
-| 15 | `chriskohlhoff/asio` | 76 | 6158 | [跳转](https://github.com/chriskohlhoff/asio) |
-| 16 | `microsoft/PowerToys` | 39 | 136520 | [跳转](https://github.com/microsoft/PowerToys) |
-| 17 | `prisma/prisma` | 37 | 47324 | [跳转](https://github.com/prisma/prisma) |
-| 18 | `openai/plugins` | 29 | 4480 | [跳转](https://github.com/openai/plugins) |
-| 19 | `ansible/ansible` | 24 | 69643 | [跳转](https://github.com/ansible/ansible) |
-| 20 | `nasa/fprime` | 22 | 11542 | [跳转](https://github.com/nasa/fprime) |
+| 1 | `HKUDS/Vibe-Trading` | 776 | 20041 | [跳转](https://github.com/HKUDS/Vibe-Trading) |
+| 2 | `k1tbyte/Wand-Enhancer` | 661 | 6541 | [跳转](https://github.com/k1tbyte/Wand-Enhancer) |
+| 3 | `Shubhamsaboo/awesome-llm-apps` | 549 | 118207 | [跳转](https://github.com/Shubhamsaboo/awesome-llm-apps) |
+| 4 | `malisper/pgrust` | 518 | 2260 | [跳转](https://github.com/malisper/pgrust) |
+| 5 | `anthropics/claude-cookbooks` | 464 | 48130 | [跳转](https://github.com/anthropics/claude-cookbooks) |
+| 6 | `Dicklesworthstone/destructive_command_guard` | 444 | 2319 | [跳转](https://github.com/Dicklesworthstone/destructive_command_guard) |
+| 7 | `par274/sharpemu` | 436 | 986 | [跳转](https://github.com/par274/sharpemu) |
+| 8 | `home-assistant/core` | 404 | 88844 | [跳转](https://github.com/home-assistant/core) |
+| 9 | `davila7/claude-code-templates` | 274 | 29137 | [跳转](https://github.com/davila7/claude-code-templates) |
+| 10 | `Nutlope/hallmark` | 210 | 3927 | [跳转](https://github.com/Nutlope/hallmark) |
+| 11 | `wonderwhy-er/DesktopCommanderMCP` | 207 | 7863 | [跳转](https://github.com/wonderwhy-er/DesktopCommanderMCP) |
+| 12 | `chen08209/FlClash` | 151 | 45106 | [跳转](https://github.com/chen08209/FlClash) |
+| 13 | `Crosstalk-Solutions/project-nomad` | 122 | 33602 | [跳转](https://github.com/Crosstalk-Solutions/project-nomad) |
+| 14 | `virattt/ai-hedge-fund` | 109 | 61223 | [跳转](https://github.com/virattt/ai-hedge-fund) |
+| 15 | `pingdotgg/t3code` | 79 | 13632 | [跳转](https://github.com/pingdotgg/t3code) |
+| 16 | `PrefectHQ/prefect` | 55 | 23002 | [跳转](https://github.com/PrefectHQ/prefect) |
+| 17 | `ColeMurray/background-agents` | 9 | 2149 | [跳转](https://github.com/ColeMurray/background-agents) |
