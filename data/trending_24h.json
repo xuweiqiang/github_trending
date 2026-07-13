@@ -1,14 +1,30 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-07-13T19:32:24.437106+08:00",
+  "generated_at": "2026-07-13T23:15:47.149317+08:00",
   "count": 11,
   "items": [
+    {
+      "repo": "Dicklesworthstone/destructive_command_guard",
+      "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
+      "stars_today": 1290,
+      "total_stars": 3710,
+      "language": "Rust",
+      "description": "Sponsor Star Dicklesworthstone / destructive_command_guard The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents."
+    },
+    {
+      "repo": "HKUDS/Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "stars_today": 1148,
+      "total_stars": 21370,
+      "language": "Python",
+      "description": "Star HKUDS / Vibe-Trading \"Vibe-Trading: Your Personal Trading Agent\""
+    },
     {
       "repo": "OpenCut-app/OpenCut",
       "url": "https://github.com/OpenCut-app/OpenCut",
       "stars_today": 1077,
-      "total_stars": 64167,
+      "total_stars": 64981,
       "language": "TypeScript",
       "description": "Sponsor Star OpenCut-app / OpenCut The open-source CapCut alternative"
     },
@@ -16,71 +32,55 @@
       "repo": "Graphify-Labs/graphify",
       "url": "https://github.com/Graphify-Labs/graphify",
       "stars_today": 1028,
-      "total_stars": 83744,
+      "total_stars": 84061,
       "language": "Python",
       "description": "Star Graphify-Labs / graphify AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph."
     },
     {
-      "repo": "HKUDS/Vibe-Trading",
-      "url": "https://github.com/HKUDS/Vibe-Trading",
-      "stars_today": 768,
-      "total_stars": 21151,
+      "repo": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "stars_today": 1006,
+      "total_stars": 119324,
       "language": "Python",
-      "description": "Star HKUDS / Vibe-Trading \"Vibe-Trading: Your Personal Trading Agent\""
+      "description": "Star Shubhamsaboo / awesome-llm-apps 100+ AI Agent & RAG apps you can actually run — clone, customize, ship."
+    },
+    {
+      "repo": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "stars_today": 802,
+      "total_stars": 4838,
+      "language": "CSS",
+      "description": "Star Nutlope / hallmark Anti-AI-slop design skill for Claude Code, Cursor, and Codex."
     },
     {
       "repo": "github/spec-kit",
       "url": "https://github.com/github/spec-kit",
       "stars_today": 508,
-      "total_stars": 120223,
+      "total_stars": 120370,
       "language": "Python",
       "description": "Star github / spec-kit 💫 Toolkit to help you get started with Spec-Driven Development"
-    },
-    {
-      "repo": "Dicklesworthstone/destructive_command_guard",
-      "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
-      "stars_today": 444,
-      "total_stars": 3583,
-      "language": "Rust",
-      "description": "Sponsor Star Dicklesworthstone / destructive_command_guard The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents."
     },
     {
       "repo": "hasaneyldrm/exercises-dataset",
       "url": "https://github.com/hasaneyldrm/exercises-dataset",
       "stars_today": 435,
-      "total_stars": 12210,
+      "total_stars": 12369,
       "language": "HTML",
       "description": "Star hasaneyldrm / exercises-dataset 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app."
-    },
-    {
-      "repo": "Shubhamsaboo/awesome-llm-apps",
-      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "stars_today": 408,
-      "total_stars": 119153,
-      "language": "Python",
-      "description": "Star Shubhamsaboo / awesome-llm-apps 100+ AI Agent & RAG apps you can actually run — clone, customize, ship."
     },
     {
       "repo": "coreyhaines31/marketingskills",
       "url": "https://github.com/coreyhaines31/marketingskills",
       "stars_today": 260,
-      "total_stars": 38069,
+      "total_stars": 38252,
       "language": "JavaScript",
       "description": "Sponsor Star coreyhaines31 / marketingskills Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering."
-    },
-    {
-      "repo": "Nutlope/hallmark",
-      "url": "https://github.com/Nutlope/hallmark",
-      "stars_today": 155,
-      "total_stars": 4693,
-      "language": "CSS",
-      "description": "Star Nutlope / hallmark Anti-AI-slop design skill for Claude Code, Cursor, and Codex."
     },
     {
       "repo": "Raphire/Win11Debloat",
       "url": "https://github.com/Raphire/Win11Debloat",
       "stars_today": 74,
-      "total_stars": 50497,
+      "total_stars": 50611,
       "language": "PowerShell",
       "description": "Sponsor Star Raphire / Win11Debloat A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11."
     },
@@ -88,7 +88,7 @@
       "repo": "moeru-ai/airi",
       "url": "https://github.com/moeru-ai/airi",
       "stars_today": 57,
-      "total_stars": 41648,
+      "total_stars": 41724,
       "language": "TypeScript",
       "description": "Star moeru-ai / airi 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported."
     }
