@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-07-14T03:53:39.663138+08:00",
+  "generated_at": "2026-07-14T05:15:59.373401+08:00",
   "count": 10,
   "items": [
     {
       "repo": "HKUDS/Vibe-Trading",
       "url": "https://github.com/HKUDS/Vibe-Trading",
       "stars_today": 1148,
-      "total_stars": 21585,
+      "total_stars": 21635,
       "language": "Python",
       "description": "Star HKUDS / Vibe-Trading \"Vibe-Trading: Your Personal Trading Agent\""
     },
@@ -16,7 +16,7 @@
       "repo": "OpenCut-app/OpenCut",
       "url": "https://github.com/OpenCut-app/OpenCut",
       "stars_today": 1077,
-      "total_stars": 65750,
+      "total_stars": 65925,
       "language": "TypeScript",
       "description": "Sponsor Star OpenCut-app / OpenCut The open-source CapCut alternative"
     },
@@ -24,7 +24,7 @@
       "repo": "Graphify-Labs/graphify",
       "url": "https://github.com/Graphify-Labs/graphify",
       "stars_today": 1028,
-      "total_stars": 84427,
+      "total_stars": 84516,
       "language": "Python",
       "description": "Star Graphify-Labs / graphify AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph."
     },
@@ -32,7 +32,7 @@
       "repo": "Shubhamsaboo/awesome-llm-apps",
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "stars_today": 1006,
-      "total_stars": 119466,
+      "total_stars": 119500,
       "language": "Python",
       "description": "Star Shubhamsaboo / awesome-llm-apps 100+ AI Agent & RAG apps you can actually run — clone, customize, ship."
     },
@@ -40,7 +40,7 @@
       "repo": "Nutlope/hallmark",
       "url": "https://github.com/Nutlope/hallmark",
       "stars_today": 802,
-      "total_stars": 4987,
+      "total_stars": 5022,
       "language": "CSS",
       "description": "Star Nutlope / hallmark Anti-AI-slop design skill for Claude Code, Cursor, and Codex."
     },
@@ -48,7 +48,7 @@
       "repo": "github/spec-kit",
       "url": "https://github.com/github/spec-kit",
       "stars_today": 508,
-      "total_stars": 120496,
+      "total_stars": 120525,
       "language": "Python",
       "description": "Star github / spec-kit 💫 Toolkit to help you get started with Spec-Driven Development"
     },
@@ -56,7 +56,7 @@
       "repo": "hasaneyldrm/exercises-dataset",
       "url": "https://github.com/hasaneyldrm/exercises-dataset",
       "stars_today": 435,
-      "total_stars": 12498,
+      "total_stars": 12529,
       "language": "HTML",
       "description": "Star hasaneyldrm / exercises-dataset 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app."
     },
@@ -64,7 +64,7 @@
       "repo": "coreyhaines31/marketingskills",
       "url": "https://github.com/coreyhaines31/marketingskills",
       "stars_today": 260,
-      "total_stars": 38417,
+      "total_stars": 38453,
       "language": "JavaScript",
       "description": "Sponsor Star coreyhaines31 / marketingskills Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering."
     },
@@ -72,7 +72,7 @@
       "repo": "Raphire/Win11Debloat",
       "url": "https://github.com/Raphire/Win11Debloat",
       "stars_today": 74,
-      "total_stars": 50739,
+      "total_stars": 50784,
       "language": "PowerShell",
       "description": "Sponsor Star Raphire / Win11Debloat A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11."
     },
@@ -80,7 +80,7 @@
       "repo": "moeru-ai/airi",
       "url": "https://github.com/moeru-ai/airi",
       "stars_today": 57,
-      "total_stars": 41812,
+      "total_stars": 41827,
       "language": "TypeScript",
       "description": "Star moeru-ai / airi 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported."
     }
