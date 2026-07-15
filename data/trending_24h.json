@@ -1,126 +1,134 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-07-15T07:14:48.867074+08:00",
-  "count": 15,
+  "generated_at": "2026-07-15T08:09:28.898632+08:00",
+  "count": 16,
   "items": [
     {
       "repo": "OpenCut-app/OpenCut",
       "url": "https://github.com/OpenCut-app/OpenCut",
-      "stars_today": 4349,
-      "total_stars": 69114,
+      "stars_today": 4276,
+      "total_stars": 69146,
       "language": "TypeScript",
       "description": "Sponsor Star OpenCut-app / OpenCut The open-source CapCut alternative"
     },
     {
-      "repo": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "stars_today": 1864,
-      "total_stars": 170147,
-      "language": "Shell",
-      "description": "Sponsor Star mattpocock / skills Skills for Real Engineers. Straight from my .claude directory."
-    },
-    {
       "repo": "Graphify-Labs/graphify",
       "url": "https://github.com/Graphify-Labs/graphify",
-      "stars_today": 1858,
-      "total_stars": 86300,
+      "stars_today": 1851,
+      "total_stars": 86335,
       "language": "Python",
       "description": "Star Graphify-Labs / graphify AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph."
     },
     {
+      "repo": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "stars_today": 1679,
+      "total_stars": 170195,
+      "language": "Shell",
+      "description": "Sponsor Star mattpocock / skills Skills for Real Engineers. Straight from my .claude directory."
+    },
+    {
       "repo": "HKUDS/Vibe-Trading",
       "url": "https://github.com/HKUDS/Vibe-Trading",
-      "stars_today": 1265,
-      "total_stars": 22802,
+      "stars_today": 1256,
+      "total_stars": 22829,
       "language": "Python",
       "description": "Star HKUDS / Vibe-Trading \"Vibe-Trading: Your Personal Trading Agent\""
     },
     {
+      "repo": "1c7/chinese-independent-developer",
+      "url": "https://github.com/1c7/chinese-independent-developer",
+      "stars_today": 1196,
+      "total_stars": 53439,
+      "language": "Python",
+      "description": "Star 1c7 / chinese-independent-developer 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么"
+    },
+    {
       "repo": "Shubhamsaboo/awesome-llm-apps",
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "stars_today": 1104,
-      "total_stars": 120730,
+      "stars_today": 1106,
+      "total_stars": 120762,
       "language": "Python",
       "description": "Star Shubhamsaboo / awesome-llm-apps 100+ AI Agent & RAG apps you can actually run — clone, customize, ship."
     },
     {
       "repo": "Nutlope/hallmark",
       "url": "https://github.com/Nutlope/hallmark",
-      "stars_today": 1010,
-      "total_stars": 6097,
+      "stars_today": 1015,
+      "total_stars": 6121,
       "language": "CSS",
       "description": "Star Nutlope / hallmark Anti-AI-slop design skill for Claude Code, Cursor, and Codex."
     },
     {
       "repo": "hasaneyldrm/exercises-dataset",
       "url": "https://github.com/hasaneyldrm/exercises-dataset",
-      "stars_today": 864,
-      "total_stars": 13457,
+      "stars_today": 851,
+      "total_stars": 13487,
       "language": "HTML",
       "description": "Star hasaneyldrm / exercises-dataset 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app."
     },
     {
       "repo": "Raphire/Win11Debloat",
       "url": "https://github.com/Raphire/Win11Debloat",
-      "stars_today": 779,
-      "total_stars": 51611,
+      "stars_today": 783,
+      "total_stars": 51648,
       "language": "PowerShell",
       "description": "Sponsor Star Raphire / Win11Debloat A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11."
     },
     {
       "repo": "Dicklesworthstone/destructive_command_guard",
       "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
-      "stars_today": 481,
-      "total_stars": 4378,
+      "stars_today": 473,
+      "total_stars": 4393,
       "language": "Rust",
       "description": "Sponsor Star Dicklesworthstone / destructive_command_guard The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents."
     },
     {
-      "repo": "par274/sharpemu",
-      "url": "https://github.com/par274/sharpemu",
-      "stars_today": 448,
-      "total_stars": 2099,
-      "language": "C#",
-      "description": "Star par274 / sharpemu An experimental PlayStation 5 emulator project."
-    },
-    {
       "repo": "penpot/penpot",
       "url": "https://github.com/penpot/penpot",
-      "stars_today": 264,
-      "total_stars": 56139,
+      "stars_today": 395,
+      "total_stars": 56149,
       "language": "Clojure",
       "description": "Star penpot / penpot Penpot: The open-source design platform for Product teams that need scalable collaboration."
     },
     {
+      "repo": "par274/sharpemu",
+      "url": "https://github.com/par274/sharpemu",
+      "stars_today": 332,
+      "total_stars": 2110,
+      "language": "C#",
+      "description": "Star par274 / sharpemu An experimental PlayStation 5 emulator project."
+    },
+    {
       "repo": "chenyme/grok2api",
       "url": "https://github.com/chenyme/grok2api",
-      "stars_today": 179,
-      "total_stars": 5839,
+      "stars_today": 186,
+      "total_stars": 5842,
       "language": "Go",
       "description": "Star chenyme / grok2api 面向 Grok Build、Grok Web 与 Grok Console 的多账号 API 网关"
     },
     {
-      "repo": "virattt/ai-hedge-fund",
-      "url": "https://github.com/virattt/ai-hedge-fund",
-      "stars_today": 156,
-      "total_stars": 61847,
-      "language": "Python",
-      "description": "Star virattt / ai-hedge-fund An AI Hedge Fund Team"
-    },
-    {
       "repo": "HenryNdubuaku/maths-cs-ai-compendium",
       "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
-      "stars_today": 69,
-      "total_stars": 5203,
+      "stars_today": 112,
+      "total_stars": 5218,
       "language": "TypeScript",
       "description": "Sponsor Star HenryNdubuaku / maths-cs-ai-compendium Become a cracked AI/ML Research Engineer"
     },
     {
+      "repo": "virattt/ai-hedge-fund",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "stars_today": 109,
+      "total_stars": 61861,
+      "language": "Python",
+      "description": "Star virattt / ai-hedge-fund An AI Hedge Fund Team"
+    },
+    {
       "repo": "AIEraDev/Clypra",
       "url": "https://github.com/AIEraDev/Clypra",
-      "stars_today": 66,
-      "total_stars": 2598,
+      "stars_today": 85,
+      "total_stars": 2609,
       "language": "TypeScript",
       "description": "Star AIEraDev / Clypra A modern video editor built with Tauri, React, and TypeScript. Focus on building free capabilities of premium capcut functionalities"
     }
