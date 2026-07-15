@@ -1,78 +1,78 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-07-15T19:53:02.253136+08:00",
-  "count": 14,
+  "generated_at": "2026-07-15T22:15:15.173246+08:00",
+  "count": 13,
   "items": [
-    {
-      "repo": "OpenCut-app/OpenCut",
-      "url": "https://github.com/OpenCut-app/OpenCut",
-      "stars_today": 4276,
-      "total_stars": 69943,
-      "language": "TypeScript",
-      "description": "Sponsor Star OpenCut-app / OpenCut The open-source CapCut alternative"
-    },
     {
       "repo": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
-      "stars_today": 1679,
-      "total_stars": 171467,
+      "stars_today": 2160,
+      "total_stars": 171653,
       "language": "Shell",
       "description": "Sponsor Star mattpocock / skills Skills for Real Engineers. Straight from my .claude directory."
     },
     {
-      "repo": "HKUDS/Vibe-Trading",
-      "url": "https://github.com/HKUDS/Vibe-Trading",
-      "stars_today": 1256,
-      "total_stars": 23325,
-      "language": "Python",
-      "description": "Star HKUDS / Vibe-Trading \"Vibe-Trading: Your Personal Trading Agent\""
-    },
-    {
-      "repo": "1c7/chinese-independent-developer",
-      "url": "https://github.com/1c7/chinese-independent-developer",
-      "stars_today": 1196,
-      "total_stars": 55723,
-      "language": "Python",
-      "description": "Star 1c7 / chinese-independent-developer 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么"
+      "repo": "OpenCut-app/OpenCut",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "stars_today": 1505,
+      "total_stars": 70383,
+      "language": "TypeScript",
+      "description": "Sponsor Star OpenCut-app / OpenCut The open-source CapCut alternative"
     },
     {
       "repo": "Shubhamsaboo/awesome-llm-apps",
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "stars_today": 1106,
-      "total_stars": 121508,
+      "stars_today": 1278,
+      "total_stars": 121596,
       "language": "Python",
       "description": "Star Shubhamsaboo / awesome-llm-apps 100+ AI Agent & RAG apps you can actually run — clone, customize, ship."
     },
     {
       "repo": "Nutlope/hallmark",
       "url": "https://github.com/Nutlope/hallmark",
-      "stars_today": 1015,
-      "total_stars": 6722,
+      "stars_today": 1119,
+      "total_stars": 7126,
       "language": "CSS",
       "description": "Star Nutlope / hallmark Anti-AI-slop design skill for Claude Code, Cursor, and Codex."
+    },
+    {
+      "repo": "hasaneyldrm/exercises-dataset",
+      "url": "https://github.com/hasaneyldrm/exercises-dataset",
+      "stars_today": 951,
+      "total_stars": 14079,
+      "language": "HTML",
+      "description": "Star hasaneyldrm / exercises-dataset 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app."
+    },
+    {
+      "repo": "HKUDS/Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "stars_today": 924,
+      "total_stars": 23415,
+      "language": "Python",
+      "description": "Star HKUDS / Vibe-Trading \"Vibe-Trading: Your Personal Trading Agent\""
     },
     {
       "repo": "coreyhaines31/marketingskills",
       "url": "https://github.com/coreyhaines31/marketingskills",
       "stars_today": 869,
-      "total_stars": 39373,
+      "total_stars": 39454,
       "language": "JavaScript",
       "description": "Sponsor Star coreyhaines31 / marketingskills Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering."
     },
     {
-      "repo": "hasaneyldrm/exercises-dataset",
-      "url": "https://github.com/hasaneyldrm/exercises-dataset",
-      "stars_today": 851,
-      "total_stars": 14003,
-      "language": "HTML",
-      "description": "Star hasaneyldrm / exercises-dataset 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app."
+      "repo": "HenryNdubuaku/maths-cs-ai-compendium",
+      "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+      "stars_today": 729,
+      "total_stars": 5682,
+      "language": "TypeScript",
+      "description": "Sponsor Star HenryNdubuaku / maths-cs-ai-compendium Become a cracked AI/ML Research Engineer"
     },
     {
       "repo": "openinterpreter/openinterpreter",
       "url": "https://github.com/openinterpreter/openinterpreter",
       "stars_today": 607,
-      "total_stars": 65139,
+      "total_stars": 65208,
       "language": "Rust",
       "description": "Star openinterpreter / openinterpreter A coding agent for low-cost models"
     },
@@ -80,15 +80,15 @@
       "repo": "moeru-ai/airi",
       "url": "https://github.com/moeru-ai/airi",
       "stars_today": 537,
-      "total_stars": 42312,
+      "total_stars": 42355,
       "language": "TypeScript",
       "description": "Star moeru-ai / airi 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported."
     },
     {
       "repo": "Dicklesworthstone/destructive_command_guard",
       "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
-      "stars_today": 473,
-      "total_stars": 4565,
+      "stars_today": 497,
+      "total_stars": 4602,
       "language": "Rust",
       "description": "Sponsor Star Dicklesworthstone / destructive_command_guard The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents."
     },
@@ -96,23 +96,15 @@
       "repo": "HKUDS/DeepTutor",
       "url": "https://github.com/HKUDS/DeepTutor",
       "stars_today": 128,
-      "total_stars": 26013,
+      "total_stars": 26067,
       "language": "Python",
       "description": "Star HKUDS / DeepTutor DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ ."
-    },
-    {
-      "repo": "HenryNdubuaku/maths-cs-ai-compendium",
-      "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
-      "stars_today": 112,
-      "total_stars": 5627,
-      "language": "TypeScript",
-      "description": "Sponsor Star HenryNdubuaku / maths-cs-ai-compendium Become a cracked AI/ML Research Engineer"
     },
     {
       "repo": "YimMenu/YimMenuV2",
       "url": "https://github.com/YimMenu/YimMenuV2",
       "stars_today": 21,
-      "total_stars": 1357,
+      "total_stars": 1370,
       "language": "C++",
       "description": "Star YimMenu / YimMenuV2 Experimental menu for GTA 5: Enhanced"
     }
