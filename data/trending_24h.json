@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-07-15T22:15:15.173246+08:00",
+  "generated_at": "2026-07-15T23:54:49.776825+08:00",
   "count": 13,
   "items": [
     {
       "repo": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "stars_today": 2160,
-      "total_stars": 171653,
+      "total_stars": 171822,
       "language": "Shell",
       "description": "Sponsor Star mattpocock / skills Skills for Real Engineers. Straight from my .claude directory."
     },
@@ -16,7 +16,7 @@
       "repo": "OpenCut-app/OpenCut",
       "url": "https://github.com/OpenCut-app/OpenCut",
       "stars_today": 1505,
-      "total_stars": 70383,
+      "total_stars": 70704,
       "language": "TypeScript",
       "description": "Sponsor Star OpenCut-app / OpenCut The open-source CapCut alternative"
     },
@@ -24,7 +24,7 @@
       "repo": "Shubhamsaboo/awesome-llm-apps",
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "stars_today": 1278,
-      "total_stars": 121596,
+      "total_stars": 121678,
       "language": "Python",
       "description": "Star Shubhamsaboo / awesome-llm-apps 100+ AI Agent & RAG apps you can actually run — clone, customize, ship."
     },
@@ -32,7 +32,7 @@
       "repo": "Nutlope/hallmark",
       "url": "https://github.com/Nutlope/hallmark",
       "stars_today": 1119,
-      "total_stars": 7126,
+      "total_stars": 7414,
       "language": "CSS",
       "description": "Star Nutlope / hallmark Anti-AI-slop design skill for Claude Code, Cursor, and Codex."
     },
@@ -40,7 +40,7 @@
       "repo": "hasaneyldrm/exercises-dataset",
       "url": "https://github.com/hasaneyldrm/exercises-dataset",
       "stars_today": 951,
-      "total_stars": 14079,
+      "total_stars": 14147,
       "language": "HTML",
       "description": "Star hasaneyldrm / exercises-dataset 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app."
     },
@@ -48,7 +48,7 @@
       "repo": "HKUDS/Vibe-Trading",
       "url": "https://github.com/HKUDS/Vibe-Trading",
       "stars_today": 924,
-      "total_stars": 23415,
+      "total_stars": 23486,
       "language": "Python",
       "description": "Star HKUDS / Vibe-Trading \"Vibe-Trading: Your Personal Trading Agent\""
     },
@@ -56,7 +56,7 @@
       "repo": "coreyhaines31/marketingskills",
       "url": "https://github.com/coreyhaines31/marketingskills",
       "stars_today": 869,
-      "total_stars": 39454,
+      "total_stars": 39511,
       "language": "JavaScript",
       "description": "Sponsor Star coreyhaines31 / marketingskills Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering."
     },
@@ -64,7 +64,7 @@
       "repo": "HenryNdubuaku/maths-cs-ai-compendium",
       "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
       "stars_today": 729,
-      "total_stars": 5682,
+      "total_stars": 5730,
       "language": "TypeScript",
       "description": "Sponsor Star HenryNdubuaku / maths-cs-ai-compendium Become a cracked AI/ML Research Engineer"
     },
@@ -72,7 +72,7 @@
       "repo": "openinterpreter/openinterpreter",
       "url": "https://github.com/openinterpreter/openinterpreter",
       "stars_today": 607,
-      "total_stars": 65208,
+      "total_stars": 65258,
       "language": "Rust",
       "description": "Star openinterpreter / openinterpreter A coding agent for low-cost models"
     },
@@ -80,7 +80,7 @@
       "repo": "moeru-ai/airi",
       "url": "https://github.com/moeru-ai/airi",
       "stars_today": 537,
-      "total_stars": 42355,
+      "total_stars": 42384,
       "language": "TypeScript",
       "description": "Star moeru-ai / airi 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported."
     },
@@ -88,7 +88,7 @@
       "repo": "Dicklesworthstone/destructive_command_guard",
       "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
       "stars_today": 497,
-      "total_stars": 4602,
+      "total_stars": 4638,
       "language": "Rust",
       "description": "Sponsor Star Dicklesworthstone / destructive_command_guard The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents."
     },
@@ -96,7 +96,7 @@
       "repo": "HKUDS/DeepTutor",
       "url": "https://github.com/HKUDS/DeepTutor",
       "stars_today": 128,
-      "total_stars": 26067,
+      "total_stars": 26111,
       "language": "Python",
       "description": "Star HKUDS / DeepTutor DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ ."
     },
@@ -104,7 +104,7 @@
       "repo": "YimMenu/YimMenuV2",
       "url": "https://github.com/YimMenu/YimMenuV2",
       "stars_today": 21,
-      "total_stars": 1370,
+      "total_stars": 1378,
       "language": "C++",
       "description": "Star YimMenu / YimMenuV2 Experimental menu for GTA 5: Enhanced"
     }
