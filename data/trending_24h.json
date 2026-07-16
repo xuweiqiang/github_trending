@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-07-16T22:27:33.153343+08:00",
-  "count": 18,
+  "generated_at": "2026-07-17T00:45:05.513331+08:00",
+  "count": 17,
   "items": [
     {
       "repo": "OpenCut-app/OpenCut",
       "url": "https://github.com/OpenCut-app/OpenCut",
       "stars_today": 3290,
-      "total_stars": 73607,
+      "total_stars": 73713,
       "language": "TypeScript",
       "description": "Sponsor Star OpenCut-app / OpenCut The open-source CapCut alternative"
     },
@@ -16,7 +16,7 @@
       "repo": "Nutlope/hallmark",
       "url": "https://github.com/Nutlope/hallmark",
       "stars_today": 3181,
-      "total_stars": 10281,
+      "total_stars": 10448,
       "language": "CSS",
       "description": "Star Nutlope / hallmark Anti-AI-slop design skill for Claude Code, Cursor, and Codex."
     },
@@ -24,7 +24,7 @@
       "repo": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "stars_today": 2073,
-      "total_stars": 173692,
+      "total_stars": 173873,
       "language": "Shell",
       "description": "Sponsor Star mattpocock / skills Skills for Real Engineers. Straight from my .claude directory."
     },
@@ -32,7 +32,7 @@
       "repo": "Graphify-Labs/graphify",
       "url": "https://github.com/Graphify-Labs/graphify",
       "stars_today": 1138,
-      "total_stars": 88488,
+      "total_stars": 88643,
       "language": "Python",
       "description": "Star Graphify-Labs / graphify AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph."
     },
@@ -40,7 +40,7 @@
       "repo": "Shubhamsaboo/awesome-llm-apps",
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "stars_today": 935,
-      "total_stars": 122510,
+      "total_stars": 122616,
       "language": "Python",
       "description": "Star Shubhamsaboo / awesome-llm-apps 100+ AI Agent & RAG apps you can actually run — clone, customize, ship."
     },
@@ -48,23 +48,15 @@
       "repo": "hasaneyldrm/exercises-dataset",
       "url": "https://github.com/hasaneyldrm/exercises-dataset",
       "stars_today": 697,
-      "total_stars": 14774,
+      "total_stars": 14839,
       "language": "HTML",
       "description": "Star hasaneyldrm / exercises-dataset 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app."
-    },
-    {
-      "repo": "1c7/chinese-independent-developer",
-      "url": "https://github.com/1c7/chinese-independent-developer",
-      "stars_today": 688,
-      "total_stars": 56650,
-      "language": "Python",
-      "description": "Star 1c7 / chinese-independent-developer 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么"
     },
     {
       "repo": "HKUDS/DeepTutor",
       "url": "https://github.com/HKUDS/DeepTutor",
       "stars_today": 647,
-      "total_stars": 26697,
+      "total_stars": 26748,
       "language": "Python",
       "description": "Star HKUDS / DeepTutor DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ ."
     },
@@ -72,15 +64,15 @@
       "repo": "openinterpreter/openinterpreter",
       "url": "https://github.com/openinterpreter/openinterpreter",
       "stars_today": 633,
-      "total_stars": 65826,
+      "total_stars": 65878,
       "language": "Rust",
       "description": "Star openinterpreter / openinterpreter A coding agent for low-cost models"
     },
     {
       "repo": "codecrafters-io/build-your-own-x",
       "url": "https://github.com/codecrafters-io/build-your-own-x",
-      "stars_today": 464,
-      "total_stars": 525929,
+      "stars_today": 549,
+      "total_stars": 526057,
       "language": "Markdown",
       "description": "Star codecrafters-io / build-your-own-x Master programming by recreating your favorite technologies from scratch."
     },
@@ -88,15 +80,23 @@
       "repo": "PrismML-Eng/Bonsai-demo",
       "url": "https://github.com/PrismML-Eng/Bonsai-demo",
       "stars_today": 323,
-      "total_stars": 1410,
+      "total_stars": 1448,
       "language": "Shell",
       "description": "Star PrismML-Eng / Bonsai-demo Bonsai Demo"
+    },
+    {
+      "repo": "PostHog/posthog",
+      "url": "https://github.com/PostHog/posthog",
+      "stars_today": 146,
+      "total_stars": 35716,
+      "language": "Python",
+      "description": "Star PostHog / posthog 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP."
     },
     {
       "repo": "ibelick/ui-skills",
       "url": "https://github.com/ibelick/ui-skills",
       "stars_today": 141,
-      "total_stars": 3991,
+      "total_stars": 4074,
       "language": "TypeScript",
       "description": "Sponsor Star ibelick / ui-skills Skills for Design Engineers"
     },
@@ -104,7 +104,7 @@
       "repo": "ossu/computer-science",
       "url": "https://github.com/ossu/computer-science",
       "stars_today": 125,
-      "total_stars": 206293,
+      "total_stars": 206363,
       "language": "HTML",
       "description": "Star ossu / computer-science 🎓 Path to a free self-taught education in Computer Science!"
     },
@@ -112,7 +112,7 @@
       "repo": "YimMenu/YimMenuV2",
       "url": "https://github.com/YimMenu/YimMenuV2",
       "stars_today": 122,
-      "total_stars": 1485,
+      "total_stars": 1488,
       "language": "C++",
       "description": "Star YimMenu / YimMenuV2 Experimental menu for GTA 5: Enhanced"
     },
@@ -120,33 +120,25 @@
       "repo": "apache/ossie",
       "url": "https://github.com/apache/ossie",
       "stars_today": 81,
-      "total_stars": 775,
+      "total_stars": 808,
       "language": "Python",
       "description": "Star apache / ossie Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data"
     },
     {
-      "repo": "PostHog/posthog",
-      "url": "https://github.com/PostHog/posthog",
-      "stars_today": 58,
-      "total_stars": 35658,
-      "language": "Python",
-      "description": "Star PostHog / posthog 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack."
+      "repo": "github/copilot-sdk",
+      "url": "https://github.com/github/copilot-sdk",
+      "stars_today": 62,
+      "total_stars": 9578,
+      "language": "Java",
+      "description": "Star github / copilot-sdk Multi-platform SDK for integrating GitHub Copilot Agent into apps and services"
     },
     {
       "repo": "lobehub/lobehub",
       "url": "https://github.com/lobehub/lobehub",
       "stars_today": 51,
-      "total_stars": 79977,
+      "total_stars": 80026,
       "language": "TypeScript",
       "description": "Sponsor Star lobehub / lobehub 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team."
-    },
-    {
-      "repo": "github/copilot-sdk",
-      "url": "https://github.com/github/copilot-sdk",
-      "stars_today": 8,
-      "total_stars": 9546,
-      "language": "Java",
-      "description": "Star github / copilot-sdk Multi-platform SDK for integrating GitHub Copilot Agent into apps and services"
     }
   ]
 }
