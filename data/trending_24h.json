@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-07-17T17:23:30.004988+08:00",
-  "count": 17,
+  "generated_at": "2026-07-17T19:44:34.284447+08:00",
+  "count": 14,
   "items": [
     {
       "repo": "OpenCut-app/OpenCut",
       "url": "https://github.com/OpenCut-app/OpenCut",
       "stars_today": 3537,
-      "total_stars": 74458,
+      "total_stars": 74536,
       "language": "TypeScript",
       "description": "Sponsor Star OpenCut-app / OpenCut The open-source CapCut alternative"
     },
@@ -16,47 +16,15 @@
       "repo": "Nutlope/hallmark",
       "url": "https://github.com/Nutlope/hallmark",
       "stars_today": 3372,
-      "total_stars": 11488,
+      "total_stars": 11593,
       "language": "CSS",
       "description": "Star Nutlope / hallmark Anti-AI-slop design skill for Claude Code, Cursor, and Codex."
-    },
-    {
-      "repo": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "stars_today": 2060,
-      "total_stars": 174975,
-      "language": "Shell",
-      "description": "Sponsor Star mattpocock / skills Skills for Real Engineers. Straight from my .claude directory."
-    },
-    {
-      "repo": "Graphify-Labs/graphify",
-      "url": "https://github.com/Graphify-Labs/graphify",
-      "stars_today": 1107,
-      "total_stars": 89606,
-      "language": "Python",
-      "description": "Star Graphify-Labs / graphify AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph."
-    },
-    {
-      "repo": "Shubhamsaboo/awesome-llm-apps",
-      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "stars_today": 923,
-      "total_stars": 123295,
-      "language": "Python",
-      "description": "Star Shubhamsaboo / awesome-llm-apps 100+ AI Agent & RAG apps you can actually run — clone, customize, ship."
-    },
-    {
-      "repo": "hasaneyldrm/exercises-dataset",
-      "url": "https://github.com/hasaneyldrm/exercises-dataset",
-      "stars_today": 710,
-      "total_stars": 15275,
-      "language": "HTML",
-      "description": "Star hasaneyldrm / exercises-dataset 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app."
     },
     {
       "repo": "openinterpreter/openinterpreter",
       "url": "https://github.com/openinterpreter/openinterpreter",
       "stars_today": 661,
-      "total_stars": 66170,
+      "total_stars": 66190,
       "language": "Rust",
       "description": "Star openinterpreter / openinterpreter A coding agent for open models like Kimi K3"
     },
@@ -64,81 +32,89 @@
       "repo": "HKUDS/DeepTutor",
       "url": "https://github.com/HKUDS/DeepTutor",
       "stars_today": 656,
-      "total_stars": 27119,
+      "total_stars": 27172,
       "language": "Python",
       "description": "Star HKUDS / DeepTutor DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ ."
+    },
+    {
+      "repo": "HenryNdubuaku/maths-cs-ai-compendium",
+      "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+      "stars_today": 511,
+      "total_stars": 6373,
+      "language": "TypeScript",
+      "description": "Sponsor Star HenryNdubuaku / maths-cs-ai-compendium Become a cracked AI/ML Research Engineer"
     },
     {
       "repo": "codecrafters-io/build-your-own-x",
       "url": "https://github.com/codecrafters-io/build-your-own-x",
       "stars_today": 435,
-      "total_stars": 526710,
+      "total_stars": 526809,
       "language": "Markdown",
       "description": "Star codecrafters-io / build-your-own-x Master programming by recreating your favorite technologies from scratch."
+    },
+    {
+      "repo": "RyanCodrai/turbovec",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "stars_today": 280,
+      "total_stars": 13160,
+      "language": "Python",
+      "description": "Star RyanCodrai / turbovec A vector index built on TurboQuant, written in Rust with Python bindings"
     },
     {
       "repo": "PrismML-Eng/Bonsai-demo",
       "url": "https://github.com/PrismML-Eng/Bonsai-demo",
       "stars_today": 196,
-      "total_stars": 1627,
+      "total_stars": 1646,
       "language": "Shell",
       "description": "Star PrismML-Eng / Bonsai-demo Bonsai Demo"
     },
     {
-      "repo": "ibelick/ui-skills",
-      "url": "https://github.com/ibelick/ui-skills",
-      "stars_today": 178,
-      "total_stars": 4537,
-      "language": "TypeScript",
-      "description": "Sponsor Star ibelick / ui-skills Skills for Design Engineers"
-    },
-    {
-      "repo": "YimMenu/YimMenuV2",
-      "url": "https://github.com/YimMenu/YimMenuV2",
-      "stars_today": 128,
-      "total_stars": 1536,
-      "language": "C++",
-      "description": "Star YimMenu / YimMenuV2 Experimental menu for GTA 5: Enhanced"
-    },
-    {
-      "repo": "ossu/computer-science",
-      "url": "https://github.com/ossu/computer-science",
-      "stars_today": 107,
-      "total_stars": 206773,
-      "language": "HTML",
-      "description": "Star ossu / computer-science 🎓 Path to a free self-taught education in Computer Science!"
+      "repo": "docusealco/docuseal",
+      "url": "https://github.com/docusealco/docuseal",
+      "stars_today": 152,
+      "total_stars": 17709,
+      "language": "Ruby",
+      "description": "Star docusealco / docuseal Open source DocuSign alternative. Create, fill, and sign digital documents ✍️"
     },
     {
       "repo": "PostHog/posthog",
       "url": "https://github.com/PostHog/posthog",
       "stars_today": 77,
-      "total_stars": 36001,
+      "total_stars": 36035,
       "language": "Python",
       "description": "Star PostHog / posthog 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP."
     },
     {
-      "repo": "lobehub/lobehub",
-      "url": "https://github.com/lobehub/lobehub",
-      "stars_today": 71,
-      "total_stars": 80372,
-      "language": "TypeScript",
-      "description": "Sponsor Star lobehub / lobehub 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team."
+      "repo": "tirth8205/code-review-graph",
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "stars_today": 57,
+      "total_stars": 19593,
+      "language": "Python",
+      "description": "Sponsor Star tirth8205 / code-review-graph Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows."
     },
     {
-      "repo": "apache/ossie",
-      "url": "https://github.com/apache/ossie",
-      "stars_today": 60,
-      "total_stars": 1089,
-      "language": "Python",
-      "description": "Star apache / ossie Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data"
+      "repo": "anthropics/cwc-workshops",
+      "url": "https://github.com/anthropics/cwc-workshops",
+      "stars_today": 37,
+      "total_stars": 1493,
+      "language": "TypeScript",
+      "description": ""
     },
     {
       "repo": "github/copilot-sdk",
       "url": "https://github.com/github/copilot-sdk",
       "stars_today": 13,
-      "total_stars": 9734,
+      "total_stars": 9744,
       "language": "Java",
       "description": "Star github / copilot-sdk Multi-platform SDK for integrating GitHub Copilot Agent into apps and services"
+    },
+    {
+      "repo": "protocolbuffers/protobuf",
+      "url": "https://github.com/protocolbuffers/protobuf",
+      "stars_today": 11,
+      "total_stars": 71508,
+      "language": "C++",
+      "description": "Star protocolbuffers / protobuf Protocol Buffers - Google's data interchange format"
     }
   ]
 }

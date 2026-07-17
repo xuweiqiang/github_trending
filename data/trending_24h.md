@@ -1,23 +1,20 @@
 # GitHub 24h Star 增长榜
 
-- 生成时间: 2026-07-17 17:23:30 +0800
+- 生成时间: 2026-07-17 19:44:34 +0800
 
 | 排名 | 项目 | 24h 增长 | 总 Stars | 链接 |
 |---:|---|---:|---:|---|
-| 1 | `OpenCut-app/OpenCut` | 3537 | 74458 | [跳转](https://github.com/OpenCut-app/OpenCut) |
-| 2 | `Nutlope/hallmark` | 3372 | 11488 | [跳转](https://github.com/Nutlope/hallmark) |
-| 3 | `mattpocock/skills` | 2060 | 174975 | [跳转](https://github.com/mattpocock/skills) |
-| 4 | `Graphify-Labs/graphify` | 1107 | 89606 | [跳转](https://github.com/Graphify-Labs/graphify) |
-| 5 | `Shubhamsaboo/awesome-llm-apps` | 923 | 123295 | [跳转](https://github.com/Shubhamsaboo/awesome-llm-apps) |
-| 6 | `hasaneyldrm/exercises-dataset` | 710 | 15275 | [跳转](https://github.com/hasaneyldrm/exercises-dataset) |
-| 7 | `openinterpreter/openinterpreter` | 661 | 66170 | [跳转](https://github.com/openinterpreter/openinterpreter) |
-| 8 | `HKUDS/DeepTutor` | 656 | 27119 | [跳转](https://github.com/HKUDS/DeepTutor) |
-| 9 | `codecrafters-io/build-your-own-x` | 435 | 526710 | [跳转](https://github.com/codecrafters-io/build-your-own-x) |
-| 10 | `PrismML-Eng/Bonsai-demo` | 196 | 1627 | [跳转](https://github.com/PrismML-Eng/Bonsai-demo) |
-| 11 | `ibelick/ui-skills` | 178 | 4537 | [跳转](https://github.com/ibelick/ui-skills) |
-| 12 | `YimMenu/YimMenuV2` | 128 | 1536 | [跳转](https://github.com/YimMenu/YimMenuV2) |
-| 13 | `ossu/computer-science` | 107 | 206773 | [跳转](https://github.com/ossu/computer-science) |
-| 14 | `PostHog/posthog` | 77 | 36001 | [跳转](https://github.com/PostHog/posthog) |
-| 15 | `lobehub/lobehub` | 71 | 80372 | [跳转](https://github.com/lobehub/lobehub) |
-| 16 | `apache/ossie` | 60 | 1089 | [跳转](https://github.com/apache/ossie) |
-| 17 | `github/copilot-sdk` | 13 | 9734 | [跳转](https://github.com/github/copilot-sdk) |
+| 1 | `OpenCut-app/OpenCut` | 3537 | 74536 | [跳转](https://github.com/OpenCut-app/OpenCut) |
+| 2 | `Nutlope/hallmark` | 3372 | 11593 | [跳转](https://github.com/Nutlope/hallmark) |
+| 3 | `openinterpreter/openinterpreter` | 661 | 66190 | [跳转](https://github.com/openinterpreter/openinterpreter) |
+| 4 | `HKUDS/DeepTutor` | 656 | 27172 | [跳转](https://github.com/HKUDS/DeepTutor) |
+| 5 | `HenryNdubuaku/maths-cs-ai-compendium` | 511 | 6373 | [跳转](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) |
+| 6 | `codecrafters-io/build-your-own-x` | 435 | 526809 | [跳转](https://github.com/codecrafters-io/build-your-own-x) |
+| 7 | `RyanCodrai/turbovec` | 280 | 13160 | [跳转](https://github.com/RyanCodrai/turbovec) |
+| 8 | `PrismML-Eng/Bonsai-demo` | 196 | 1646 | [跳转](https://github.com/PrismML-Eng/Bonsai-demo) |
+| 9 | `docusealco/docuseal` | 152 | 17709 | [跳转](https://github.com/docusealco/docuseal) |
+| 10 | `PostHog/posthog` | 77 | 36035 | [跳转](https://github.com/PostHog/posthog) |
+| 11 | `tirth8205/code-review-graph` | 57 | 19593 | [跳转](https://github.com/tirth8205/code-review-graph) |
+| 12 | `anthropics/cwc-workshops` | 37 | 1493 | [跳转](https://github.com/anthropics/cwc-workshops) |
+| 13 | `github/copilot-sdk` | 13 | 9744 | [跳转](https://github.com/github/copilot-sdk) |
+| 14 | `protocolbuffers/protobuf` | 11 | 71508 | [跳转](https://github.com/protocolbuffers/protobuf) |
