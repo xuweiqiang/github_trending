@@ -1,38 +1,38 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-07-17T19:44:34.284447+08:00",
+  "generated_at": "2026-07-17T22:07:46.575473+08:00",
   "count": 14,
   "items": [
     {
-      "repo": "OpenCut-app/OpenCut",
-      "url": "https://github.com/OpenCut-app/OpenCut",
-      "stars_today": 3537,
-      "total_stars": 74536,
-      "language": "TypeScript",
-      "description": "Sponsor Star OpenCut-app / OpenCut The open-source CapCut alternative"
-    },
-    {
       "repo": "Nutlope/hallmark",
       "url": "https://github.com/Nutlope/hallmark",
-      "stars_today": 3372,
-      "total_stars": 11593,
+      "stars_today": 1486,
+      "total_stars": 11670,
       "language": "CSS",
       "description": "Star Nutlope / hallmark Anti-AI-slop design skill for Claude Code, Cursor, and Codex."
     },
     {
-      "repo": "openinterpreter/openinterpreter",
-      "url": "https://github.com/openinterpreter/openinterpreter",
-      "stars_today": 661,
-      "total_stars": 66190,
-      "language": "Rust",
-      "description": "Star openinterpreter / openinterpreter A coding agent for open models like Kimi K3"
+      "repo": "OpenCut-app/OpenCut",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "stars_today": 1077,
+      "total_stars": 74594,
+      "language": "TypeScript",
+      "description": "Sponsor Star OpenCut-app / OpenCut The open-source CapCut alternative"
+    },
+    {
+      "repo": "codecrafters-io/build-your-own-x",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "stars_today": 1070,
+      "total_stars": 526918,
+      "language": "Markdown",
+      "description": "Star codecrafters-io / build-your-own-x Master programming by recreating your favorite technologies from scratch."
     },
     {
       "repo": "HKUDS/DeepTutor",
       "url": "https://github.com/HKUDS/DeepTutor",
-      "stars_today": 656,
-      "total_stars": 27172,
+      "stars_today": 528,
+      "total_stars": 27205,
       "language": "Python",
       "description": "Star HKUDS / DeepTutor DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ ."
     },
@@ -40,55 +40,63 @@
       "repo": "HenryNdubuaku/maths-cs-ai-compendium",
       "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
       "stars_today": 511,
-      "total_stars": 6373,
+      "total_stars": 6433,
       "language": "TypeScript",
       "description": "Sponsor Star HenryNdubuaku / maths-cs-ai-compendium Become a cracked AI/ML Research Engineer"
     },
     {
-      "repo": "codecrafters-io/build-your-own-x",
-      "url": "https://github.com/codecrafters-io/build-your-own-x",
-      "stars_today": 435,
-      "total_stars": 526809,
-      "language": "Markdown",
-      "description": "Star codecrafters-io / build-your-own-x Master programming by recreating your favorite technologies from scratch."
+      "repo": "PostHog/posthog",
+      "url": "https://github.com/PostHog/posthog",
+      "stars_today": 437,
+      "total_stars": 36061,
+      "language": "Python",
+      "description": "Star PostHog / posthog 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP."
+    },
+    {
+      "repo": "openinterpreter/openinterpreter",
+      "url": "https://github.com/openinterpreter/openinterpreter",
+      "stars_today": 431,
+      "total_stars": 66219,
+      "language": "Rust",
+      "description": "Star openinterpreter / openinterpreter A coding agent for open models like Kimi K3"
     },
     {
       "repo": "RyanCodrai/turbovec",
       "url": "https://github.com/RyanCodrai/turbovec",
       "stars_today": 280,
-      "total_stars": 13160,
+      "total_stars": 13177,
       "language": "Python",
       "description": "Star RyanCodrai / turbovec A vector index built on TurboQuant, written in Rust with Python bindings"
     },
     {
       "repo": "PrismML-Eng/Bonsai-demo",
       "url": "https://github.com/PrismML-Eng/Bonsai-demo",
-      "stars_today": 196,
-      "total_stars": 1646,
+      "stars_today": 279,
+      "total_stars": 1659,
       "language": "Shell",
       "description": "Star PrismML-Eng / Bonsai-demo Bonsai Demo"
+    },
+    {
+      "repo": "github/copilot-sdk",
+      "url": "https://github.com/github/copilot-sdk",
+      "stars_today": 234,
+      "total_stars": 9750,
+      "language": "Java",
+      "description": "Star github / copilot-sdk Multi-platform SDK for integrating GitHub Copilot Agent into apps and services"
     },
     {
       "repo": "docusealco/docuseal",
       "url": "https://github.com/docusealco/docuseal",
       "stars_today": 152,
-      "total_stars": 17709,
+      "total_stars": 17726,
       "language": "Ruby",
       "description": "Star docusealco / docuseal Open source DocuSign alternative. Create, fill, and sign digital documents ✍️"
-    },
-    {
-      "repo": "PostHog/posthog",
-      "url": "https://github.com/PostHog/posthog",
-      "stars_today": 77,
-      "total_stars": 36035,
-      "language": "Python",
-      "description": "Star PostHog / posthog 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP."
     },
     {
       "repo": "tirth8205/code-review-graph",
       "url": "https://github.com/tirth8205/code-review-graph",
       "stars_today": 57,
-      "total_stars": 19593,
+      "total_stars": 19629,
       "language": "Python",
       "description": "Sponsor Star tirth8205 / code-review-graph Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows."
     },
@@ -96,23 +104,15 @@
       "repo": "anthropics/cwc-workshops",
       "url": "https://github.com/anthropics/cwc-workshops",
       "stars_today": 37,
-      "total_stars": 1493,
+      "total_stars": 1510,
       "language": "TypeScript",
       "description": ""
-    },
-    {
-      "repo": "github/copilot-sdk",
-      "url": "https://github.com/github/copilot-sdk",
-      "stars_today": 13,
-      "total_stars": 9744,
-      "language": "Java",
-      "description": "Star github / copilot-sdk Multi-platform SDK for integrating GitHub Copilot Agent into apps and services"
     },
     {
       "repo": "protocolbuffers/protobuf",
       "url": "https://github.com/protocolbuffers/protobuf",
       "stars_today": 11,
-      "total_stars": 71508,
+      "total_stars": 71511,
       "language": "C++",
       "description": "Star protocolbuffers / protobuf Protocol Buffers - Google's data interchange format"
     }
