@@ -1,120 +1,96 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-07-18T18:43:09.207126+08:00",
-  "count": 14,
+  "generated_at": "2026-07-18T20:07:58.659623+08:00",
+  "count": 11,
   "items": [
-    {
-      "repo": "Nutlope/hallmark",
-      "url": "https://github.com/Nutlope/hallmark",
-      "stars_today": 1485,
-      "total_stars": 12493,
-      "language": "CSS",
-      "description": "Star Nutlope / hallmark Anti-AI-slop design skill for Claude Code, Cursor, and Codex."
-    },
-    {
-      "repo": "OpenCut-app/OpenCut",
-      "url": "https://github.com/OpenCut-app/OpenCut",
-      "stars_today": 1074,
-      "total_stars": 75183,
-      "language": "TypeScript",
-      "description": "Sponsor Star OpenCut-app / OpenCut The open-source CapCut alternative"
-    },
     {
       "repo": "codecrafters-io/build-your-own-x",
       "url": "https://github.com/codecrafters-io/build-your-own-x",
       "stars_today": 1068,
-      "total_stars": 527844,
+      "total_stars": 527896,
       "language": "Markdown",
       "description": "Star codecrafters-io / build-your-own-x Master programming by recreating your favorite technologies from scratch."
     },
     {
-      "repo": "HKUDS/DeepTutor",
-      "url": "https://github.com/HKUDS/DeepTutor",
-      "stars_today": 531,
-      "total_stars": 27550,
+      "repo": "Robbyant/lingbot-map",
+      "url": "https://github.com/Robbyant/lingbot-map",
+      "stars_today": 827,
+      "total_stars": 12441,
       "language": "Python",
-      "description": "Star HKUDS / DeepTutor DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ ."
+      "description": "Star Robbyant / lingbot-map A feed-forward 3D foundation model for reconstructing scenes from streaming data"
+    },
+    {
+      "repo": "ibelick/ui-skills",
+      "url": "https://github.com/ibelick/ui-skills",
+      "stars_today": 529,
+      "total_stars": 4692,
+      "language": "TypeScript",
+      "description": "Sponsor Star ibelick / ui-skills Skills for Design Engineers"
     },
     {
       "repo": "PostHog/posthog",
       "url": "https://github.com/PostHog/posthog",
       "stars_today": 438,
-      "total_stars": 36338,
+      "total_stars": 36367,
       "language": "Python",
       "description": "Star PostHog / posthog 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP."
     },
     {
-      "repo": "openinterpreter/openinterpreter",
-      "url": "https://github.com/openinterpreter/openinterpreter",
-      "stars_today": 431,
-      "total_stars": 66578,
-      "language": "Rust",
-      "description": "Star openinterpreter / openinterpreter A coding agent for open models like Kimi K3"
+      "repo": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "stars_today": 242,
+      "total_stars": 23137,
+      "language": "Jupyter Notebook",
+      "description": "Sponsor Star lyogavin / airllm AirLLM 70B inference with single 4GB GPU"
     },
     {
-      "repo": "RyanCodrai/turbovec",
-      "url": "https://github.com/RyanCodrai/turbovec",
-      "stars_today": 280,
-      "total_stars": 13440,
+      "repo": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "stars_today": 232,
+      "total_stars": 38868,
       "language": "Python",
-      "description": "Star RyanCodrai / turbovec A vector index built on TurboQuant, written in Rust with Python bindings"
+      "description": "Sponsor Star rohitg00 / ai-engineering-from-scratch Learn it. Build it. Ship it for others."
     },
     {
-      "repo": "PrismML-Eng/Bonsai-demo",
-      "url": "https://github.com/PrismML-Eng/Bonsai-demo",
-      "stars_today": 278,
-      "total_stars": 1777,
-      "language": "Shell",
-      "description": "Star PrismML-Eng / Bonsai-demo Bonsai Demo"
-    },
-    {
-      "repo": "github/copilot-sdk",
-      "url": "https://github.com/github/copilot-sdk",
-      "stars_today": 233,
-      "total_stars": 9855,
-      "language": "Java",
-      "description": "Star github / copilot-sdk Multi-platform SDK for integrating GitHub Copilot Agent into apps and services"
-    },
-    {
-      "repo": "HenryNdubuaku/maths-cs-ai-compendium",
-      "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
-      "stars_today": 200,
-      "total_stars": 6837,
+      "repo": "KnockOutEZ/wigolo",
+      "url": "https://github.com/KnockOutEZ/wigolo",
+      "stars_today": 192,
+      "total_stars": 934,
       "language": "TypeScript",
-      "description": "Sponsor Star HenryNdubuaku / maths-cs-ai-compendium Become a cracked AI/ML Research Engineer"
-    },
-    {
-      "repo": "docusealco/docuseal",
-      "url": "https://github.com/docusealco/docuseal",
-      "stars_today": 91,
-      "total_stars": 17969,
-      "language": "Ruby",
-      "description": "Star docusealco / docuseal Open source DocuSign alternative. Create, fill, and sign digital documents ✍️"
+      "description": "Star KnockOutEZ / wigolo The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta."
     },
     {
       "repo": "tirth8205/code-review-graph",
       "url": "https://github.com/tirth8205/code-review-graph",
       "stars_today": 74,
-      "total_stars": 19926,
+      "total_stars": 19950,
       "language": "Python",
       "description": "Sponsor Star tirth8205 / code-review-graph Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows."
     },
     {
-      "repo": "anthropics/cwc-workshops",
-      "url": "https://github.com/anthropics/cwc-workshops",
-      "stars_today": 45,
-      "total_stars": 1673,
+      "repo": "elder-plinius/G0DM0D3",
+      "url": "https://github.com/elder-plinius/G0DM0D3",
+      "stars_today": 63,
+      "total_stars": 9359,
       "language": "TypeScript",
-      "description": ""
+      "description": "Star elder-plinius / G0DM0D3 LIBERATED AI CHAT"
     },
     {
-      "repo": "protocolbuffers/protobuf",
-      "url": "https://github.com/protocolbuffers/protobuf",
-      "stars_today": 11,
-      "total_stars": 71575,
-      "language": "C++",
-      "description": "Star protocolbuffers / protobuf Protocol Buffers - Google's data interchange format"
+      "repo": "apache/ossie",
+      "url": "https://github.com/apache/ossie",
+      "stars_today": 48,
+      "total_stars": 1168,
+      "language": "Python",
+      "description": "Star apache / ossie Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data"
+    },
+    {
+      "repo": "MoonshotAI/kimi-cli",
+      "url": "https://github.com/MoonshotAI/kimi-cli",
+      "stars_today": 48,
+      "total_stars": 9266,
+      "language": "Python",
+      "description": "Star MoonshotAI / kimi-cli Kimi Code CLI is your next CLI agent."
     }
   ]
 }
