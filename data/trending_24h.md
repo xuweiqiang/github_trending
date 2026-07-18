@@ -1,17 +1,17 @@
 # GitHub 24h Star 增长榜
 
-- 生成时间: 2026-07-18 23:17:55 +0800
+- 生成时间: 2026-07-19 00:14:05 +0800
 
 | 排名 | 项目 | 24h 增长 | 总 Stars | 链接 |
 |---:|---|---:|---:|---|
-| 1 | `codecrafters-io/build-your-own-x` | 1131 | 528011 | [跳转](https://github.com/codecrafters-io/build-your-own-x) |
-| 2 | `Robbyant/lingbot-map` | 827 | 12592 | [跳转](https://github.com/Robbyant/lingbot-map) |
-| 3 | `ibelick/ui-skills` | 529 | 4793 | [跳转](https://github.com/ibelick/ui-skills) |
-| 4 | `tirth8205/code-review-graph` | 356 | 20013 | [跳转](https://github.com/tirth8205/code-review-graph) |
-| 5 | `PostHog/posthog` | 337 | 36434 | [跳转](https://github.com/PostHog/posthog) |
-| 6 | `lyogavin/airllm` | 242 | 23198 | [跳转](https://github.com/lyogavin/airllm) |
-| 7 | `rohitg00/ai-engineering-from-scratch` | 232 | 38944 | [跳转](https://github.com/rohitg00/ai-engineering-from-scratch) |
-| 8 | `KnockOutEZ/wigolo` | 192 | 1036 | [跳转](https://github.com/KnockOutEZ/wigolo) |
-| 9 | `elder-plinius/G0DM0D3` | 63 | 9402 | [跳转](https://github.com/elder-plinius/G0DM0D3) |
-| 10 | `apache/ossie` | 48 | 1202 | [跳转](https://github.com/apache/ossie) |
-| 11 | `MoonshotAI/kimi-cli` | 48 | 9330 | [跳转](https://github.com/MoonshotAI/kimi-cli) |
+| 1 | `codecrafters-io/build-your-own-x` | 1131 | 528040 | [跳转](https://github.com/codecrafters-io/build-your-own-x) |
+| 2 | `Robbyant/lingbot-map` | 827 | 12631 | [跳转](https://github.com/Robbyant/lingbot-map) |
+| 3 | `ibelick/ui-skills` | 529 | 4825 | [跳转](https://github.com/ibelick/ui-skills) |
+| 4 | `tirth8205/code-review-graph` | 356 | 20038 | [跳转](https://github.com/tirth8205/code-review-graph) |
+| 5 | `PostHog/posthog` | 337 | 36450 | [跳转](https://github.com/PostHog/posthog) |
+| 6 | `lyogavin/airllm` | 242 | 23217 | [跳转](https://github.com/lyogavin/airllm) |
+| 7 | `rohitg00/ai-engineering-from-scratch` | 240 | 38968 | [跳转](https://github.com/rohitg00/ai-engineering-from-scratch) |
+| 8 | `KnockOutEZ/wigolo` | 192 | 1060 | [跳转](https://github.com/KnockOutEZ/wigolo) |
+| 9 | `elder-plinius/G0DM0D3` | 63 | 9416 | [跳转](https://github.com/elder-plinius/G0DM0D3) |
+| 10 | `apache/ossie` | 48 | 1209 | [跳转](https://github.com/apache/ossie) |
+| 11 | `MoonshotAI/kimi-cli` | 48 | 9344 | [跳转](https://github.com/MoonshotAI/kimi-cli) |
