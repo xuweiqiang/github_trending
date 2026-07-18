@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-07-19T03:36:20.344950+08:00",
+  "generated_at": "2026-07-19T05:08:21.153840+08:00",
   "count": 11,
   "items": [
     {
       "repo": "codecrafters-io/build-your-own-x",
       "url": "https://github.com/codecrafters-io/build-your-own-x",
       "stars_today": 1131,
-      "total_stars": 528124,
+      "total_stars": 528162,
       "language": "Markdown",
       "description": "Star codecrafters-io / build-your-own-x Master programming by recreating your favorite technologies from scratch."
     },
@@ -16,7 +16,7 @@
       "repo": "Robbyant/lingbot-map",
       "url": "https://github.com/Robbyant/lingbot-map",
       "stars_today": 827,
-      "total_stars": 12750,
+      "total_stars": 12821,
       "language": "Python",
       "description": "Star Robbyant / lingbot-map A feed-forward 3D foundation model for reconstructing scenes from streaming data"
     },
@@ -24,7 +24,7 @@
       "repo": "tirth8205/code-review-graph",
       "url": "https://github.com/tirth8205/code-review-graph",
       "stars_today": 356,
-      "total_stars": 20094,
+      "total_stars": 20116,
       "language": "Python",
       "description": "Sponsor Star tirth8205 / code-review-graph Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows."
     },
@@ -32,7 +32,7 @@
       "repo": "PostHog/posthog",
       "url": "https://github.com/PostHog/posthog",
       "stars_today": 337,
-      "total_stars": 36512,
+      "total_stars": 36545,
       "language": "Python",
       "description": "Star PostHog / posthog 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP."
     },
@@ -40,7 +40,7 @@
       "repo": "ibelick/ui-skills",
       "url": "https://github.com/ibelick/ui-skills",
       "stars_today": 242,
-      "total_stars": 4898,
+      "total_stars": 4940,
       "language": "TypeScript",
       "description": "Sponsor Star ibelick / ui-skills Skills for Design Engineers"
     },
@@ -48,7 +48,7 @@
       "repo": "lyogavin/airllm",
       "url": "https://github.com/lyogavin/airllm",
       "stars_today": 242,
-      "total_stars": 23268,
+      "total_stars": 23288,
       "language": "Jupyter Notebook",
       "description": "Sponsor Star lyogavin / airllm AirLLM 70B inference with single 4GB GPU"
     },
@@ -56,7 +56,7 @@
       "repo": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "stars_today": 240,
-      "total_stars": 39023,
+      "total_stars": 39051,
       "language": "Python",
       "description": "Sponsor Star rohitg00 / ai-engineering-from-scratch Learn it. Build it. Ship it for others."
     },
@@ -64,7 +64,7 @@
       "repo": "KnockOutEZ/wigolo",
       "url": "https://github.com/KnockOutEZ/wigolo",
       "stars_today": 192,
-      "total_stars": 1134,
+      "total_stars": 1165,
       "language": "TypeScript",
       "description": "Star KnockOutEZ / wigolo The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta."
     },
@@ -72,7 +72,7 @@
       "repo": "elder-plinius/G0DM0D3",
       "url": "https://github.com/elder-plinius/G0DM0D3",
       "stars_today": 63,
-      "total_stars": 9458,
+      "total_stars": 9472,
       "language": "TypeScript",
       "description": "Star elder-plinius / G0DM0D3 LIBERATED AI CHAT"
     },
@@ -80,7 +80,7 @@
       "repo": "apache/ossie",
       "url": "https://github.com/apache/ossie",
       "stars_today": 48,
-      "total_stars": 1238,
+      "total_stars": 1250,
       "language": "Python",
       "description": "Star apache / ossie Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data"
     },
@@ -88,7 +88,7 @@
       "repo": "MoonshotAI/kimi-cli",
       "url": "https://github.com/MoonshotAI/kimi-cli",
       "stars_today": 48,
-      "total_stars": 9403,
+      "total_stars": 9431,
       "language": "Python",
       "description": "Star MoonshotAI / kimi-cli Kimi Code CLI is your next CLI agent."
     }
