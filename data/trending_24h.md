@@ -1,17 +1,24 @@
 # GitHub 24h Star 增长榜
 
-- 生成时间: 2026-07-19 18:48:25 +0800
+- 生成时间: 2026-07-19 20:08:09 +0800
 
 | 排名 | 项目 | 24h 增长 | 总 Stars | 链接 |
 |---:|---|---:|---:|---|
-| 1 | `codecrafters-io/build-your-own-x` | 1126 | 528567 | [跳转](https://github.com/codecrafters-io/build-your-own-x) |
-| 2 | `Robbyant/lingbot-map` | 831 | 13326 | [跳转](https://github.com/Robbyant/lingbot-map) |
-| 3 | `tirth8205/code-review-graph` | 355 | 20413 | [跳转](https://github.com/tirth8205/code-review-graph) |
-| 4 | `PostHog/posthog` | 338 | 36761 | [跳转](https://github.com/PostHog/posthog) |
-| 5 | `KnockOutEZ/wigolo` | 203 | 1494 | [跳转](https://github.com/KnockOutEZ/wigolo) |
-| 6 | `rohitg00/ai-engineering-from-scratch` | 191 | 39322 | [跳转](https://github.com/rohitg00/ai-engineering-from-scratch) |
-| 7 | `lyogavin/airllm` | 161 | 23493 | [跳转](https://github.com/lyogavin/airllm) |
-| 8 | `ibelick/ui-skills` | 123 | 5292 | [跳转](https://github.com/ibelick/ui-skills) |
-| 9 | `elder-plinius/G0DM0D3` | 69 | 9624 | [跳转](https://github.com/elder-plinius/G0DM0D3) |
-| 10 | `MoonshotAI/kimi-cli` | 65 | 9655 | [跳转](https://github.com/MoonshotAI/kimi-cli) |
-| 11 | `apache/ossie` | 47 | 1357 | [跳转](https://github.com/apache/ossie) |
+| 1 | `codecrafters-io/build-your-own-x` | 761 | 528610 | [跳转](https://github.com/codecrafters-io/build-your-own-x) |
+| 2 | `jamiepine/voicebox` | 629 | 43001 | [跳转](https://github.com/jamiepine/voicebox) |
+| 3 | `KnockOutEZ/wigolo` | 605 | 1535 | [跳转](https://github.com/KnockOutEZ/wigolo) |
+| 4 | `tirth8205/code-review-graph` | 551 | 20494 | [跳转](https://github.com/tirth8205/code-review-graph) |
+| 5 | `rohitg00/ai-engineering-from-scratch` | 507 | 39362 | [跳转](https://github.com/rohitg00/ai-engineering-from-scratch) |
+| 6 | `PostHog/posthog` | 424 | 36772 | [跳转](https://github.com/PostHog/posthog) |
+| 7 | `MoonshotAI/kimi-cli` | 418 | 9676 | [跳转](https://github.com/MoonshotAI/kimi-cli) |
+| 8 | `lyogavin/airllm` | 374 | 23506 | [跳转](https://github.com/lyogavin/airllm) |
+| 9 | `kvcache-ai/ktransformers` | 328 | 18150 | [跳转](https://github.com/kvcache-ai/ktransformers) |
+| 10 | `1jehuang/jcode` | 199 | 8660 | [跳转](https://github.com/1jehuang/jcode) |
+| 11 | `trycua/cua` | 136 | 20156 | [跳转](https://github.com/trycua/cua) |
+| 12 | `PKUFlyingPig/cs-self-learning` | 128 | 74055 | [跳转](https://github.com/PKUFlyingPig/cs-self-learning) |
+| 13 | `Flowseal/zapret-discord-youtube` | 117 | 30963 | [跳转](https://github.com/Flowseal/zapret-discord-youtube) |
+| 14 | `github/copilot-sdk` | 111 | 9882 | [跳转](https://github.com/github/copilot-sdk) |
+| 15 | `Canner/WrenAI` | 96 | 16044 | [跳转](https://github.com/Canner/WrenAI) |
+| 16 | `AstrBotDevs/AstrBot` | 62 | 36589 | [跳转](https://github.com/AstrBotDevs/AstrBot) |
+| 17 | `andrewrabert/jellium-desktop` | 55 | 1203 | [跳转](https://github.com/andrewrabert/jellium-desktop) |
+| 18 | `microsoft/terminal` | 13 | 104013 | [跳转](https://github.com/microsoft/terminal) |
