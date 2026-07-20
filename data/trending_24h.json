@@ -1,158 +1,158 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-07-20T07:14:49.891829+08:00",
+  "generated_at": "2026-07-20T08:15:32.201881+08:00",
   "count": 19,
   "items": [
     {
       "repo": "bojieli/ai-agent-book",
       "url": "https://github.com/bojieli/ai-agent-book",
       "stars_today": 1734,
-      "total_stars": 5338,
+      "total_stars": 5405,
       "language": "Python",
       "description": "Star bojieli / ai-agent-book 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码"
     },
     {
       "repo": "codecrafters-io/build-your-own-x",
       "url": "https://github.com/codecrafters-io/build-your-own-x",
-      "stars_today": 761,
-      "total_stars": 528892,
+      "stars_today": 754,
+      "total_stars": 528906,
       "language": "Markdown",
       "description": "Star codecrafters-io / build-your-own-x Master programming by recreating your favorite technologies from scratch."
     },
     {
+      "repo": "tirth8205/code-review-graph",
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "stars_today": 663,
+      "total_stars": 21152,
+      "language": "Python",
+      "description": "Sponsor Star tirth8205 / code-review-graph Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows."
+    },
+    {
       "repo": "jamiepine/voicebox",
       "url": "https://github.com/jamiepine/voicebox",
-      "stars_today": 629,
-      "total_stars": 43301,
+      "stars_today": 610,
+      "total_stars": 43322,
       "language": "TypeScript",
       "description": "Star jamiepine / voicebox The open-source AI voice studio. Clone, dictate, create."
     },
     {
       "repo": "KnockOutEZ/wigolo",
       "url": "https://github.com/KnockOutEZ/wigolo",
-      "stars_today": 605,
-      "total_stars": 1780,
+      "stars_today": 595,
+      "total_stars": 1800,
       "language": "TypeScript",
       "description": "Star KnockOutEZ / wigolo The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta."
     },
     {
-      "repo": "tirth8205/code-review-graph",
-      "url": "https://github.com/tirth8205/code-review-graph",
-      "stars_today": 551,
-      "total_stars": 21114,
-      "language": "Python",
-      "description": "Sponsor Star tirth8205 / code-review-graph Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows."
-    },
-    {
       "repo": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "stars_today": 507,
-      "total_stars": 39625,
+      "stars_today": 501,
+      "total_stars": 39637,
       "language": "Python",
       "description": "Sponsor Star rohitg00 / ai-engineering-from-scratch Learn it. Build it. Ship it for others."
     },
     {
       "repo": "PostHog/posthog",
       "url": "https://github.com/PostHog/posthog",
-      "stars_today": 424,
-      "total_stars": 36917,
+      "stars_today": 411,
+      "total_stars": 36924,
       "language": "Python",
       "description": "Star PostHog / posthog 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP."
     },
     {
       "repo": "MoonshotAI/kimi-cli",
       "url": "https://github.com/MoonshotAI/kimi-cli",
-      "stars_today": 418,
-      "total_stars": 9864,
+      "stars_today": 410,
+      "total_stars": 9870,
       "language": "Python",
       "description": "Star MoonshotAI / kimi-cli Kimi Code CLI is your next CLI agent."
     },
     {
-      "repo": "lyogavin/airllm",
-      "url": "https://github.com/lyogavin/airllm",
-      "stars_today": 374,
-      "total_stars": 23611,
-      "language": "Jupyter Notebook",
-      "description": "Sponsor Star lyogavin / airllm AirLLM 70B inference with single 4GB GPU"
-    },
-    {
       "repo": "kvcache-ai/ktransformers",
       "url": "https://github.com/kvcache-ai/ktransformers",
-      "stars_today": 328,
-      "total_stars": 18331,
+      "stars_today": 360,
+      "total_stars": 18355,
       "language": "Python",
       "description": "Star kvcache-ai / ktransformers A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations"
     },
     {
+      "repo": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "stars_today": 358,
+      "total_stars": 23623,
+      "language": "Jupyter Notebook",
+      "description": "Sponsor Star lyogavin / airllm AirLLM 70B inference with single 4GB GPU"
+    },
+    {
       "repo": "1jehuang/jcode",
       "url": "https://github.com/1jehuang/jcode",
-      "stars_today": 199,
-      "total_stars": 8875,
+      "stars_today": 235,
+      "total_stars": 8900,
       "language": "Rust",
       "description": "Star 1jehuang / jcode Coding Agent Harness"
     },
     {
       "repo": "PKUFlyingPig/cs-self-learning",
       "url": "https://github.com/PKUFlyingPig/cs-self-learning",
-      "stars_today": 164,
-      "total_stars": 74148,
+      "stars_today": 134,
+      "total_stars": 74154,
       "language": "HTML",
       "description": "Star PKUFlyingPig / cs-self-learning 计算机自学指南"
     },
     {
-      "repo": "Flowseal/zapret-discord-youtube",
-      "url": "https://github.com/Flowseal/zapret-discord-youtube",
-      "stars_today": 117,
-      "total_stars": 31032,
-      "language": "Batchfile",
-      "description": ""
-    },
-    {
-      "repo": "microsoft/terminal",
-      "url": "https://github.com/microsoft/terminal",
-      "stars_today": 103,
-      "total_stars": 104157,
-      "language": "C++",
-      "description": "Star microsoft / terminal The new Windows Terminal and the original Windows console host, all in the same place!"
-    },
-    {
       "repo": "Canner/WrenAI",
       "url": "https://github.com/Canner/WrenAI",
-      "stars_today": 96,
-      "total_stars": 16174,
+      "stars_today": 121,
+      "total_stars": 16185,
       "language": "Python",
       "description": "Star Canner / WrenAI GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data sources, such as BigQuery, Snowflake, PostgreSQL, ClickHouse, Amazon Redshift, Databricks and more."
     },
     {
-      "repo": "trycua/cua",
-      "url": "https://github.com/trycua/cua",
-      "stars_today": 87,
-      "total_stars": 20224,
-      "language": "HTML",
-      "description": "Sponsor Star trycua / cua Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation."
+      "repo": "Flowseal/zapret-discord-youtube",
+      "url": "https://github.com/Flowseal/zapret-discord-youtube",
+      "stars_today": 106,
+      "total_stars": 31035,
+      "language": "Batchfile",
+      "description": ""
     },
     {
       "repo": "AstrBotDevs/AstrBot",
       "url": "https://github.com/AstrBotDevs/AstrBot",
-      "stars_today": 62,
-      "total_stars": 36682,
+      "stars_today": 83,
+      "total_stars": 36692,
       "language": "Python",
       "description": "Star AstrBotDevs / AstrBot AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨"
     },
     {
+      "repo": "trycua/cua",
+      "url": "https://github.com/trycua/cua",
+      "stars_today": 64,
+      "total_stars": 20235,
+      "language": "HTML",
+      "description": "Sponsor Star trycua / cua Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation."
+    },
+    {
+      "repo": "microsoft/terminal",
+      "url": "https://github.com/microsoft/terminal",
+      "stars_today": 59,
+      "total_stars": 104166,
+      "language": "C++",
+      "description": "Star microsoft / terminal The new Windows Terminal and the original Windows console host, all in the same place!"
+    },
+    {
       "repo": "andrewrabert/jellium-desktop",
       "url": "https://github.com/andrewrabert/jellium-desktop",
-      "stars_today": 54,
-      "total_stars": 1275,
+      "stars_today": 43,
+      "total_stars": 1282,
       "language": "Rust",
       "description": "Star andrewrabert / jellium-desktop An unofficial desktop client for Jellyfin"
     },
     {
       "repo": "github/copilot-sdk",
       "url": "https://github.com/github/copilot-sdk",
-      "stars_today": 46,
-      "total_stars": 9947,
+      "stars_today": 39,
+      "total_stars": 9951,
       "language": "Java",
       "description": "Star github / copilot-sdk Multi-platform SDK for integrating GitHub Copilot Agent into apps and services"
     }
