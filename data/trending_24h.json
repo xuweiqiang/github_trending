@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-07-20T23:23:41.807993+08:00",
+  "generated_at": "2026-07-21T02:24:12.899680+08:00",
   "count": 20,
   "items": [
     {
       "repo": "tirth8205/code-review-graph",
       "url": "https://github.com/tirth8205/code-review-graph",
       "stars_today": 1876,
-      "total_stars": 22623,
+      "total_stars": 22814,
       "language": "Python",
       "description": "Sponsor Star tirth8205 / code-review-graph Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows."
     },
@@ -16,39 +16,31 @@
       "repo": "oblien/openship",
       "url": "https://github.com/oblien/openship",
       "stars_today": 1719,
-      "total_stars": 4241,
+      "total_stars": 4487,
       "language": "TypeScript",
       "description": "Star oblien / openship Self-hosted deployment platform"
     },
     {
       "repo": "diegosouzapw/OmniRoute",
       "url": "https://github.com/diegosouzapw/OmniRoute",
-      "stars_today": 1343,
-      "total_stars": 21049,
+      "stars_today": 1300,
+      "total_stars": 21344,
       "language": "TypeScript",
       "description": "Sponsor Star diegosouzapw / OmniRoute Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, multimodal, Desktop/PWA. Built by 500+ contributors."
     },
     {
-      "repo": "msitarzewski/agency-agents",
-      "url": "https://github.com/msitarzewski/agency-agents",
-      "stars_today": 949,
-      "total_stars": 134490,
-      "language": "Shell",
-      "description": "Sponsor Star msitarzewski / agency-agents A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables."
-    },
-    {
-      "repo": "Robbyant/lingbot-map",
-      "url": "https://github.com/Robbyant/lingbot-map",
-      "stars_today": 865,
-      "total_stars": 14014,
-      "language": "Python",
-      "description": "Star Robbyant / lingbot-map A feed-forward 3D foundation model for reconstructing scenes from streaming data"
+      "repo": "every-app/open-seo",
+      "url": "https://github.com/every-app/open-seo",
+      "stars_today": 983,
+      "total_stars": 5662,
+      "language": "TypeScript",
+      "description": "Star every-app / open-seo Open source alternative to Semrush and Ahrefs"
     },
     {
       "repo": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "stars_today": 846,
-      "total_stars": 40301,
+      "total_stars": 40398,
       "language": "Python",
       "description": "Sponsor Star rohitg00 / ai-engineering-from-scratch Learn it. Build it. Ship it for others."
     },
@@ -56,15 +48,23 @@
       "repo": "jamiepine/voicebox",
       "url": "https://github.com/jamiepine/voicebox",
       "stars_today": 839,
-      "total_stars": 43941,
+      "total_stars": 44020,
       "language": "TypeScript",
       "description": "Star jamiepine / voicebox The open-source AI voice studio. Clone, dictate, create."
+    },
+    {
+      "repo": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "stars_today": 744,
+      "total_stars": 134579,
+      "language": "Shell",
+      "description": "Sponsor Star msitarzewski / agency-agents A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables."
     },
     {
       "repo": "KnockOutEZ/wigolo",
       "url": "https://github.com/KnockOutEZ/wigolo",
       "stars_today": 695,
-      "total_stars": 2317,
+      "total_stars": 2406,
       "language": "TypeScript",
       "description": "Star KnockOutEZ / wigolo The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta."
     },
@@ -72,15 +72,23 @@
       "repo": "1jehuang/jcode",
       "url": "https://github.com/1jehuang/jcode",
       "stars_today": 612,
-      "total_stars": 9365,
+      "total_stars": 9459,
       "language": "Rust",
       "description": "Star 1jehuang / jcode The most intelligent agent harness for code"
+    },
+    {
+      "repo": "Robbyant/lingbot-map",
+      "url": "https://github.com/Robbyant/lingbot-map",
+      "stars_today": 554,
+      "total_stars": 14085,
+      "language": "Python",
+      "description": "Star Robbyant / lingbot-map A feed-forward 3D foundation model for reconstructing scenes from streaming data"
     },
     {
       "repo": "microsoft/Ontology-Playground",
       "url": "https://github.com/microsoft/Ontology-Playground",
       "stars_today": 487,
-      "total_stars": 1603,
+      "total_stars": 1650,
       "language": "TypeScript",
       "description": "Star microsoft / Ontology-Playground Free, open-source web app for learning about ontologies and Microsoft Fabric IQ. Explore a catalogue of pre-built ontologies, design your own visually, export as RDF/XML, and share interactive diagrams. Zero backend, fully static."
     },
@@ -88,23 +96,15 @@
       "repo": "kvcache-ai/ktransformers",
       "url": "https://github.com/kvcache-ai/ktransformers",
       "stars_today": 448,
-      "total_stars": 18651,
+      "total_stars": 18691,
       "language": "Python",
       "description": "Star kvcache-ai / ktransformers A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations"
-    },
-    {
-      "repo": "tokio-rs/topcoat",
-      "url": "https://github.com/tokio-rs/topcoat",
-      "stars_today": 439,
-      "total_stars": 1357,
-      "language": "Rust",
-      "description": "Sponsor Star tokio-rs / topcoat A batteries-included framework for building web apps"
     },
     {
       "repo": "MoonshotAI/kimi-cli",
       "url": "https://github.com/MoonshotAI/kimi-cli",
       "stars_today": 405,
-      "total_stars": 10132,
+      "total_stars": 10170,
       "language": "Python",
       "description": "Star MoonshotAI / kimi-cli Kimi Code CLI is your next CLI agent."
     },
@@ -112,47 +112,47 @@
       "repo": "handy-computer/transcribe.cpp",
       "url": "https://github.com/handy-computer/transcribe.cpp",
       "stars_today": 401,
-      "total_stars": 1105,
+      "total_stars": 1150,
       "language": "C++",
       "description": "Star handy-computer / transcribe.cpp ggml speech-to-text inference for 16+ model families"
+    },
+    {
+      "repo": "tokio-rs/topcoat",
+      "url": "https://github.com/tokio-rs/topcoat",
+      "stars_today": 374,
+      "total_stars": 1415,
+      "language": "Rust",
+      "description": "Sponsor Star tokio-rs / topcoat A batteries-included framework for building web apps"
     },
     {
       "repo": "AstrBotDevs/AstrBot",
       "url": "https://github.com/AstrBotDevs/AstrBot",
       "stars_today": 330,
-      "total_stars": 36964,
+      "total_stars": 37010,
       "language": "Python",
       "description": "Star AstrBotDevs / AstrBot AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨"
-    },
-    {
-      "repo": "topoteretes/cognee",
-      "url": "https://github.com/topoteretes/cognee",
-      "stars_today": 303,
-      "total_stars": 28643,
-      "language": "Python",
-      "description": "Sponsor Star topoteretes / cognee Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine."
     },
     {
       "repo": "moonshine-ai/moonshine",
       "url": "https://github.com/moonshine-ai/moonshine",
       "stars_today": 264,
-      "total_stars": 9558,
+      "total_stars": 9671,
       "language": "C++",
       "description": "Star moonshine-ai / moonshine Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces"
     },
     {
-      "repo": "every-app/open-seo",
-      "url": "https://github.com/every-app/open-seo",
-      "stars_today": 222,
-      "total_stars": 5545,
-      "language": "TypeScript",
-      "description": "Star every-app / open-seo Open source alternative to Semrush and Ahrefs"
+      "repo": "topoteretes/cognee",
+      "url": "https://github.com/topoteretes/cognee",
+      "stars_today": 249,
+      "total_stars": 28694,
+      "language": "Python",
+      "description": "Sponsor Star topoteretes / cognee Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine."
     },
     {
       "repo": "iptv-org/iptv",
       "url": "https://github.com/iptv-org/iptv",
       "stars_today": 144,
-      "total_stars": 133630,
+      "total_stars": 133678,
       "language": "TypeScript",
       "description": "Star iptv-org / iptv Collection of publicly available IPTV channels from all over the world"
     },
@@ -160,7 +160,7 @@
       "repo": "PrefectHQ/fastmcp",
       "url": "https://github.com/PrefectHQ/fastmcp",
       "stars_today": 77,
-      "total_stars": 26428,
+      "total_stars": 26464,
       "language": "Python",
       "description": "Star PrefectHQ / fastmcp 🚀 The fast, Pythonic way to build MCP servers and clients."
     }
