@@ -1,168 +1,160 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-07-22T17:42:30.533263+08:00",
-  "count": 20,
+  "generated_at": "2026-07-22T20:08:12.991147+08:00",
+  "count": 19,
   "items": [
-    {
-      "repo": "bojieli/ai-agent-book",
-      "url": "https://github.com/bojieli/ai-agent-book",
-      "stars_today": 4624,
-      "total_stars": 16668,
-      "language": "Python",
-      "description": "Star bojieli / ai-agent-book 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码"
-    },
-    {
-      "repo": "diegosouzapw/OmniRoute",
-      "url": "https://github.com/diegosouzapw/OmniRoute",
-      "stars_today": 2034,
-      "total_stars": 24188,
-      "language": "TypeScript",
-      "description": "Sponsor Star diegosouzapw / OmniRoute Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors"
-    },
-    {
-      "repo": "tirth8205/code-review-graph",
-      "url": "https://github.com/tirth8205/code-review-graph",
-      "stars_today": 1925,
-      "total_stars": 24972,
-      "language": "Python",
-      "description": "Sponsor Star tirth8205 / code-review-graph Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows."
-    },
-    {
-      "repo": "ayghri/i-have-adhd",
-      "url": "https://github.com/ayghri/i-have-adhd",
-      "stars_today": 1866,
-      "total_stars": 7475,
-      "language": "Python",
-      "description": "Star ayghri / i-have-adhd A skill for your coding agent to stop it from burying the answer. ADHD-friendly output."
-    },
-    {
-      "repo": "oblien/openship",
-      "url": "https://github.com/oblien/openship",
-      "stars_today": 1562,
-      "total_stars": 6662,
-      "language": "TypeScript",
-      "description": "Star oblien / openship Self-hosted deployment platform"
-    },
     {
       "repo": "koala73/worldmonitor",
       "url": "https://github.com/koala73/worldmonitor",
-      "stars_today": 1295,
-      "total_stars": 67067,
+      "stars_today": 4131,
+      "total_stars": 67448,
       "language": "TypeScript",
       "description": "Star koala73 / worldmonitor Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface"
     },
     {
+      "repo": "ayghri/i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "stars_today": 1682,
+      "total_stars": 7615,
+      "language": "Python",
+      "description": "Star ayghri / i-have-adhd A skill for your coding agent to stop it from burying the answer. ADHD-friendly output."
+    },
+    {
+      "repo": "diegosouzapw/OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "stars_today": 1648,
+      "total_stars": 24349,
+      "language": "TypeScript",
+      "description": "Sponsor Star diegosouzapw / OmniRoute Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors"
+    },
+    {
+      "repo": "oblien/openship",
+      "url": "https://github.com/oblien/openship",
+      "stars_today": 1304,
+      "total_stars": 6790,
+      "language": "TypeScript",
+      "description": "Star oblien / openship Self-hosted deployment platform"
+    },
+    {
+      "repo": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "stars_today": 1114,
+      "total_stars": 82975,
+      "language": "Rust",
+      "description": "Star ruvnet / RuView π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video."
+    },
+    {
+      "repo": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "stars_today": 1007,
+      "total_stars": 41826,
+      "language": "Python",
+      "description": "Sponsor Star rohitg00 / ai-engineering-from-scratch Learn it. Build it. Ship it for others."
+    },
+    {
+      "repo": "tirth8205/code-review-graph",
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "stars_today": 872,
+      "total_stars": 25056,
+      "language": "Python",
+      "description": "Sponsor Star tirth8205 / code-review-graph Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows."
+    },
+    {
       "repo": "chrislgarry/Apollo-11",
       "url": "https://github.com/chrislgarry/Apollo-11",
-      "stars_today": 1235,
-      "total_stars": 70203,
+      "stars_today": 766,
+      "total_stars": 70287,
       "language": "Assembly",
       "description": "Sponsor Star chrislgarry / Apollo-11 Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules."
     },
     {
-      "repo": "every-app/open-seo",
-      "url": "https://github.com/every-app/open-seo",
-      "stars_today": 849,
-      "total_stars": 6784,
-      "language": "TypeScript",
-      "description": "Star every-app / open-seo Open source alternative to Semrush and Ahrefs"
-    },
-    {
-      "repo": "1jehuang/jcode",
-      "url": "https://github.com/1jehuang/jcode",
-      "stars_today": 843,
-      "total_stars": 10554,
-      "language": "Rust",
-      "description": "Star 1jehuang / jcode The most intelligent agent harness for code"
-    },
-    {
-      "repo": "KnockOutEZ/wigolo",
-      "url": "https://github.com/KnockOutEZ/wigolo",
-      "stars_today": 642,
-      "total_stars": 3348,
-      "language": "TypeScript",
-      "description": "Star KnockOutEZ / wigolo The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta."
-    },
-    {
-      "repo": "AstrBotDevs/AstrBot",
-      "url": "https://github.com/AstrBotDevs/AstrBot",
-      "stars_today": 416,
-      "total_stars": 37669,
-      "language": "Python",
-      "description": "Star AstrBotDevs / AstrBot AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨"
-    },
-    {
       "repo": "schollz/croc",
       "url": "https://github.com/schollz/croc",
-      "stars_today": 361,
-      "total_stars": 37085,
+      "stars_today": 737,
+      "total_stars": 37166,
       "language": "Go",
       "description": "Sponsor Star schollz / croc Easily and securely send things from one computer to another 🐊 📦"
     },
     {
-      "repo": "microsoft/Ontology-Playground",
-      "url": "https://github.com/microsoft/Ontology-Playground",
-      "stars_today": 355,
-      "total_stars": 2104,
+      "repo": "jamiepine/voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "stars_today": 565,
+      "total_stars": 45390,
       "language": "TypeScript",
-      "description": "Star microsoft / Ontology-Playground Free, open-source web app for learning about ontologies and Microsoft Fabric IQ. Explore a catalogue of pre-built ontologies, design your own visually, export as RDF/XML, and share interactive diagrams. Zero backend, fully static."
-    },
-    {
-      "repo": "agegr/pi-web",
-      "url": "https://github.com/agegr/pi-web",
-      "stars_today": 298,
-      "total_stars": 1879,
-      "language": "TypeScript",
-      "description": "Star agegr / pi-web Web UI for the pi coding agent"
-    },
-    {
-      "repo": "earthtojake/text-to-cad",
-      "url": "https://github.com/earthtojake/text-to-cad",
-      "stars_today": 291,
-      "total_stars": 9452,
-      "language": "JavaScript",
-      "description": "Star earthtojake / text-to-cad A collection of agent skills for CAD, robotics and hardware design"
+      "description": "Star jamiepine / voicebox The open-source AI voice studio. Clone, dictate, create."
     },
     {
       "repo": "DioxusLabs/dioxus",
       "url": "https://github.com/DioxusLabs/dioxus",
-      "stars_today": 271,
-      "total_stars": 37823,
+      "stars_today": 411,
+      "total_stars": 37864,
       "language": "Rust",
       "description": "Sponsor Star DioxusLabs / dioxus Fullstack app framework for web, desktop, and mobile."
     },
     {
-      "repo": "AlexsJones/llmfit",
-      "url": "https://github.com/AlexsJones/llmfit",
-      "stars_today": 129,
-      "total_stars": 30373,
-      "language": "Rust",
-      "description": "Sponsor Star AlexsJones / llmfit Hundreds of models & providers. One command to find what runs on your hardware."
-    },
-    {
-      "repo": "tradesdontlie/tradingview-mcp",
-      "url": "https://github.com/tradesdontlie/tradingview-mcp",
-      "stars_today": 114,
-      "total_stars": 5000,
-      "language": "JavaScript",
-      "description": "Star tradesdontlie / tradingview-mcp AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation"
-    },
-    {
       "repo": "dottxt-ai/outlines",
       "url": "https://github.com/dottxt-ai/outlines",
-      "stars_today": 65,
-      "total_stars": 14955,
+      "stars_today": 362,
+      "total_stars": 14991,
       "language": "Python",
       "description": "Star dottxt-ai / outlines Structured Outputs"
     },
     {
       "repo": "hyprwm/Hyprland",
       "url": "https://github.com/hyprwm/Hyprland",
-      "stars_today": 58,
-      "total_stars": 37153,
+      "stars_today": 353,
+      "total_stars": 37180,
       "language": "C++",
       "description": "Star hyprwm / Hyprland Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks."
+    },
+    {
+      "repo": "agegr/pi-web",
+      "url": "https://github.com/agegr/pi-web",
+      "stars_today": 314,
+      "total_stars": 1919,
+      "language": "TypeScript",
+      "description": "Star agegr / pi-web Web UI for the pi coding agent"
+    },
+    {
+      "repo": "ComposioHQ/awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "stars_today": 155,
+      "total_stars": 68499,
+      "language": "Python",
+      "description": "Star ComposioHQ / awesome-claude-skills A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows"
+    },
+    {
+      "repo": "shiyu-coder/Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "stars_today": 134,
+      "total_stars": 32436,
+      "language": "Python",
+      "description": "Star shiyu-coder / Kronos Kronos: A Foundation Model for the Language of Financial Markets"
+    },
+    {
+      "repo": "Pumpkin-MC/Pumpkin",
+      "url": "https://github.com/Pumpkin-MC/Pumpkin",
+      "stars_today": 96,
+      "total_stars": 8123,
+      "language": "Rust",
+      "description": "Sponsor Star Pumpkin-MC / Pumpkin Empowering everyone to host fast and efficient Minecraft servers."
+    },
+    {
+      "repo": "dreamhunter2333/cloudflare_temp_email",
+      "url": "https://github.com/dreamhunter2333/cloudflare_temp_email",
+      "stars_today": 60,
+      "total_stars": 10679,
+      "language": "TypeScript",
+      "description": "Star dreamhunter2333 / cloudflare_temp_email CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot"
+    },
+    {
+      "repo": "likec4/likec4",
+      "url": "https://github.com/likec4/likec4",
+      "stars_today": 58,
+      "total_stars": 4069,
+      "language": "TypeScript",
+      "description": "Sponsor Star likec4 / likec4 Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code"
     }
   ]
 }
