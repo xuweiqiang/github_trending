@@ -1,25 +1,23 @@
 # GitHub 24h Star 增长榜
 
-- 生成时间: 2026-07-23 17:41:41 +0800
+- 生成时间: 2026-07-23 20:05:47 +0800
 
 | 排名 | 项目 | 24h 增长 | 总 Stars | 链接 |
 |---:|---|---:|---:|---|
-| 1 | `koala73/worldmonitor` | 4139 | 70259 | [跳转](https://github.com/koala73/worldmonitor) |
-| 2 | `ayghri/i-have-adhd` | 1699 | 8803 | [跳转](https://github.com/ayghri/i-have-adhd) |
-| 3 | `diegosouzapw/OmniRoute` | 1651 | 26071 | [跳转](https://github.com/diegosouzapw/OmniRoute) |
-| 4 | `oblien/openship` | 1302 | 7605 | [跳转](https://github.com/oblien/openship) |
-| 5 | `tirth8205/code-review-graph` | 882 | 25621 | [跳转](https://github.com/tirth8205/code-review-graph) |
-| 6 | `chrislgarry/Apollo-11` | 768 | 70821 | [跳转](https://github.com/chrislgarry/Apollo-11) |
-| 7 | `ruvnet/RuView` | 741 | 84471 | [跳转](https://github.com/ruvnet/RuView) |
-| 8 | `schollz/croc` | 739 | 37998 | [跳转](https://github.com/schollz/croc) |
-| 9 | `rohitg00/ai-engineering-from-scratch` | 652 | 42655 | [跳转](https://github.com/rohitg00/ai-engineering-from-scratch) |
-| 10 | `jamiepine/voicebox` | 557 | 46089 | [跳转](https://github.com/jamiepine/voicebox) |
-| 11 | `DioxusLabs/dioxus` | 420 | 38168 | [跳转](https://github.com/DioxusLabs/dioxus) |
-| 12 | `dottxt-ai/outlines` | 364 | 15237 | [跳转](https://github.com/dottxt-ai/outlines) |
-| 13 | `hyprwm/Hyprland` | 356 | 37386 | [跳转](https://github.com/hyprwm/Hyprland) |
-| 14 | `agegr/pi-web` | 314 | 2201 | [跳转](https://github.com/agegr/pi-web) |
-| 15 | `ComposioHQ/awesome-claude-skills` | 163 | 69062 | [跳转](https://github.com/ComposioHQ/awesome-claude-skills) |
-| 16 | `shiyu-coder/Kronos` | 137 | 32774 | [跳转](https://github.com/shiyu-coder/Kronos) |
-| 17 | `Pumpkin-MC/Pumpkin` | 108 | 8641 | [跳转](https://github.com/Pumpkin-MC/Pumpkin) |
-| 18 | `likec4/likec4` | 80 | 4496 | [跳转](https://github.com/likec4/likec4) |
-| 19 | `dreamhunter2333/cloudflare_temp_email` | 68 | 10937 | [跳转](https://github.com/dreamhunter2333/cloudflare_temp_email) |
+| 1 | `block/buzz` | 3252 | 5163 | [跳转](https://github.com/block/buzz) |
+| 2 | `koala73/worldmonitor` | 3196 | 70554 | [跳转](https://github.com/koala73/worldmonitor) |
+| 3 | `diegosouzapw/OmniRoute` | 1925 | 26249 | [跳转](https://github.com/diegosouzapw/OmniRoute) |
+| 4 | `ruvnet/RuView` | 1726 | 84622 | [跳转](https://github.com/ruvnet/RuView) |
+| 5 | `ayghri/i-have-adhd` | 1329 | 8938 | [跳转](https://github.com/ayghri/i-have-adhd) |
+| 6 | `ComposioHQ/awesome-claude-skills` | 637 | 69122 | [跳转](https://github.com/ComposioHQ/awesome-claude-skills) |
+| 7 | `earthtojake/text-to-cad` | 621 | 9729 | [跳转](https://github.com/earthtojake/text-to-cad) |
+| 8 | `chrislgarry/Apollo-11` | 599 | 70868 | [跳转](https://github.com/chrislgarry/Apollo-11) |
+| 9 | `Automattic/harper` | 590 | 11831 | [跳转](https://github.com/Automattic/harper) |
+| 10 | `Pumpkin-MC/Pumpkin` | 563 | 8681 | [跳转](https://github.com/Pumpkin-MC/Pumpkin) |
+| 11 | `likec4/likec4` | 475 | 4536 | [跳转](https://github.com/likec4/likec4) |
+| 12 | `shiyu-coder/Kronos` | 398 | 32827 | [跳转](https://github.com/shiyu-coder/Kronos) |
+| 13 | `Julian-adv/OpenMMO` | 395 | 1207 | [跳转](https://github.com/Julian-adv/OpenMMO) |
+| 14 | `agegr/pi-web` | 315 | 2229 | [跳转](https://github.com/agegr/pi-web) |
+| 15 | `citrolabs/ego-lite` | 219 | 1248 | [跳转](https://github.com/citrolabs/ego-lite) |
+| 16 | `alibaba/open-code-review` | 162 | 11086 | [跳转](https://github.com/alibaba/open-code-review) |
+| 17 | `jellyfin/jellyfin` | 66 | 54601 | [跳转](https://github.com/jellyfin/jellyfin) |
