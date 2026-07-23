@@ -1,30 +1,30 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-07-23T22:37:07.161139+08:00",
+  "generated_at": "2026-07-24T00:50:20.928435+08:00",
   "count": 16,
   "items": [
-    {
-      "repo": "block/buzz",
-      "url": "https://github.com/block/buzz",
-      "stars_today": 3252,
-      "total_stars": 5653,
-      "language": "Rust",
-      "description": "Star block / buzz A hive mind communication platform"
-    },
     {
       "repo": "koala73/worldmonitor",
       "url": "https://github.com/koala73/worldmonitor",
       "stars_today": 3196,
-      "total_stars": 70829,
+      "total_stars": 71049,
       "language": "TypeScript",
       "description": "Star koala73 / worldmonitor Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface"
+    },
+    {
+      "repo": "block/buzz",
+      "url": "https://github.com/block/buzz",
+      "stars_today": 2460,
+      "total_stars": 6001,
+      "language": "Rust",
+      "description": "Star block / buzz A hive mind communication platform"
     },
     {
       "repo": "diegosouzapw/OmniRoute",
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "stars_today": 1925,
-      "total_stars": 26486,
+      "total_stars": 26698,
       "language": "TypeScript",
       "description": "Sponsor Star diegosouzapw / OmniRoute Never stop coding. Free MIT AI gateway: one endpoint, 278+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors"
     },
@@ -32,7 +32,7 @@
       "repo": "ruvnet/RuView",
       "url": "https://github.com/ruvnet/RuView",
       "stars_today": 1726,
-      "total_stars": 84824,
+      "total_stars": 84927,
       "language": "Rust",
       "description": "Star ruvnet / RuView π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video."
     },
@@ -40,23 +40,15 @@
       "repo": "ComposioHQ/awesome-claude-skills",
       "url": "https://github.com/ComposioHQ/awesome-claude-skills",
       "stars_today": 637,
-      "total_stars": 69200,
+      "total_stars": 69262,
       "language": "Python",
       "description": "Star ComposioHQ / awesome-claude-skills A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows"
-    },
-    {
-      "repo": "earthtojake/text-to-cad",
-      "url": "https://github.com/earthtojake/text-to-cad",
-      "stars_today": 621,
-      "total_stars": 9794,
-      "language": "JavaScript",
-      "description": "Star earthtojake / text-to-cad A collection of agent skills for CAD, robotics and hardware design"
     },
     {
       "repo": "chrislgarry/Apollo-11",
       "url": "https://github.com/chrislgarry/Apollo-11",
       "stars_today": 599,
-      "total_stars": 70909,
+      "total_stars": 70961,
       "language": "Assembly",
       "description": "Sponsor Star chrislgarry / Apollo-11 Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules."
     },
@@ -64,7 +56,7 @@
       "repo": "Automattic/harper",
       "url": "https://github.com/Automattic/harper",
       "stars_today": 590,
-      "total_stars": 11951,
+      "total_stars": 12027,
       "language": "Rust",
       "description": "Star Automattic / harper Offline, privacy-first grammar checker. Fast, open-source, Rust-powered"
     },
@@ -72,7 +64,7 @@
       "repo": "Pumpkin-MC/Pumpkin",
       "url": "https://github.com/Pumpkin-MC/Pumpkin",
       "stars_today": 563,
-      "total_stars": 8735,
+      "total_stars": 8773,
       "language": "Rust",
       "description": "Sponsor Star Pumpkin-MC / Pumpkin Empowering everyone to host fast and efficient Minecraft servers."
     },
@@ -80,7 +72,7 @@
       "repo": "likec4/likec4",
       "url": "https://github.com/likec4/likec4",
       "stars_today": 475,
-      "total_stars": 4563,
+      "total_stars": 4602,
       "language": "TypeScript",
       "description": "Sponsor Star likec4 / likec4 Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code"
     },
@@ -88,7 +80,7 @@
       "repo": "shiyu-coder/Kronos",
       "url": "https://github.com/shiyu-coder/Kronos",
       "stars_today": 398,
-      "total_stars": 32880,
+      "total_stars": 32919,
       "language": "Python",
       "description": "Star shiyu-coder / Kronos Kronos: A Foundation Model for the Language of Financial Markets"
     },
@@ -96,7 +88,7 @@
       "repo": "Julian-adv/OpenMMO",
       "url": "https://github.com/Julian-adv/OpenMMO",
       "stars_today": 395,
-      "total_stars": 1246,
+      "total_stars": 1277,
       "language": "Rust",
       "description": ""
     },
@@ -104,31 +96,39 @@
       "repo": "agegr/pi-web",
       "url": "https://github.com/agegr/pi-web",
       "stars_today": 315,
-      "total_stars": 2269,
+      "total_stars": 2299,
       "language": "TypeScript",
       "description": "Star agegr / pi-web Web UI for the pi coding agent"
+    },
+    {
+      "repo": "earthtojake/text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "stars_today": 293,
+      "total_stars": 9835,
+      "language": "JavaScript",
+      "description": "Star earthtojake / text-to-cad A collection of agent skills for CAD, robotics and hardware design"
+    },
+    {
+      "repo": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "stars_today": 265,
+      "total_stars": 11255,
+      "language": "Go",
+      "description": "Star alibaba / open-code-review Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible."
     },
     {
       "repo": "citrolabs/ego-lite",
       "url": "https://github.com/citrolabs/ego-lite",
       "stars_today": 219,
-      "total_stars": 1351,
+      "total_stars": 1434,
       "language": "JavaScript",
       "description": "Star citrolabs / ego-lite The best browser for both you and your AI agents work in parallel."
-    },
-    {
-      "repo": "alibaba/open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
-      "stars_today": 162,
-      "total_stars": 11180,
-      "language": "Go",
-      "description": "Star alibaba / open-code-review Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible."
     },
     {
       "repo": "jellyfin/jellyfin",
       "url": "https://github.com/jellyfin/jellyfin",
       "stars_today": 66,
-      "total_stars": 54623,
+      "total_stars": 54641,
       "language": "C#",
       "description": "Star jellyfin / jellyfin The Free Software Media System - Server Backend & API"
     }
