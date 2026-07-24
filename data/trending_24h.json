@@ -1,126 +1,126 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-07-24T19:57:25.833407+08:00",
+  "generated_at": "2026-07-24T22:16:50.228219+08:00",
   "count": 16,
   "items": [
     {
-      "repo": "koala73/worldmonitor",
-      "url": "https://github.com/koala73/worldmonitor",
-      "stars_today": 3175,
-      "total_stars": 72692,
-      "language": "TypeScript",
-      "description": "Star koala73 / worldmonitor Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface"
+      "repo": "block/buzz",
+      "url": "https://github.com/block/buzz",
+      "stars_today": 3274,
+      "total_stars": 8756,
+      "language": "Rust",
+      "description": "Star block / buzz A hive mind communication platform"
     },
     {
       "repo": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "stars_today": 2224,
-      "total_stars": 185872,
+      "total_stars": 186095,
       "language": "Shell",
       "description": "Sponsor Star mattpocock / skills Skills for Real Engineers. Straight from my .agents directory."
     },
     {
-      "repo": "block/buzz",
-      "url": "https://github.com/block/buzz",
-      "stars_today": 2162,
-      "total_stars": 8385,
-      "language": "Rust",
-      "description": "Star block / buzz A hive mind communication platform"
+      "repo": "koala73/worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "stars_today": 2194,
+      "total_stars": 72845,
+      "language": "TypeScript",
+      "description": "Star koala73 / worldmonitor Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface"
     },
     {
       "repo": "diegosouzapw/OmniRoute",
       "url": "https://github.com/diegosouzapw/OmniRoute",
-      "stars_today": 1929,
-      "total_stars": 28060,
+      "stars_today": 1843,
+      "total_stars": 28227,
       "language": "TypeScript",
       "description": "Sponsor Star diegosouzapw / OmniRoute Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors"
     },
     {
       "repo": "ruvnet/RuView",
       "url": "https://github.com/ruvnet/RuView",
-      "stars_today": 1708,
-      "total_stars": 85590,
+      "stars_today": 1021,
+      "total_stars": 85681,
       "language": "Rust",
       "description": "Star ruvnet / RuView π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video."
+    },
+    {
+      "repo": "citrolabs/ego-lite",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "stars_today": 884,
+      "total_stars": 2205,
+      "language": "JavaScript",
+      "description": "Star citrolabs / ego-lite The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config."
+    },
+    {
+      "repo": "Automattic/harper",
+      "url": "https://github.com/Automattic/harper",
+      "stars_today": 877,
+      "total_stars": 12776,
+      "language": "Rust",
+      "description": "Star Automattic / harper Offline, privacy-first grammar checker. Fast, open-source, Rust-powered"
+    },
+    {
+      "repo": "ComposioHQ/awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "stars_today": 662,
+      "total_stars": 69827,
+      "language": "Python",
+      "description": "Star ComposioHQ / awesome-claude-skills A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows"
     },
     {
       "repo": "Lordog/dive-into-llms",
       "url": "https://github.com/Lordog/dive-into-llms",
       "stars_today": 654,
-      "total_stars": 44834,
+      "total_stars": 44888,
       "language": "Jupyter Notebook",
       "description": "Star Lordog / dive-into-llms 《动手学大模型Dive into LLMs》系列编程实践教程"
     },
     {
-      "repo": "ComposioHQ/awesome-claude-skills",
-      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "stars_today": 636,
-      "total_stars": 69761,
+      "repo": "shiyu-coder/Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "stars_today": 506,
+      "total_stars": 33362,
       "language": "Python",
-      "description": "Star ComposioHQ / awesome-claude-skills A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows"
-    },
-    {
-      "repo": "Automattic/harper",
-      "url": "https://github.com/Automattic/harper",
-      "stars_today": 624,
-      "total_stars": 12689,
-      "language": "Rust",
-      "description": "Star Automattic / harper Offline, privacy-first grammar checker. Fast, open-source, Rust-powered"
-    },
-    {
-      "repo": "chrislgarry/Apollo-11",
-      "url": "https://github.com/chrislgarry/Apollo-11",
-      "stars_today": 592,
-      "total_stars": 71266,
-      "language": "Assembly",
-      "description": "Sponsor Star chrislgarry / Apollo-11 Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules."
+      "description": "Star shiyu-coder / Kronos Kronos: A Foundation Model for the Language of Financial Markets"
     },
     {
       "repo": "Pumpkin-MC/Pumpkin",
       "url": "https://github.com/Pumpkin-MC/Pumpkin",
-      "stars_today": 565,
-      "total_stars": 9138,
+      "stars_today": 472,
+      "total_stars": 9191,
       "language": "Rust",
       "description": "Star Pumpkin-MC / Pumpkin Empowering everyone to host fast and efficient Minecraft servers."
     },
     {
-      "repo": "likec4/likec4",
-      "url": "https://github.com/likec4/likec4",
-      "stars_today": 472,
-      "total_stars": 4868,
-      "language": "TypeScript",
-      "description": "Sponsor Star likec4 / likec4 Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code"
+      "repo": "chrislgarry/Apollo-11",
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "stars_today": 409,
+      "total_stars": 71302,
+      "language": "Assembly",
+      "description": "Sponsor Star chrislgarry / Apollo-11 Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules."
     },
     {
-      "repo": "shiyu-coder/Kronos",
-      "url": "https://github.com/shiyu-coder/Kronos",
-      "stars_today": 401,
-      "total_stars": 33323,
-      "language": "Python",
-      "description": "Star shiyu-coder / Kronos Kronos: A Foundation Model for the Language of Financial Markets"
+      "repo": "likec4/likec4",
+      "url": "https://github.com/likec4/likec4",
+      "stars_today": 339,
+      "total_stars": 4903,
+      "language": "TypeScript",
+      "description": "Sponsor Star likec4 / likec4 Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code"
     },
     {
       "repo": "yorukot/superfile",
       "url": "https://github.com/yorukot/superfile",
       "stars_today": 312,
-      "total_stars": 19116,
+      "total_stars": 19231,
       "language": "Go",
       "description": "Star yorukot / superfile Pretty fancy and modern terminal file manager"
-    },
-    {
-      "repo": "citrolabs/ego-lite",
-      "url": "https://github.com/citrolabs/ego-lite",
-      "stars_today": 247,
-      "total_stars": 2118,
-      "language": "JavaScript",
-      "description": "Star citrolabs / ego-lite The best browser for both you and your AI agents work in parallel."
     },
     {
       "repo": "CoreBunch/Instatic",
       "url": "https://github.com/CoreBunch/Instatic",
       "stars_today": 179,
-      "total_stars": 4041,
+      "total_stars": 4090,
       "language": "TypeScript",
       "description": "Sponsor Star CoreBunch / Instatic The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there."
     },
@@ -128,7 +128,7 @@
       "repo": "OtterMind/Chat2DB",
       "url": "https://github.com/OtterMind/Chat2DB",
       "stars_today": 173,
-      "total_stars": 26131,
+      "total_stars": 26181,
       "language": "Java",
       "description": "Star OtterMind / Chat2DB 🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more."
     }
