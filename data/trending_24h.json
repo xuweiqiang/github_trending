@@ -1,30 +1,30 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-07-26T07:16:14.007373+08:00",
+  "generated_at": "2026-07-26T08:17:06.221236+08:00",
   "count": 18,
   "items": [
     {
       "repo": "block/buzz",
       "url": "https://github.com/block/buzz",
-      "stars_today": 2506,
-      "total_stars": 11844,
+      "stars_today": 2491,
+      "total_stars": 11899,
       "language": "Rust",
       "description": "Star block / buzz A hive mind communication platform"
     },
     {
       "repo": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
-      "stars_today": 1743,
-      "total_stars": 188190,
+      "stars_today": 1740,
+      "total_stars": 188235,
       "language": "Shell",
       "description": "Sponsor Star mattpocock / skills Skills for Real Engineers. Straight from my .agents directory."
     },
     {
       "repo": "permissionlesstech/bitchat",
       "url": "https://github.com/permissionlesstech/bitchat",
-      "stars_today": 1695,
-      "total_stars": 28667,
+      "stars_today": 1720,
+      "total_stars": 28692,
       "language": "Swift",
       "description": "Star permissionlesstech / bitchat bluetooth mesh chat, IRC vibes"
     },
@@ -32,119 +32,119 @@
       "repo": "citrolabs/ego-lite",
       "url": "https://github.com/citrolabs/ego-lite",
       "stars_today": 986,
-      "total_stars": 3537,
+      "total_stars": 3569,
       "language": "JavaScript",
       "description": "Star citrolabs / ego-lite The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config."
     },
     {
       "repo": "ComposioHQ/awesome-claude-skills",
       "url": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "stars_today": 574,
-      "total_stars": 70559,
+      "stars_today": 577,
+      "total_stars": 70578,
       "language": "Python",
       "description": "Star ComposioHQ / awesome-claude-skills A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows"
-    },
-    {
-      "repo": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "stars_today": 507,
-      "total_stars": 261074,
-      "language": "Shell",
-      "description": "Sponsor Star obra / superpowers An agentic skills framework & software development methodology that works."
     },
     {
       "repo": "Automattic/harper",
       "url": "https://github.com/Automattic/harper",
       "stars_today": 503,
-      "total_stars": 13400,
+      "total_stars": 13412,
       "language": "Rust",
       "description": "Star Automattic / harper Offline, privacy-first grammar checker. Fast, open-source, Rust-powered"
     },
     {
+      "repo": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "stars_today": 479,
+      "total_stars": 261090,
+      "language": "Shell",
+      "description": "Sponsor Star obra / superpowers An agentic skills framework & software development methodology that works."
+    },
+    {
       "repo": "alibaba/open-code-review",
       "url": "https://github.com/alibaba/open-code-review",
-      "stars_today": 439,
-      "total_stars": 12923,
+      "stars_today": 431,
+      "total_stars": 12945,
       "language": "Go",
       "description": "Star alibaba / open-code-review Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible."
     },
     {
       "repo": "CoreBunch/Instatic",
       "url": "https://github.com/CoreBunch/Instatic",
-      "stars_today": 424,
-      "total_stars": 5036,
+      "stars_today": 426,
+      "total_stars": 5066,
       "language": "TypeScript",
       "description": "Sponsor Star CoreBunch / Instatic The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there."
     },
     {
+      "repo": "palmier-io/palmier-pro",
+      "url": "https://github.com/palmier-io/palmier-pro",
+      "stars_today": 412,
+      "total_stars": 12210,
+      "language": "Swift",
+      "description": "Star palmier-io / palmier-pro macOS video editor built for AI"
+    },
+    {
       "repo": "Lordog/dive-into-llms",
       "url": "https://github.com/Lordog/dive-into-llms",
-      "stars_today": 405,
-      "total_stars": 45341,
+      "stars_today": 408,
+      "total_stars": 45345,
       "language": "Jupyter Notebook",
       "description": "Star Lordog / dive-into-llms 《动手学大模型Dive into LLMs》系列编程实践教程"
     },
     {
-      "repo": "OtterMind/Chat2DB",
-      "url": "https://github.com/OtterMind/Chat2DB",
-      "stars_today": 364,
-      "total_stars": 26647,
-      "language": "Java",
-      "description": "Star OtterMind / Chat2DB 🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more."
-    },
-    {
       "repo": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "stars_today": 364,
-      "total_stars": 233286,
+      "stars_today": 377,
+      "total_stars": 233298,
       "language": "JavaScript",
       "description": "Sponsor Star affaan-m / ECC The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
     },
     {
-      "repo": "Pumpkin-MC/Pumpkin",
-      "url": "https://github.com/Pumpkin-MC/Pumpkin",
-      "stars_today": 357,
-      "total_stars": 9697,
-      "language": "Rust",
-      "description": "Star Pumpkin-MC / Pumpkin Empowering everyone to host fast and efficient Minecraft servers."
+      "repo": "OtterMind/Chat2DB",
+      "url": "https://github.com/OtterMind/Chat2DB",
+      "stars_today": 360,
+      "total_stars": 26657,
+      "language": "Java",
+      "description": "Star OtterMind / Chat2DB 🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more."
     },
     {
-      "repo": "palmier-io/palmier-pro",
-      "url": "https://github.com/palmier-io/palmier-pro",
-      "stars_today": 346,
-      "total_stars": 12194,
-      "language": "Swift",
-      "description": "Star palmier-io / palmier-pro macOS video editor built for AI"
+      "repo": "Pumpkin-MC/Pumpkin",
+      "url": "https://github.com/Pumpkin-MC/Pumpkin",
+      "stars_today": 358,
+      "total_stars": 9707,
+      "language": "Rust",
+      "description": "Star Pumpkin-MC / Pumpkin Empowering everyone to host fast and efficient Minecraft servers."
     },
     {
       "repo": "shiyu-coder/Kronos",
       "url": "https://github.com/shiyu-coder/Kronos",
       "stars_today": 319,
-      "total_stars": 33774,
+      "total_stars": 33784,
       "language": "Python",
       "description": "Star shiyu-coder / Kronos Kronos: A Foundation Model for the Language of Financial Markets"
     },
     {
       "repo": "anthropics/claude-cookbooks",
       "url": "https://github.com/anthropics/claude-cookbooks",
-      "stars_today": 144,
-      "total_stars": 49863,
+      "stars_today": 132,
+      "total_stars": 49883,
       "language": "Jupyter Notebook",
       "description": "Star anthropics / claude-cookbooks A collection of notebooks/recipes showcasing some fun and effective ways of using Claude."
     },
     {
       "repo": "RyanCodrai/turbovec",
       "url": "https://github.com/RyanCodrai/turbovec",
-      "stars_today": 89,
-      "total_stars": 14271,
+      "stars_today": 86,
+      "total_stars": 14280,
       "language": "Python",
       "description": "Star RyanCodrai / turbovec A vector index built on TurboQuant, written in Rust with Python bindings"
     },
     {
       "repo": "andrewyng/aisuite",
       "url": "https://github.com/andrewyng/aisuite",
-      "stars_today": 75,
-      "total_stars": 15212,
+      "stars_today": 77,
+      "total_stars": 15215,
       "language": "Python",
       "description": "Star andrewyng / aisuite Simple, unified interface to multiple Generative AI providers"
     }
