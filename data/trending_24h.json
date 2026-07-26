@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-07-27T06:15:48.756905+08:00",
+  "generated_at": "2026-07-27T07:16:01.692003+08:00",
   "count": 17,
   "items": [
     {
       "repo": "block/buzz",
       "url": "https://github.com/block/buzz",
       "stars_today": 1705,
-      "total_stars": 13103,
+      "total_stars": 13179,
       "language": "Rust",
       "description": "Star block / buzz A hive mind communication platform"
     },
@@ -16,7 +16,7 @@
       "repo": "permissionlesstech/bitchat",
       "url": "https://github.com/permissionlesstech/bitchat",
       "stars_today": 1198,
-      "total_stars": 30164,
+      "total_stars": 30214,
       "language": "Swift",
       "description": "Star permissionlesstech / bitchat bluetooth mesh chat, IRC vibes"
     },
@@ -24,7 +24,7 @@
       "repo": "citrolabs/ego-lite",
       "url": "https://github.com/citrolabs/ego-lite",
       "stars_today": 898,
-      "total_stars": 4394,
+      "total_stars": 4433,
       "language": "JavaScript",
       "description": "Star citrolabs / ego-lite The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config."
     },
@@ -32,7 +32,7 @@
       "repo": "CoreBunch/Instatic",
       "url": "https://github.com/CoreBunch/Instatic",
       "stars_today": 892,
-      "total_stars": 5611,
+      "total_stars": 5631,
       "language": "TypeScript",
       "description": "Sponsor Star CoreBunch / Instatic The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there."
     },
@@ -40,7 +40,7 @@
       "repo": "alibaba/open-code-review",
       "url": "https://github.com/alibaba/open-code-review",
       "stars_today": 840,
-      "total_stars": 13717,
+      "total_stars": 13744,
       "language": "Go",
       "description": "Star alibaba / open-code-review Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible."
     },
@@ -48,7 +48,7 @@
       "repo": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
       "stars_today": 466,
-      "total_stars": 50585,
+      "total_stars": 50618,
       "language": "JavaScript",
       "description": "Star pbakaus / impeccable The design language that makes your AI harness better at design."
     },
@@ -56,7 +56,7 @@
       "repo": "permissionlesstech/bitchat-android",
       "url": "https://github.com/permissionlesstech/bitchat-android",
       "stars_today": 444,
-      "total_stars": 6662,
+      "total_stars": 6675,
       "language": "Kotlin",
       "description": "Star permissionlesstech / bitchat-android bluetooth mesh chat, IRC vibes"
     },
@@ -64,7 +64,7 @@
       "repo": "OtterMind/Chat2DB",
       "url": "https://github.com/OtterMind/Chat2DB",
       "stars_today": 399,
-      "total_stars": 27070,
+      "total_stars": 27078,
       "language": "Java",
       "description": "Star OtterMind / Chat2DB 🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more."
     },
@@ -72,7 +72,7 @@
       "repo": "anthropics/claude-cookbooks",
       "url": "https://github.com/anthropics/claude-cookbooks",
       "stars_today": 377,
-      "total_stars": 50199,
+      "total_stars": 50207,
       "language": "Jupyter Notebook",
       "description": "Star anthropics / claude-cookbooks A collection of notebooks/recipes showcasing some fun and effective ways of using Claude."
     },
@@ -80,7 +80,7 @@
       "repo": "Pumpkin-MC/Pumpkin",
       "url": "https://github.com/Pumpkin-MC/Pumpkin",
       "stars_today": 339,
-      "total_stars": 9973,
+      "total_stars": 9985,
       "language": "Rust",
       "description": "Star Pumpkin-MC / Pumpkin Empowering everyone to host fast and efficient Minecraft servers."
     },
@@ -88,7 +88,7 @@
       "repo": "shiyu-coder/Kronos",
       "url": "https://github.com/shiyu-coder/Kronos",
       "stars_today": 322,
-      "total_stars": 34128,
+      "total_stars": 34152,
       "language": "Python",
       "description": "Star shiyu-coder / Kronos Kronos: A Foundation Model for the Language of Financial Markets"
     },
@@ -96,7 +96,7 @@
       "repo": "andrewyng/aisuite",
       "url": "https://github.com/andrewyng/aisuite",
       "stars_today": 189,
-      "total_stars": 15383,
+      "total_stars": 15386,
       "language": "Python",
       "description": "Star andrewyng / aisuite Simple, unified interface to multiple Generative AI providers"
     },
@@ -104,7 +104,7 @@
       "repo": "yorukot/superfile",
       "url": "https://github.com/yorukot/superfile",
       "stars_today": 180,
-      "total_stars": 20167,
+      "total_stars": 20192,
       "language": "Go",
       "description": "Star yorukot / superfile Pretty fancy and modern terminal file manager"
     },
@@ -112,7 +112,7 @@
       "repo": "pingdotgg/t3code",
       "url": "https://github.com/pingdotgg/t3code",
       "stars_today": 159,
-      "total_stars": 15021,
+      "total_stars": 15031,
       "language": "TypeScript",
       "description": ""
     },
@@ -120,7 +120,7 @@
       "repo": "nodejs/node",
       "url": "https://github.com/nodejs/node",
       "stars_today": 37,
-      "total_stars": 118446,
+      "total_stars": 118452,
       "language": "JavaScript",
       "description": "Sponsor Star nodejs / node Node.js JavaScript runtime ✨🐢🚀✨"
     },
@@ -128,7 +128,7 @@
       "repo": "amnezia-vpn/amnezia-client",
       "url": "https://github.com/amnezia-vpn/amnezia-client",
       "stars_today": 17,
-      "total_stars": 13273,
+      "total_stars": 13292,
       "language": "C++",
       "description": "Star amnezia-vpn / amnezia-client Amnezia VPN Client (Desktop+Mobile)"
     },
@@ -136,7 +136,7 @@
       "repo": "jenkinsci/jenkins",
       "url": "https://github.com/jenkinsci/jenkins",
       "stars_today": 8,
-      "total_stars": 25688,
+      "total_stars": 25692,
       "language": "Java",
       "description": "Star jenkinsci / jenkins Jenkins automation server"
     }
