@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-07-28T04:46:52.234033+08:00",
+  "generated_at": "2026-07-28T06:29:47.094630+08:00",
   "count": 15,
   "items": [
     {
       "repo": "permissionlesstech/bitchat",
       "url": "https://github.com/permissionlesstech/bitchat",
       "stars_today": 2344,
-      "total_stars": 32100,
+      "total_stars": 32176,
       "language": "Swift",
       "description": "Star permissionlesstech / bitchat bluetooth mesh chat, IRC vibes"
     },
@@ -16,7 +16,7 @@
       "repo": "alibaba/open-code-review",
       "url": "https://github.com/alibaba/open-code-review",
       "stars_today": 980,
-      "total_stars": 14683,
+      "total_stars": 14730,
       "language": "Go",
       "description": "Star alibaba / open-code-review Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible."
     },
@@ -24,7 +24,7 @@
       "repo": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
       "stars_today": 849,
-      "total_stars": 51436,
+      "total_stars": 51481,
       "language": "JavaScript",
       "description": "Star pbakaus / impeccable The design language that makes your AI harness better at design."
     },
@@ -32,7 +32,7 @@
       "repo": "yorukot/superfile",
       "url": "https://github.com/yorukot/superfile",
       "stars_today": 600,
-      "total_stars": 20807,
+      "total_stars": 20839,
       "language": "Go",
       "description": "Star yorukot / superfile Pretty fancy and modern terminal file manager"
     },
@@ -40,7 +40,7 @@
       "repo": "moeru-ai/airi",
       "url": "https://github.com/moeru-ai/airi",
       "stars_today": 554,
-      "total_stars": 43958,
+      "total_stars": 43986,
       "language": "TypeScript",
       "description": "Star moeru-ai / airi 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported."
     },
@@ -48,7 +48,7 @@
       "repo": "amnezia-vpn/amnezia-client",
       "url": "https://github.com/amnezia-vpn/amnezia-client",
       "stars_today": 515,
-      "total_stars": 13741,
+      "total_stars": 13771,
       "language": "C++",
       "description": "Star amnezia-vpn / amnezia-client Amnezia VPN Client (Desktop+Mobile)"
     },
@@ -56,7 +56,7 @@
       "repo": "shiyu-coder/Kronos",
       "url": "https://github.com/shiyu-coder/Kronos",
       "stars_today": 442,
-      "total_stars": 34519,
+      "total_stars": 34539,
       "language": "Python",
       "description": "Star shiyu-coder / Kronos Kronos: A Foundation Model for the Language of Financial Markets"
     },
@@ -64,7 +64,7 @@
       "repo": "opengeos/GeoLibre",
       "url": "https://github.com/opengeos/GeoLibre",
       "stars_today": 420,
-      "total_stars": 2574,
+      "total_stars": 2623,
       "language": "TypeScript",
       "description": "Sponsor Star opengeos / GeoLibre A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks."
     },
@@ -72,7 +72,7 @@
       "repo": "bradautomates/claude-video",
       "url": "https://github.com/bradautomates/claude-video",
       "stars_today": 412,
-      "total_stars": 10982,
+      "total_stars": 11017,
       "language": "Python",
       "description": "Star bradautomates / claude-video Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude."
     },
@@ -80,7 +80,7 @@
       "repo": "NanmiCoder/MediaCrawler",
       "url": "https://github.com/NanmiCoder/MediaCrawler",
       "stars_today": 349,
-      "total_stars": 58123,
+      "total_stars": 58134,
       "language": "Python",
       "description": "Sponsor Star NanmiCoder / MediaCrawler 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫"
     },
@@ -88,7 +88,7 @@
       "repo": "mvanhorn/last30days-skill",
       "url": "https://github.com/mvanhorn/last30days-skill",
       "stars_today": 221,
-      "total_stars": 54106,
+      "total_stars": 54133,
       "language": "Python",
       "description": "Star mvanhorn / last30days-skill AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
     },
@@ -96,7 +96,7 @@
       "repo": "jenkinsci/jenkins",
       "url": "https://github.com/jenkinsci/jenkins",
       "stars_today": 179,
-      "total_stars": 25858,
+      "total_stars": 25870,
       "language": "Java",
       "description": "Star jenkinsci / jenkins Jenkins automation server"
     },
@@ -104,7 +104,7 @@
       "repo": "ocornut/imgui",
       "url": "https://github.com/ocornut/imgui",
       "stars_today": 64,
-      "total_stars": 75178,
+      "total_stars": 75186,
       "language": "C++",
       "description": "Star ocornut / imgui Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies"
     },
@@ -112,7 +112,7 @@
       "repo": "apache/cassandra",
       "url": "https://github.com/apache/cassandra",
       "stars_today": 34,
-      "total_stars": 9937,
+      "total_stars": 9947,
       "language": "Java",
       "description": "Star apache / cassandra Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising performance."
     },
@@ -120,7 +120,7 @@
       "repo": "vudovn/ag-kit",
       "url": "https://github.com/vudovn/ag-kit",
       "stars_today": 5,
-      "total_stars": 7930,
+      "total_stars": 7943,
       "language": "TypeScript",
       "description": ""
     }
