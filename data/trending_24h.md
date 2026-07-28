@@ -1,21 +1,18 @@
 # GitHub 24h Star 增长榜
 
-- 生成时间: 2026-07-28 17:59:33 +0800
+- 生成时间: 2026-07-28 20:16:31 +0800
 
 | 排名 | 项目 | 24h 增长 | 总 Stars | 链接 |
 |---:|---|---:|---:|---|
-| 1 | `permissionlesstech/bitchat` | 2346 | 32854 | [跳转](https://github.com/permissionlesstech/bitchat) |
-| 2 | `alibaba/open-code-review` | 979 | 15299 | [跳转](https://github.com/alibaba/open-code-review) |
-| 3 | `pbakaus/impeccable` | 847 | 51959 | [跳转](https://github.com/pbakaus/impeccable) |
-| 4 | `yorukot/superfile` | 600 | 21132 | [跳转](https://github.com/yorukot/superfile) |
-| 5 | `moeru-ai/airi` | 572 | 44413 | [跳转](https://github.com/moeru-ai/airi) |
-| 6 | `amnezia-vpn/amnezia-client` | 515 | 14083 | [跳转](https://github.com/amnezia-vpn/amnezia-client) |
-| 7 | `shiyu-coder/Kronos` | 441 | 34727 | [跳转](https://github.com/shiyu-coder/Kronos) |
-| 8 | `bradautomates/claude-video` | 434 | 11532 | [跳转](https://github.com/bradautomates/claude-video) |
-| 9 | `opengeos/GeoLibre` | 420 | 3002 | [跳转](https://github.com/opengeos/GeoLibre) |
-| 10 | `NanmiCoder/MediaCrawler` | 362 | 58751 | [跳转](https://github.com/NanmiCoder/MediaCrawler) |
-| 11 | `mvanhorn/last30days-skill` | 240 | 54437 | [跳转](https://github.com/mvanhorn/last30days-skill) |
-| 12 | `jenkinsci/jenkins` | 180 | 25959 | [跳转](https://github.com/jenkinsci/jenkins) |
-| 13 | `ocornut/imgui` | 51 | 75292 | [跳转](https://github.com/ocornut/imgui) |
-| 14 | `vudovn/ag-kit` | 14 | 8047 | [跳转](https://github.com/vudovn/ag-kit) |
-| 15 | `apache/cassandra` | 11 | 10021 | [跳转](https://github.com/apache/cassandra) |
+| 1 | `bradautomates/claude-video` | 989 | 11622 | [跳转](https://github.com/bradautomates/claude-video) |
+| 2 | `moeru-ai/airi` | 796 | 44489 | [跳转](https://github.com/moeru-ai/airi) |
+| 3 | `yorukot/superfile` | 660 | 21192 | [跳转](https://github.com/yorukot/superfile) |
+| 4 | `affaan-m/ECC` | 458 | 234435 | [跳转](https://github.com/affaan-m/ECC) |
+| 5 | `opengeos/GeoLibre` | 420 | 3051 | [跳转](https://github.com/opengeos/GeoLibre) |
+| 6 | `pascalorg/editor` | 412 | 18259 | [跳转](https://github.com/pascalorg/editor) |
+| 7 | `virgiliojr94/book-to-skill` | 366 | 10737 | [跳转](https://github.com/virgiliojr94/book-to-skill) |
+| 8 | `andrewyng/aisuite` | 185 | 15567 | [跳转](https://github.com/andrewyng/aisuite) |
+| 9 | `jenkinsci/jenkins` | 180 | 25974 | [跳转](https://github.com/jenkinsci/jenkins) |
+| 10 | `huggingface/speech-to-speech` | 177 | 6783 | [跳转](https://github.com/huggingface/speech-to-speech) |
+| 11 | `paperswithbacktest/awesome-systematic-trading` | 113 | 9167 | [跳转](https://github.com/paperswithbacktest/awesome-systematic-trading) |
+| 12 | `microsoft/agent-governance-toolkit` | 17 | 4981 | [跳转](https://github.com/microsoft/agent-governance-toolkit) |
