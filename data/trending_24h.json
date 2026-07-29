@@ -1,102 +1,102 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-07-29T06:27:57.966864+08:00",
+  "generated_at": "2026-07-29T08:13:09.540409+08:00",
   "count": 12,
   "items": [
     {
       "repo": "bradautomates/claude-video",
       "url": "https://github.com/bradautomates/claude-video",
-      "stars_today": 989,
-      "total_stars": 12040,
+      "stars_today": 988,
+      "total_stars": 12077,
       "language": "Python",
       "description": "Star bradautomates / claude-video Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude."
     },
     {
       "repo": "moeru-ai/airi",
       "url": "https://github.com/moeru-ai/airi",
-      "stars_today": 796,
-      "total_stars": 44715,
+      "stars_today": 797,
+      "total_stars": 44739,
       "language": "TypeScript",
       "description": "Star moeru-ai / airi 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported."
     },
     {
-      "repo": "opengeos/GeoLibre",
-      "url": "https://github.com/opengeos/GeoLibre",
-      "stars_today": 743,
-      "total_stars": 3347,
-      "language": "TypeScript",
-      "description": "Sponsor Star opengeos / GeoLibre A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks."
-    },
-    {
-      "repo": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "stars_today": 692,
-      "total_stars": 234741,
-      "language": "JavaScript",
-      "description": "Sponsor Star affaan-m / ECC The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
-    },
-    {
       "repo": "yorukot/superfile",
       "url": "https://github.com/yorukot/superfile",
-      "stars_today": 660,
-      "total_stars": 21438,
+      "stars_today": 662,
+      "total_stars": 21463,
       "language": "Go",
       "description": "Star yorukot / superfile Pretty fancy and modern terminal file manager"
     },
     {
+      "repo": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "stars_today": 636,
+      "total_stars": 234791,
+      "language": "JavaScript",
+      "description": "Sponsor Star affaan-m / ECC The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
+    },
+    {
+      "repo": "opengeos/GeoLibre",
+      "url": "https://github.com/opengeos/GeoLibre",
+      "stars_today": 607,
+      "total_stars": 3381,
+      "language": "TypeScript",
+      "description": "Sponsor Star opengeos / GeoLibre A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks."
+    },
+    {
+      "repo": "virgiliojr94/book-to-skill",
+      "url": "https://github.com/virgiliojr94/book-to-skill",
+      "stars_today": 423,
+      "total_stars": 11325,
+      "language": "Python",
+      "description": "Sponsor Star virgiliojr94 / book-to-skill Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work."
+    },
+    {
       "repo": "pascalorg/editor",
       "url": "https://github.com/pascalorg/editor",
-      "stars_today": 415,
-      "total_stars": 18619,
+      "stars_today": 341,
+      "total_stars": 18676,
       "language": "TypeScript",
       "description": "Star pascalorg / editor Create and share 3D architectural projects."
     },
     {
       "repo": "paperswithbacktest/awesome-systematic-trading",
       "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
-      "stars_today": 402,
-      "total_stars": 9521,
+      "stars_today": 309,
+      "total_stars": 9565,
       "language": "Python",
       "description": "Star paperswithbacktest / awesome-systematic-trading A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading."
     },
     {
-      "repo": "virgiliojr94/book-to-skill",
-      "url": "https://github.com/virgiliojr94/book-to-skill",
-      "stars_today": 366,
-      "total_stars": 11247,
+      "repo": "huggingface/speech-to-speech",
+      "url": "https://github.com/huggingface/speech-to-speech",
+      "stars_today": 227,
+      "total_stars": 7213,
       "language": "Python",
-      "description": "Sponsor Star virgiliojr94 / book-to-skill Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work."
+      "description": "Star huggingface / speech-to-speech Build local voice agents with open-source models"
     },
     {
       "repo": "jenkinsci/jenkins",
       "url": "https://github.com/jenkinsci/jenkins",
       "stars_today": 180,
-      "total_stars": 26056,
+      "total_stars": 26065,
       "language": "Java",
       "description": "Star jenkinsci / jenkins Jenkins automation server"
     },
     {
-      "repo": "huggingface/speech-to-speech",
-      "url": "https://github.com/huggingface/speech-to-speech",
-      "stars_today": 177,
-      "total_stars": 7178,
-      "language": "Python",
-      "description": "Star huggingface / speech-to-speech Build local voice agents with open-source models"
-    },
-    {
       "repo": "andrewyng/aisuite",
       "url": "https://github.com/andrewyng/aisuite",
-      "stars_today": 92,
-      "total_stars": 15662,
+      "stars_today": 62,
+      "total_stars": 15675,
       "language": "Python",
       "description": "Star andrewyng / aisuite Simple, unified interface to multiple Generative AI providers"
     },
     {
       "repo": "microsoft/agent-governance-toolkit",
       "url": "https://github.com/microsoft/agent-governance-toolkit",
-      "stars_today": 17,
-      "total_stars": 5161,
+      "stars_today": 46,
+      "total_stars": 5183,
       "language": "Python",
       "description": "Star microsoft / agent-governance-toolkit AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10."
     }
