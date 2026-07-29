@@ -1,104 +1,144 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-07-29T18:00:47.963681+08:00",
-  "count": 12,
+  "generated_at": "2026-07-29T20:24:39.730124+08:00",
+  "count": 17,
   "items": [
-    {
-      "repo": "bradautomates/claude-video",
-      "url": "https://github.com/bradautomates/claude-video",
-      "stars_today": 988,
-      "total_stars": 12452,
-      "language": "Python",
-      "description": "Star bradautomates / claude-video Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude."
-    },
-    {
-      "repo": "moeru-ai/airi",
-      "url": "https://github.com/moeru-ai/airi",
-      "stars_today": 797,
-      "total_stars": 45091,
-      "language": "TypeScript",
-      "description": "Star moeru-ai / airi 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported."
-    },
-    {
-      "repo": "yorukot/superfile",
-      "url": "https://github.com/yorukot/superfile",
-      "stars_today": 662,
-      "total_stars": 21743,
-      "language": "Go",
-      "description": "Star yorukot / superfile Pretty fancy and modern terminal file manager"
-    },
-    {
-      "repo": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "stars_today": 636,
-      "total_stars": 235185,
-      "language": "JavaScript",
-      "description": "Sponsor Star affaan-m / ECC The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
-    },
-    {
-      "repo": "opengeos/GeoLibre",
-      "url": "https://github.com/opengeos/GeoLibre",
-      "stars_today": 607,
-      "total_stars": 3658,
-      "language": "TypeScript",
-      "description": "Sponsor Star opengeos / GeoLibre A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks."
-    },
     {
       "repo": "virgiliojr94/book-to-skill",
       "url": "https://github.com/virgiliojr94/book-to-skill",
-      "stars_today": 423,
-      "total_stars": 12054,
+      "stars_today": 1428,
+      "total_stars": 12158,
       "language": "Python",
       "description": "Sponsor Star virgiliojr94 / book-to-skill Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work."
     },
     {
       "repo": "pascalorg/editor",
       "url": "https://github.com/pascalorg/editor",
-      "stars_today": 341,
-      "total_stars": 19200,
+      "stars_today": 1026,
+      "total_stars": 19273,
       "language": "TypeScript",
       "description": "Star pascalorg / editor Create and share 3D architectural projects."
     },
     {
       "repo": "paperswithbacktest/awesome-systematic-trading",
       "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
-      "stars_today": 309,
-      "total_stars": 10040,
+      "stars_today": 950,
+      "total_stars": 10104,
       "language": "Python",
       "description": "Star paperswithbacktest / awesome-systematic-trading A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading."
     },
     {
+      "repo": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "stars_today": 918,
+      "total_stars": 15704,
+      "language": "Go",
+      "description": "Star alibaba / open-code-review Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible."
+    },
+    {
+      "repo": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "stars_today": 860,
+      "total_stars": 235239,
+      "language": "JavaScript",
+      "description": "Sponsor Star affaan-m / ECC The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
+    },
+    {
       "repo": "huggingface/speech-to-speech",
       "url": "https://github.com/huggingface/speech-to-speech",
-      "stars_today": 227,
-      "total_stars": 7546,
+      "stars_today": 837,
+      "total_stars": 7611,
       "language": "Python",
       "description": "Star huggingface / speech-to-speech Build local voice agents with open-source models"
     },
     {
-      "repo": "jenkinsci/jenkins",
-      "url": "https://github.com/jenkinsci/jenkins",
-      "stars_today": 180,
-      "total_stars": 26182,
-      "language": "Java",
-      "description": "Star jenkinsci / jenkins Jenkins automation server"
+      "repo": "NanmiCoder/MediaCrawler",
+      "url": "https://github.com/NanmiCoder/MediaCrawler",
+      "stars_today": 794,
+      "total_stars": 58926,
+      "language": "Python",
+      "description": "Sponsor Star NanmiCoder / MediaCrawler 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫"
     },
     {
-      "repo": "andrewyng/aisuite",
-      "url": "https://github.com/andrewyng/aisuite",
-      "stars_today": 62,
-      "total_stars": 15785,
-      "language": "Python",
-      "description": "Star andrewyng / aisuite Simple, unified interface to multiple Generative AI providers"
+      "repo": "moeru-ai/airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "stars_today": 676,
+      "total_stars": 45152,
+      "language": "TypeScript",
+      "description": "Star moeru-ai / airi 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported."
     },
     {
-      "repo": "microsoft/agent-governance-toolkit",
-      "url": "https://github.com/microsoft/agent-governance-toolkit",
-      "stars_today": 46,
-      "total_stars": 5392,
+      "repo": "opengeos/GeoLibre",
+      "url": "https://github.com/opengeos/GeoLibre",
+      "stars_today": 667,
+      "total_stars": 3713,
+      "language": "TypeScript",
+      "description": "Sponsor Star opengeos / GeoLibre A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks."
+    },
+    {
+      "repo": "1jehuang/jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "stars_today": 652,
+      "total_stars": 13107,
+      "language": "Rust",
+      "description": "Star 1jehuang / jcode The most RAM effiecent harness"
+    },
+    {
+      "repo": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "stars_today": 634,
+      "total_stars": 263023,
+      "language": "Shell",
+      "description": "Sponsor Star obra / superpowers An agentic skills framework & software development methodology that works."
+    },
+    {
+      "repo": "microsoft/VibeVoice",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "stars_today": 332,
+      "total_stars": 51061,
       "language": "Python",
-      "description": "Star microsoft / agent-governance-toolkit AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10."
+      "description": "Star microsoft / VibeVoice Open-Source Frontier Voice AI"
+    },
+    {
+      "repo": "MoonshotAI/FlashKDA",
+      "url": "https://github.com/MoonshotAI/FlashKDA",
+      "stars_today": 216,
+      "total_stars": 894,
+      "language": "Cuda",
+      "description": "Star MoonshotAI / FlashKDA FlashKDA: high-performance Kimi Delta Attention kernels"
+    },
+    {
+      "repo": "deepfakes/faceswap",
+      "url": "https://github.com/deepfakes/faceswap",
+      "stars_today": 135,
+      "total_stars": 55996,
+      "language": "Python",
+      "description": "Sponsor Star deepfakes / faceswap Deepfakes Software For All"
+    },
+    {
+      "repo": "different-ai/openwork",
+      "url": "https://github.com/different-ai/openwork",
+      "stars_today": 58,
+      "total_stars": 17442,
+      "language": "TypeScript",
+      "description": "Star different-ai / openwork The open-source alternative to Claude Cowork (powered by opencode)"
+    },
+    {
+      "repo": "maderix/ANE",
+      "url": "https://github.com/maderix/ANE",
+      "stars_today": 13,
+      "total_stars": 7074,
+      "language": "Objective-C",
+      "description": "Star maderix / ANE Training neural networks on Apple Neural Engine via reverse-engineered private APIs"
+    },
+    {
+      "repo": "grokability/snipe-it",
+      "url": "https://github.com/grokability/snipe-it",
+      "stars_today": 6,
+      "total_stars": 14270,
+      "language": "PHP",
+      "description": "Star grokability / snipe-it A free open source IT asset/license management system"
     }
   ]
 }
