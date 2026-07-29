@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-07-29T08:13:09.540409+08:00",
-  "count": 12,
+  "generated_at": "2026-07-29T11:45:37.734313+08:00",
+  "count": 13,
   "items": [
     {
       "repo": "bradautomates/claude-video",
       "url": "https://github.com/bradautomates/claude-video",
       "stars_today": 988,
-      "total_stars": 12077,
+      "total_stars": 12232,
       "language": "Python",
       "description": "Star bradautomates / claude-video Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude."
     },
@@ -16,7 +16,7 @@
       "repo": "moeru-ai/airi",
       "url": "https://github.com/moeru-ai/airi",
       "stars_today": 797,
-      "total_stars": 44739,
+      "total_stars": 44872,
       "language": "TypeScript",
       "description": "Star moeru-ai / airi 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported."
     },
@@ -24,7 +24,7 @@
       "repo": "yorukot/superfile",
       "url": "https://github.com/yorukot/superfile",
       "stars_today": 662,
-      "total_stars": 21463,
+      "total_stars": 21554,
       "language": "Go",
       "description": "Star yorukot / superfile Pretty fancy and modern terminal file manager"
     },
@@ -32,7 +32,7 @@
       "repo": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "stars_today": 636,
-      "total_stars": 234791,
+      "total_stars": 234946,
       "language": "JavaScript",
       "description": "Sponsor Star affaan-m / ECC The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
     },
@@ -40,7 +40,7 @@
       "repo": "opengeos/GeoLibre",
       "url": "https://github.com/opengeos/GeoLibre",
       "stars_today": 607,
-      "total_stars": 3381,
+      "total_stars": 3483,
       "language": "TypeScript",
       "description": "Sponsor Star opengeos / GeoLibre A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks."
     },
@@ -48,7 +48,7 @@
       "repo": "virgiliojr94/book-to-skill",
       "url": "https://github.com/virgiliojr94/book-to-skill",
       "stars_today": 423,
-      "total_stars": 11325,
+      "total_stars": 11616,
       "language": "Python",
       "description": "Sponsor Star virgiliojr94 / book-to-skill Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work."
     },
@@ -56,7 +56,7 @@
       "repo": "pascalorg/editor",
       "url": "https://github.com/pascalorg/editor",
       "stars_today": 341,
-      "total_stars": 18676,
+      "total_stars": 18869,
       "language": "TypeScript",
       "description": "Star pascalorg / editor Create and share 3D architectural projects."
     },
@@ -64,7 +64,7 @@
       "repo": "paperswithbacktest/awesome-systematic-trading",
       "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
       "stars_today": 309,
-      "total_stars": 9565,
+      "total_stars": 9762,
       "language": "Python",
       "description": "Star paperswithbacktest / awesome-systematic-trading A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading."
     },
@@ -72,7 +72,7 @@
       "repo": "huggingface/speech-to-speech",
       "url": "https://github.com/huggingface/speech-to-speech",
       "stars_today": 227,
-      "total_stars": 7213,
+      "total_stars": 7354,
       "language": "Python",
       "description": "Star huggingface / speech-to-speech Build local voice agents with open-source models"
     },
@@ -80,7 +80,7 @@
       "repo": "jenkinsci/jenkins",
       "url": "https://github.com/jenkinsci/jenkins",
       "stars_today": 180,
-      "total_stars": 26065,
+      "total_stars": 26106,
       "language": "Java",
       "description": "Star jenkinsci / jenkins Jenkins automation server"
     },
@@ -88,15 +88,23 @@
       "repo": "andrewyng/aisuite",
       "url": "https://github.com/andrewyng/aisuite",
       "stars_today": 62,
-      "total_stars": 15675,
+      "total_stars": 15723,
       "language": "Python",
       "description": "Star andrewyng / aisuite Simple, unified interface to multiple Generative AI providers"
+    },
+    {
+      "repo": "hello245m/free-stockdb",
+      "url": "https://github.com/hello245m/free-stockdb",
+      "stars_today": 50,
+      "total_stars": 1419,
+      "language": "HTML",
+      "description": "Star hello245m / free-stockdb 面向 A 股日K、分钟K与ETF分钟数据的本地量化引擎，集成增量同步、本地缓存、复权、批量查询、回测与指标计算。"
     },
     {
       "repo": "microsoft/agent-governance-toolkit",
       "url": "https://github.com/microsoft/agent-governance-toolkit",
       "stars_today": 46,
-      "total_stars": 5183,
+      "total_stars": 5274,
       "language": "Python",
       "description": "Star microsoft / agent-governance-toolkit AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10."
     }
