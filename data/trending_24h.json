@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-08-03T08:16:25.634926+08:00",
+  "generated_at": "2026-08-03T12:01:19.834779+08:00",
   "count": 15,
   "items": [
     {
       "repo": "microsoft/AI-For-Beginners",
       "url": "https://github.com/microsoft/AI-For-Beginners",
       "stars_today": 2629,
-      "total_stars": 58981,
+      "total_stars": 59472,
       "language": "Jupyter Notebook",
       "description": "Star microsoft / AI-For-Beginners 12 Weeks, 24 Lessons, AI for All!"
     },
@@ -16,7 +16,7 @@
       "repo": "zhaoxuya520/reverse-skill",
       "url": "https://github.com/zhaoxuya520/reverse-skill",
       "stars_today": 1141,
-      "total_stars": 13371,
+      "total_stars": 13964,
       "language": "PowerShell",
       "description": "Star zhaoxuya520 / reverse-skill Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端"
     },
@@ -24,7 +24,7 @@
       "repo": "lyogavin/airllm",
       "url": "https://github.com/lyogavin/airllm",
       "stars_today": 819,
-      "total_stars": 25633,
+      "total_stars": 25849,
       "language": "Jupyter Notebook",
       "description": "Sponsor Star lyogavin / airllm AirLLM 70B inference with single 4GB GPU"
     },
@@ -32,7 +32,7 @@
       "repo": "codecrafters-io/build-your-own-x",
       "url": "https://github.com/codecrafters-io/build-your-own-x",
       "stars_today": 674,
-      "total_stars": 534824,
+      "total_stars": 535071,
       "language": "Markdown",
       "description": "Star codecrafters-io / build-your-own-x Master programming by recreating your favorite technologies from scratch."
     },
@@ -40,7 +40,7 @@
       "repo": "Panniantong/Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "stars_today": 659,
-      "total_stars": 64679,
+      "total_stars": 64900,
       "language": "Python",
       "description": "Star Panniantong / Agent-Reach Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees."
     },
@@ -48,7 +48,7 @@
       "repo": "TencentCloud/TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
       "stars_today": 602,
-      "total_stars": 11003,
+      "total_stars": 11266,
       "language": "TypeScript",
       "description": "Star TencentCloud / TencentDB-Agent-Memory TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks."
     },
@@ -56,7 +56,7 @@
       "repo": "microsoft/generative-ai-for-beginners",
       "url": "https://github.com/microsoft/generative-ai-for-beginners",
       "stars_today": 588,
-      "total_stars": 114763,
+      "total_stars": 114919,
       "language": "Jupyter Notebook",
       "description": "Star microsoft / generative-ai-for-beginners 21 Lessons, Get Started Building with Generative AI"
     },
@@ -64,7 +64,7 @@
       "repo": "usekaneo/kaneo",
       "url": "https://github.com/usekaneo/kaneo",
       "stars_today": 496,
-      "total_stars": 6135,
+      "total_stars": 6289,
       "language": "TypeScript",
       "description": "Sponsor Star usekaneo / kaneo 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you."
     },
@@ -72,7 +72,7 @@
       "repo": "esengine/DeepSeek-Reasonix",
       "url": "https://github.com/esengine/DeepSeek-Reasonix",
       "stars_today": 333,
-      "total_stars": 29046,
+      "total_stars": 29239,
       "language": "Go",
       "description": "Star esengine / DeepSeek-Reasonix DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running."
     },
@@ -80,7 +80,7 @@
       "repo": "iv-org/invidious",
       "url": "https://github.com/iv-org/invidious",
       "stars_today": 305,
-      "total_stars": 21973,
+      "total_stars": 22039,
       "language": "Crystal",
       "description": "Star iv-org / invidious Invidious is an alternative front-end to YouTube"
     },
@@ -88,7 +88,7 @@
       "repo": "different-ai/openwork",
       "url": "https://github.com/different-ai/openwork",
       "stars_today": 280,
-      "total_stars": 20301,
+      "total_stars": 20437,
       "language": "TypeScript",
       "description": "Star different-ai / openwork The open-source alternative to Claude Cowork (powered by opencode)"
     },
@@ -96,7 +96,7 @@
       "repo": "mvanhorn/last30days-skill",
       "url": "https://github.com/mvanhorn/last30days-skill",
       "stars_today": 206,
-      "total_stars": 56871,
+      "total_stars": 56945,
       "language": "Python",
       "description": "Star mvanhorn / last30days-skill AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
     },
@@ -104,7 +104,7 @@
       "repo": "NomaDamas/k-skill",
       "url": "https://github.com/NomaDamas/k-skill",
       "stars_today": 177,
-      "total_stars": 6887,
+      "total_stars": 6918,
       "language": "JavaScript",
       "description": "Star NomaDamas / k-skill 한국인을 위한 스킬 모음집 - 에이전트를 한국인으로"
     },
@@ -112,7 +112,7 @@
       "repo": "antirez/ds4",
       "url": "https://github.com/antirez/ds4",
       "stars_today": 139,
-      "total_stars": 19985,
+      "total_stars": 20069,
       "language": "C",
       "description": "Sponsor Star antirez / ds4 DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm"
     },
@@ -120,7 +120,7 @@
       "repo": "HarbourMasters/Lighthouse",
       "url": "https://github.com/HarbourMasters/Lighthouse",
       "stars_today": 65,
-      "total_stars": 219,
+      "total_stars": 243,
       "language": "C",
       "description": ""
     }
