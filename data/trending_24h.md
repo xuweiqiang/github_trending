@@ -1,22 +1,24 @@
 # GitHub 24h Star 增长榜
 
-- 生成时间: 2026-08-04 18:02:32 +0800
+- 生成时间: 2026-08-04 20:21:15 +0800
 
 | 排名 | 项目 | 24h 增长 | 总 Stars | 链接 |
 |---:|---|---:|---:|---|
-| 1 | `zhaoxuya520/reverse-skill` | 2446 | 16859 | [跳转](https://github.com/zhaoxuya520/reverse-skill) |
-| 2 | `microsoft/AI-For-Beginners` | 1902 | 61386 | [跳转](https://github.com/microsoft/AI-For-Beginners) |
-| 3 | `firecrawl/pdf-inspector` | 1699 | 9092 | [跳转](https://github.com/firecrawl/pdf-inspector) |
-| 4 | `TencentCloud/TencentDB-Agent-Memory` | 1090 | 12624 | [跳转](https://github.com/TencentCloud/TencentDB-Agent-Memory) |
-| 5 | `lyogavin/airllm` | 1085 | 27842 | [跳转](https://github.com/lyogavin/airllm) |
-| 6 | `Panniantong/Agent-Reach` | 1057 | 66195 | [跳转](https://github.com/Panniantong/Agent-Reach) |
-| 7 | `esengine/DeepSeek-Reasonix` | 883 | 30401 | [跳转](https://github.com/esengine/DeepSeek-Reasonix) |
-| 8 | `microsoft/generative-ai-for-beginners` | 775 | 115954 | [跳转](https://github.com/microsoft/generative-ai-for-beginners) |
-| 9 | `usekaneo/kaneo` | 665 | 7071 | [跳转](https://github.com/usekaneo/kaneo) |
-| 10 | `jamiepine/voicebox` | 412 | 48998 | [跳转](https://github.com/jamiepine/voicebox) |
-| 11 | `iv-org/invidious` | 402 | 22345 | [跳转](https://github.com/iv-org/invidious) |
-| 12 | `antirez/ds4` | 384 | 20488 | [跳转](https://github.com/antirez/ds4) |
-| 13 | `Alishahryar1/free-claude-code` | 278 | 44221 | [跳转](https://github.com/Alishahryar1/free-claude-code) |
-| 14 | `donnemartin/system-design-primer` | 237 | 360839 | [跳转](https://github.com/donnemartin/system-design-primer) |
-| 15 | `shiyu-coder/Kronos` | 200 | 35935 | [跳转](https://github.com/shiyu-coder/Kronos) |
-| 16 | `livekit/agents` | 148 | 12203 | [跳转](https://github.com/livekit/agents) |
+| 1 | `zhaoxuya520/reverse-skill` | 2446 | 17132 | [跳转](https://github.com/zhaoxuya520/reverse-skill) |
+| 2 | `firecrawl/pdf-inspector` | 1699 | 9265 | [跳转](https://github.com/firecrawl/pdf-inspector) |
+| 3 | `TencentCloud/TencentDB-Agent-Memory` | 1090 | 12788 | [跳转](https://github.com/TencentCloud/TencentDB-Agent-Memory) |
+| 4 | `lyogavin/airllm` | 1085 | 27964 | [跳转](https://github.com/lyogavin/airllm) |
+| 5 | `esengine/DeepSeek-Reasonix` | 883 | 30487 | [跳转](https://github.com/esengine/DeepSeek-Reasonix) |
+| 6 | `microsoft/generative-ai-for-beginners` | 775 | 116003 | [跳转](https://github.com/microsoft/generative-ai-for-beginners) |
+| 7 | `usekaneo/kaneo` | 665 | 7106 | [跳转](https://github.com/usekaneo/kaneo) |
+| 8 | `obra/superpowers` | 617 | 266065 | [跳转](https://github.com/obra/superpowers) |
+| 9 | `browser-use/video-use` | 306 | 18975 | [跳转](https://github.com/browser-use/video-use) |
+| 10 | `livekit/agents` | 148 | 12222 | [跳转](https://github.com/livekit/agents) |
+| 11 | `uber/ADR` | 140 | 520 | [跳转](https://github.com/uber/ADR) |
+| 12 | `EveryInc/compound-engineering-plugin` | 33 | 23759 | [跳转](https://github.com/EveryInc/compound-engineering-plugin) |
+| 13 | `tailwindlabs/tailwindcss` | 30 | 96257 | [跳转](https://github.com/tailwindlabs/tailwindcss) |
+| 14 | `denoland/deno` | 27 | 107989 | [跳转](https://github.com/denoland/deno) |
+| 15 | `gabime/spdlog` | 9 | 29343 | [跳转](https://github.com/gabime/spdlog) |
+| 16 | `webpack/webpack` | 8 | 65885 | [跳转](https://github.com/webpack/webpack) |
+| 17 | `angular/angular` | 8 | 100704 | [跳转](https://github.com/angular/angular) |
+| 18 | `cypress-io/cypress` | 6 | 50666 | [跳转](https://github.com/cypress-io/cypress) |

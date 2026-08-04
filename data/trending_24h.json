@@ -1,30 +1,22 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-08-04T18:02:32.661426+08:00",
-  "count": 16,
+  "generated_at": "2026-08-04T20:21:15.197888+08:00",
+  "count": 18,
   "items": [
     {
       "repo": "zhaoxuya520/reverse-skill",
       "url": "https://github.com/zhaoxuya520/reverse-skill",
       "stars_today": 2446,
-      "total_stars": 16859,
+      "total_stars": 17132,
       "language": "PowerShell",
       "description": "Star zhaoxuya520 / reverse-skill Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端"
-    },
-    {
-      "repo": "microsoft/AI-For-Beginners",
-      "url": "https://github.com/microsoft/AI-For-Beginners",
-      "stars_today": 1902,
-      "total_stars": 61386,
-      "language": "Jupyter Notebook",
-      "description": "Star microsoft / AI-For-Beginners 12 Weeks, 24 Lessons, AI for All!"
     },
     {
       "repo": "firecrawl/pdf-inspector",
       "url": "https://github.com/firecrawl/pdf-inspector",
       "stars_today": 1699,
-      "total_stars": 9092,
+      "total_stars": 9265,
       "language": "Rust",
       "description": "Star firecrawl / pdf-inspector Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions."
     },
@@ -32,7 +24,7 @@
       "repo": "TencentCloud/TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
       "stars_today": 1090,
-      "total_stars": 12624,
+      "total_stars": 12788,
       "language": "TypeScript",
       "description": "Star TencentCloud / TencentDB-Agent-Memory TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks."
     },
@@ -40,23 +32,15 @@
       "repo": "lyogavin/airllm",
       "url": "https://github.com/lyogavin/airllm",
       "stars_today": 1085,
-      "total_stars": 27842,
+      "total_stars": 27964,
       "language": "Jupyter Notebook",
       "description": "Sponsor Star lyogavin / airllm AirLLM 70B inference with single 4GB GPU"
-    },
-    {
-      "repo": "Panniantong/Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars_today": 1057,
-      "total_stars": 66195,
-      "language": "Python",
-      "description": "Star Panniantong / Agent-Reach Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees."
     },
     {
       "repo": "esengine/DeepSeek-Reasonix",
       "url": "https://github.com/esengine/DeepSeek-Reasonix",
       "stars_today": 883,
-      "total_stars": 30401,
+      "total_stars": 30487,
       "language": "Go",
       "description": "Star esengine / DeepSeek-Reasonix DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running."
     },
@@ -64,7 +48,7 @@
       "repo": "microsoft/generative-ai-for-beginners",
       "url": "https://github.com/microsoft/generative-ai-for-beginners",
       "stars_today": 775,
-      "total_stars": 115954,
+      "total_stars": 116003,
       "language": "Jupyter Notebook",
       "description": "Star microsoft / generative-ai-for-beginners 21 Lessons, Get Started Building with Generative AI"
     },
@@ -72,65 +56,97 @@
       "repo": "usekaneo/kaneo",
       "url": "https://github.com/usekaneo/kaneo",
       "stars_today": 665,
-      "total_stars": 7071,
+      "total_stars": 7106,
       "language": "TypeScript",
       "description": "Sponsor Star usekaneo / kaneo 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you."
     },
     {
-      "repo": "jamiepine/voicebox",
-      "url": "https://github.com/jamiepine/voicebox",
-      "stars_today": 412,
-      "total_stars": 48998,
-      "language": "TypeScript",
-      "description": "Star jamiepine / voicebox The open-source AI voice studio. Clone, dictate, create."
+      "repo": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "stars_today": 617,
+      "total_stars": 266065,
+      "language": "Shell",
+      "description": "Sponsor Star obra / superpowers An agentic skills framework & software development methodology that works."
     },
     {
-      "repo": "iv-org/invidious",
-      "url": "https://github.com/iv-org/invidious",
-      "stars_today": 402,
-      "total_stars": 22345,
-      "language": "Crystal",
-      "description": "Star iv-org / invidious Invidious is an alternative front-end to YouTube"
-    },
-    {
-      "repo": "antirez/ds4",
-      "url": "https://github.com/antirez/ds4",
-      "stars_today": 384,
-      "total_stars": 20488,
-      "language": "C",
-      "description": "Sponsor Star antirez / ds4 DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm"
-    },
-    {
-      "repo": "Alishahryar1/free-claude-code",
-      "url": "https://github.com/Alishahryar1/free-claude-code",
-      "stars_today": 278,
-      "total_stars": 44221,
+      "repo": "browser-use/video-use",
+      "url": "https://github.com/browser-use/video-use",
+      "stars_today": 306,
+      "total_stars": 18975,
       "language": "Python",
-      "description": "Star Alishahryar1 / free-claude-code Use Claude Code, Codex and Pi for free from your terminal, app, IDE, or phone like OpenClaw (voice supported)"
-    },
-    {
-      "repo": "donnemartin/system-design-primer",
-      "url": "https://github.com/donnemartin/system-design-primer",
-      "stars_today": 237,
-      "total_stars": 360839,
-      "language": "Python",
-      "description": "Star donnemartin / system-design-primer Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards."
-    },
-    {
-      "repo": "shiyu-coder/Kronos",
-      "url": "https://github.com/shiyu-coder/Kronos",
-      "stars_today": 200,
-      "total_stars": 35935,
-      "language": "Python",
-      "description": "Star shiyu-coder / Kronos Kronos: A Foundation Model for the Language of Financial Markets"
+      "description": "Star browser-use / video-use Edit videos with coding agents"
     },
     {
       "repo": "livekit/agents",
       "url": "https://github.com/livekit/agents",
       "stars_today": 148,
-      "total_stars": 12203,
+      "total_stars": 12222,
       "language": "Python",
       "description": "Star livekit / agents A framework for building realtime voice AI agents 🤖🎙️📹"
+    },
+    {
+      "repo": "uber/ADR",
+      "url": "https://github.com/uber/ADR",
+      "stars_today": 140,
+      "total_stars": 520,
+      "language": "Python",
+      "description": "Star uber / ADR ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber."
+    },
+    {
+      "repo": "EveryInc/compound-engineering-plugin",
+      "url": "https://github.com/EveryInc/compound-engineering-plugin",
+      "stars_today": 33,
+      "total_stars": 23759,
+      "language": "TypeScript",
+      "description": "Star EveryInc / compound-engineering-plugin Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more"
+    },
+    {
+      "repo": "tailwindlabs/tailwindcss",
+      "url": "https://github.com/tailwindlabs/tailwindcss",
+      "stars_today": 30,
+      "total_stars": 96257,
+      "language": "TypeScript",
+      "description": "Star tailwindlabs / tailwindcss A utility-first CSS framework for rapid UI development."
+    },
+    {
+      "repo": "denoland/deno",
+      "url": "https://github.com/denoland/deno",
+      "stars_today": 27,
+      "total_stars": 107989,
+      "language": "Rust",
+      "description": "Star denoland / deno A modern runtime for JavaScript and TypeScript."
+    },
+    {
+      "repo": "gabime/spdlog",
+      "url": "https://github.com/gabime/spdlog",
+      "stars_today": 9,
+      "total_stars": 29343,
+      "language": "C++",
+      "description": "Star gabime / spdlog Fast C++ logging library."
+    },
+    {
+      "repo": "webpack/webpack",
+      "url": "https://github.com/webpack/webpack",
+      "stars_today": 8,
+      "total_stars": 65885,
+      "language": "JavaScript",
+      "description": "Star webpack / webpack A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through \"loaders\", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff."
+    },
+    {
+      "repo": "angular/angular",
+      "url": "https://github.com/angular/angular",
+      "stars_today": 8,
+      "total_stars": 100704,
+      "language": "TypeScript",
+      "description": "Star angular / angular Deliver web apps with confidence 🚀"
+    },
+    {
+      "repo": "cypress-io/cypress",
+      "url": "https://github.com/cypress-io/cypress",
+      "stars_today": 6,
+      "total_stars": 50666,
+      "language": "TypeScript",
+      "description": "Star cypress-io / cypress Fast, easy and reliable testing for anything that runs in a browser."
     }
   ]
 }
