@@ -1,112 +1,112 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-08-06T18:03:01.016589+08:00",
+  "generated_at": "2026-08-06T20:21:58.105544+08:00",
   "count": 13,
   "items": [
     {
-      "repo": "TencentCloud/TencentDB-Agent-Memory",
-      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars_today": 1892,
-      "total_stars": 15573,
-      "language": "TypeScript",
-      "description": "Star TencentCloud / TencentDB-Agent-Memory TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks."
+      "repo": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "stars_today": 1695,
+      "total_stars": 206001,
+      "language": "Shell",
+      "description": "Sponsor Star mattpocock / skills Skills for Real Engineers. Straight from my .agents directory."
     },
     {
       "repo": "firecrawl/pdf-inspector",
       "url": "https://github.com/firecrawl/pdf-inspector",
-      "stars_today": 1582,
-      "total_stars": 11909,
+      "stars_today": 1194,
+      "total_stars": 12007,
       "language": "Rust",
       "description": "Star firecrawl / pdf-inspector Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions."
     },
     {
-      "repo": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "stars_today": 931,
-      "total_stars": 267671,
-      "language": "Shell",
-      "description": "Sponsor Star obra / superpowers An agentic skills framework & software development methodology that works."
+      "repo": "TencentCloud/TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "stars_today": 1053,
+      "total_stars": 15704,
+      "language": "TypeScript",
+      "description": "Star TencentCloud / TencentDB-Agent-Memory TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks."
+    },
+    {
+      "repo": "esengine/DeepSeek-Reasonix",
+      "url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "stars_today": 894,
+      "total_stars": 32089,
+      "language": "Go",
+      "description": "Star esengine / DeepSeek-Reasonix DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running."
     },
     {
       "repo": "cloudflare/computer",
       "url": "https://github.com/cloudflare/computer",
       "stars_today": 891,
-      "total_stars": 4176,
+      "total_stars": 4348,
       "language": "TypeScript",
       "description": "Star cloudflare / computer Give your agent a computer 👾"
     },
     {
-      "repo": "lyogavin/airllm",
-      "url": "https://github.com/lyogavin/airllm",
-      "stars_today": 833,
-      "total_stars": 29376,
-      "language": "Jupyter Notebook",
-      "description": "Sponsor Star lyogavin / airllm AirLLM 70B inference with single 4GB GPU"
-    },
-    {
-      "repo": "esengine/DeepSeek-Reasonix",
-      "url": "https://github.com/esengine/DeepSeek-Reasonix",
-      "stars_today": 747,
-      "total_stars": 32014,
-      "language": "Go",
-      "description": "Star esengine / DeepSeek-Reasonix DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running."
-    },
-    {
-      "repo": "tailwindlabs/tailwindcss",
-      "url": "https://github.com/tailwindlabs/tailwindcss",
-      "stars_today": 408,
-      "total_stars": 97010,
-      "language": "TypeScript",
-      "description": "Star tailwindlabs / tailwindcss A utility-first CSS framework for rapid UI development."
-    },
-    {
-      "repo": "uber/ADR",
-      "url": "https://github.com/uber/ADR",
-      "stars_today": 354,
-      "total_stars": 1170,
-      "language": "Python",
-      "description": "Star uber / ADR ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber."
+      "repo": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "stars_today": 858,
+      "total_stars": 267747,
+      "language": "Shell",
+      "description": "Sponsor Star obra / superpowers An agentic skills framework & software development methodology that works."
     },
     {
       "repo": "huangruiteng/loopx",
       "url": "https://github.com/huangruiteng/loopx",
-      "stars_today": 326,
-      "total_stars": 2536,
+      "stars_today": 854,
+      "total_stars": 2593,
       "language": "Python",
       "description": "Star huangruiteng / loopx Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs."
     },
     {
-      "repo": "donnemartin/system-design-primer",
-      "url": "https://github.com/donnemartin/system-design-primer",
-      "stars_today": 303,
-      "total_stars": 361854,
-      "language": "Python",
-      "description": "Star donnemartin / system-design-primer Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards."
-    },
-    {
       "repo": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
-      "stars_today": 226,
-      "total_stars": 82255,
+      "stars_today": 588,
+      "total_stars": 82339,
       "language": "JavaScript",
       "description": "Star addyosmani / agent-skills Production-grade engineering skills for AI coding agents."
     },
     {
-      "repo": "roboflow/supervision",
-      "url": "https://github.com/roboflow/supervision",
-      "stars_today": 146,
-      "total_stars": 49099,
+      "repo": "tirth8205/code-review-graph",
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "stars_today": 232,
+      "total_stars": 28817,
       "language": "Python",
-      "description": "Star roboflow / supervision We write your reusable computer vision tools. 💜"
+      "description": "Sponsor Star tirth8205 / code-review-graph Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows."
     },
     {
-      "repo": "vercel/next.js",
-      "url": "https://github.com/vercel/next.js",
-      "stars_today": 68,
-      "total_stars": 141634,
-      "language": "JavaScript",
-      "description": "Star vercel / next.js The React Framework"
+      "repo": "TapXWorld/ChinaTextbook",
+      "url": "https://github.com/TapXWorld/ChinaTextbook",
+      "stars_today": 157,
+      "total_stars": 76924,
+      "language": "Roff",
+      "description": "Star TapXWorld / ChinaTextbook 所有小初高、大学PDF教材。"
+    },
+    {
+      "repo": "goauthentik/authentik",
+      "url": "https://github.com/goauthentik/authentik",
+      "stars_today": 123,
+      "total_stars": 22816,
+      "language": "Python",
+      "description": "Sponsor Star goauthentik / authentik The authentication glue you need."
+    },
+    {
+      "repo": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "stars_today": 28,
+      "total_stars": 185856,
+      "language": "Python",
+      "description": "Star Significant-Gravitas / AutoGPT AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters."
+    },
+    {
+      "repo": "google/guava",
+      "url": "https://github.com/google/guava",
+      "stars_today": 9,
+      "total_stars": 51555,
+      "language": "Java",
+      "description": "Star google / guava Google core libraries for Java"
     }
   ]
 }
