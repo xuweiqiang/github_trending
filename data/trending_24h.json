@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-08-06T15:07:27.116295+08:00",
+  "generated_at": "2026-08-06T18:03:01.016589+08:00",
   "count": 13,
   "items": [
     {
       "repo": "TencentCloud/TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
       "stars_today": 1892,
-      "total_stars": 15375,
+      "total_stars": 15573,
       "language": "TypeScript",
       "description": "Star TencentCloud / TencentDB-Agent-Memory TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks."
     },
@@ -16,7 +16,7 @@
       "repo": "firecrawl/pdf-inspector",
       "url": "https://github.com/firecrawl/pdf-inspector",
       "stars_today": 1582,
-      "total_stars": 11758,
+      "total_stars": 11909,
       "language": "Rust",
       "description": "Star firecrawl / pdf-inspector Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions."
     },
@@ -24,7 +24,7 @@
       "repo": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "stars_today": 931,
-      "total_stars": 267535,
+      "total_stars": 267671,
       "language": "Shell",
       "description": "Sponsor Star obra / superpowers An agentic skills framework & software development methodology that works."
     },
@@ -32,7 +32,7 @@
       "repo": "cloudflare/computer",
       "url": "https://github.com/cloudflare/computer",
       "stars_today": 891,
-      "total_stars": 3782,
+      "total_stars": 4176,
       "language": "TypeScript",
       "description": "Star cloudflare / computer Give your agent a computer 👾"
     },
@@ -40,7 +40,7 @@
       "repo": "lyogavin/airllm",
       "url": "https://github.com/lyogavin/airllm",
       "stars_today": 833,
-      "total_stars": 29270,
+      "total_stars": 29376,
       "language": "Jupyter Notebook",
       "description": "Sponsor Star lyogavin / airllm AirLLM 70B inference with single 4GB GPU"
     },
@@ -48,7 +48,7 @@
       "repo": "esengine/DeepSeek-Reasonix",
       "url": "https://github.com/esengine/DeepSeek-Reasonix",
       "stars_today": 747,
-      "total_stars": 31879,
+      "total_stars": 32014,
       "language": "Go",
       "description": "Star esengine / DeepSeek-Reasonix DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running."
     },
@@ -56,7 +56,7 @@
       "repo": "tailwindlabs/tailwindcss",
       "url": "https://github.com/tailwindlabs/tailwindcss",
       "stars_today": 408,
-      "total_stars": 96954,
+      "total_stars": 97010,
       "language": "TypeScript",
       "description": "Star tailwindlabs / tailwindcss A utility-first CSS framework for rapid UI development."
     },
@@ -64,7 +64,7 @@
       "repo": "uber/ADR",
       "url": "https://github.com/uber/ADR",
       "stars_today": 354,
-      "total_stars": 1124,
+      "total_stars": 1170,
       "language": "Python",
       "description": "Star uber / ADR ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber."
     },
@@ -72,7 +72,7 @@
       "repo": "huangruiteng/loopx",
       "url": "https://github.com/huangruiteng/loopx",
       "stars_today": 326,
-      "total_stars": 2409,
+      "total_stars": 2536,
       "language": "Python",
       "description": "Star huangruiteng / loopx Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs."
     },
@@ -80,7 +80,7 @@
       "repo": "donnemartin/system-design-primer",
       "url": "https://github.com/donnemartin/system-design-primer",
       "stars_today": 303,
-      "total_stars": 361758,
+      "total_stars": 361854,
       "language": "Python",
       "description": "Star donnemartin / system-design-primer Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards."
     },
@@ -88,7 +88,7 @@
       "repo": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "stars_today": 226,
-      "total_stars": 82146,
+      "total_stars": 82255,
       "language": "JavaScript",
       "description": "Star addyosmani / agent-skills Production-grade engineering skills for AI coding agents."
     },
@@ -96,7 +96,7 @@
       "repo": "roboflow/supervision",
       "url": "https://github.com/roboflow/supervision",
       "stars_today": 146,
-      "total_stars": 49041,
+      "total_stars": 49099,
       "language": "Python",
       "description": "Star roboflow / supervision We write your reusable computer vision tools. 💜"
     },
@@ -104,7 +104,7 @@
       "repo": "vercel/next.js",
       "url": "https://github.com/vercel/next.js",
       "stars_today": 68,
-      "total_stars": 141603,
+      "total_stars": 141634,
       "language": "JavaScript",
       "description": "Star vercel / next.js The React Framework"
     }
