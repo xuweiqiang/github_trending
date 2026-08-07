@@ -1,102 +1,134 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-08-07T19:11:04.312287+08:00",
-  "count": 13,
+  "generated_at": "2026-08-07T20:01:20.350039+08:00",
+  "count": 17,
   "items": [
     {
       "repo": "cloudflare/computer",
       "url": "https://github.com/cloudflare/computer",
       "stars_today": 2802,
-      "total_stars": 5195,
+      "total_stars": 5220,
       "language": "TypeScript",
       "description": "Star cloudflare / computer Give your agent a computer 👾"
+    },
+    {
+      "repo": "PrimeIntellect-ai/prime-agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "stars_today": 2271,
+      "total_stars": 5080,
+      "language": "TypeScript",
+      "description": "Star PrimeIntellect-ai / prime-agent A self-improving RLM agent for coding workflows and long-running autonomous tasks."
     },
     {
       "repo": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "stars_today": 1873,
-      "total_stars": 208036,
+      "total_stars": 208095,
       "language": "Shell",
       "description": "Sponsor Star mattpocock / skills Skills for Real Engineers. Straight from my .agents directory."
-    },
-    {
-      "repo": "firecrawl/pdf-inspector",
-      "url": "https://github.com/firecrawl/pdf-inspector",
-      "stars_today": 1190,
-      "total_stars": 12865,
-      "language": "Rust",
-      "description": "Star firecrawl / pdf-inspector Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions."
-    },
-    {
-      "repo": "TencentCloud/TencentDB-Agent-Memory",
-      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars_today": 1057,
-      "total_stars": 17157,
-      "language": "TypeScript",
-      "description": "Star TencentCloud / TencentDB-Agent-Memory TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks."
-    },
-    {
-      "repo": "esengine/DeepSeek-Reasonix",
-      "url": "https://github.com/esengine/DeepSeek-Reasonix",
-      "stars_today": 888,
-      "total_stars": 32769,
-      "language": "Go",
-      "description": "Star esengine / DeepSeek-Reasonix DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running."
     },
     {
       "repo": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "stars_today": 858,
-      "total_stars": 268446,
+      "total_stars": 268470,
       "language": "Shell",
       "description": "Sponsor Star obra / superpowers An agentic skills framework & software development methodology that works."
-    },
-    {
-      "repo": "huangruiteng/loopx",
-      "url": "https://github.com/huangruiteng/loopx",
-      "stars_today": 847,
-      "total_stars": 3205,
-      "language": "Python",
-      "description": "Star huangruiteng / loopx Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs."
     },
     {
       "repo": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "stars_today": 593,
-      "total_stars": 83400,
+      "total_stars": 83434,
       "language": "JavaScript",
       "description": "Star addyosmani / agent-skills Production-grade engineering skills for AI coding agents."
     },
     {
-      "repo": "tirth8205/code-review-graph",
-      "url": "https://github.com/tirth8205/code-review-graph",
-      "stars_today": 237,
-      "total_stars": 29279,
+      "repo": "denoland/celld",
+      "url": "https://github.com/denoland/celld",
+      "stars_today": 546,
+      "total_stars": 1927,
+      "language": "Rust",
+      "description": "Star denoland / celld self-hosted, distributed Durable Objects"
+    },
+    {
+      "repo": "pranshuparmar/witr",
+      "url": "https://github.com/pranshuparmar/witr",
+      "stars_today": 427,
+      "total_stars": 19353,
+      "language": "Go",
+      "description": "Sponsor Star pranshuparmar / witr Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI."
+    },
+    {
+      "repo": "google/skills",
+      "url": "https://github.com/google/skills",
+      "stars_today": 305,
+      "total_stars": 15977,
       "language": "Python",
-      "description": "Sponsor Star tirth8205 / code-review-graph Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows."
+      "description": "Star google / skills Agent Skills for Google products and technologies"
+    },
+    {
+      "repo": "jdx/mise",
+      "url": "https://github.com/jdx/mise",
+      "stars_today": 258,
+      "total_stars": 31961,
+      "language": "Rust",
+      "description": "Sponsor Star jdx / mise dev tools, env vars, task runner"
     },
     {
       "repo": "goauthentik/authentik",
       "url": "https://github.com/goauthentik/authentik",
       "stars_today": 138,
-      "total_stars": 23341,
+      "total_stars": 23347,
       "language": "Python",
       "description": "Sponsor Star goauthentik / authentik The authentication glue you need."
     },
     {
-      "repo": "TapXWorld/ChinaTextbook",
-      "url": "https://github.com/TapXWorld/ChinaTextbook",
-      "stars_today": 134,
-      "total_stars": 77578,
-      "language": "Roff",
-      "description": "Star TapXWorld / ChinaTextbook 所有小初高、大学PDF教材。"
+      "repo": "666ghj/MiroFish",
+      "url": "https://github.com/666ghj/MiroFish",
+      "stars_today": 126,
+      "total_stars": 70261,
+      "language": "Python",
+      "description": "Star 666ghj / MiroFish A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物"
+    },
+    {
+      "repo": "semantica-agi/semantica",
+      "url": "https://github.com/semantica-agi/semantica",
+      "stars_today": 118,
+      "total_stars": 2170,
+      "language": "Python",
+      "description": "Sponsor Star semantica-agi / semantica Graph-Native Infrastructure for Context and Accountable AI Systems"
+    },
+    {
+      "repo": "unclebob/swarm-forge",
+      "url": "https://github.com/unclebob/swarm-forge",
+      "stars_today": 85,
+      "total_stars": 1698,
+      "language": "Clojure",
+      "description": "Star unclebob / swarm-forge A simple tool for coordinating several AI agents."
+    },
+    {
+      "repo": "K2SOsint/Legendary_OSINT",
+      "url": "https://github.com/K2SOsint/Legendary_OSINT",
+      "stars_today": 64,
+      "total_stars": 1139,
+      "language": "",
+      "description": "Star K2SOsint / Legendary_OSINT A list of OSINT tools & resources for (fraud-)investigators, CTI-analysts, KYC, AML and more."
+    },
+    {
+      "repo": "chenyme/grok2api",
+      "url": "https://github.com/chenyme/grok2api",
+      "stars_today": 43,
+      "total_stars": 7077,
+      "language": "Go",
+      "description": "Star chenyme / grok2api Multi-account API gateway for Grok Build, Grok Web, and Grok Console"
     },
     {
       "repo": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "stars_today": 37,
-      "total_stars": 186179,
+      "total_stars": 186196,
       "language": "Python",
       "description": "Star Significant-Gravitas / AutoGPT AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters."
     },
@@ -104,7 +136,7 @@
       "repo": "google/guava",
       "url": "https://github.com/google/guava",
       "stars_today": 13,
-      "total_stars": 51700,
+      "total_stars": 51707,
       "language": "Java",
       "description": "Star google / guava Google core libraries for Java"
     }
