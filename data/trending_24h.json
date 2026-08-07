@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-08-08T00:11:59.495168+08:00",
+  "generated_at": "2026-08-08T01:11:59.819405+08:00",
   "count": 17,
   "items": [
     {
       "repo": "PrimeIntellect-ai/prime-agent",
       "url": "https://github.com/PrimeIntellect-ai/prime-agent",
       "stars_today": 2271,
-      "total_stars": 5744,
+      "total_stars": 5861,
       "language": "TypeScript",
       "description": "Star PrimeIntellect-ai / prime-agent A self-improving RLM agent for coding workflows and long-running autonomous tasks."
     },
@@ -16,7 +16,7 @@
       "repo": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "stars_today": 2180,
-      "total_stars": 208411,
+      "total_stars": 208476,
       "language": "Shell",
       "description": "Sponsor Star mattpocock / skills Skills for Real Engineers. Straight from my .agents directory."
     },
@@ -24,7 +24,7 @@
       "repo": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "stars_today": 1131,
-      "total_stars": 83618,
+      "total_stars": 83662,
       "language": "JavaScript",
       "description": "Star addyosmani / agent-skills Production-grade engineering skills for AI coding agents."
     },
@@ -32,7 +32,7 @@
       "repo": "cloudflare/computer",
       "url": "https://github.com/cloudflare/computer",
       "stars_today": 894,
-      "total_stars": 5349,
+      "total_stars": 5382,
       "language": "TypeScript",
       "description": "Star cloudflare / computer Give your agent a computer 👾"
     },
@@ -40,7 +40,7 @@
       "repo": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "stars_today": 794,
-      "total_stars": 268600,
+      "total_stars": 268618,
       "language": "Shell",
       "description": "Sponsor Star obra / superpowers An agentic skills framework & software development methodology that works."
     },
@@ -48,7 +48,7 @@
       "repo": "denoland/celld",
       "url": "https://github.com/denoland/celld",
       "stars_today": 546,
-      "total_stars": 2039,
+      "total_stars": 2057,
       "language": "Rust",
       "description": "Star denoland / celld self-hosted, distributed Durable Objects"
     },
@@ -56,7 +56,7 @@
       "repo": "goauthentik/authentik",
       "url": "https://github.com/goauthentik/authentik",
       "stars_today": 544,
-      "total_stars": 23432,
+      "total_stars": 23455,
       "language": "Python",
       "description": "Sponsor Star goauthentik / authentik The authentication glue you need."
     },
@@ -64,7 +64,7 @@
       "repo": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "stars_today": 363,
-      "total_stars": 186242,
+      "total_stars": 186253,
       "language": "Python",
       "description": "Star Significant-Gravitas / AutoGPT AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters."
     },
@@ -72,7 +72,7 @@
       "repo": "pranshuparmar/witr",
       "url": "https://github.com/pranshuparmar/witr",
       "stars_today": 308,
-      "total_stars": 19502,
+      "total_stars": 19541,
       "language": "Go",
       "description": "Sponsor Star pranshuparmar / witr Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI."
     },
@@ -80,7 +80,7 @@
       "repo": "google/skills",
       "url": "https://github.com/google/skills",
       "stars_today": 305,
-      "total_stars": 16079,
+      "total_stars": 16098,
       "language": "Python",
       "description": "Star google / skills Agent Skills for Google products and technologies"
     },
@@ -88,7 +88,7 @@
       "repo": "google/guava",
       "url": "https://github.com/google/guava",
       "stars_today": 156,
-      "total_stars": 51723,
+      "total_stars": 51725,
       "language": "Java",
       "description": "Star google / guava Google core libraries for Java"
     },
@@ -96,7 +96,7 @@
       "repo": "jdx/mise",
       "url": "https://github.com/jdx/mise",
       "stars_today": 130,
-      "total_stars": 31999,
+      "total_stars": 32008,
       "language": "Rust",
       "description": "Sponsor Star jdx / mise dev tools, env vars, task runner"
     },
@@ -104,7 +104,7 @@
       "repo": "666ghj/MiroFish",
       "url": "https://github.com/666ghj/MiroFish",
       "stars_today": 126,
-      "total_stars": 70354,
+      "total_stars": 70379,
       "language": "Python",
       "description": "Star 666ghj / MiroFish A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物"
     },
@@ -112,7 +112,7 @@
       "repo": "semantica-agi/semantica",
       "url": "https://github.com/semantica-agi/semantica",
       "stars_today": 118,
-      "total_stars": 2232,
+      "total_stars": 2243,
       "language": "Python",
       "description": "Sponsor Star semantica-agi / semantica Graph-Native Infrastructure for Context and Accountable AI Systems"
     },
@@ -120,7 +120,7 @@
       "repo": "unclebob/swarm-forge",
       "url": "https://github.com/unclebob/swarm-forge",
       "stars_today": 85,
-      "total_stars": 1751,
+      "total_stars": 1761,
       "language": "Clojure",
       "description": "Star unclebob / swarm-forge A simple tool for coordinating several AI agents."
     },
@@ -128,7 +128,7 @@
       "repo": "K2SOsint/Legendary_OSINT",
       "url": "https://github.com/K2SOsint/Legendary_OSINT",
       "stars_today": 64,
-      "total_stars": 1238,
+      "total_stars": 1260,
       "language": "",
       "description": "Star K2SOsint / Legendary_OSINT A list of OSINT tools & resources for (fraud-)investigators, CTI-analysts, KYC, AML and more."
     },
@@ -136,7 +136,7 @@
       "repo": "chenyme/grok2api",
       "url": "https://github.com/chenyme/grok2api",
       "stars_today": 62,
-      "total_stars": 7103,
+      "total_stars": 7106,
       "language": "Go",
       "description": "Star chenyme / grok2api Multi-account API gateway for Grok Build, Grok Web, and Grok Console"
     }
