@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-08-08T10:27:52.259884+08:00",
+  "generated_at": "2026-08-08T10:30:26.399492+08:00",
   "count": 17,
   "items": [
     {
       "repo": "PrimeIntellect-ai/prime-agent",
       "url": "https://github.com/PrimeIntellect-ai/prime-agent",
       "stars_today": 2293,
-      "total_stars": 6675,
+      "total_stars": 6683,
       "language": "TypeScript",
       "description": "Star PrimeIntellect-ai / prime-agent A self-improving RLM agent for coding workflows and long-running autonomous tasks."
     },
@@ -16,7 +16,7 @@
       "repo": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "stars_today": 2152,
-      "total_stars": 208905,
+      "total_stars": 208906,
       "language": "Shell",
       "description": "Sponsor Star mattpocock / skills Skills for Real Engineers. Straight from my .agents directory."
     },
@@ -24,7 +24,7 @@
       "repo": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "stars_today": 1131,
-      "total_stars": 83942,
+      "total_stars": 83944,
       "language": "JavaScript",
       "description": "Star addyosmani / agent-skills Production-grade engineering skills for AI coding agents."
     },
@@ -32,7 +32,7 @@
       "repo": "cloudflare/computer",
       "url": "https://github.com/cloudflare/computer",
       "stars_today": 872,
-      "total_stars": 5796,
+      "total_stars": 5800,
       "language": "TypeScript",
       "description": "Star cloudflare / computer Give your agent a computer 👾"
     },
@@ -48,7 +48,7 @@
       "repo": "goauthentik/authentik",
       "url": "https://github.com/goauthentik/authentik",
       "stars_today": 530,
-      "total_stars": 23632,
+      "total_stars": 23633,
       "language": "Python",
       "description": "Sponsor Star goauthentik / authentik The authentication glue you need."
     },
@@ -64,7 +64,7 @@
       "repo": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "stars_today": 355,
-      "total_stars": 186343,
+      "total_stars": 186344,
       "language": "Python",
       "description": "Star Significant-Gravitas / AutoGPT AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters."
     },
@@ -112,7 +112,7 @@
       "repo": "semantica-agi/semantica",
       "url": "https://github.com/semantica-agi/semantica",
       "stars_today": 122,
-      "total_stars": 2369,
+      "total_stars": 2371,
       "language": "Python",
       "description": "Sponsor Star semantica-agi / semantica Graph-Native Infrastructure for Context and Accountable AI Systems"
     },
