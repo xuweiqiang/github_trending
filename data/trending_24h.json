@@ -1,46 +1,38 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-08-09T07:48:24.757632+08:00",
+  "generated_at": "2026-08-09T10:32:04.333666+08:00",
   "count": 12,
   "items": [
     {
       "repo": "PrimeIntellect-ai/prime-agent",
       "url": "https://github.com/PrimeIntellect-ai/prime-agent",
       "stars_today": 2483,
-      "total_stars": 8856,
+      "total_stars": 9064,
       "language": "TypeScript",
       "description": "Star PrimeIntellect-ai / prime-agent A self-improving RLM agent for coding workflows and long-running autonomous tasks."
     },
     {
       "repo": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
-      "stars_today": 1354,
-      "total_stars": 209984,
+      "stars_today": 1359,
+      "total_stars": 210095,
       "language": "Shell",
       "description": "Sponsor Star mattpocock / skills Skills for Real Engineers. Straight from my .agents directory."
     },
     {
       "repo": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
-      "stars_today": 778,
-      "total_stars": 84538,
+      "stars_today": 779,
+      "total_stars": 84611,
       "language": "JavaScript",
       "description": "Star addyosmani / agent-skills Production-grade engineering skills for AI coding agents."
-    },
-    {
-      "repo": "TapXWorld/ChinaTextbook",
-      "url": "https://github.com/TapXWorld/ChinaTextbook",
-      "stars_today": 591,
-      "total_stars": 77914,
-      "language": "Roff",
-      "description": "Star TapXWorld / ChinaTextbook 所有小初高、大学PDF教材。"
     },
     {
       "repo": "google/skills",
       "url": "https://github.com/google/skills",
       "stars_today": 481,
-      "total_stars": 16716,
+      "total_stars": 16769,
       "language": "Python",
       "description": "Star google / skills Agent Skills for Google products and technologies"
     },
@@ -48,7 +40,7 @@
       "repo": "goauthentik/authentik",
       "url": "https://github.com/goauthentik/authentik",
       "stars_today": 467,
-      "total_stars": 23964,
+      "total_stars": 23990,
       "language": "Python",
       "description": "Sponsor Star goauthentik / authentik The authentication glue you need."
     },
@@ -56,49 +48,57 @@
       "repo": "denoland/celld",
       "url": "https://github.com/denoland/celld",
       "stars_today": 432,
-      "total_stars": 2554,
+      "total_stars": 2607,
       "language": "Rust",
       "description": "Star denoland / celld self-hosted, distributed Durable Objects"
     },
     {
-      "repo": "bannedbook/fanqiang",
-      "url": "https://github.com/bannedbook/fanqiang",
-      "stars_today": 161,
-      "total_stars": 49868,
-      "language": "Kotlin",
-      "description": "Star bannedbook / fanqiang 翻墙-科学上网"
-    },
-    {
       "repo": "TauricResearch/TradingAgents",
       "url": "https://github.com/TauricResearch/TradingAgents",
-      "stars_today": 126,
-      "total_stars": 96461,
+      "stars_today": 153,
+      "total_stars": 96519,
       "language": "Python",
       "description": "Star TauricResearch / TradingAgents TradingAgents: Multi-Agents LLM Financial Trading Framework"
+    },
+    {
+      "repo": "TapXWorld/ChinaTextbook",
+      "url": "https://github.com/TapXWorld/ChinaTextbook",
+      "stars_today": 118,
+      "total_stars": 77969,
+      "language": "Roff",
+      "description": "Star TapXWorld / ChinaTextbook 所有小初高、大学PDF教材。"
+    },
+    {
+      "repo": "bannedbook/fanqiang",
+      "url": "https://github.com/bannedbook/fanqiang",
+      "stars_today": 101,
+      "total_stars": 49917,
+      "language": "Kotlin",
+      "description": "Star bannedbook / fanqiang 翻墙-科学上网"
     },
     {
       "repo": "google/guava",
       "url": "https://github.com/google/guava",
       "stars_today": 93,
-      "total_stars": 51847,
+      "total_stars": 51858,
       "language": "Java",
       "description": "Star google / guava Google core libraries for Java"
     },
     {
-      "repo": "LadybirdBrowser/ladybird",
-      "url": "https://github.com/LadybirdBrowser/ladybird",
-      "stars_today": 79,
-      "total_stars": 64979,
-      "language": "C++",
-      "description": "Star LadybirdBrowser / ladybird Truly independent web browser"
-    },
-    {
       "repo": "litu54/DevOps-Interview-Guide",
       "url": "https://github.com/litu54/DevOps-Interview-Guide",
-      "stars_today": 59,
-      "total_stars": 701,
+      "stars_today": 68,
+      "total_stars": 715,
       "language": "",
       "description": "Star litu54 / DevOps-Interview-Guide DevOps Interview Guide"
+    },
+    {
+      "repo": "LadybirdBrowser/ladybird",
+      "url": "https://github.com/LadybirdBrowser/ladybird",
+      "stars_today": 48,
+      "total_stars": 65008,
+      "language": "C++",
+      "description": "Star LadybirdBrowser / ladybird Truly independent web browser"
     }
   ]
 }
