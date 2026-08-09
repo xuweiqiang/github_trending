@@ -1,38 +1,38 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-08-09T17:59:50.667169+08:00",
+  "generated_at": "2026-08-09T18:56:19.390613+08:00",
   "count": 12,
   "items": [
     {
       "repo": "PrimeIntellect-ai/prime-agent",
       "url": "https://github.com/PrimeIntellect-ai/prime-agent",
       "stars_today": 2483,
-      "total_stars": 9710,
+      "total_stars": 9787,
       "language": "TypeScript",
       "description": "Star PrimeIntellect-ai / prime-agent A self-improving RLM agent for coding workflows and long-running autonomous tasks."
-    },
-    {
-      "repo": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "stars_today": 1359,
-      "total_stars": 210484,
-      "language": "Shell",
-      "description": "Sponsor Star mattpocock / skills Skills for Real Engineers. Straight from my .agents directory."
     },
     {
       "repo": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "stars_today": 779,
-      "total_stars": 84806,
+      "total_stars": 84838,
       "language": "JavaScript",
       "description": "Star addyosmani / agent-skills Production-grade engineering skills for AI coding agents."
+    },
+    {
+      "repo": "pranshuparmar/witr",
+      "url": "https://github.com/pranshuparmar/witr",
+      "stars_today": 556,
+      "total_stars": 20194,
+      "language": "Go",
+      "description": "Sponsor Star pranshuparmar / witr Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI."
     },
     {
       "repo": "google/skills",
       "url": "https://github.com/google/skills",
       "stars_today": 481,
-      "total_stars": 16937,
+      "total_stars": 16957,
       "language": "Python",
       "description": "Star google / skills Agent Skills for Google products and technologies"
     },
@@ -40,65 +40,65 @@
       "repo": "goauthentik/authentik",
       "url": "https://github.com/goauthentik/authentik",
       "stars_today": 467,
-      "total_stars": 24091,
+      "total_stars": 24104,
       "language": "Python",
       "description": "Sponsor Star goauthentik / authentik The authentication glue you need."
     },
     {
-      "repo": "denoland/celld",
-      "url": "https://github.com/denoland/celld",
-      "stars_today": 432,
-      "total_stars": 2746,
-      "language": "Rust",
-      "description": "Star denoland / celld self-hosted, distributed Durable Objects"
+      "repo": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "stars_today": 446,
+      "total_stars": 140001,
+      "language": "Shell",
+      "description": "Sponsor Star msitarzewski / agency-agents A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables."
     },
     {
-      "repo": "TauricResearch/TradingAgents",
-      "url": "https://github.com/TauricResearch/TradingAgents",
-      "stars_today": 153,
-      "total_stars": 96749,
+      "repo": "Comfy-Org/ComfyUI",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "stars_today": 333,
+      "total_stars": 125063,
       "language": "Python",
-      "description": "Star TauricResearch / TradingAgents TradingAgents: Multi-Agents LLM Financial Trading Framework"
+      "description": "Star Comfy-Org / ComfyUI The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface."
     },
     {
-      "repo": "TapXWorld/ChinaTextbook",
-      "url": "https://github.com/TapXWorld/ChinaTextbook",
-      "stars_today": 118,
-      "total_stars": 78111,
-      "language": "Roff",
-      "description": "Star TapXWorld / ChinaTextbook 所有小初高、大学PDF教材。"
+      "repo": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "stars_today": 287,
+      "total_stars": 60869,
+      "language": "Python",
+      "description": "Star ZhuLinsen / daily_stock_analysis LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs."
     },
     {
-      "repo": "bannedbook/fanqiang",
-      "url": "https://github.com/bannedbook/fanqiang",
-      "stars_today": 101,
-      "total_stars": 50109,
-      "language": "Kotlin",
-      "description": "Star bannedbook / fanqiang 翻墙-科学上网"
+      "repo": "pingdotgg/t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "stars_today": 182,
+      "total_stars": 17468,
+      "language": "TypeScript",
+      "description": ""
     },
     {
-      "repo": "google/guava",
-      "url": "https://github.com/google/guava",
-      "stars_today": 93,
-      "total_stars": 51884,
-      "language": "Java",
-      "description": "Star google / guava Google core libraries for Java"
+      "repo": "vitali87/code-graph-rag",
+      "url": "https://github.com/vitali87/code-graph-rag",
+      "stars_today": 59,
+      "total_stars": 2635,
+      "language": "Python",
+      "description": "Sponsor Star vitali87 / code-graph-rag The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs"
     },
     {
-      "repo": "litu54/DevOps-Interview-Guide",
-      "url": "https://github.com/litu54/DevOps-Interview-Guide",
-      "stars_today": 68,
-      "total_stars": 781,
-      "language": "",
-      "description": "Star litu54 / DevOps-Interview-Guide DevOps Interview Guide"
+      "repo": "google-deepmind/weathernext",
+      "url": "https://github.com/google-deepmind/weathernext",
+      "stars_today": 55,
+      "total_stars": 6906,
+      "language": "Python",
+      "description": ""
     },
     {
-      "repo": "LadybirdBrowser/ladybird",
-      "url": "https://github.com/LadybirdBrowser/ladybird",
-      "stars_today": 48,
-      "total_stars": 65086,
-      "language": "C++",
-      "description": "Star LadybirdBrowser / ladybird Truly independent web browser"
+      "repo": "harveyai/harvey-labs",
+      "url": "https://github.com/harveyai/harvey-labs",
+      "stars_today": 47,
+      "total_stars": 674,
+      "language": "Python",
+      "description": "Star harveyai / harvey-labs A benchmark built to evaluate and improve agent capabilities for supporting legal work."
     }
   ]
 }
