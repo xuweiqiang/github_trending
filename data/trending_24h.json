@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-08-09T12:40:32.932472+08:00",
+  "generated_at": "2026-08-09T14:02:53.762272+08:00",
   "count": 12,
   "items": [
     {
       "repo": "PrimeIntellect-ai/prime-agent",
       "url": "https://github.com/PrimeIntellect-ai/prime-agent",
       "stars_today": 2483,
-      "total_stars": 9231,
+      "total_stars": 9330,
       "language": "TypeScript",
       "description": "Star PrimeIntellect-ai / prime-agent A self-improving RLM agent for coding workflows and long-running autonomous tasks."
     },
@@ -16,7 +16,7 @@
       "repo": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "stars_today": 1359,
-      "total_stars": 210210,
+      "total_stars": 210267,
       "language": "Shell",
       "description": "Sponsor Star mattpocock / skills Skills for Real Engineers. Straight from my .agents directory."
     },
@@ -24,7 +24,7 @@
       "repo": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "stars_today": 779,
-      "total_stars": 84668,
+      "total_stars": 84694,
       "language": "JavaScript",
       "description": "Star addyosmani / agent-skills Production-grade engineering skills for AI coding agents."
     },
@@ -32,7 +32,7 @@
       "repo": "google/skills",
       "url": "https://github.com/google/skills",
       "stars_today": 481,
-      "total_stars": 16822,
+      "total_stars": 16853,
       "language": "Python",
       "description": "Star google / skills Agent Skills for Google products and technologies"
     },
@@ -40,7 +40,7 @@
       "repo": "goauthentik/authentik",
       "url": "https://github.com/goauthentik/authentik",
       "stars_today": 467,
-      "total_stars": 24014,
+      "total_stars": 24027,
       "language": "Python",
       "description": "Sponsor Star goauthentik / authentik The authentication glue you need."
     },
@@ -48,7 +48,7 @@
       "repo": "denoland/celld",
       "url": "https://github.com/denoland/celld",
       "stars_today": 432,
-      "total_stars": 2639,
+      "total_stars": 2669,
       "language": "Rust",
       "description": "Star denoland / celld self-hosted, distributed Durable Objects"
     },
@@ -56,7 +56,7 @@
       "repo": "TauricResearch/TradingAgents",
       "url": "https://github.com/TauricResearch/TradingAgents",
       "stars_today": 153,
-      "total_stars": 96588,
+      "total_stars": 96614,
       "language": "Python",
       "description": "Star TauricResearch / TradingAgents TradingAgents: Multi-Agents LLM Financial Trading Framework"
     },
@@ -64,7 +64,7 @@
       "repo": "TapXWorld/ChinaTextbook",
       "url": "https://github.com/TapXWorld/ChinaTextbook",
       "stars_today": 118,
-      "total_stars": 78012,
+      "total_stars": 78039,
       "language": "Roff",
       "description": "Star TapXWorld / ChinaTextbook 所有小初高、大学PDF教材。"
     },
@@ -72,7 +72,7 @@
       "repo": "bannedbook/fanqiang",
       "url": "https://github.com/bannedbook/fanqiang",
       "stars_today": 101,
-      "total_stars": 49982,
+      "total_stars": 50014,
       "language": "Kotlin",
       "description": "Star bannedbook / fanqiang 翻墙-科学上网"
     },
@@ -80,7 +80,7 @@
       "repo": "google/guava",
       "url": "https://github.com/google/guava",
       "stars_today": 93,
-      "total_stars": 51867,
+      "total_stars": 51871,
       "language": "Java",
       "description": "Star google / guava Google core libraries for Java"
     },
@@ -88,7 +88,7 @@
       "repo": "litu54/DevOps-Interview-Guide",
       "url": "https://github.com/litu54/DevOps-Interview-Guide",
       "stars_today": 68,
-      "total_stars": 736,
+      "total_stars": 745,
       "language": "",
       "description": "Star litu54 / DevOps-Interview-Guide DevOps Interview Guide"
     },
@@ -96,7 +96,7 @@
       "repo": "LadybirdBrowser/ladybird",
       "url": "https://github.com/LadybirdBrowser/ladybird",
       "stars_today": 48,
-      "total_stars": 65036,
+      "total_stars": 65049,
       "language": "C++",
       "description": "Star LadybirdBrowser / ladybird Truly independent web browser"
     }
