@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-08-11T05:05:26.306115+08:00",
+  "generated_at": "2026-08-11T06:01:24.641782+08:00",
   "count": 16,
   "items": [
     {
       "repo": "PrimeIntellect-ai/prime-agent",
       "url": "https://github.com/PrimeIntellect-ai/prime-agent",
       "stars_today": 2655,
-      "total_stars": 12915,
+      "total_stars": 12954,
       "language": "TypeScript",
       "description": "Star PrimeIntellect-ai / prime-agent A self-improving RLM agent for coding workflows and long-running autonomous tasks."
     },
@@ -16,7 +16,7 @@
       "repo": "msitarzewski/agency-agents",
       "url": "https://github.com/msitarzewski/agency-agents",
       "stars_today": 1352,
-      "total_stars": 141726,
+      "total_stars": 141746,
       "language": "Shell",
       "description": "Sponsor Star msitarzewski / agency-agents A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables."
     },
@@ -24,7 +24,7 @@
       "repo": "semantica-agi/semantica",
       "url": "https://github.com/semantica-agi/semantica",
       "stars_today": 967,
-      "total_stars": 3993,
+      "total_stars": 4021,
       "language": "Python",
       "description": "Sponsor Star semantica-agi / semantica Graph-Native Infrastructure for Context and Accountable AI Systems"
     },
@@ -32,7 +32,7 @@
       "repo": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
       "stars_today": 921,
-      "total_stars": 126234,
+      "total_stars": 126254,
       "language": "Python",
       "description": "Star Comfy-Org / ComfyUI The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface."
     },
@@ -40,7 +40,7 @@
       "repo": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "stars_today": 815,
-      "total_stars": 164969,
+      "total_stars": 164995,
       "language": "TypeScript",
       "description": "Star firecrawl / firecrawl The context API to search, scrape, and interact with the web at scale. 🔥"
     },
@@ -48,7 +48,7 @@
       "repo": "vitali87/code-graph-rag",
       "url": "https://github.com/vitali87/code-graph-rag",
       "stars_today": 682,
-      "total_stars": 3475,
+      "total_stars": 3488,
       "language": "Python",
       "description": "Sponsor Star vitali87 / code-graph-rag The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs"
     },
@@ -56,7 +56,7 @@
       "repo": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "stars_today": 659,
-      "total_stars": 85691,
+      "total_stars": 85703,
       "language": "JavaScript",
       "description": "Star addyosmani / agent-skills Production-grade engineering skills for AI coding agents."
     },
@@ -64,7 +64,7 @@
       "repo": "pingdotgg/t3code",
       "url": "https://github.com/pingdotgg/t3code",
       "stars_today": 388,
-      "total_stars": 17984,
+      "total_stars": 17998,
       "language": "TypeScript",
       "description": ""
     },
@@ -72,7 +72,7 @@
       "repo": "danielmiessler/LifeOS",
       "url": "https://github.com/danielmiessler/LifeOS",
       "stars_today": 357,
-      "total_stars": 17842,
+      "total_stars": 17856,
       "language": "TypeScript",
       "description": "Sponsor Star danielmiessler / LifeOS ⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work."
     },
@@ -80,7 +80,7 @@
       "repo": "google-deepmind/weathernext",
       "url": "https://github.com/google-deepmind/weathernext",
       "stars_today": 327,
-      "total_stars": 7319,
+      "total_stars": 7322,
       "language": "Python",
       "description": ""
     },
@@ -88,7 +88,7 @@
       "repo": "TauricResearch/TradingAgents",
       "url": "https://github.com/TauricResearch/TradingAgents",
       "stars_today": 234,
-      "total_stars": 97155,
+      "total_stars": 97172,
       "language": "Python",
       "description": "Star TauricResearch / TradingAgents TradingAgents: Multi-Agents LLM Financial Trading Framework"
     },
@@ -96,7 +96,7 @@
       "repo": "NanmiCoder/MediaCrawler",
       "url": "https://github.com/NanmiCoder/MediaCrawler",
       "stars_today": 215,
-      "total_stars": 60951,
+      "total_stars": 60961,
       "language": "Python",
       "description": "Sponsor Star NanmiCoder / MediaCrawler 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫"
     },
@@ -104,7 +104,7 @@
       "repo": "ruvnet/RuView",
       "url": "https://github.com/ruvnet/RuView",
       "stars_today": 186,
-      "total_stars": 89314,
+      "total_stars": 89331,
       "language": "Rust",
       "description": "Star ruvnet / RuView π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video."
     },
@@ -112,7 +112,7 @@
       "repo": "paperclipai/paperclip",
       "url": "https://github.com/paperclipai/paperclip",
       "stars_today": 167,
-      "total_stars": 76400,
+      "total_stars": 76416,
       "language": "TypeScript",
       "description": "Star paperclipai / paperclip The open-source app everyone uses to manage agents at work"
     },
@@ -120,7 +120,7 @@
       "repo": "LadybirdBrowser/ladybird",
       "url": "https://github.com/LadybirdBrowser/ladybird",
       "stars_today": 106,
-      "total_stars": 65226,
+      "total_stars": 65236,
       "language": "C++",
       "description": "Star LadybirdBrowser / ladybird Truly independent web browser"
     },
@@ -128,7 +128,7 @@
       "repo": "opa334/Dopamine",
       "url": "https://github.com/opa334/Dopamine",
       "stars_today": 95,
-      "total_stars": 5999,
+      "total_stars": 6004,
       "language": "C",
       "description": "Star opa334 / Dopamine Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)"
     }
