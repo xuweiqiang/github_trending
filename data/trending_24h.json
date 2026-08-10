@@ -1,104 +1,104 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-08-10T07:51:37.383826+08:00",
+  "generated_at": "2026-08-10T10:37:57.195129+08:00",
   "count": 12,
   "items": [
     {
       "repo": "PrimeIntellect-ai/prime-agent",
       "url": "https://github.com/PrimeIntellect-ai/prime-agent",
-      "stars_today": 2319,
-      "total_stars": 10981,
+      "stars_today": 2356,
+      "total_stars": 11356,
       "language": "TypeScript",
       "description": "Star PrimeIntellect-ai / prime-agent A self-improving RLM agent for coding workflows and long-running autonomous tasks."
     },
     {
       "repo": "msitarzewski/agency-agents",
       "url": "https://github.com/msitarzewski/agency-agents",
-      "stars_today": 932,
-      "total_stars": 140632,
+      "stars_today": 858,
+      "total_stars": 140845,
       "language": "Shell",
       "description": "Sponsor Star msitarzewski / agency-agents A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables."
     },
     {
       "repo": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
-      "stars_today": 670,
-      "total_stars": 85109,
+      "stars_today": 680,
+      "total_stars": 85202,
       "language": "JavaScript",
       "description": "Star addyosmani / agent-skills Production-grade engineering skills for AI coding agents."
     },
     {
       "repo": "google/skills",
       "url": "https://github.com/google/skills",
-      "stars_today": 532,
-      "total_stars": 17204,
+      "stars_today": 528,
+      "total_stars": 17279,
       "language": "Python",
       "description": "Star google / skills Agent Skills for Google products and technologies"
     },
     {
-      "repo": "pranshuparmar/witr",
-      "url": "https://github.com/pranshuparmar/witr",
-      "stars_today": 342,
-      "total_stars": 20619,
-      "language": "Go",
-      "description": "Sponsor Star pranshuparmar / witr Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI."
-    },
-    {
       "repo": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
-      "stars_today": 333,
-      "total_stars": 125477,
+      "stars_today": 365,
+      "total_stars": 125610,
       "language": "Python",
       "description": "Star Comfy-Org / ComfyUI The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface."
     },
     {
       "repo": "goauthentik/authentik",
       "url": "https://github.com/goauthentik/authentik",
-      "stars_today": 312,
-      "total_stars": 24258,
+      "stars_today": 310,
+      "total_stars": 24313,
       "language": "Python",
       "description": "Sponsor Star goauthentik / authentik The authentication glue you need."
     },
     {
       "repo": "ZhuLinsen/daily_stock_analysis",
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "stars_today": 287,
-      "total_stars": 61167,
+      "stars_today": 306,
+      "total_stars": 61285,
       "language": "Python",
       "description": "Star ZhuLinsen / daily_stock_analysis LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs."
     },
     {
+      "repo": "pranshuparmar/witr",
+      "url": "https://github.com/pranshuparmar/witr",
+      "stars_today": 210,
+      "total_stars": 20748,
+      "language": "Go",
+      "description": "Sponsor Star pranshuparmar / witr Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI."
+    },
+    {
       "repo": "pingdotgg/t3code",
       "url": "https://github.com/pingdotgg/t3code",
-      "stars_today": 208,
-      "total_stars": 17641,
+      "stars_today": 163,
+      "total_stars": 17690,
       "language": "TypeScript",
       "description": ""
     },
     {
+      "repo": "vitali87/code-graph-rag",
+      "url": "https://github.com/vitali87/code-graph-rag",
+      "stars_today": 96,
+      "total_stars": 3070,
+      "language": "Python",
+      "description": "Sponsor Star vitali87 / code-graph-rag The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs"
+    },
+    {
       "repo": "google-deepmind/weathernext",
       "url": "https://github.com/google-deepmind/weathernext",
-      "stars_today": 105,
-      "total_stars": 7069,
+      "stars_today": 86,
+      "total_stars": 7111,
       "language": "Python",
       "description": ""
     },
     {
       "repo": "harveyai/harvey-labs",
       "url": "https://github.com/harveyai/harvey-labs",
-      "stars_today": 87,
-      "total_stars": 815,
+      "stars_today": 47,
+      "total_stars": 850,
       "language": "Python",
       "description": "Star harveyai / harvey-labs A benchmark built to evaluate and improve agent capabilities for supporting legal work."
-    },
-    {
-      "repo": "vitali87/code-graph-rag",
-      "url": "https://github.com/vitali87/code-graph-rag",
-      "stars_today": 59,
-      "total_stars": 2969,
-      "language": "Python",
-      "description": "Sponsor Star vitali87 / code-graph-rag The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs"
     }
   ]
 }
