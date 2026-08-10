@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-08-10T12:58:13.644372+08:00",
+  "generated_at": "2026-08-10T14:45:38.750540+08:00",
   "count": 12,
   "items": [
     {
       "repo": "PrimeIntellect-ai/prime-agent",
       "url": "https://github.com/PrimeIntellect-ai/prime-agent",
       "stars_today": 2356,
-      "total_stars": 11664,
+      "total_stars": 11884,
       "language": "TypeScript",
       "description": "Star PrimeIntellect-ai / prime-agent A self-improving RLM agent for coding workflows and long-running autonomous tasks."
     },
@@ -16,7 +16,7 @@
       "repo": "msitarzewski/agency-agents",
       "url": "https://github.com/msitarzewski/agency-agents",
       "stars_today": 858,
-      "total_stars": 141031,
+      "total_stars": 141113,
       "language": "Shell",
       "description": "Sponsor Star msitarzewski / agency-agents A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables."
     },
@@ -24,7 +24,7 @@
       "repo": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "stars_today": 680,
-      "total_stars": 85283,
+      "total_stars": 85327,
       "language": "JavaScript",
       "description": "Star addyosmani / agent-skills Production-grade engineering skills for AI coding agents."
     },
@@ -32,7 +32,7 @@
       "repo": "google/skills",
       "url": "https://github.com/google/skills",
       "stars_today": 528,
-      "total_stars": 17337,
+      "total_stars": 17383,
       "language": "Python",
       "description": "Star google / skills Agent Skills for Google products and technologies"
     },
@@ -40,7 +40,7 @@
       "repo": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
       "stars_today": 365,
-      "total_stars": 125705,
+      "total_stars": 125791,
       "language": "Python",
       "description": "Star Comfy-Org / ComfyUI The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface."
     },
@@ -48,7 +48,7 @@
       "repo": "goauthentik/authentik",
       "url": "https://github.com/goauthentik/authentik",
       "stars_today": 310,
-      "total_stars": 24349,
+      "total_stars": 24380,
       "language": "Python",
       "description": "Sponsor Star goauthentik / authentik The authentication glue you need."
     },
@@ -56,7 +56,7 @@
       "repo": "ZhuLinsen/daily_stock_analysis",
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "stars_today": 306,
-      "total_stars": 61375,
+      "total_stars": 61451,
       "language": "Python",
       "description": "Star ZhuLinsen / daily_stock_analysis LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs."
     },
@@ -64,7 +64,7 @@
       "repo": "pranshuparmar/witr",
       "url": "https://github.com/pranshuparmar/witr",
       "stars_today": 210,
-      "total_stars": 20854,
+      "total_stars": 20931,
       "language": "Go",
       "description": "Sponsor Star pranshuparmar / witr Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI."
     },
@@ -72,7 +72,7 @@
       "repo": "pingdotgg/t3code",
       "url": "https://github.com/pingdotgg/t3code",
       "stars_today": 163,
-      "total_stars": 17740,
+      "total_stars": 17764,
       "language": "TypeScript",
       "description": ""
     },
@@ -80,7 +80,7 @@
       "repo": "vitali87/code-graph-rag",
       "url": "https://github.com/vitali87/code-graph-rag",
       "stars_today": 96,
-      "total_stars": 3148,
+      "total_stars": 3199,
       "language": "Python",
       "description": "Sponsor Star vitali87 / code-graph-rag The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs"
     },
@@ -88,7 +88,7 @@
       "repo": "google-deepmind/weathernext",
       "url": "https://github.com/google-deepmind/weathernext",
       "stars_today": 86,
-      "total_stars": 7148,
+      "total_stars": 7168,
       "language": "Python",
       "description": ""
     },
@@ -96,7 +96,7 @@
       "repo": "harveyai/harvey-labs",
       "url": "https://github.com/harveyai/harvey-labs",
       "stars_today": 47,
-      "total_stars": 880,
+      "total_stars": 900,
       "language": "Python",
       "description": "Star harveyai / harvey-labs A benchmark built to evaluate and improve agent capabilities for supporting legal work."
     }
