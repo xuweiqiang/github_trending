@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-08-11T18:14:20.180028+08:00",
-  "count": 16,
+  "generated_at": "2026-08-11T19:08:46.906714+08:00",
+  "count": 17,
   "items": [
     {
       "repo": "PrimeIntellect-ai/prime-agent",
       "url": "https://github.com/PrimeIntellect-ai/prime-agent",
       "stars_today": 2642,
-      "total_stars": 13548,
+      "total_stars": 13586,
       "language": "TypeScript",
       "description": "Star PrimeIntellect-ai / prime-agent A self-improving RLM agent for coding workflows and long-running autonomous tasks."
     },
@@ -16,7 +16,7 @@
       "repo": "msitarzewski/agency-agents",
       "url": "https://github.com/msitarzewski/agency-agents",
       "stars_today": 1349,
-      "total_stars": 142198,
+      "total_stars": 142228,
       "language": "Shell",
       "description": "Sponsor Star msitarzewski / agency-agents A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables."
     },
@@ -24,31 +24,39 @@
       "repo": "semantica-agi/semantica",
       "url": "https://github.com/semantica-agi/semantica",
       "stars_today": 970,
-      "total_stars": 4513,
+      "total_stars": 4543,
       "language": "Python",
       "description": "Sponsor Star semantica-agi / semantica Graph-Native Infrastructure for Context and Accountable AI Systems"
     },
     {
-      "repo": "Comfy-Org/ComfyUI",
-      "url": "https://github.com/Comfy-Org/ComfyUI",
-      "stars_today": 922,
-      "total_stars": 126650,
-      "language": "Python",
-      "description": "Star Comfy-Org / ComfyUI The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface."
+      "repo": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "stars_today": 881,
+      "total_stars": 42129,
+      "language": "TypeScript",
+      "description": "Star stablyai / orca Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS."
     },
     {
-      "repo": "firecrawl/firecrawl",
-      "url": "https://github.com/firecrawl/firecrawl",
-      "stars_today": 835,
-      "total_stars": 165510,
-      "language": "TypeScript",
-      "description": "Star firecrawl / firecrawl The context API to search, scrape, and interact with the web at scale. 🔥"
+      "repo": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "stars_today": 829,
+      "total_stars": 34315,
+      "language": "Python",
+      "description": "Star HKUDS / DeepTutor DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ ."
+    },
+    {
+      "repo": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "stars_today": 731,
+      "total_stars": 61880,
+      "language": "Python",
+      "description": "Star ZhuLinsen / daily_stock_analysis LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs."
     },
     {
       "repo": "vitali87/code-graph-rag",
       "url": "https://github.com/vitali87/code-graph-rag",
       "stars_today": 682,
-      "total_stars": 3668,
+      "total_stars": 3678,
       "language": "Python",
       "description": "Sponsor Star vitali87 / code-graph-rag The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs"
     },
@@ -56,81 +64,81 @@
       "repo": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "stars_today": 659,
-      "total_stars": 85999,
+      "total_stars": 86017,
       "language": "JavaScript",
       "description": "Star addyosmani / agent-skills Production-grade engineering skills for AI coding agents."
     },
     {
-      "repo": "pingdotgg/t3code",
-      "url": "https://github.com/pingdotgg/t3code",
-      "stars_today": 389,
-      "total_stars": 18148,
-      "language": "TypeScript",
-      "description": ""
-    },
-    {
-      "repo": "google-deepmind/weathernext",
-      "url": "https://github.com/google-deepmind/weathernext",
-      "stars_today": 325,
-      "total_stars": 7440,
+      "repo": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "stars_today": 468,
+      "total_stars": 167780,
       "language": "Python",
-      "description": ""
+      "description": "Star anthropics / skills Public repository for Agent Skills"
     },
     {
-      "repo": "danielmiessler/LifeOS",
-      "url": "https://github.com/danielmiessler/LifeOS",
-      "stars_today": 315,
-      "total_stars": 18188,
-      "language": "TypeScript",
-      "description": "Sponsor Star danielmiessler / LifeOS ⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work."
-    },
-    {
-      "repo": "NanmiCoder/MediaCrawler",
-      "url": "https://github.com/NanmiCoder/MediaCrawler",
-      "stars_today": 259,
-      "total_stars": 61608,
+      "repo": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "stars_today": 436,
+      "total_stars": 46946,
       "language": "Python",
-      "description": "Sponsor Star NanmiCoder / MediaCrawler 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫"
+      "description": "Sponsor Star calesthio / OpenMontage World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio."
+    },
+    {
+      "repo": "jaywcjlove/awesome-mac",
+      "url": "https://github.com/jaywcjlove/awesome-mac",
+      "stars_today": 414,
+      "total_stars": 110151,
+      "language": "Swift",
+      "description": "Sponsor Star jaywcjlove / awesome-mac  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use."
+    },
+    {
+      "repo": "practical-tutorials/project-based-learning",
+      "url": "https://github.com/practical-tutorials/project-based-learning",
+      "stars_today": 394,
+      "total_stars": 278133,
+      "language": "Python",
+      "description": "Star practical-tutorials / project-based-learning Curated list of project-based tutorials"
+    },
+    {
+      "repo": "3b1b/manim",
+      "url": "https://github.com/3b1b/manim",
+      "stars_today": 381,
+      "total_stars": 89929,
+      "language": "Python",
+      "description": "Star 3b1b / manim Animation engine for explanatory math videos"
     },
     {
       "repo": "paperclipai/paperclip",
       "url": "https://github.com/paperclipai/paperclip",
       "stars_today": 198,
-      "total_stars": 76854,
+      "total_stars": 76886,
       "language": "TypeScript",
       "description": "Star paperclipai / paperclip The open-source app everyone uses to manage agents at work"
     },
     {
-      "repo": "TauricResearch/TradingAgents",
-      "url": "https://github.com/TauricResearch/TradingAgents",
-      "stars_today": 177,
-      "total_stars": 97479,
+      "repo": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "stars_today": 69,
+      "total_stars": 163587,
       "language": "Python",
-      "description": "Star TauricResearch / TradingAgents TradingAgents: Multi-Agents LLM Financial Trading Framework"
+      "description": "Star huggingface / transformers 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training."
     },
     {
-      "repo": "ruvnet/RuView",
-      "url": "https://github.com/ruvnet/RuView",
-      "stars_today": 154,
-      "total_stars": 89544,
-      "language": "Rust",
-      "description": "Star ruvnet / RuView π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video."
+      "repo": "harveyai/harvey-labs",
+      "url": "https://github.com/harveyai/harvey-labs",
+      "stars_today": 24,
+      "total_stars": 975,
+      "language": "Python",
+      "description": "Star harveyai / harvey-labs A benchmark built to evaluate and improve agent capabilities for supporting legal work."
     },
     {
-      "repo": "opa334/Dopamine",
-      "url": "https://github.com/opa334/Dopamine",
-      "stars_today": 111,
-      "total_stars": 6147,
-      "language": "C",
-      "description": "Star opa334 / Dopamine Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)"
-    },
-    {
-      "repo": "LadybirdBrowser/ladybird",
-      "url": "https://github.com/LadybirdBrowser/ladybird",
-      "stars_today": 56,
-      "total_stars": 65351,
-      "language": "C++",
-      "description": "Star LadybirdBrowser / ladybird Truly independent web browser"
+      "repo": "nvm-sh/nvm",
+      "url": "https://github.com/nvm-sh/nvm",
+      "stars_today": 18,
+      "total_stars": 94410,
+      "language": "Shell",
+      "description": "Star nvm-sh / nvm Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions"
     }
   ]
 }
