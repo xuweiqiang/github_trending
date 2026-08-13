@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-08-13T18:31:25.639802+08:00",
+  "generated_at": "2026-08-13T20:03:13.689223+08:00",
   "count": 17,
   "items": [
     {
       "repo": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "stars_today": 2855,
-      "total_stars": 12470,
+      "total_stars": 12703,
       "language": "HTML",
       "description": "Star cathrynlavery / diagram-design 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop."
     },
@@ -16,47 +16,47 @@
       "repo": "msitarzewski/agency-agents",
       "url": "https://github.com/msitarzewski/agency-agents",
       "stars_today": 1873,
-      "total_stars": 144939,
+      "total_stars": 144972,
       "language": "Shell",
       "description": "Sponsor Star msitarzewski / agency-agents A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables."
-    },
-    {
-      "repo": "stablyai/orca",
-      "url": "https://github.com/stablyai/orca",
-      "stars_today": 1235,
-      "total_stars": 44484,
-      "language": "TypeScript",
-      "description": "Star stablyai / orca Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS."
     },
     {
       "repo": "semantica-agi/semantica",
       "url": "https://github.com/semantica-agi/semantica",
       "stars_today": 845,
-      "total_stars": 6034,
+      "total_stars": 6083,
       "language": "Python",
       "description": "Sponsor Star semantica-agi / semantica Graph-Native Infrastructure for Context and Accountable AI Systems"
     },
     {
-      "repo": "paperclipai/paperclip",
-      "url": "https://github.com/paperclipai/paperclip",
-      "stars_today": 571,
-      "total_stars": 77969,
-      "language": "TypeScript",
-      "description": "Star paperclipai / paperclip The open-source app everyone uses to manage agents at work"
+      "repo": "unslothai/unsloth",
+      "url": "https://github.com/unslothai/unsloth",
+      "stars_today": 592,
+      "total_stars": 70783,
+      "language": "Python",
+      "description": "Sponsor Star unslothai / unsloth Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more."
     },
     {
-      "repo": "hugohe3/ppt-master",
-      "url": "https://github.com/hugohe3/ppt-master",
-      "stars_today": 476,
-      "total_stars": 46283,
+      "repo": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "stars_today": 569,
+      "total_stars": 168720,
       "language": "Python",
-      "description": "Star hugohe3 / ppt-master AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He"
+      "description": "Star anthropics / skills Public repository for Agent Skills"
+    },
+    {
+      "repo": "3b1b/manim",
+      "url": "https://github.com/3b1b/manim",
+      "stars_today": 506,
+      "total_stars": 90658,
+      "language": "Python",
+      "description": "Star 3b1b / manim Animation engine for explanatory math videos"
     },
     {
       "repo": "NVIDIA-NeMo/Switchyard",
       "url": "https://github.com/NVIDIA-NeMo/Switchyard",
       "stars_today": 421,
-      "total_stars": 993,
+      "total_stars": 1010,
       "language": "Rust",
       "description": ""
     },
@@ -64,81 +64,81 @@
       "repo": "cactus-compute/needle",
       "url": "https://github.com/cactus-compute/needle",
       "stars_today": 315,
-      "total_stars": 4574,
+      "total_stars": 4620,
       "language": "Python",
       "description": "Star cactus-compute / needle 14MB foundation model for tiny devices; phones, wearables, smart home, and robots."
     },
     {
-      "repo": "shiyu-coder/Kronos",
-      "url": "https://github.com/shiyu-coder/Kronos",
-      "stars_today": 266,
-      "total_stars": 37053,
-      "language": "Python",
-      "description": "Star shiyu-coder / Kronos Kronos: A Foundation Model for the Language of Financial Markets"
+      "repo": "holaboss-ai/holaOS",
+      "url": "https://github.com/holaboss-ai/holaOS",
+      "stars_today": 258,
+      "total_stars": 6158,
+      "language": "TypeScript",
+      "description": "Star holaboss-ai / holaOS Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK."
+    },
+    {
+      "repo": "kepano/obsidian-skills",
+      "url": "https://github.com/kepano/obsidian-skills",
+      "stars_today": 252,
+      "total_stars": 45306,
+      "language": "",
+      "description": "Sponsor Star kepano / obsidian-skills Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas."
     },
     {
       "repo": "macro-inc/macro",
       "url": "https://github.com/macro-inc/macro",
       "stars_today": 227,
-      "total_stars": 2335,
+      "total_stars": 2389,
       "language": "Rust",
       "description": "Star macro-inc / macro Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory."
     },
     {
-      "repo": "NanmiCoder/MediaCrawler",
-      "url": "https://github.com/NanmiCoder/MediaCrawler",
-      "stars_today": 215,
-      "total_stars": 62278,
+      "repo": "megadose/holehe",
+      "url": "https://github.com/megadose/holehe",
+      "stars_today": 166,
+      "total_stars": 12176,
       "language": "Python",
-      "description": "Sponsor Star NanmiCoder / MediaCrawler 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫"
-    },
-    {
-      "repo": "localsend/localsend",
-      "url": "https://github.com/localsend/localsend",
-      "stars_today": 213,
-      "total_stars": 88136,
-      "language": "Dart",
-      "description": "Star localsend / localsend An open-source cross-platform alternative to AirDrop"
+      "description": "Star megadose / holehe holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function."
     },
     {
       "repo": "infiniflow/ragflow",
       "url": "https://github.com/infiniflow/ragflow",
       "stars_today": 139,
-      "total_stars": 87794,
+      "total_stars": 87821,
       "language": "Go",
       "description": "Star infiniflow / ragflow RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs"
     },
     {
-      "repo": "ZuodaoTech/everyone-can-use-english",
-      "url": "https://github.com/ZuodaoTech/everyone-can-use-english",
-      "stars_today": 86,
-      "total_stars": 36375,
-      "language": "TypeScript",
-      "description": "Star ZuodaoTech / everyone-can-use-english 人人都能用英语"
+      "repo": "altic-dev/FluidVoice",
+      "url": "https://github.com/altic-dev/FluidVoice",
+      "stars_today": 83,
+      "total_stars": 9662,
+      "language": "Swift",
+      "description": "Sponsor Star altic-dev / FluidVoice Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon."
     },
     {
       "repo": "smicallef/spiderfoot",
       "url": "https://github.com/smicallef/spiderfoot",
       "stars_today": 74,
-      "total_stars": 20478,
+      "total_stars": 20493,
       "language": "Python",
       "description": "Star smicallef / spiderfoot SpiderFoot automates OSINT for threat intelligence and mapping your attack surface."
+    },
+    {
+      "repo": "lightningpixel/modly",
+      "url": "https://github.com/lightningpixel/modly",
+      "stars_today": 70,
+      "total_stars": 5133,
+      "language": "TypeScript",
+      "description": "Sponsor Star lightningpixel / modly Desktop app to generate 3D models from images using local AI — runs entirely on your GPU"
     },
     {
       "repo": "Lightricks/LTX-2",
       "url": "https://github.com/Lightricks/LTX-2",
       "stars_today": 65,
-      "total_stars": 8798,
+      "total_stars": 8807,
       "language": "Python",
       "description": "Star Lightricks / LTX-2 Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model."
-    },
-    {
-      "repo": "embabel/embabel-agent",
-      "url": "https://github.com/embabel/embabel-agent",
-      "stars_today": 40,
-      "total_stars": 4275,
-      "language": "Kotlin",
-      "description": "Star embabel / embabel-agent Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/"
     }
   ]
 }
