@@ -1,23 +1,23 @@
 # GitHub 24h Star 增长榜
 
-- 生成时间: 2026-08-15 06:43:48 +0800
+- 生成时间: 2026-08-15 07:41:53 +0800
 
 | 排名 | 项目 | 24h 增长 | 总 Stars | 链接 |
 |---:|---|---:|---:|---|
-| 1 | `cathrynlavery/diagram-design` | 3651 | 17140 | [跳转](https://github.com/cathrynlavery/diagram-design) |
-| 2 | `semantica-agi/semantica` | 1183 | 7492 | [跳转](https://github.com/semantica-agi/semantica) |
-| 3 | `github/spec-kit` | 1147 | 128472 | [跳转](https://github.com/github/spec-kit) |
-| 4 | `holaboss-ai/holaOS` | 769 | 7251 | [跳转](https://github.com/holaboss-ai/holaOS) |
-| 5 | `cactus-compute/needle` | 661 | 5571 | [跳转](https://github.com/cactus-compute/needle) |
-| 6 | `lightningpixel/modly` | 580 | 5901 | [跳转](https://github.com/lightningpixel/modly) |
-| 7 | `unslothai/unsloth` | 502 | 71473 | [跳转](https://github.com/unslothai/unsloth) |
-| 8 | `infiniflow/ragflow` | 474 | 88386 | [跳转](https://github.com/infiniflow/ragflow) |
-| 9 | `macro-inc/macro` | 435 | 3008 | [跳转](https://github.com/macro-inc/macro) |
-| 10 | `megadose/holehe` | 427 | 12821 | [跳转](https://github.com/megadose/holehe) |
-| 11 | `ToolJet/ToolJet` | 302 | 39038 | [跳转](https://github.com/ToolJet/ToolJet) |
-| 12 | `smicallef/spiderfoot` | 292 | 20920 | [跳转](https://github.com/smicallef/spiderfoot) |
-| 13 | `OpenCut-app/OpenCut` | 238 | 83114 | [跳转](https://github.com/OpenCut-app/OpenCut) |
-| 14 | `deepseek-ai/awesome-deepseek-agent` | 203 | 5678 | [跳转](https://github.com/deepseek-ai/awesome-deepseek-agent) |
-| 15 | `rustdesk/rustdesk` | 182 | 120627 | [跳转](https://github.com/rustdesk/rustdesk) |
-| 16 | `citrolabs/ego-lite` | 153 | 10326 | [跳转](https://github.com/citrolabs/ego-lite) |
-| 17 | `cursor/plugins` | 69 | 2801 | [跳转](https://github.com/cursor/plugins) |
+| 1 | `cathrynlavery/diagram-design` | 3651 | 17184 | [跳转](https://github.com/cathrynlavery/diagram-design) |
+| 2 | `semantica-agi/semantica` | 1183 | 7504 | [跳转](https://github.com/semantica-agi/semantica) |
+| 3 | `github/spec-kit` | 1147 | 128497 | [跳转](https://github.com/github/spec-kit) |
+| 4 | `holaboss-ai/holaOS` | 769 | 7268 | [跳转](https://github.com/holaboss-ai/holaOS) |
+| 5 | `cactus-compute/needle` | 661 | 5585 | [跳转](https://github.com/cactus-compute/needle) |
+| 6 | `lightningpixel/modly` | 580 | 5919 | [跳转](https://github.com/lightningpixel/modly) |
+| 7 | `unslothai/unsloth` | 502 | 71492 | [跳转](https://github.com/unslothai/unsloth) |
+| 8 | `infiniflow/ragflow` | 474 | 88393 | [跳转](https://github.com/infiniflow/ragflow) |
+| 9 | `macro-inc/macro` | 435 | 3019 | [跳转](https://github.com/macro-inc/macro) |
+| 10 | `megadose/holehe` | 427 | 12834 | [跳转](https://github.com/megadose/holehe) |
+| 11 | `ToolJet/ToolJet` | 302 | 39060 | [跳转](https://github.com/ToolJet/ToolJet) |
+| 12 | `smicallef/spiderfoot` | 292 | 20935 | [跳转](https://github.com/smicallef/spiderfoot) |
+| 13 | `OpenCut-app/OpenCut` | 238 | 83137 | [跳转](https://github.com/OpenCut-app/OpenCut) |
+| 14 | `deepseek-ai/awesome-deepseek-agent` | 203 | 5690 | [跳转](https://github.com/deepseek-ai/awesome-deepseek-agent) |
+| 15 | `rustdesk/rustdesk` | 182 | 120633 | [跳转](https://github.com/rustdesk/rustdesk) |
+| 16 | `citrolabs/ego-lite` | 153 | 10346 | [跳转](https://github.com/citrolabs/ego-lite) |
+| 17 | `cursor/plugins` | 69 | 2807 | [跳转](https://github.com/cursor/plugins) |
