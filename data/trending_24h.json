@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-08-14T08:01:40.954653+08:00",
+  "generated_at": "2026-08-14T11:01:45.528663+08:00",
   "count": 17,
   "items": [
     {
       "repo": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "stars_today": 4475,
-      "total_stars": 14395,
+      "total_stars": 14935,
       "language": "HTML",
       "description": "Star cathrynlavery / diagram-design 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop."
     },
@@ -16,7 +16,7 @@
       "repo": "macro-inc/macro",
       "url": "https://github.com/macro-inc/macro",
       "stars_today": 1239,
-      "total_stars": 2585,
+      "total_stars": 2651,
       "language": "Rust",
       "description": "Star macro-inc / macro Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory."
     },
@@ -24,7 +24,7 @@
       "repo": "msitarzewski/agency-agents",
       "url": "https://github.com/msitarzewski/agency-agents",
       "stars_today": 778,
-      "total_stars": 145177,
+      "total_stars": 145238,
       "language": "Shell",
       "description": "Sponsor Star msitarzewski / agency-agents A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables."
     },
@@ -32,7 +32,7 @@
       "repo": "cactus-compute/needle",
       "url": "https://github.com/cactus-compute/needle",
       "stars_today": 769,
-      "total_stars": 4937,
+      "total_stars": 5014,
       "language": "Python",
       "description": "Star cactus-compute / needle 14MB foundation model for tiny devices; phones, wearables, smart home, and robots."
     },
@@ -40,7 +40,7 @@
       "repo": "semantica-agi/semantica",
       "url": "https://github.com/semantica-agi/semantica",
       "stars_today": 713,
-      "total_stars": 6614,
+      "total_stars": 6799,
       "language": "Python",
       "description": "Sponsor Star semantica-agi / semantica Graph-Native Infrastructure for Context and Accountable AI Systems"
     },
@@ -48,7 +48,7 @@
       "repo": "infiniflow/ragflow",
       "url": "https://github.com/infiniflow/ragflow",
       "stars_today": 465,
-      "total_stars": 88002,
+      "total_stars": 88080,
       "language": "Go",
       "description": "Star infiniflow / ragflow RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs"
     },
@@ -56,7 +56,7 @@
       "repo": "NVIDIA-NeMo/Switchyard",
       "url": "https://github.com/NVIDIA-NeMo/Switchyard",
       "stars_today": 408,
-      "total_stars": 1201,
+      "total_stars": 1254,
       "language": "Rust",
       "description": "Star NVIDIA-NeMo / Switchyard Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization."
     },
@@ -64,7 +64,7 @@
       "repo": "unslothai/unsloth",
       "url": "https://github.com/unslothai/unsloth",
       "stars_today": 328,
-      "total_stars": 71035,
+      "total_stars": 71109,
       "language": "Python",
       "description": "Sponsor Star unslothai / unsloth Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more."
     },
@@ -72,7 +72,7 @@
       "repo": "anthropics/skills",
       "url": "https://github.com/anthropics/skills",
       "stars_today": 312,
-      "total_stars": 169001,
+      "total_stars": 169092,
       "language": "Python",
       "description": "Star anthropics / skills Public repository for Agent Skills"
     },
@@ -80,7 +80,7 @@
       "repo": "kepano/obsidian-skills",
       "url": "https://github.com/kepano/obsidian-skills",
       "stars_today": 292,
-      "total_stars": 45715,
+      "total_stars": 45865,
       "language": "",
       "description": "Sponsor Star kepano / obsidian-skills Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas."
     },
@@ -88,7 +88,7 @@
       "repo": "smicallef/spiderfoot",
       "url": "https://github.com/smicallef/spiderfoot",
       "stars_today": 283,
-      "total_stars": 20662,
+      "total_stars": 20694,
       "language": "Python",
       "description": "Star smicallef / spiderfoot SpiderFoot automates OSINT for threat intelligence and mapping your attack surface."
     },
@@ -96,7 +96,7 @@
       "repo": "holaboss-ai/holaOS",
       "url": "https://github.com/holaboss-ai/holaOS",
       "stars_today": 241,
-      "total_stars": 6572,
+      "total_stars": 6676,
       "language": "TypeScript",
       "description": "Star holaboss-ai / holaOS Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK."
     },
@@ -104,7 +104,7 @@
       "repo": "Lightricks/LTX-2",
       "url": "https://github.com/Lightricks/LTX-2",
       "stars_today": 205,
-      "total_stars": 8905,
+      "total_stars": 8941,
       "language": "Python",
       "description": "Star Lightricks / LTX-2 Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model."
     },
@@ -112,7 +112,7 @@
       "repo": "megadose/holehe",
       "url": "https://github.com/megadose/holehe",
       "stars_today": 195,
-      "total_stars": 12410,
+      "total_stars": 12465,
       "language": "Python",
       "description": "Star megadose / holehe holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function."
     },
@@ -120,7 +120,7 @@
       "repo": "3b1b/manim",
       "url": "https://github.com/3b1b/manim",
       "stars_today": 176,
-      "total_stars": 90845,
+      "total_stars": 90912,
       "language": "Python",
       "description": "Star 3b1b / manim Animation engine for explanatory math videos"
     },
@@ -128,7 +128,7 @@
       "repo": "lightningpixel/modly",
       "url": "https://github.com/lightningpixel/modly",
       "stars_today": 118,
-      "total_stars": 5394,
+      "total_stars": 5481,
       "language": "TypeScript",
       "description": "Sponsor Star lightningpixel / modly Desktop app to generate 3D models from images using local AI — runs entirely on your GPU"
     },
@@ -136,7 +136,7 @@
       "repo": "altic-dev/FluidVoice",
       "url": "https://github.com/altic-dev/FluidVoice",
       "stars_today": 76,
-      "total_stars": 9840,
+      "total_stars": 9901,
       "language": "Swift",
       "description": "Sponsor Star altic-dev / FluidVoice Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon."
     }
