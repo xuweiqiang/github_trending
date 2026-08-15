@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-08-15T13:45:10.268831+08:00",
+  "generated_at": "2026-08-15T15:01:24.049748+08:00",
   "count": 17,
   "items": [
     {
       "repo": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "stars_today": 3646,
-      "total_stars": 17510,
+      "total_stars": 17609,
       "language": "HTML",
       "description": "Star cathrynlavery / diagram-design 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop."
     },
@@ -16,7 +16,7 @@
       "repo": "semantica-agi/semantica",
       "url": "https://github.com/semantica-agi/semantica",
       "stars_today": 1181,
-      "total_stars": 7596,
+      "total_stars": 7639,
       "language": "Python",
       "description": "Sponsor Star semantica-agi / semantica Graph-Native Infrastructure for Context and Accountable AI Systems"
     },
@@ -24,7 +24,7 @@
       "repo": "github/spec-kit",
       "url": "https://github.com/github/spec-kit",
       "stars_today": 1160,
-      "total_stars": 128620,
+      "total_stars": 128654,
       "language": "Python",
       "description": "Star github / spec-kit 💫 Toolkit to help you get started with Spec-Driven Development"
     },
@@ -32,7 +32,7 @@
       "repo": "holaboss-ai/holaOS",
       "url": "https://github.com/holaboss-ai/holaOS",
       "stars_today": 769,
-      "total_stars": 7382,
+      "total_stars": 7410,
       "language": "TypeScript",
       "description": "Star holaboss-ai / holaOS Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK."
     },
@@ -40,7 +40,7 @@
       "repo": "cactus-compute/needle",
       "url": "https://github.com/cactus-compute/needle",
       "stars_today": 662,
-      "total_stars": 5700,
+      "total_stars": 5722,
       "language": "Python",
       "description": "Star cactus-compute / needle 14MB foundation model for tiny devices; phones, wearables, smart home, and robots."
     },
@@ -48,7 +48,7 @@
       "repo": "lightningpixel/modly",
       "url": "https://github.com/lightningpixel/modly",
       "stars_today": 579,
-      "total_stars": 6016,
+      "total_stars": 6036,
       "language": "TypeScript",
       "description": "Sponsor Star lightningpixel / modly Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU"
     },
@@ -56,7 +56,7 @@
       "repo": "unslothai/unsloth",
       "url": "https://github.com/unslothai/unsloth",
       "stars_today": 501,
-      "total_stars": 71583,
+      "total_stars": 71605,
       "language": "Python",
       "description": "Sponsor Star unslothai / unsloth Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more."
     },
@@ -64,7 +64,7 @@
       "repo": "infiniflow/ragflow",
       "url": "https://github.com/infiniflow/ragflow",
       "stars_today": 473,
-      "total_stars": 88436,
+      "total_stars": 88461,
       "language": "Go",
       "description": "Star infiniflow / ragflow RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs"
     },
@@ -72,7 +72,7 @@
       "repo": "macro-inc/macro",
       "url": "https://github.com/macro-inc/macro",
       "stars_today": 436,
-      "total_stars": 3083,
+      "total_stars": 3107,
       "language": "Rust",
       "description": "Star macro-inc / macro Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory."
     },
@@ -80,7 +80,7 @@
       "repo": "megadose/holehe",
       "url": "https://github.com/megadose/holehe",
       "stars_today": 427,
-      "total_stars": 12905,
+      "total_stars": 12921,
       "language": "Python",
       "description": "Star megadose / holehe holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function."
     },
@@ -88,7 +88,7 @@
       "repo": "smicallef/spiderfoot",
       "url": "https://github.com/smicallef/spiderfoot",
       "stars_today": 293,
-      "total_stars": 20994,
+      "total_stars": 21006,
       "language": "Python",
       "description": "Star smicallef / spiderfoot SpiderFoot automates OSINT for threat intelligence and mapping your attack surface."
     },
@@ -96,7 +96,7 @@
       "repo": "OpenCut-app/OpenCut",
       "url": "https://github.com/OpenCut-app/OpenCut",
       "stars_today": 255,
-      "total_stars": 83257,
+      "total_stars": 83285,
       "language": "TypeScript",
       "description": "Sponsor Star OpenCut-app / OpenCut The open-source CapCut alternative"
     },
@@ -104,7 +104,7 @@
       "repo": "deepseek-ai/awesome-deepseek-agent",
       "url": "https://github.com/deepseek-ai/awesome-deepseek-agent",
       "stars_today": 222,
-      "total_stars": 5777,
+      "total_stars": 5799,
       "language": "",
       "description": ""
     },
@@ -112,7 +112,7 @@
       "repo": "citrolabs/ego-lite",
       "url": "https://github.com/citrolabs/ego-lite",
       "stars_today": 165,
-      "total_stars": 10466,
+      "total_stars": 10499,
       "language": "JavaScript",
       "description": "Star citrolabs / ego-lite The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config."
     },
@@ -120,7 +120,7 @@
       "repo": "rustdesk/rustdesk",
       "url": "https://github.com/rustdesk/rustdesk",
       "stars_today": 143,
-      "total_stars": 120701,
+      "total_stars": 120717,
       "language": "Rust",
       "description": "Sponsor Star rustdesk / rustdesk An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer."
     },
@@ -128,7 +128,7 @@
       "repo": "ToolJet/ToolJet",
       "url": "https://github.com/ToolJet/ToolJet",
       "stars_today": 132,
-      "total_stars": 39162,
+      "total_stars": 39187,
       "language": "JavaScript",
       "description": "Sponsor Star ToolJet / ToolJet ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀"
     },
@@ -136,7 +136,7 @@
       "repo": "cursor/plugins",
       "url": "https://github.com/cursor/plugins",
       "stars_today": 41,
-      "total_stars": 2839,
+      "total_stars": 2848,
       "language": "TypeScript",
       "description": "Star cursor / plugins Cursor plugin specification and official plugins"
     }
