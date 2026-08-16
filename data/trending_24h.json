@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-08-16T22:42:56.381101+08:00",
+  "generated_at": "2026-08-16T23:40:11.080351+08:00",
   "count": 8,
   "items": [
     {
       "repo": "public-apis/public-apis",
       "url": "https://github.com/public-apis/public-apis",
       "stars_today": 1583,
-      "total_stars": 461022,
+      "total_stars": 461125,
       "language": "Python",
       "description": "Star public-apis / public-apis A collective list of free APIs"
     },
@@ -16,7 +16,7 @@
       "repo": "cordiverse/cordis",
       "url": "https://github.com/cordiverse/cordis",
       "stars_today": 719,
-      "total_stars": 4506,
+      "total_stars": 4536,
       "language": "TypeScript",
       "description": "Star cordiverse / cordis Meta-Framework of Spatiotemporal Composability"
     },
@@ -24,7 +24,7 @@
       "repo": "unslothai/unsloth",
       "url": "https://github.com/unslothai/unsloth",
       "stars_today": 580,
-      "total_stars": 72315,
+      "total_stars": 72352,
       "language": "Python",
       "description": "Sponsor Star unslothai / unsloth Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more."
     },
@@ -32,7 +32,7 @@
       "repo": "cactus-compute/needle",
       "url": "https://github.com/cactus-compute/needle",
       "stars_today": 447,
-      "total_stars": 6350,
+      "total_stars": 6382,
       "language": "Python",
       "description": "Star cactus-compute / needle 14MB foundation model for tiny devices; phones, wearables, smart home, and robots."
     },
@@ -40,7 +40,7 @@
       "repo": "ToolJet/ToolJet",
       "url": "https://github.com/ToolJet/ToolJet",
       "stars_today": 446,
-      "total_stars": 39809,
+      "total_stars": 39825,
       "language": "JavaScript",
       "description": "Sponsor Star ToolJet / ToolJet ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀"
     },
@@ -48,7 +48,7 @@
       "repo": "basecamp/omarchy",
       "url": "https://github.com/basecamp/omarchy",
       "stars_today": 225,
-      "total_stars": 25156,
+      "total_stars": 25188,
       "language": "Shell",
       "description": "Star basecamp / omarchy Beautiful, Modern & Opinionated Linux"
     },
@@ -56,7 +56,7 @@
       "repo": "OpenCut-app/OpenCut",
       "url": "https://github.com/OpenCut-app/OpenCut",
       "stars_today": 134,
-      "total_stars": 83609,
+      "total_stars": 83640,
       "language": "TypeScript",
       "description": "Sponsor Star OpenCut-app / OpenCut The open-source CapCut alternative"
     },
@@ -64,7 +64,7 @@
       "repo": "akitaonrails/ai-memory",
       "url": "https://github.com/akitaonrails/ai-memory",
       "stars_today": 41,
-      "total_stars": 1611,
+      "total_stars": 1642,
       "language": "Rust",
       "description": "Star akitaonrails / ai-memory Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors"
     }
