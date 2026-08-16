@@ -1,19 +1,14 @@
 # GitHub 24h Star 增长榜
 
-- 生成时间: 2026-08-16 18:43:24 +0800
+- 生成时间: 2026-08-16 19:38:47 +0800
 
 | 排名 | 项目 | 24h 增长 | 总 Stars | 链接 |
 |---:|---|---:|---:|---|
-| 1 | `public-apis/public-apis` | 2260 | 460730 | [跳转](https://github.com/public-apis/public-apis) |
-| 2 | `cathrynlavery/diagram-design` | 1607 | 19086 | [跳转](https://github.com/cathrynlavery/diagram-design) |
-| 3 | `github/spec-kit` | 892 | 129376 | [跳转](https://github.com/github/spec-kit) |
-| 4 | `cordiverse/cordis` | 599 | 4387 | [跳转](https://github.com/cordiverse/cordis) |
-| 5 | `cactus-compute/needle` | 547 | 6244 | [跳转](https://github.com/cactus-compute/needle) |
-| 6 | `citrolabs/ego-lite` | 545 | 11237 | [跳转](https://github.com/citrolabs/ego-lite) |
-| 7 | `ToolJet/ToolJet` | 544 | 39712 | [跳转](https://github.com/ToolJet/ToolJet) |
-| 8 | `unslothai/unsloth` | 434 | 72230 | [跳转](https://github.com/unslothai/unsloth) |
-| 9 | `megadose/holehe` | 382 | 13213 | [跳转](https://github.com/megadose/holehe) |
-| 10 | `MakazhanAlpamys/Soup` | 297 | 1865 | [跳转](https://github.com/MakazhanAlpamys/Soup) |
-| 11 | `cursor/plugins` | 149 | 3019 | [跳转](https://github.com/cursor/plugins) |
-| 12 | `HKUDS/CLI-Anything` | 118 | 47540 | [跳转](https://github.com/HKUDS/CLI-Anything) |
-| 13 | `altic-dev/FluidVoice` | 104 | 10432 | [跳转](https://github.com/altic-dev/FluidVoice) |
+| 1 | `public-apis/public-apis` | 2260 | 460789 | [跳转](https://github.com/public-apis/public-apis) |
+| 2 | `cordiverse/cordis` | 599 | 4406 | [跳转](https://github.com/cordiverse/cordis) |
+| 3 | `cactus-compute/needle` | 547 | 6262 | [跳转](https://github.com/cactus-compute/needle) |
+| 4 | `ToolJet/ToolJet` | 544 | 39726 | [跳转](https://github.com/ToolJet/ToolJet) |
+| 5 | `unslothai/unsloth` | 434 | 72247 | [跳转](https://github.com/unslothai/unsloth) |
+| 6 | `basecamp/omarchy` | 225 | 25069 | [跳转](https://github.com/basecamp/omarchy) |
+| 7 | `OpenCut-app/OpenCut` | 134 | 83508 | [跳转](https://github.com/OpenCut-app/OpenCut) |
+| 8 | `akitaonrails/ai-memory` | 41 | 1530 | [跳转](https://github.com/akitaonrails/ai-memory) |
