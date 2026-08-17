@@ -1,64 +1,88 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-08-17T18:51:23.772803+08:00",
-  "count": 7,
+  "generated_at": "2026-08-17T19:44:49.028638+08:00",
+  "count": 10,
   "items": [
     {
-      "repo": "public-apis/public-apis",
-      "url": "https://github.com/public-apis/public-apis",
-      "stars_today": 1588,
-      "total_stars": 462693,
+      "repo": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "stars_today": 856,
+      "total_stars": 53594,
       "language": "Python",
-      "description": "Star public-apis / public-apis A collective list of free APIs"
+      "description": "Star usestrix / strix Open-source AI penetration testing tool to find and fix your app’s vulnerabilities."
     },
     {
       "repo": "cordiverse/cordis",
       "url": "https://github.com/cordiverse/cordis",
       "stars_today": 720,
-      "total_stars": 5334,
+      "total_stars": 5359,
       "language": "TypeScript",
       "description": "Star cordiverse / cordis Meta-Framework of Spatiotemporal Composability"
     },
     {
-      "repo": "unslothai/unsloth",
-      "url": "https://github.com/unslothai/unsloth",
-      "stars_today": 572,
-      "total_stars": 72998,
+      "repo": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "stars_today": 494,
+      "total_stars": 105216,
       "language": "Python",
-      "description": "Sponsor Star unslothai / unsloth Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more."
+      "description": "Star harry0703 / MoneyPrinterTurbo 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow."
     },
     {
-      "repo": "ToolJet/ToolJet",
-      "url": "https://github.com/ToolJet/ToolJet",
-      "stars_today": 452,
-      "total_stars": 40353,
-      "language": "JavaScript",
-      "description": "Sponsor Star ToolJet / ToolJet ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀"
-    },
-    {
-      "repo": "cactus-compute/needle",
-      "url": "https://github.com/cactus-compute/needle",
-      "stars_today": 443,
-      "total_stars": 6964,
-      "language": "Python",
-      "description": "Star cactus-compute / needle 14MB foundation model for tiny devices; phones, wearables, smart home, and robots."
-    },
-    {
-      "repo": "basecamp/omarchy",
-      "url": "https://github.com/basecamp/omarchy",
-      "stars_today": 270,
-      "total_stars": 25801,
-      "language": "Shell",
-      "description": "Star basecamp / omarchy Beautiful, Modern & Opinionated Linux"
-    },
-    {
-      "repo": "OpenCut-app/OpenCut",
-      "url": "https://github.com/OpenCut-app/OpenCut",
-      "stars_today": 150,
-      "total_stars": 84303,
+      "repo": "agalwood/Motrix",
+      "url": "https://github.com/agalwood/Motrix",
+      "stars_today": 295,
+      "total_stars": 52802,
       "language": "TypeScript",
-      "description": "Sponsor Star OpenCut-app / OpenCut The open-source CapCut alternative"
+      "description": "Star agalwood / Motrix A full-featured download manager."
+    },
+    {
+      "repo": "AlexsJones/llmfit",
+      "url": "https://github.com/AlexsJones/llmfit",
+      "stars_today": 187,
+      "total_stars": 31989,
+      "language": "Rust",
+      "description": "Sponsor Star AlexsJones / llmfit Hundreds of models & providers. One command to find what runs on your hardware."
+    },
+    {
+      "repo": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "stars_today": 156,
+      "total_stars": 28081,
+      "language": "Python",
+      "description": "Sponsor Star mukul975 / Anthropic-Cybersecurity-Skills 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0"
+    },
+    {
+      "repo": "santifer/career-ops",
+      "url": "https://github.com/santifer/career-ops",
+      "stars_today": 147,
+      "total_stars": 64178,
+      "language": "JavaScript",
+      "description": "Sponsor Star santifer / career-ops Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)"
+    },
+    {
+      "repo": "immich-app/immich",
+      "url": "https://github.com/immich-app/immich",
+      "stars_today": 140,
+      "total_stars": 110835,
+      "language": "TypeScript",
+      "description": "Star immich-app / immich High performance self-hosted photo and video management solution."
+    },
+    {
+      "repo": "jundot/omlx",
+      "url": "https://github.com/jundot/omlx",
+      "stars_today": 60,
+      "total_stars": 18839,
+      "language": "Python",
+      "description": "Star jundot / omlx LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar"
+    },
+    {
+      "repo": "nautechsystems/nautilus_trader",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "stars_today": 58,
+      "total_stars": 25665,
+      "language": "Rust",
+      "description": "Star nautechsystems / nautilus_trader Production-grade Rust-native trading engine with deterministic event-driven architecture"
     }
   ]
 }
