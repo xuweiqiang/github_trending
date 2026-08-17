@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-08-17T15:26:39.309286+08:00",
+  "generated_at": "2026-08-17T17:03:46.209745+08:00",
   "count": 7,
   "items": [
     {
       "repo": "public-apis/public-apis",
       "url": "https://github.com/public-apis/public-apis",
       "stars_today": 1588,
-      "total_stars": 462352,
+      "total_stars": 462524,
       "language": "Python",
       "description": "Star public-apis / public-apis A collective list of free APIs"
     },
@@ -16,7 +16,7 @@
       "repo": "cordiverse/cordis",
       "url": "https://github.com/cordiverse/cordis",
       "stars_today": 720,
-      "total_stars": 5172,
+      "total_stars": 5260,
       "language": "TypeScript",
       "description": "Star cordiverse / cordis Meta-Framework of Spatiotemporal Composability"
     },
@@ -24,7 +24,7 @@
       "repo": "unslothai/unsloth",
       "url": "https://github.com/unslothai/unsloth",
       "stars_today": 572,
-      "total_stars": 72861,
+      "total_stars": 72931,
       "language": "Python",
       "description": "Sponsor Star unslothai / unsloth Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more."
     },
@@ -32,7 +32,7 @@
       "repo": "ToolJet/ToolJet",
       "url": "https://github.com/ToolJet/ToolJet",
       "stars_today": 452,
-      "total_stars": 40253,
+      "total_stars": 40312,
       "language": "JavaScript",
       "description": "Sponsor Star ToolJet / ToolJet ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀"
     },
@@ -40,7 +40,7 @@
       "repo": "cactus-compute/needle",
       "url": "https://github.com/cactus-compute/needle",
       "stars_today": 443,
-      "total_stars": 6830,
+      "total_stars": 6894,
       "language": "Python",
       "description": "Star cactus-compute / needle 14MB foundation model for tiny devices; phones, wearables, smart home, and robots."
     },
@@ -48,7 +48,7 @@
       "repo": "basecamp/omarchy",
       "url": "https://github.com/basecamp/omarchy",
       "stars_today": 270,
-      "total_stars": 25633,
+      "total_stars": 25723,
       "language": "Shell",
       "description": "Star basecamp / omarchy Beautiful, Modern & Opinionated Linux"
     },
@@ -56,7 +56,7 @@
       "repo": "OpenCut-app/OpenCut",
       "url": "https://github.com/OpenCut-app/OpenCut",
       "stars_today": 150,
-      "total_stars": 84171,
+      "total_stars": 84232,
       "language": "TypeScript",
       "description": "Sponsor Star OpenCut-app / OpenCut The open-source CapCut alternative"
     }
