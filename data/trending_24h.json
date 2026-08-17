@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-08-18T00:49:49.609229+08:00",
+  "generated_at": "2026-08-18T01:48:40.957119+08:00",
   "count": 11,
   "items": [
     {
       "repo": "harry0703/MoneyPrinterTurbo",
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "stars_today": 1275,
-      "total_stars": 105611,
+      "total_stars": 105673,
       "language": "Python",
       "description": "Star harry0703 / MoneyPrinterTurbo 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow."
     },
@@ -16,7 +16,7 @@
       "repo": "cordiverse/cordis",
       "url": "https://github.com/cordiverse/cordis",
       "stars_today": 959,
-      "total_stars": 5471,
+      "total_stars": 5480,
       "language": "TypeScript",
       "description": "Star cordiverse / cordis Meta-Framework of Spatiotemporal Composability"
     },
@@ -24,7 +24,7 @@
       "repo": "usestrix/strix",
       "url": "https://github.com/usestrix/strix",
       "stars_today": 656,
-      "total_stars": 53848,
+      "total_stars": 53890,
       "language": "Python",
       "description": "Star usestrix / strix Open-source AI penetration testing tool to find and fix your app’s vulnerabilities."
     },
@@ -32,7 +32,7 @@
       "repo": "agalwood/Motrix",
       "url": "https://github.com/agalwood/Motrix",
       "stars_today": 295,
-      "total_stars": 52927,
+      "total_stars": 52942,
       "language": "TypeScript",
       "description": "Star agalwood / Motrix A full-featured download manager."
     },
@@ -40,7 +40,7 @@
       "repo": "AlexsJones/llmfit",
       "url": "https://github.com/AlexsJones/llmfit",
       "stars_today": 239,
-      "total_stars": 32120,
+      "total_stars": 32136,
       "language": "Rust",
       "description": "Sponsor Star AlexsJones / llmfit Hundreds of models & providers. One command to find what runs on your hardware."
     },
@@ -48,7 +48,7 @@
       "repo": "akitaonrails/ai-memory",
       "url": "https://github.com/akitaonrails/ai-memory",
       "stars_today": 207,
-      "total_stars": 1873,
+      "total_stars": 1898,
       "language": "Rust",
       "description": "Star akitaonrails / ai-memory Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors"
     },
@@ -56,7 +56,7 @@
       "repo": "mukul975/Anthropic-Cybersecurity-Skills",
       "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
       "stars_today": 156,
-      "total_stars": 28209,
+      "total_stars": 28241,
       "language": "Python",
       "description": "Sponsor Star mukul975 / Anthropic-Cybersecurity-Skills 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0"
     },
@@ -64,7 +64,7 @@
       "repo": "santifer/career-ops",
       "url": "https://github.com/santifer/career-ops",
       "stars_today": 147,
-      "total_stars": 64374,
+      "total_stars": 64411,
       "language": "JavaScript",
       "description": "Sponsor Star santifer / career-ops Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)"
     },
@@ -72,7 +72,7 @@
       "repo": "immich-app/immich",
       "url": "https://github.com/immich-app/immich",
       "stars_today": 140,
-      "total_stars": 110957,
+      "total_stars": 110983,
       "language": "TypeScript",
       "description": "Star immich-app / immich High performance self-hosted photo and video management solution."
     },
@@ -80,7 +80,7 @@
       "repo": "nautechsystems/nautilus_trader",
       "url": "https://github.com/nautechsystems/nautilus_trader",
       "stars_today": 115,
-      "total_stars": 25763,
+      "total_stars": 25783,
       "language": "Rust",
       "description": "Star nautechsystems / nautilus_trader Production-grade Rust-native trading engine with deterministic event-driven architecture"
     },
@@ -88,7 +88,7 @@
       "repo": "jundot/omlx",
       "url": "https://github.com/jundot/omlx",
       "stars_today": 96,
-      "total_stars": 18897,
+      "total_stars": 18909,
       "language": "Python",
       "description": "Star jundot / omlx LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar"
     }
