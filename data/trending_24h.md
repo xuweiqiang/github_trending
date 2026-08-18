@@ -1,19 +1,19 @@
 # GitHub 24h Star 增长榜
 
-- 生成时间: 2026-08-19 05:42:02 +0800
+- 生成时间: 2026-08-19 06:44:22 +0800
 
 | 排名 | 项目 | 24h 增长 | 总 Stars | 链接 |
 |---:|---|---:|---:|---|
-| 1 | `harry0703/MoneyPrinterTurbo` | 2306 | 108413 | [跳转](https://github.com/harry0703/MoneyPrinterTurbo) |
-| 2 | `public-apis/public-apis` | 1139 | 464425 | [跳转](https://github.com/public-apis/public-apis) |
-| 3 | `akitaonrails/ai-memory` | 730 | 2669 | [跳转](https://github.com/akitaonrails/ai-memory) |
-| 4 | `mukul975/Anthropic-Cybersecurity-Skills` | 726 | 29114 | [跳转](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) |
-| 5 | `agalwood/Motrix` | 607 | 53612 | [跳转](https://github.com/agalwood/Motrix) |
-| 6 | `bojieli/ai-agent-book` | 556 | 39060 | [跳转](https://github.com/bojieli/ai-agent-book) |
-| 7 | `genlayerlabs/genlayer-project-boilerplate` | 543 | 15890 | [跳转](https://github.com/genlayerlabs/genlayer-project-boilerplate) |
-| 8 | `basecamp/omarchy` | 411 | 26380 | [跳转](https://github.com/basecamp/omarchy) |
-| 9 | `jundot/omlx` | 366 | 19364 | [跳转](https://github.com/jundot/omlx) |
-| 10 | `volcengine/OpenViking` | 298 | 29307 | [跳转](https://github.com/volcengine/OpenViking) |
-| 11 | `OpenCut-app/OpenCut` | 288 | 84705 | [跳转](https://github.com/OpenCut-app/OpenCut) |
-| 12 | `chaitanyagiri/munder-difflin` | 256 | 1973 | [跳转](https://github.com/chaitanyagiri/munder-difflin) |
-| 13 | `NawfalMotii79/PLFM_RADAR` | 204 | 24273 | [跳转](https://github.com/NawfalMotii79/PLFM_RADAR) |
+| 1 | `harry0703/MoneyPrinterTurbo` | 2306 | 108449 | [跳转](https://github.com/harry0703/MoneyPrinterTurbo) |
+| 2 | `public-apis/public-apis` | 1139 | 464463 | [跳转](https://github.com/public-apis/public-apis) |
+| 3 | `akitaonrails/ai-memory` | 730 | 2682 | [跳转](https://github.com/akitaonrails/ai-memory) |
+| 4 | `mukul975/Anthropic-Cybersecurity-Skills` | 726 | 29140 | [跳转](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) |
+| 5 | `agalwood/Motrix` | 607 | 53633 | [跳转](https://github.com/agalwood/Motrix) |
+| 6 | `bojieli/ai-agent-book` | 556 | 39077 | [跳转](https://github.com/bojieli/ai-agent-book) |
+| 7 | `genlayerlabs/genlayer-project-boilerplate` | 543 | 15899 | [跳转](https://github.com/genlayerlabs/genlayer-project-boilerplate) |
+| 8 | `basecamp/omarchy` | 411 | 26392 | [跳转](https://github.com/basecamp/omarchy) |
+| 9 | `jundot/omlx` | 366 | 19374 | [跳转](https://github.com/jundot/omlx) |
+| 10 | `volcengine/OpenViking` | 298 | 29321 | [跳转](https://github.com/volcengine/OpenViking) |
+| 11 | `OpenCut-app/OpenCut` | 288 | 84721 | [跳转](https://github.com/OpenCut-app/OpenCut) |
+| 12 | `chaitanyagiri/munder-difflin` | 256 | 1984 | [跳转](https://github.com/chaitanyagiri/munder-difflin) |
+| 13 | `NawfalMotii79/PLFM_RADAR` | 204 | 24277 | [跳转](https://github.com/NawfalMotii79/PLFM_RADAR) |
