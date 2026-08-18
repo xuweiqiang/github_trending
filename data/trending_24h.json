@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-08-19T03:01:18.049931+08:00",
+  "generated_at": "2026-08-19T03:44:22.638387+08:00",
   "count": 13,
   "items": [
     {
       "repo": "harry0703/MoneyPrinterTurbo",
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "stars_today": 2306,
-      "total_stars": 108291,
+      "total_stars": 108333,
       "language": "Python",
       "description": "Star harry0703 / MoneyPrinterTurbo 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow."
     },
@@ -16,7 +16,7 @@
       "repo": "public-apis/public-apis",
       "url": "https://github.com/public-apis/public-apis",
       "stars_today": 1139,
-      "total_stars": 464270,
+      "total_stars": 464313,
       "language": "Python",
       "description": "Star public-apis / public-apis A collective list of free APIs"
     },
@@ -24,7 +24,7 @@
       "repo": "akitaonrails/ai-memory",
       "url": "https://github.com/akitaonrails/ai-memory",
       "stars_today": 730,
-      "total_stars": 2625,
+      "total_stars": 2636,
       "language": "Rust",
       "description": "Star akitaonrails / ai-memory Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors"
     },
@@ -32,23 +32,15 @@
       "repo": "mukul975/Anthropic-Cybersecurity-Skills",
       "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
       "stars_today": 726,
-      "total_stars": 29028,
+      "total_stars": 29046,
       "language": "Python",
       "description": "Sponsor Star mukul975 / Anthropic-Cybersecurity-Skills 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0"
-    },
-    {
-      "repo": "basecamp/omarchy",
-      "url": "https://github.com/basecamp/omarchy",
-      "stars_today": 710,
-      "total_stars": 26340,
-      "language": "Shell",
-      "description": "Star basecamp / omarchy Beautiful, Modern & Opinionated Linux"
     },
     {
       "repo": "agalwood/Motrix",
       "url": "https://github.com/agalwood/Motrix",
       "stars_today": 607,
-      "total_stars": 53574,
+      "total_stars": 53581,
       "language": "TypeScript",
       "description": "Star agalwood / Motrix A full-featured download manager."
     },
@@ -56,7 +48,7 @@
       "repo": "bojieli/ai-agent-book",
       "url": "https://github.com/bojieli/ai-agent-book",
       "stars_today": 556,
-      "total_stars": 39034,
+      "total_stars": 39039,
       "language": "Python",
       "description": "Star bojieli / ai-agent-book 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码"
     },
@@ -64,15 +56,23 @@
       "repo": "genlayerlabs/genlayer-project-boilerplate",
       "url": "https://github.com/genlayerlabs/genlayer-project-boilerplate",
       "stars_today": 543,
-      "total_stars": 15893,
+      "total_stars": 15895,
       "language": "TypeScript",
       "description": ""
+    },
+    {
+      "repo": "basecamp/omarchy",
+      "url": "https://github.com/basecamp/omarchy",
+      "stars_today": 411,
+      "total_stars": 26346,
+      "language": "Shell",
+      "description": "Star basecamp / omarchy Beautiful, Modern & Opinionated Linux"
     },
     {
       "repo": "jundot/omlx",
       "url": "https://github.com/jundot/omlx",
       "stars_today": 366,
-      "total_stars": 19322,
+      "total_stars": 19330,
       "language": "Python",
       "description": "Star jundot / omlx LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar"
     },
@@ -80,7 +80,7 @@
       "repo": "volcengine/OpenViking",
       "url": "https://github.com/volcengine/OpenViking",
       "stars_today": 298,
-      "total_stars": 29240,
+      "total_stars": 29252,
       "language": "Python",
       "description": "Star volcengine / OpenViking Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills."
     },
@@ -88,7 +88,7 @@
       "repo": "OpenCut-app/OpenCut",
       "url": "https://github.com/OpenCut-app/OpenCut",
       "stars_today": 288,
-      "total_stars": 84661,
+      "total_stars": 84674,
       "language": "TypeScript",
       "description": "Sponsor Star OpenCut-app / OpenCut The open-source CapCut alternative"
     },
@@ -96,7 +96,7 @@
       "repo": "chaitanyagiri/munder-difflin",
       "url": "https://github.com/chaitanyagiri/munder-difflin",
       "stars_today": 256,
-      "total_stars": 1908,
+      "total_stars": 1928,
       "language": "TypeScript",
       "description": "Star chaitanyagiri / munder-difflin local multi-agent harness"
     },
@@ -104,7 +104,7 @@
       "repo": "NawfalMotii79/PLFM_RADAR",
       "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
       "stars_today": 204,
-      "total_stars": 24250,
+      "total_stars": 24257,
       "language": "PLSQL",
       "description": "Star NawfalMotii79 / PLFM_RADAR Open-source, low-cost 10.5 GHz PLFM phased array RADAR system"
     }
