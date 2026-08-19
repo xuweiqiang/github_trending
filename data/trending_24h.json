@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-08-20T05:44:35.160910+08:00",
+  "generated_at": "2026-08-20T06:45:20.433408+08:00",
   "count": 13,
   "items": [
     {
       "repo": "harry0703/MoneyPrinterTurbo",
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "stars_today": 2221,
-      "total_stars": 110454,
+      "total_stars": 110512,
       "language": "Python",
       "description": "Star harry0703 / MoneyPrinterTurbo 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow."
     },
@@ -16,7 +16,7 @@
       "repo": "amadeusprotocol/node",
       "url": "https://github.com/amadeusprotocol/node",
       "stars_today": 1415,
-      "total_stars": 4469,
+      "total_stars": 4488,
       "language": "Rust",
       "description": ""
     },
@@ -24,7 +24,7 @@
       "repo": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "stars_today": 1214,
-      "total_stars": 223638,
+      "total_stars": 223685,
       "language": "Shell",
       "description": "Sponsor Star mattpocock / skills Skills for Real Engineers. Straight from my .agents directory."
     },
@@ -32,7 +32,7 @@
       "repo": "volcengine/OpenViking",
       "url": "https://github.com/volcengine/OpenViking",
       "stars_today": 803,
-      "total_stars": 30101,
+      "total_stars": 30128,
       "language": "Python",
       "description": "Star volcengine / OpenViking Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills."
     },
@@ -40,7 +40,7 @@
       "repo": "chaitanyagiri/munder-difflin",
       "url": "https://github.com/chaitanyagiri/munder-difflin",
       "stars_today": 797,
-      "total_stars": 2633,
+      "total_stars": 2647,
       "language": "TypeScript",
       "description": "Star chaitanyagiri / munder-difflin local multi-agent harness"
     },
@@ -48,7 +48,7 @@
       "repo": "mukul975/Anthropic-Cybersecurity-Skills",
       "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
       "stars_today": 767,
-      "total_stars": 29777,
+      "total_stars": 29795,
       "language": "Python",
       "description": "Sponsor Star mukul975 / Anthropic-Cybersecurity-Skills 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0"
     },
@@ -56,7 +56,7 @@
       "repo": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "stars_today": 514,
-      "total_stars": 274216,
+      "total_stars": 274236,
       "language": "Shell",
       "description": "Sponsor Star obra / superpowers An agentic skills framework & software development methodology that works."
     },
@@ -64,7 +64,7 @@
       "repo": "jundot/omlx",
       "url": "https://github.com/jundot/omlx",
       "stars_today": 467,
-      "total_stars": 19804,
+      "total_stars": 19817,
       "language": "Python",
       "description": "Star jundot / omlx LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar"
     },
@@ -72,7 +72,7 @@
       "repo": "genlayerlabs/genlayer-project-boilerplate",
       "url": "https://github.com/genlayerlabs/genlayer-project-boilerplate",
       "stars_today": 421,
-      "total_stars": 16216,
+      "total_stars": 16221,
       "language": "TypeScript",
       "description": ""
     },
@@ -80,7 +80,7 @@
       "repo": "santifer/career-ops",
       "url": "https://github.com/santifer/career-ops",
       "stars_today": 193,
-      "total_stars": 65708,
+      "total_stars": 65735,
       "language": "JavaScript",
       "description": "Sponsor Star santifer / career-ops Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)"
     },
@@ -88,7 +88,7 @@
       "repo": "immich-app/immich",
       "url": "https://github.com/immich-app/immich",
       "stars_today": 137,
-      "total_stars": 111797,
+      "total_stars": 111830,
       "language": "TypeScript",
       "description": "Star immich-app / immich High performance self-hosted photo and video management solution."
     },
@@ -96,7 +96,7 @@
       "repo": "nautechsystems/nautilus_trader",
       "url": "https://github.com/nautechsystems/nautilus_trader",
       "stars_today": 79,
-      "total_stars": 26411,
+      "total_stars": 26429,
       "language": "Rust",
       "description": "Star nautechsystems / nautilus_trader Production-grade Rust-native trading engine with deterministic event-driven architecture"
     },
@@ -104,7 +104,7 @@
       "repo": "marceloprates/prettymaps",
       "url": "https://github.com/marceloprates/prettymaps",
       "stars_today": 58,
-      "total_stars": 13039,
+      "total_stars": 13069,
       "language": "Python",
       "description": "Sponsor Star marceloprates / prettymaps Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely"
     }
