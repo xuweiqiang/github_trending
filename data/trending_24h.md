@@ -1,20 +1,20 @@
 # GitHub 24h Star 增长榜
 
-- 生成时间: 2026-08-19 22:00:56 +0800
+- 生成时间: 2026-08-19 22:56:18 +0800
 
 | 排名 | 项目 | 24h 增长 | 总 Stars | 链接 |
 |---:|---|---:|---:|---|
-| 1 | `harry0703/MoneyPrinterTurbo` | 2221 | 109798 | [跳转](https://github.com/harry0703/MoneyPrinterTurbo) |
-| 2 | `amadeusprotocol/node` | 1415 | 4193 | [跳转](https://github.com/amadeusprotocol/node) |
-| 3 | `mattpocock/skills` | 1214 | 222937 | [跳转](https://github.com/mattpocock/skills) |
-| 4 | `volcengine/OpenViking` | 803 | 29867 | [跳转](https://github.com/volcengine/OpenViking) |
-| 5 | `chaitanyagiri/munder-difflin` | 797 | 2486 | [跳转](https://github.com/chaitanyagiri/munder-difflin) |
-| 6 | `mukul975/Anthropic-Cybersecurity-Skills` | 767 | 29582 | [跳转](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) |
-| 7 | `immich-app/immich` | 636 | 111627 | [跳转](https://github.com/immich-app/immich) |
-| 8 | `akitaonrails/ai-memory` | 609 | 3089 | [跳转](https://github.com/akitaonrails/ai-memory) |
-| 9 | `nautechsystems/nautilus_trader` | 522 | 26286 | [跳转](https://github.com/nautechsystems/nautilus_trader) |
-| 10 | `obra/superpowers` | 514 | 274021 | [跳转](https://github.com/obra/superpowers) |
-| 11 | `jundot/omlx` | 467 | 19684 | [跳转](https://github.com/jundot/omlx) |
-| 12 | `genlayerlabs/genlayer-project-boilerplate` | 421 | 16130 | [跳转](https://github.com/genlayerlabs/genlayer-project-boilerplate) |
-| 13 | `santifer/career-ops` | 193 | 65459 | [跳转](https://github.com/santifer/career-ops) |
-| 14 | `marceloprates/prettymaps` | 58 | 12813 | [跳转](https://github.com/marceloprates/prettymaps) |
+| 1 | `harry0703/MoneyPrinterTurbo` | 2221 | 109941 | [跳转](https://github.com/harry0703/MoneyPrinterTurbo) |
+| 2 | `amadeusprotocol/node` | 1415 | 4252 | [跳转](https://github.com/amadeusprotocol/node) |
+| 3 | `mattpocock/skills` | 1214 | 223043 | [跳转](https://github.com/mattpocock/skills) |
+| 4 | `volcengine/OpenViking` | 803 | 29908 | [跳转](https://github.com/volcengine/OpenViking) |
+| 5 | `chaitanyagiri/munder-difflin` | 797 | 2511 | [跳转](https://github.com/chaitanyagiri/munder-difflin) |
+| 6 | `mukul975/Anthropic-Cybersecurity-Skills` | 767 | 29612 | [跳转](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) |
+| 7 | `akitaonrails/ai-memory` | 609 | 3110 | [跳转](https://github.com/akitaonrails/ai-memory) |
+| 8 | `obra/superpowers` | 514 | 274045 | [跳转](https://github.com/obra/superpowers) |
+| 9 | `jundot/omlx` | 467 | 19705 | [跳转](https://github.com/jundot/omlx) |
+| 10 | `genlayerlabs/genlayer-project-boilerplate` | 421 | 16135 | [跳转](https://github.com/genlayerlabs/genlayer-project-boilerplate) |
+| 11 | `santifer/career-ops` | 193 | 65497 | [跳转](https://github.com/santifer/career-ops) |
+| 12 | `immich-app/immich` | 137 | 111659 | [跳转](https://github.com/immich-app/immich) |
+| 13 | `nautechsystems/nautilus_trader` | 79 | 26306 | [跳转](https://github.com/nautechsystems/nautilus_trader) |
+| 14 | `marceloprates/prettymaps` | 58 | 12847 | [跳转](https://github.com/marceloprates/prettymaps) |
