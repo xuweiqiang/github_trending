@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-08-22T04:44:01.670376+08:00",
-  "count": 16,
+  "generated_at": "2026-08-22T05:43:02.379134+08:00",
+  "count": 17,
   "items": [
     {
       "repo": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "stars_today": 3368,
-      "total_stars": 229190,
+      "total_stars": 229265,
       "language": "Shell",
       "description": "Sponsor Star mattpocock / skills Skills for Real Engineers. Straight from my .agents directory."
     },
@@ -16,7 +16,7 @@
       "repo": "AprilNEA/OpenLogi",
       "url": "https://github.com/AprilNEA/OpenLogi",
       "stars_today": 1372,
-      "total_stars": 12761,
+      "total_stars": 12795,
       "language": "Rust",
       "description": "Sponsor Star AprilNEA / OpenLogi ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry."
     },
@@ -24,7 +24,7 @@
       "repo": "harry0703/MoneyPrinterTurbo",
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "stars_today": 1187,
-      "total_stars": 113787,
+      "total_stars": 113812,
       "language": "Python",
       "description": "Star harry0703 / MoneyPrinterTurbo 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow."
     },
@@ -32,7 +32,7 @@
       "repo": "mahlernim/google-timeline-visualizer",
       "url": "https://github.com/mahlernim/google-timeline-visualizer",
       "stars_today": 1040,
-      "total_stars": 2168,
+      "total_stars": 2183,
       "language": "Kotlin",
       "description": "Star mahlernim / google-timeline-visualizer Visualize your year in travel using your Google Location History (Timeline) data"
     },
@@ -40,7 +40,7 @@
       "repo": "santifer/career-ops",
       "url": "https://github.com/santifer/career-ops",
       "stars_today": 918,
-      "total_stars": 67369,
+      "total_stars": 67389,
       "language": "JavaScript",
       "description": "Sponsor Star santifer / career-ops Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)"
     },
@@ -48,7 +48,7 @@
       "repo": "modular/modular",
       "url": "https://github.com/modular/modular",
       "stars_today": 905,
-      "total_stars": 28649,
+      "total_stars": 28664,
       "language": "Mojo",
       "description": "Star modular / modular The Modular Platform (includes MAX & Mojo)"
     },
@@ -56,81 +56,89 @@
       "repo": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "stars_today": 789,
-      "total_stars": 275580,
+      "total_stars": 275607,
       "language": "Shell",
       "description": "Sponsor Star obra / superpowers An agentic skills framework & software development methodology that works."
-    },
-    {
-      "repo": "volcengine/OpenViking",
-      "url": "https://github.com/volcengine/OpenViking",
-      "stars_today": 659,
-      "total_stars": 31610,
-      "language": "Python",
-      "description": "Star volcengine / OpenViking Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills."
-    },
-    {
-      "repo": "JuliusBrussee/caveman",
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "stars_today": 594,
-      "total_stars": 100117,
-      "language": "Go",
-      "description": "Sponsor Star JuliusBrussee / caveman 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman"
-    },
-    {
-      "repo": "makeplane/plane",
-      "url": "https://github.com/makeplane/plane",
-      "stars_today": 577,
-      "total_stars": 56948,
-      "language": "TypeScript",
-      "description": "Star makeplane / plane 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage."
-    },
-    {
-      "repo": "Tencent/AI-Infra-Guard",
-      "url": "https://github.com/Tencent/AI-Infra-Guard",
-      "stars_today": 435,
-      "total_stars": 5316,
-      "language": "Python",
-      "description": "Star Tencent / AI-Infra-Guard A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation."
     },
     {
       "repo": "cursor/plugins",
       "url": "https://github.com/cursor/plugins",
       "stars_today": 391,
-      "total_stars": 4359,
+      "total_stars": 4367,
       "language": "TypeScript",
       "description": "Star cursor / plugins Cursor plugin specification and official plugins"
     },
     {
-      "repo": "RyanCodrai/turbovec",
-      "url": "https://github.com/RyanCodrai/turbovec",
+      "repo": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
       "stars_today": 348,
-      "total_stars": 16190,
-      "language": "Rust",
-      "description": "Star RyanCodrai / turbovec A vector index built on TurboQuant, written in Rust with Python bindings"
-    },
-    {
-      "repo": "chaitanyagiri/munder-difflin",
-      "url": "https://github.com/chaitanyagiri/munder-difflin",
-      "stars_today": 344,
-      "total_stars": 3372,
-      "language": "TypeScript",
-      "description": "Star chaitanyagiri / munder-difflin local multi-agent harness"
+      "total_stars": 241746,
+      "language": "JavaScript",
+      "description": "Sponsor Star affaan-m / ECC The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
     },
     {
       "repo": "PostHog/posthog",
       "url": "https://github.com/PostHog/posthog",
       "stars_today": 334,
-      "total_stars": 38244,
+      "total_stars": 38259,
       "language": "Python",
       "description": "Star PostHog / posthog 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP."
     },
     {
-      "repo": "agent-substrate/substrate",
-      "url": "https://github.com/agent-substrate/substrate",
-      "stars_today": 245,
-      "total_stars": 1576,
+      "repo": "apache/maka",
+      "url": "https://github.com/apache/maka",
+      "stars_today": 141,
+      "total_stars": 1990,
+      "language": "TypeScript",
+      "description": "Star apache / maka Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log."
+    },
+    {
+      "repo": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "stars_today": 140,
+      "total_stars": 68612,
+      "language": "TypeScript",
+      "description": "Star ruvnet / ruflo 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated"
+    },
+    {
+      "repo": "microsoft/TypeScript",
+      "url": "https://github.com/microsoft/TypeScript",
+      "stars_today": 65,
+      "total_stars": 110363,
       "language": "Go",
-      "description": "Star agent-substrate / substrate Agent Substrate: the core system"
+      "description": "Star microsoft / TypeScript TypeScript is a superset of JavaScript that compiles to clean JavaScript output."
+    },
+    {
+      "repo": "elder-plinius/OBLITERATUS",
+      "url": "https://github.com/elder-plinius/OBLITERATUS",
+      "stars_today": 63,
+      "total_stars": 7745,
+      "language": "Python",
+      "description": "Star elder-plinius / OBLITERATUS OBLITERATE THE CHAINS THAT BIND YOU"
+    },
+    {
+      "repo": "TryGhost/Ghost",
+      "url": "https://github.com/TryGhost/Ghost",
+      "stars_today": 32,
+      "total_stars": 54852,
+      "language": "JavaScript",
+      "description": "Sponsor Star TryGhost / Ghost Independent technology for modern publishing, memberships, subscriptions and newsletters."
+    },
+    {
+      "repo": "microsoft/onnxruntime",
+      "url": "https://github.com/microsoft/onnxruntime",
+      "stars_today": 5,
+      "total_stars": 21415,
+      "language": "C++",
+      "description": "Star microsoft / onnxruntime ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator"
+    },
+    {
+      "repo": "protocolbuffers/protobuf",
+      "url": "https://github.com/protocolbuffers/protobuf",
+      "stars_today": 4,
+      "total_stars": 71754,
+      "language": "C++",
+      "description": "Star protocolbuffers / protobuf Protocol Buffers - Google's data interchange format"
     }
   ]
 }
