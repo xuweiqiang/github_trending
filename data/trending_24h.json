@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-08-23T18:44:38.147839+08:00",
-  "count": 17,
+  "generated_at": "2026-08-23T19:40:14.799324+08:00",
+  "count": 18,
   "items": [
     {
       "repo": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "stars_today": 2683,
-      "total_stars": 233045,
+      "total_stars": 233136,
       "language": "Shell",
       "description": "Sponsor Star mattpocock / skills Skills for Real Engineers. Straight from my .agents directory."
     },
@@ -16,15 +16,23 @@
       "repo": "openai/codex",
       "url": "https://github.com/openai/codex",
       "stars_today": 1544,
-      "total_stars": 114592,
+      "total_stars": 114668,
       "language": "Rust",
       "description": "Star openai / codex Lightweight coding agent that runs in your terminal"
+    },
+    {
+      "repo": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "stars_today": 1040,
+      "total_stars": 47553,
+      "language": "Python",
+      "description": "Star Alishahryar1 / free-claude-code Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)"
     },
     {
       "repo": "AprilNEA/OpenLogi",
       "url": "https://github.com/AprilNEA/OpenLogi",
       "stars_today": 959,
-      "total_stars": 14336,
+      "total_stars": 14375,
       "language": "Rust",
       "description": "Sponsor Star AprilNEA / OpenLogi ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry."
     },
@@ -32,113 +40,113 @@
       "repo": "ripienaar/free-for-dev",
       "url": "https://github.com/ripienaar/free-for-dev",
       "stars_today": 829,
-      "total_stars": 134133,
+      "total_stars": 134149,
       "language": "HTML",
       "description": "Star ripienaar / free-for-dev A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev"
     },
     {
-      "repo": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "stars_today": 592,
-      "total_stars": 276443,
+      "repo": "basecamp/omarchy",
+      "url": "https://github.com/basecamp/omarchy",
+      "stars_today": 803,
+      "total_stars": 28606,
       "language": "Shell",
-      "description": "Sponsor Star obra / superpowers An agentic skills framework & software development methodology that works."
+      "description": "Star basecamp / omarchy Beautiful, Modern & Opinionated Linux"
     },
     {
-      "repo": "mahlernim/google-timeline-visualizer",
-      "url": "https://github.com/mahlernim/google-timeline-visualizer",
-      "stars_today": 441,
-      "total_stars": 2645,
-      "language": "Kotlin",
-      "description": "Star mahlernim / google-timeline-visualizer Visualize your year in travel using your Google Location History (Timeline) data"
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "stars_today": 628,
+      "total_stars": 12374,
+      "language": "JavaScript",
+      "description": "Star freestylefly / awesome-gpt-image-2 Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中"
+    },
+    {
+      "repo": "block/buzz",
+      "url": "https://github.com/block/buzz",
+      "stars_today": 564,
+      "total_stars": 29879,
+      "language": "Rust",
+      "description": "Star block / buzz A hive mind communication platform"
+    },
+    {
+      "repo": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "stars_today": 443,
+      "total_stars": 234576,
+      "language": "Python",
+      "description": "Star NousResearch / hermes-agent The agent that grows with you"
+    },
+    {
+      "repo": "virgiliojr94/book-to-skill",
+      "url": "https://github.com/virgiliojr94/book-to-skill",
+      "stars_today": 423,
+      "total_stars": 24316,
+      "language": "Python",
+      "description": "Sponsor Star virgiliojr94 / book-to-skill Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work."
     },
     {
       "repo": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "stars_today": 411,
-      "total_stars": 242340,
+      "total_stars": 242356,
       "language": "JavaScript",
       "description": "Sponsor Star affaan-m / ECC The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
     },
     {
-      "repo": "modular/modular",
-      "url": "https://github.com/modular/modular",
-      "stars_today": 395,
-      "total_stars": 28916,
-      "language": "Mojo",
-      "description": "Star modular / modular The Modular Platform (includes MAX & Mojo)"
+      "repo": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "stars_today": 251,
+      "total_stars": 68910,
+      "language": "TypeScript",
+      "description": "Star ruvnet / ruflo 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated"
     },
     {
-      "repo": "multica-ai/andrej-karpathy-skills",
-      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-      "stars_today": 315,
-      "total_stars": 205549,
+      "repo": "VoltAgent/awesome-agent-skills",
+      "url": "https://github.com/VoltAgent/awesome-agent-skills",
+      "stars_today": 237,
+      "total_stars": 30998,
       "language": "",
-      "description": "Star multica-ai / andrej-karpathy-skills A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls."
+      "description": "Sponsor Star VoltAgent / awesome-agent-skills A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more."
     },
     {
-      "repo": "cursor/plugins",
-      "url": "https://github.com/cursor/plugins",
-      "stars_today": 286,
-      "total_stars": 4743,
-      "language": "TypeScript",
-      "description": "Star cursor / plugins Cursor plugin specification and official plugins"
-    },
-    {
-      "repo": "PostHog/posthog",
-      "url": "https://github.com/PostHog/posthog",
-      "stars_today": 286,
-      "total_stars": 38744,
+      "repo": "anthropics/claude-plugins-community",
+      "url": "https://github.com/anthropics/claude-plugins-community",
+      "stars_today": 190,
+      "total_stars": 696,
       "language": "Python",
-      "description": "Star PostHog / posthog 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP."
+      "description": "Star anthropics / claude-plugins-community Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission."
     },
     {
-      "repo": "Wei-Shaw/sub2api",
-      "url": "https://github.com/Wei-Shaw/sub2api",
-      "stars_today": 278,
-      "total_stars": 38953,
-      "language": "Go",
-      "description": "Star Wei-Shaw / sub2api Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。"
-    },
-    {
-      "repo": "makeplane/plane",
-      "url": "https://github.com/makeplane/plane",
-      "stars_today": 263,
-      "total_stars": 57407,
-      "language": "TypeScript",
-      "description": "Star makeplane / plane 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage."
-    },
-    {
-      "repo": "Tencent/AI-Infra-Guard",
-      "url": "https://github.com/Tencent/AI-Infra-Guard",
-      "stars_today": 150,
-      "total_stars": 5640,
+      "repo": "Comfy-Org/ComfyUI",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "stars_today": 179,
+      "total_stars": 129104,
       "language": "Python",
-      "description": "Star Tencent / AI-Infra-Guard A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation."
+      "description": "Star Comfy-Org / ComfyUI The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface."
     },
     {
-      "repo": "n8n-io/n8n",
-      "url": "https://github.com/n8n-io/n8n",
-      "stars_today": 149,
-      "total_stars": 202026,
+      "repo": "apache/maka",
+      "url": "https://github.com/apache/maka",
+      "stars_today": 171,
+      "total_stars": 2184,
       "language": "TypeScript",
-      "description": "Star n8n-io / n8n Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations."
+      "description": "Star apache / maka Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log."
     },
     {
-      "repo": "anthropics/claude-code",
-      "url": "https://github.com/anthropics/claude-code",
-      "stars_today": 127,
-      "total_stars": 142696,
-      "language": "Python",
-      "description": "Star anthropics / claude-code Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
+      "repo": "dani-garcia/vaultwarden",
+      "url": "https://github.com/dani-garcia/vaultwarden",
+      "stars_today": 68,
+      "total_stars": 65866,
+      "language": "Rust",
+      "description": "Sponsor Star dani-garcia / vaultwarden Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs"
     },
     {
-      "repo": "microsoft/TypeScript",
-      "url": "https://github.com/microsoft/TypeScript",
-      "stars_today": 104,
-      "total_stars": 110605,
-      "language": "Go",
-      "description": "Star microsoft / TypeScript TypeScript is a superset of JavaScript that compiles to clean JavaScript output."
+      "repo": "tinyhumansai/openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "stars_today": 51,
+      "total_stars": 36516,
+      "language": "Rust",
+      "description": "Star tinyhumansai / openhuman Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher."
     }
   ]
 }
