@@ -1,24 +1,24 @@
 # GitHub 24h Star 增长榜
 
-- 生成时间: 2026-08-24 07:39:35 +0800
+- 生成时间: 2026-08-24 10:00:28 +0800
 
 | 排名 | 项目 | 24h 增长 | 总 Stars | 链接 |
 |---:|---|---:|---:|---|
-| 1 | `openai/codex` | 2729 | 115123 | [跳转](https://github.com/openai/codex) |
-| 2 | `mattpocock/skills` | 2448 | 233806 | [跳转](https://github.com/mattpocock/skills) |
-| 3 | `Alishahryar1/free-claude-code` | 1040 | 47931 | [跳转](https://github.com/Alishahryar1/free-claude-code) |
-| 4 | `AprilNEA/OpenLogi` | 1008 | 14894 | [跳转](https://github.com/AprilNEA/OpenLogi) |
-| 5 | `basecamp/omarchy` | 814 | 29094 | [跳转](https://github.com/basecamp/omarchy) |
-| 6 | `ripienaar/free-for-dev` | 593 | 134401 | [跳转](https://github.com/ripienaar/free-for-dev) |
-| 7 | `NousResearch/hermes-agent` | 519 | 234959 | [跳转](https://github.com/NousResearch/hermes-agent) |
-| 8 | `freestylefly/awesome-gpt-image-2` | 440 | 12674 | [跳转](https://github.com/freestylefly/awesome-gpt-image-2) |
-| 9 | `affaan-m/ECC` | 427 | 242542 | [跳转](https://github.com/affaan-m/ECC) |
-| 10 | `virgiliojr94/book-to-skill` | 423 | 24628 | [跳转](https://github.com/virgiliojr94/book-to-skill) |
-| 11 | `block/buzz` | 349 | 30086 | [跳转](https://github.com/block/buzz) |
-| 12 | `anthropics/claude-plugins-community` | 257 | 921 | [跳转](https://github.com/anthropics/claude-plugins-community) |
-| 13 | `VoltAgent/awesome-agent-skills` | 223 | 31271 | [跳转](https://github.com/VoltAgent/awesome-agent-skills) |
-| 14 | `Comfy-Org/ComfyUI` | 179 | 129362 | [跳转](https://github.com/Comfy-Org/ComfyUI) |
-| 15 | `ruvnet/ruflo` | 134 | 69059 | [跳转](https://github.com/ruvnet/ruflo) |
-| 16 | `tinyhumansai/openhuman` | 106 | 36724 | [跳转](https://github.com/tinyhumansai/openhuman) |
-| 17 | `dani-garcia/vaultwarden` | 95 | 65952 | [跳转](https://github.com/dani-garcia/vaultwarden) |
-| 18 | `apache/maka` | 49 | 2333 | [跳转](https://github.com/apache/maka) |
+| 1 | `openai/codex` | 2715 | 115363 | [跳转](https://github.com/openai/codex) |
+| 2 | `mattpocock/skills` | 2447 | 233941 | [跳转](https://github.com/mattpocock/skills) |
+| 3 | `Alishahryar1/free-claude-code` | 1081 | 48009 | [跳转](https://github.com/Alishahryar1/free-claude-code) |
+| 4 | `AprilNEA/OpenLogi` | 1009 | 14998 | [跳转](https://github.com/AprilNEA/OpenLogi) |
+| 5 | `basecamp/omarchy` | 750 | 29177 | [跳转](https://github.com/basecamp/omarchy) |
+| 6 | `ripienaar/free-for-dev` | 615 | 134459 | [跳转](https://github.com/ripienaar/free-for-dev) |
+| 7 | `NousResearch/hermes-agent` | 454 | 235030 | [跳转](https://github.com/NousResearch/hermes-agent) |
+| 8 | `affaan-m/ECC` | 427 | 242579 | [跳转](https://github.com/affaan-m/ECC) |
+| 9 | `virgiliojr94/book-to-skill` | 417 | 24698 | [跳转](https://github.com/virgiliojr94/book-to-skill) |
+| 10 | `block/buzz` | 410 | 30136 | [跳转](https://github.com/block/buzz) |
+| 11 | `freestylefly/awesome-gpt-image-2` | 401 | 12862 | [跳转](https://github.com/freestylefly/awesome-gpt-image-2) |
+| 12 | `anthropics/claude-plugins-community` | 225 | 985 | [跳转](https://github.com/anthropics/claude-plugins-community) |
+| 13 | `Comfy-Org/ComfyUI` | 201 | 129422 | [跳转](https://github.com/Comfy-Org/ComfyUI) |
+| 14 | `VoltAgent/awesome-agent-skills` | 156 | 31329 | [跳转](https://github.com/VoltAgent/awesome-agent-skills) |
+| 15 | `ruvnet/ruflo` | 131 | 69097 | [跳转](https://github.com/ruvnet/ruflo) |
+| 16 | `dani-garcia/vaultwarden` | 78 | 65970 | [跳转](https://github.com/dani-garcia/vaultwarden) |
+| 17 | `apache/maka` | 51 | 2371 | [跳转](https://github.com/apache/maka) |
+| 18 | `tinyhumansai/openhuman` | 39 | 36787 | [跳转](https://github.com/tinyhumansai/openhuman) |
