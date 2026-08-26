@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-08-27T04:12:21.499182+08:00",
+  "generated_at": "2026-08-27T07:44:28.170749+08:00",
   "count": 16,
   "items": [
     {
       "repo": "freestylefly/awesome-gpt-image-2",
       "url": "https://github.com/freestylefly/awesome-gpt-image-2",
       "stars_today": 4044,
-      "total_stars": 21165,
+      "total_stars": 21246,
       "language": "JavaScript",
       "description": "Star freestylefly / awesome-gpt-image-2 Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中"
     },
@@ -16,7 +16,7 @@
       "repo": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
       "stars_today": 1598,
-      "total_stars": 112362,
+      "total_stars": 112518,
       "language": "JavaScript",
       "description": "Sponsor Star DietrichGebert / ponytail Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
     },
@@ -24,7 +24,7 @@
       "repo": "MadsLorentzen/ai-job-search",
       "url": "https://github.com/MadsLorentzen/ai-job-search",
       "stars_today": 1299,
-      "total_stars": 36324,
+      "total_stars": 36441,
       "language": "Python",
       "description": "Sponsor Star MadsLorentzen / ai-job-search The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it."
     },
@@ -32,7 +32,7 @@
       "repo": "basecamp/omarchy",
       "url": "https://github.com/basecamp/omarchy",
       "stars_today": 1021,
-      "total_stars": 31912,
+      "total_stars": 31978,
       "language": "Shell",
       "description": "Star basecamp / omarchy Beautiful, Modern & Opinionated Linux"
     },
@@ -40,7 +40,7 @@
       "repo": "tt-a1i/archify",
       "url": "https://github.com/tt-a1i/archify",
       "stars_today": 1002,
-      "total_stars": 17587,
+      "total_stars": 17847,
       "language": "HTML",
       "description": "Star tt-a1i / archify Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export."
     },
@@ -48,7 +48,7 @@
       "repo": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "stars_today": 837,
-      "total_stars": 49534,
+      "total_stars": 49566,
       "language": "Python",
       "description": "Sponsor Star rohitg00 / ai-engineering-from-scratch Learn it. Build it. Ship it for others."
     },
@@ -56,7 +56,7 @@
       "repo": "AgriciDaniel/claude-obsidian",
       "url": "https://github.com/AgriciDaniel/claude-obsidian",
       "stars_today": 812,
-      "total_stars": 13322,
+      "total_stars": 13404,
       "language": "Python",
       "description": "Star AgriciDaniel / claude-obsidian Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern."
     },
@@ -64,7 +64,7 @@
       "repo": "Alishahryar1/free-claude-code",
       "url": "https://github.com/Alishahryar1/free-claude-code",
       "stars_today": 566,
-      "total_stars": 50287,
+      "total_stars": 50360,
       "language": "Python",
       "description": "Star Alishahryar1 / free-claude-code Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)"
     },
@@ -72,7 +72,7 @@
       "repo": "anthropics/claude-plugins-community",
       "url": "https://github.com/anthropics/claude-plugins-community",
       "stars_today": 537,
-      "total_stars": 2138,
+      "total_stars": 2180,
       "language": "Python",
       "description": "Star anthropics / claude-plugins-community Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission."
     },
@@ -80,7 +80,7 @@
       "repo": "tinyhumansai/openhuman",
       "url": "https://github.com/tinyhumansai/openhuman",
       "stars_today": 522,
-      "total_stars": 38147,
+      "total_stars": 38197,
       "language": "Rust",
       "description": "Star tinyhumansai / openhuman Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher."
     },
@@ -88,7 +88,7 @@
       "repo": "marin-community/marin",
       "url": "https://github.com/marin-community/marin",
       "stars_today": 443,
-      "total_stars": 2423,
+      "total_stars": 2450,
       "language": "Python",
       "description": "Star marin-community / marin Open-source framework for the research and development of foundation models."
     },
@@ -96,7 +96,7 @@
       "repo": "anthropics/claude-plugins-official",
       "url": "https://github.com/anthropics/claude-plugins-official",
       "stars_today": 307,
-      "total_stars": 34320,
+      "total_stars": 34354,
       "language": "Python",
       "description": "Star anthropics / claude-plugins-official Official, Anthropic-managed directory of high quality Claude Code Plugins."
     },
@@ -104,7 +104,7 @@
       "repo": "VoltAgent/awesome-agent-skills",
       "url": "https://github.com/VoltAgent/awesome-agent-skills",
       "stars_today": 305,
-      "total_stars": 32575,
+      "total_stars": 32620,
       "language": "",
       "description": "Sponsor Star VoltAgent / awesome-agent-skills A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more."
     },
@@ -112,7 +112,7 @@
       "repo": "ConardLi/garden-skills",
       "url": "https://github.com/ConardLi/garden-skills",
       "stars_today": 136,
-      "total_stars": 10875,
+      "total_stars": 10906,
       "language": "CSS",
       "description": "Star ConardLi / garden-skills ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more."
     },
@@ -120,7 +120,7 @@
       "repo": "browser-use/browser-use",
       "url": "https://github.com/browser-use/browser-use",
       "stars_today": 135,
-      "total_stars": 110859,
+      "total_stars": 110953,
       "language": "Python",
       "description": "Star browser-use / browser-use 🌐 Make websites accessible for AI agents. Automate tasks online with ease."
     },
@@ -128,7 +128,7 @@
       "repo": "K-Dense-AI/scientific-agent-skills",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "stars_today": 130,
-      "total_stars": 34667,
+      "total_stars": 34715,
       "language": "Python",
       "description": "Star K-Dense-AI / scientific-agent-skills Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard."
     }
