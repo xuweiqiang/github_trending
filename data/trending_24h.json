@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-08-30T08:25:46.114184+08:00",
+  "generated_at": "2026-08-30T14:47:07.201465+08:00",
   "count": 19,
   "items": [
     {
       "repo": "tt-a1i/archify",
       "url": "https://github.com/tt-a1i/archify",
       "stars_today": 3902,
-      "total_stars": 31058,
+      "total_stars": 31887,
       "language": "JavaScript",
       "description": "Star tt-a1i / archify Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export."
     },
@@ -16,7 +16,7 @@
       "repo": "bilawalsidhu/gods-eye-view",
       "url": "https://github.com/bilawalsidhu/gods-eye-view",
       "stars_today": 1855,
-      "total_stars": 12625,
+      "total_stars": 12930,
       "language": "JavaScript",
       "description": "Star bilawalsidhu / gods-eye-view A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe."
     },
@@ -24,7 +24,7 @@
       "repo": "K-Dense-AI/scientific-agent-skills",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "stars_today": 1587,
-      "total_stars": 37944,
+      "total_stars": 38136,
       "language": "Python",
       "description": "Star K-Dense-AI / scientific-agent-skills Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard."
     },
@@ -32,7 +32,7 @@
       "repo": "THU-MAIC/OpenMAIC",
       "url": "https://github.com/THU-MAIC/OpenMAIC",
       "stars_today": 907,
-      "total_stars": 22227,
+      "total_stars": 22579,
       "language": "TypeScript",
       "description": "Star THU-MAIC / OpenMAIC Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click"
     },
@@ -40,7 +40,7 @@
       "repo": "calesthio/OpenMontage",
       "url": "https://github.com/calesthio/OpenMontage",
       "stars_today": 806,
-      "total_stars": 54063,
+      "total_stars": 54232,
       "language": "Python",
       "description": "Sponsor Star calesthio / OpenMontage World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio."
     },
@@ -48,7 +48,7 @@
       "repo": "tailscale/tailcat",
       "url": "https://github.com/tailscale/tailcat",
       "stars_today": 789,
-      "total_stars": 3486,
+      "total_stars": 3727,
       "language": "Go",
       "description": "Star tailscale / tailcat like netcat, but over Tailscale's data plane, without Tailscale's control plane"
     },
@@ -56,7 +56,7 @@
       "repo": "abi/screenshot-to-code",
       "url": "https://github.com/abi/screenshot-to-code",
       "stars_today": 550,
-      "total_stars": 76038,
+      "total_stars": 76130,
       "language": "Python",
       "description": "Sponsor Star abi / screenshot-to-code Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)"
     },
@@ -64,7 +64,7 @@
       "repo": "every-app/open-seo",
       "url": "https://github.com/every-app/open-seo",
       "stars_today": 517,
-      "total_stars": 14640,
+      "total_stars": 14756,
       "language": "TypeScript",
       "description": "Star every-app / open-seo Open source alternative to Semrush and Ahrefs"
     },
@@ -72,7 +72,7 @@
       "repo": "anthropics/claude-plugins-official",
       "url": "https://github.com/anthropics/claude-plugins-official",
       "stars_today": 358,
-      "total_stars": 35405,
+      "total_stars": 35505,
       "language": "Python",
       "description": "Star anthropics / claude-plugins-official Official, Anthropic-managed directory of high quality Claude Code Plugins."
     },
@@ -80,7 +80,7 @@
       "repo": "JetBrains/go-modern-guidelines",
       "url": "https://github.com/JetBrains/go-modern-guidelines",
       "stars_today": 303,
-      "total_stars": 2870,
+      "total_stars": 2918,
       "language": "Go",
       "description": "Star JetBrains / go-modern-guidelines Help AI coding agents write modern Go"
     },
@@ -88,7 +88,7 @@
       "repo": "workweave/router",
       "url": "https://github.com/workweave/router",
       "stars_today": 284,
-      "total_stars": 2716,
+      "total_stars": 2885,
       "language": "Go",
       "description": "Star workweave / router Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change."
     },
@@ -96,7 +96,7 @@
       "repo": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "stars_today": 196,
-      "total_stars": 90710,
+      "total_stars": 90797,
       "language": "JavaScript",
       "description": "Star addyosmani / agent-skills Production-grade engineering skills for AI coding agents."
     },
@@ -104,7 +104,7 @@
       "repo": "p-e-w/heretic",
       "url": "https://github.com/p-e-w/heretic",
       "stars_today": 150,
-      "total_stars": 28696,
+      "total_stars": 28801,
       "language": "Python",
       "description": "Star p-e-w / heretic Fully automatic censorship removal for language models"
     },
@@ -112,7 +112,7 @@
       "repo": "google/googletest",
       "url": "https://github.com/google/googletest",
       "stars_today": 128,
-      "total_stars": 39320,
+      "total_stars": 39342,
       "language": "C++",
       "description": "Star google / googletest GoogleTest - Google Testing and Mocking Framework"
     },
@@ -120,7 +120,7 @@
       "repo": "ComposioHQ/awesome-claude-skills",
       "url": "https://github.com/ComposioHQ/awesome-claude-skills",
       "stars_today": 73,
-      "total_stars": 73921,
+      "total_stars": 73984,
       "language": "Python",
       "description": "Star ComposioHQ / awesome-claude-skills A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows"
     },
@@ -128,7 +128,7 @@
       "repo": "kaifcodec/user-scanner",
       "url": "https://github.com/kaifcodec/user-scanner",
       "stars_today": 39,
-      "total_stars": 3549,
+      "total_stars": 3730,
       "language": "Python",
       "description": "Sponsor Star kaifcodec / user-scanner 🕵️‍♂️ (2-in-1) Email & Username OSINT suite for deep data extraction just from a single Email/Username. Analyzes 455+ actively maintained scan vectors (175+ email / 280+ username) for security research, investigations, and digital footprinting."
     },
@@ -136,7 +136,7 @@
       "repo": "Osmantic/ODS",
       "url": "https://github.com/Osmantic/ODS",
       "stars_today": 35,
-      "total_stars": 4913,
+      "total_stars": 5047,
       "language": "Python",
       "description": "Star Osmantic / ODS Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation."
     },
@@ -144,7 +144,7 @@
       "repo": "bigskysoftware/htmx",
       "url": "https://github.com/bigskysoftware/htmx",
       "stars_today": 32,
-      "total_stars": 49117,
+      "total_stars": 49173,
       "language": "JavaScript",
       "description": "Sponsor Star bigskysoftware / htmx </> htmx - high power tools for HTML"
     },
@@ -152,7 +152,7 @@
       "repo": "actions/checkout",
       "url": "https://github.com/actions/checkout",
       "stars_today": 5,
-      "total_stars": 8803,
+      "total_stars": 8815,
       "language": "TypeScript",
       "description": "Star actions / checkout Action for checking out a repo"
     }
