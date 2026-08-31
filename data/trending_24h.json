@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-09-01T04:11:34.222564+08:00",
+  "generated_at": "2026-09-01T07:55:01.957882+08:00",
   "count": 16,
   "items": [
     {
       "repo": "tt-a1i/archify",
       "url": "https://github.com/tt-a1i/archify",
       "stars_today": 3993,
-      "total_stars": 38233,
+      "total_stars": 38587,
       "language": "JavaScript",
       "description": "Star tt-a1i / archify Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export."
     },
@@ -16,7 +16,7 @@
       "repo": "THU-MAIC/OpenMAIC",
       "url": "https://github.com/THU-MAIC/OpenMAIC",
       "stars_today": 2819,
-      "total_stars": 26701,
+      "total_stars": 26931,
       "language": "TypeScript",
       "description": "Star THU-MAIC / OpenMAIC Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click"
     },
@@ -24,7 +24,7 @@
       "repo": "K-Dense-AI/scientific-agent-skills",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "stars_today": 1968,
-      "total_stars": 40622,
+      "total_stars": 40696,
       "language": "Python",
       "description": "Star K-Dense-AI / scientific-agent-skills Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard."
     },
@@ -32,7 +32,7 @@
       "repo": "zhaoxuya520/reverse-skill",
       "url": "https://github.com/zhaoxuya520/reverse-skill",
       "stars_today": 1439,
-      "total_stars": 33022,
+      "total_stars": 33094,
       "language": "PowerShell",
       "description": "Star zhaoxuya520 / reverse-skill Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端"
     },
@@ -40,7 +40,7 @@
       "repo": "every-app/open-seo",
       "url": "https://github.com/every-app/open-seo",
       "stars_today": 608,
-      "total_stars": 15681,
+      "total_stars": 15736,
       "language": "TypeScript",
       "description": "Star every-app / open-seo Open source alternative to Semrush and Ahrefs"
     },
@@ -48,7 +48,7 @@
       "repo": "handsomestWei/patent-disclosure-skill",
       "url": "https://github.com/handsomestWei/patent-disclosure-skill",
       "stars_today": 571,
-      "total_stars": 6183,
+      "total_stars": 6194,
       "language": "Python",
       "description": "Star handsomestWei / patent-disclosure-skill 中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。"
     },
@@ -56,7 +56,7 @@
       "repo": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "stars_today": 548,
-      "total_stars": 245144,
+      "total_stars": 245233,
       "language": "JavaScript",
       "description": "Sponsor Star affaan-m / ECC The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
     },
@@ -64,7 +64,7 @@
       "repo": "p-e-w/heretic",
       "url": "https://github.com/p-e-w/heretic",
       "stars_today": 536,
-      "total_stars": 29569,
+      "total_stars": 29638,
       "language": "Python",
       "description": "Star p-e-w / heretic Fully automatic censorship removal for language models"
     },
@@ -72,7 +72,7 @@
       "repo": "k1tbyte/Wand-Enhancer",
       "url": "https://github.com/k1tbyte/Wand-Enhancer",
       "stars_today": 511,
-      "total_stars": 23302,
+      "total_stars": 23364,
       "language": "C#",
       "description": "Star k1tbyte / Wand-Enhancer Advanced UX and interoperability extension for Wand (WeMod) app"
     },
@@ -80,7 +80,7 @@
       "repo": "jingyaogong/minimind",
       "url": "https://github.com/jingyaogong/minimind",
       "stars_today": 472,
-      "total_stars": 55995,
+      "total_stars": 56073,
       "language": "Python",
       "description": "Star jingyaogong / minimind 🧠 Train a 64M-parameter LLM from scratch in just 2h!"
     },
@@ -88,7 +88,7 @@
       "repo": "pollen-robotics/microduck_rl",
       "url": "https://github.com/pollen-robotics/microduck_rl",
       "stars_today": 384,
-      "total_stars": 1107,
+      "total_stars": 1125,
       "language": "Python",
       "description": "Star pollen-robotics / microduck_rl RL training environments for Microduck (mjlab)"
     },
@@ -96,7 +96,7 @@
       "repo": "majd/ipatool",
       "url": "https://github.com/majd/ipatool",
       "stars_today": 376,
-      "total_stars": 10489,
+      "total_stars": 10517,
       "language": "Go",
       "description": "Star majd / ipatool Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store."
     },
@@ -104,7 +104,7 @@
       "repo": "checkstyle/checkstyle",
       "url": "https://github.com/checkstyle/checkstyle",
       "stars_today": 199,
-      "total_stars": 9380,
+      "total_stars": 9405,
       "language": "Java",
       "description": "Star checkstyle / checkstyle Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program."
     },
@@ -112,7 +112,7 @@
       "repo": "firecrawl/pdf-inspector",
       "url": "https://github.com/firecrawl/pdf-inspector",
       "stars_today": 199,
-      "total_stars": 17295,
+      "total_stars": 17345,
       "language": "Rust",
       "description": "Star firecrawl / pdf-inspector Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions."
     },
@@ -120,7 +120,7 @@
       "repo": "kaifcodec/user-scanner",
       "url": "https://github.com/kaifcodec/user-scanner",
       "stars_today": 184,
-      "total_stars": 4144,
+      "total_stars": 4220,
       "language": "Python",
       "description": "Sponsor Star kaifcodec / user-scanner 🕵️‍♂️ (2-in-1) Email & Username OSINT suite for deep data extraction just from a single Email/Username. Analyzes 465+ actively maintained scan vectors (175+ email / 290+ username) for security research, investigations, and digital footprinting."
     },
@@ -128,7 +128,7 @@
       "repo": "Osmantic/ODS",
       "url": "https://github.com/Osmantic/ODS",
       "stars_today": 163,
-      "total_stars": 5392,
+      "total_stars": 5471,
       "language": "Python",
       "description": "Star Osmantic / ODS Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation."
     }
