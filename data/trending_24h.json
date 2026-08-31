@@ -1,160 +1,160 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-08-31T07:35:29.064177+08:00",
+  "generated_at": "2026-08-31T13:46:12.693947+08:00",
   "count": 19,
   "items": [
     {
       "repo": "tt-a1i/archify",
       "url": "https://github.com/tt-a1i/archify",
-      "stars_today": 3730,
-      "total_stars": 34408,
+      "stars_today": 3722,
+      "total_stars": 35652,
       "language": "JavaScript",
       "description": "Star tt-a1i / archify Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export."
     },
     {
       "repo": "THU-MAIC/OpenMAIC",
       "url": "https://github.com/THU-MAIC/OpenMAIC",
-      "stars_today": 1625,
-      "total_stars": 23893,
+      "stars_today": 1370,
+      "total_stars": 24768,
       "language": "TypeScript",
       "description": "Star THU-MAIC / OpenMAIC Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click"
     },
     {
       "repo": "K-Dense-AI/scientific-agent-skills",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "stars_today": 1113,
-      "total_stars": 39170,
+      "stars_today": 1114,
+      "total_stars": 39702,
       "language": "Python",
       "description": "Star K-Dense-AI / scientific-agent-skills Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard."
     },
     {
-      "repo": "every-app/open-seo",
-      "url": "https://github.com/every-app/open-seo",
-      "stars_today": 511,
-      "total_stars": 15130,
-      "language": "TypeScript",
-      "description": "Star every-app / open-seo Open source alternative to Semrush and Ahrefs"
-    },
-    {
       "repo": "tashfeenahmed/freellmapi",
       "url": "https://github.com/tashfeenahmed/freellmapi",
-      "stars_today": 505,
-      "total_stars": 22752,
+      "stars_today": 504,
+      "total_stars": 22975,
       "language": "TypeScript",
       "description": "Star tashfeenahmed / freellmapi 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only."
     },
     {
+      "repo": "every-app/open-seo",
+      "url": "https://github.com/every-app/open-seo",
+      "stars_today": 469,
+      "total_stars": 15309,
+      "language": "TypeScript",
+      "description": "Star every-app / open-seo Open source alternative to Semrush and Ahrefs"
+    },
+    {
       "repo": "p-e-w/heretic",
       "url": "https://github.com/p-e-w/heretic",
-      "stars_today": 485,
-      "total_stars": 29147,
+      "stars_today": 369,
+      "total_stars": 29286,
       "language": "Python",
       "description": "Star p-e-w / heretic Fully automatic censorship removal for language models"
     },
     {
       "repo": "Lakr233/vphone-cli",
       "url": "https://github.com/Lakr233/vphone-cli",
-      "stars_today": 341,
-      "total_stars": 9587,
+      "stars_today": 361,
+      "total_stars": 9793,
       "language": "Swift",
       "description": ""
     },
     {
       "repo": "mvanhorn/last30days-skill",
       "url": "https://github.com/mvanhorn/last30days-skill",
-      "stars_today": 271,
-      "total_stars": 60491,
+      "stars_today": 230,
+      "total_stars": 60619,
       "language": "Python",
       "description": "Star mvanhorn / last30days-skill AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
     },
     {
       "repo": "unclecode/crawl4ai",
       "url": "https://github.com/unclecode/crawl4ai",
-      "stars_today": 229,
-      "total_stars": 80216,
+      "stars_today": 221,
+      "total_stars": 80370,
       "language": "Python",
       "description": "Sponsor Star unclecode / crawl4ai 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN"
     },
     {
       "repo": "NationalSecurityAgency/ghidra",
       "url": "https://github.com/NationalSecurityAgency/ghidra",
-      "stars_today": 196,
-      "total_stars": 73880,
+      "stars_today": 198,
+      "total_stars": 74008,
       "language": "Java",
       "description": "Star NationalSecurityAgency / ghidra Ghidra is a software reverse engineering (SRE) framework"
     },
     {
-      "repo": "majd/ipatool",
-      "url": "https://github.com/majd/ipatool",
-      "stars_today": 182,
-      "total_stars": 10191,
-      "language": "Go",
-      "description": "Star majd / ipatool Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store."
-    },
-    {
       "repo": "abhigyanpatwari/GitNexus",
       "url": "https://github.com/abhigyanpatwari/GitNexus",
-      "stars_today": 181,
-      "total_stars": 46555,
+      "stars_today": 182,
+      "total_stars": 46640,
       "language": "TypeScript",
       "description": "Sponsor Star abhigyanpatwari / GitNexus GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration"
     },
     {
       "repo": "pollen-robotics/microduck_rl",
       "url": "https://github.com/pollen-robotics/microduck_rl",
-      "stars_today": 147,
-      "total_stars": 776,
+      "stars_today": 168,
+      "total_stars": 882,
       "language": "Python",
       "description": "Star pollen-robotics / microduck_rl RL training environments for Microduck (mjlab)"
     },
     {
       "repo": "livekit/agents",
       "url": "https://github.com/livekit/agents",
-      "stars_today": 131,
-      "total_stars": 13743,
+      "stars_today": 132,
+      "total_stars": 13834,
       "language": "Python",
       "description": "Star livekit / agents A framework for building realtime voice AI agents 🤖🎙️📹"
     },
     {
-      "repo": "checkstyle/checkstyle",
-      "url": "https://github.com/checkstyle/checkstyle",
-      "stars_today": 124,
-      "total_stars": 9189,
-      "language": "Java",
-      "description": "Star checkstyle / checkstyle Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program."
-    },
-    {
       "repo": "corsairdev/corsair",
       "url": "https://github.com/corsairdev/corsair",
-      "stars_today": 99,
-      "total_stars": 10934,
+      "stars_today": 126,
+      "total_stars": 11032,
       "language": "TypeScript",
       "description": "Star corsairdev / corsair Connect your users to their apps"
     },
     {
-      "repo": "colinhacks/zod",
-      "url": "https://github.com/colinhacks/zod",
-      "stars_today": 76,
-      "total_stars": 43643,
-      "language": "TypeScript",
-      "description": "Sponsor Star colinhacks / zod TypeScript-first schema validation with static type inference"
+      "repo": "checkstyle/checkstyle",
+      "url": "https://github.com/checkstyle/checkstyle",
+      "stars_today": 115,
+      "total_stars": 9246,
+      "language": "Java",
+      "description": "Star checkstyle / checkstyle Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program."
     },
     {
       "repo": "punkpeye/awesome-mcp-servers",
       "url": "https://github.com/punkpeye/awesome-mcp-servers",
-      "stars_today": 65,
-      "total_stars": 93298,
+      "stars_today": 96,
+      "total_stars": 93452,
       "language": "",
       "description": "Star punkpeye / awesome-mcp-servers A collection of MCP servers."
     },
     {
       "repo": "handsomestWei/patent-disclosure-skill",
       "url": "https://github.com/handsomestWei/patent-disclosure-skill",
-      "stars_today": 38,
-      "total_stars": 5630,
+      "stars_today": 62,
+      "total_stars": 5854,
       "language": "Python",
       "description": "Star handsomestWei / patent-disclosure-skill 中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。"
+    },
+    {
+      "repo": "majd/ipatool",
+      "url": "https://github.com/majd/ipatool",
+      "stars_today": 58,
+      "total_stars": 10300,
+      "language": "Go",
+      "description": "Star majd / ipatool Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store."
+    },
+    {
+      "repo": "colinhacks/zod",
+      "url": "https://github.com/colinhacks/zod",
+      "stars_today": 31,
+      "total_stars": 43678,
+      "language": "TypeScript",
+      "description": "Sponsor Star colinhacks / zod TypeScript-first schema validation with static type inference"
     }
   ]
 }
