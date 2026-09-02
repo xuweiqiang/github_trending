@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-09-02T08:19:27.921680+08:00",
+  "generated_at": "2026-09-02T12:46:00.577688+08:00",
   "count": 14,
   "items": [
     {
       "repo": "THU-MAIC/OpenMAIC",
       "url": "https://github.com/THU-MAIC/OpenMAIC",
       "stars_today": 3128,
-      "total_stars": 29451,
+      "total_stars": 29748,
       "language": "TypeScript",
       "description": "Star THU-MAIC / OpenMAIC Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click"
     },
@@ -16,7 +16,7 @@
       "repo": "jingyaogong/minimind",
       "url": "https://github.com/jingyaogong/minimind",
       "stars_today": 1005,
-      "total_stars": 57036,
+      "total_stars": 57266,
       "language": "Python",
       "description": "Star jingyaogong / minimind 🧠 Train a 64M-parameter LLM from scratch in just 2h!"
     },
@@ -24,7 +24,7 @@
       "repo": "K-Dense-AI/scientific-agent-skills",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "stars_today": 912,
-      "total_stars": 41522,
+      "total_stars": 41684,
       "language": "Python",
       "description": "Star K-Dense-AI / scientific-agent-skills Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard."
     },
@@ -32,7 +32,7 @@
       "repo": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "stars_today": 623,
-      "total_stars": 245753,
+      "total_stars": 245832,
       "language": "JavaScript",
       "description": "Sponsor Star affaan-m / ECC The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
     },
@@ -40,7 +40,7 @@
       "repo": "iv-org/invidious",
       "url": "https://github.com/iv-org/invidious",
       "stars_today": 577,
-      "total_stars": 23759,
+      "total_stars": 23830,
       "language": "Crystal",
       "description": "Star iv-org / invidious Invidious is an alternative front-end to YouTube"
     },
@@ -48,7 +48,7 @@
       "repo": "firecrawl/pdf-inspector",
       "url": "https://github.com/firecrawl/pdf-inspector",
       "stars_today": 541,
-      "total_stars": 17911,
+      "total_stars": 18052,
       "language": "Rust",
       "description": "Star firecrawl / pdf-inspector Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions."
     },
@@ -56,7 +56,7 @@
       "repo": "handsomestWei/patent-disclosure-skill",
       "url": "https://github.com/handsomestWei/patent-disclosure-skill",
       "stars_today": 501,
-      "total_stars": 6682,
+      "total_stars": 6839,
       "language": "Python",
       "description": "Star handsomestWei / patent-disclosure-skill 中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。"
     },
@@ -64,7 +64,7 @@
       "repo": "browser-use/video-use",
       "url": "https://github.com/browser-use/video-use",
       "stars_today": 472,
-      "total_stars": 22920,
+      "total_stars": 23100,
       "language": "Python",
       "description": "Star browser-use / video-use Edit videos with coding agents"
     },
@@ -72,7 +72,7 @@
       "repo": "VoltAgent/awesome-design-md",
       "url": "https://github.com/VoltAgent/awesome-design-md",
       "stars_today": 323,
-      "total_stars": 112718,
+      "total_stars": 113013,
       "language": "",
       "description": "Sponsor Star VoltAgent / awesome-design-md A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI."
     },
@@ -80,7 +80,7 @@
       "repo": "Imbad0202/academic-research-skills",
       "url": "https://github.com/Imbad0202/academic-research-skills",
       "stars_today": 193,
-      "total_stars": 44876,
+      "total_stars": 45064,
       "language": "Python",
       "description": "Star Imbad0202 / academic-research-skills Academic Research Skills for Claude Code: research → write → review → revise → finalize"
     },
@@ -88,7 +88,7 @@
       "repo": "unclecode/crawl4ai",
       "url": "https://github.com/unclecode/crawl4ai",
       "stars_today": 145,
-      "total_stars": 80843,
+      "total_stars": 80932,
       "language": "Python",
       "description": "Sponsor Star unclecode / crawl4ai 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN"
     },
@@ -96,7 +96,7 @@
       "repo": "3b1b/manim",
       "url": "https://github.com/3b1b/manim",
       "stars_today": 86,
-      "total_stars": 92544,
+      "total_stars": 92651,
       "language": "Python",
       "description": "Star 3b1b / manim Animation engine for explanatory math videos"
     },
@@ -104,7 +104,7 @@
       "repo": "Gitlawb/openclaude",
       "url": "https://github.com/Gitlawb/openclaude",
       "stars_today": 80,
-      "total_stars": 31277,
+      "total_stars": 31466,
       "language": "TypeScript",
       "description": "Star Gitlawb / openclaude runs anywhere. uses anything"
     },
@@ -112,7 +112,7 @@
       "repo": "averygan/reclip",
       "url": "https://github.com/averygan/reclip",
       "stars_today": 56,
-      "total_stars": 7638,
+      "total_stars": 7815,
       "language": "HTML",
       "description": "Star averygan / reclip Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI."
     }
