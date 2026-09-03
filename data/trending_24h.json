@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-09-03T08:21:01.330831+08:00",
+  "generated_at": "2026-09-03T12:43:35.940959+08:00",
   "count": 19,
   "items": [
     {
       "repo": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
       "stars_today": 1354,
-      "total_stars": 121496,
+      "total_stars": 121993,
       "language": "JavaScript",
       "description": "Sponsor Star DietrichGebert / ponytail Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
     },
@@ -16,7 +16,7 @@
       "repo": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "stars_today": 1166,
-      "total_stars": 245213,
+      "total_stars": 245469,
       "language": "Shell",
       "description": "Sponsor Star mattpocock / skills Skills for Real Engineers. Straight from my .agents directory."
     },
@@ -24,7 +24,7 @@
       "repo": "pacifio/atlas",
       "url": "https://github.com/pacifio/atlas",
       "stars_today": 888,
-      "total_stars": 2863,
+      "total_stars": 2985,
       "language": "Rust",
       "description": "Star pacifio / atlas Source control for agents. Use multiple coding agents, track their changes and query them in one place"
     },
@@ -32,7 +32,7 @@
       "repo": "debpalash/VoiceStudio",
       "url": "https://github.com/debpalash/VoiceStudio",
       "stars_today": 832,
-      "total_stars": 14683,
+      "total_stars": 15073,
       "language": "Python",
       "description": "Star debpalash / VoiceStudio VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
     },
@@ -40,7 +40,7 @@
       "repo": "Imbad0202/academic-research-skills",
       "url": "https://github.com/Imbad0202/academic-research-skills",
       "stars_today": 799,
-      "total_stars": 45548,
+      "total_stars": 45651,
       "language": "Python",
       "description": "Star Imbad0202 / academic-research-skills Academic Research Skills for Claude Code: research → write → review → revise → finalize"
     },
@@ -48,7 +48,7 @@
       "repo": "Gitlawb/openclaude",
       "url": "https://github.com/Gitlawb/openclaude",
       "stars_today": 775,
-      "total_stars": 31972,
+      "total_stars": 32049,
       "language": "TypeScript",
       "description": "Star Gitlawb / openclaude runs anywhere. uses anything"
     },
@@ -56,7 +56,7 @@
       "repo": "firecrawl/pdf-inspector",
       "url": "https://github.com/firecrawl/pdf-inspector",
       "stars_today": 586,
-      "total_stars": 18496,
+      "total_stars": 18596,
       "language": "Rust",
       "description": "Star firecrawl / pdf-inspector Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions."
     },
@@ -64,7 +64,7 @@
       "repo": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "stars_today": 533,
-      "total_stars": 240116,
+      "total_stars": 240244,
       "language": "Python",
       "description": "Star NousResearch / hermes-agent The agent that grows with you"
     },
@@ -72,7 +72,7 @@
       "repo": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "stars_today": 516,
-      "total_stars": 246325,
+      "total_stars": 246459,
       "language": "JavaScript",
       "description": "Sponsor Star affaan-m / ECC The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
     },
@@ -80,7 +80,7 @@
       "repo": "blader/humanizer",
       "url": "https://github.com/blader/humanizer",
       "stars_today": 374,
-      "total_stars": 40359,
+      "total_stars": 40604,
       "language": "Python",
       "description": "Star blader / humanizer Agent skill that removes signs of AI-generated writing from text"
     },
@@ -88,7 +88,7 @@
       "repo": "google-research/timesfm",
       "url": "https://github.com/google-research/timesfm",
       "stars_today": 343,
-      "total_stars": 29754,
+      "total_stars": 30063,
       "language": "Python",
       "description": "Star google-research / timesfm TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting."
     },
@@ -96,7 +96,7 @@
       "repo": "JuliusBrussee/caveman",
       "url": "https://github.com/JuliusBrussee/caveman",
       "stars_today": 238,
-      "total_stars": 102625,
+      "total_stars": 102725,
       "language": "Go",
       "description": "Sponsor Star JuliusBrussee / caveman 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman"
     },
@@ -104,7 +104,7 @@
       "repo": "ChromeDevTools/chrome-devtools-mcp",
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "stars_today": 148,
-      "total_stars": 50627,
+      "total_stars": 50707,
       "language": "TypeScript",
       "description": "Star ChromeDevTools / chrome-devtools-mcp Chrome DevTools for coding agents"
     },
@@ -112,7 +112,7 @@
       "repo": "vercel-labs/portless",
       "url": "https://github.com/vercel-labs/portless",
       "stars_today": 73,
-      "total_stars": 11743,
+      "total_stars": 11855,
       "language": "TypeScript",
       "description": "Star vercel-labs / portless Replace port numbers with stable, named local URLs. For humans and agents."
     },
@@ -120,7 +120,7 @@
       "repo": "sngyai/Sequoia-X",
       "url": "https://github.com/sngyai/Sequoia-X",
       "stars_today": 63,
-      "total_stars": 6036,
+      "total_stars": 6234,
       "language": "Python",
       "description": "Star sngyai / Sequoia-X A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书"
     },
@@ -128,7 +128,7 @@
       "repo": "superlinked/sie",
       "url": "https://github.com/superlinked/sie",
       "stars_today": 60,
-      "total_stars": 3050,
+      "total_stars": 3107,
       "language": "Python",
       "description": "Star superlinked / sie Open-source inference server and production cluster for all the models your agent needs."
     },
@@ -136,7 +136,7 @@
       "repo": "zyronon/TypeWords",
       "url": "https://github.com/zyronon/TypeWords",
       "stars_today": 21,
-      "total_stars": 9296,
+      "total_stars": 9413,
       "language": "Vue",
       "description": "Star zyronon / TypeWords Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步；"
     },
@@ -144,7 +144,7 @@
       "repo": "protocolbuffers/protobuf",
       "url": "https://github.com/protocolbuffers/protobuf",
       "stars_today": 18,
-      "total_stars": 71934,
+      "total_stars": 71955,
       "language": "C++",
       "description": "Star protocolbuffers / protobuf Protocol Buffers - Google's data interchange format"
     },
@@ -152,7 +152,7 @@
       "repo": "fmtlib/fmt",
       "url": "https://github.com/fmtlib/fmt",
       "stars_today": 14,
-      "total_stars": 24231,
+      "total_stars": 24409,
       "language": "C++",
       "description": "Star fmtlib / fmt A modern formatting library"
     }
