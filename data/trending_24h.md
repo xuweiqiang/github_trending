@@ -1,25 +1,23 @@
 # GitHub 24h Star 增长榜
 
-- 生成时间: 2026-09-04 17:43:39 +0800
+- 生成时间: 2026-09-04 22:24:27 +0800
 
 | 排名 | 项目 | 24h 增长 | 总 Stars | 链接 |
 |---:|---|---:|---:|---|
-| 1 | `DietrichGebert/ponytail` | 2128 | 124133 | [跳转](https://github.com/DietrichGebert/ponytail) |
-| 2 | `debpalash/VoiceStudio` | 1672 | 16876 | [跳转](https://github.com/debpalash/VoiceStudio) |
-| 3 | `google-research/timesfm` | 1618 | 30858 | [跳转](https://github.com/google-research/timesfm) |
-| 4 | `mattpocock/skills` | 1601 | 248521 | [跳转](https://github.com/mattpocock/skills) |
-| 5 | `blader/humanizer` | 1208 | 42011 | [跳转](https://github.com/blader/humanizer) |
-| 6 | `fmtlib/fmt` | 963 | 25362 | [跳转](https://github.com/fmtlib/fmt) |
-| 7 | `NousResearch/hermes-agent` | 774 | 241144 | [跳转](https://github.com/NousResearch/hermes-agent) |
-| 8 | `affaan-m/ECC` | 751 | 247641 | [跳转](https://github.com/affaan-m/ECC) |
-| 9 | `JuliusBrussee/caveman` | 543 | 103306 | [跳转](https://github.com/JuliusBrussee/caveman) |
-| 10 | `bannedbook/fanqiang` | 522 | 52551 | [跳转](https://github.com/bannedbook/fanqiang) |
-| 11 | `Imbad0202/academic-research-skills` | 496 | 46174 | [跳转](https://github.com/Imbad0202/academic-research-skills) |
-| 12 | `obra/superpowers` | 462 | 281582 | [跳转](https://github.com/obra/superpowers) |
-| 13 | `Gitlawb/openclaude` | 451 | 32475 | [跳转](https://github.com/Gitlawb/openclaude) |
-| 14 | `anthropics/skills` | 281 | 173865 | [跳转](https://github.com/anthropics/skills) |
-| 15 | `addyosmani/agent-skills` | 264 | 92161 | [跳转](https://github.com/addyosmani/agent-skills) |
-| 16 | `ByteByteGoHq/system-design-101` | 171 | 88611 | [跳转](https://github.com/ByteByteGoHq/system-design-101) |
-| 17 | `f/prompts.chat` | 168 | 169240 | [跳转](https://github.com/f/prompts.chat) |
-| 18 | `magnitudedev/magnitude` | 161 | 2119 | [跳转](https://github.com/magnitudedev/magnitude) |
-| 19 | `averygan/reclip` | 88 | 8648 | [跳转](https://github.com/averygan/reclip) |
+| 1 | `mattpocock/skills` | 2757 | 249221 | [跳转](https://github.com/mattpocock/skills) |
+| 2 | `DietrichGebert/ponytail` | 1683 | 124668 | [跳转](https://github.com/DietrichGebert/ponytail) |
+| 3 | `debpalash/VoiceStudio` | 1345 | 17113 | [跳转](https://github.com/debpalash/VoiceStudio) |
+| 4 | `affaan-m/ECC` | 1139 | 247946 | [跳转](https://github.com/affaan-m/ECC) |
+| 5 | `blader/humanizer` | 1132 | 42239 | [跳转](https://github.com/blader/humanizer) |
+| 6 | `clshortfuse/renodx` | 759 | 3435 | [跳转](https://github.com/clshortfuse/renodx) |
+| 7 | `bannedbook/fanqiang` | 735 | 52648 | [跳转](https://github.com/bannedbook/fanqiang) |
+| 8 | `NousResearch/hermes-agent` | 721 | 241265 | [跳转](https://github.com/NousResearch/hermes-agent) |
+| 9 | `fmtlib/fmt` | 681 | 25413 | [跳转](https://github.com/fmtlib/fmt) |
+| 10 | `anthropics/skills` | 512 | 173954 | [跳转](https://github.com/anthropics/skills) |
+| 11 | `JuliusBrussee/caveman` | 503 | 103405 | [跳转](https://github.com/JuliusBrussee/caveman) |
+| 12 | `cathrynlavery/diagram-design` | 426 | 30630 | [跳转](https://github.com/cathrynlavery/diagram-design) |
+| 13 | `magnitudedev/magnitude` | 395 | 2195 | [跳转](https://github.com/magnitudedev/magnitude) |
+| 14 | `google-research/timesfm` | 340 | 30918 | [跳转](https://github.com/google-research/timesfm) |
+| 15 | `anomalyco/opencode` | 314 | 203800 | [跳转](https://github.com/anomalyco/opencode) |
+| 16 | `bikini/exploitarium` | 68 | 4417 | [跳转](https://github.com/bikini/exploitarium) |
+| 17 | `radixark/miles` | 55 | 2483 | [跳转](https://github.com/radixark/miles) |
