@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-09-04T22:24:27.343588+08:00",
+  "generated_at": "2026-09-05T02:28:44.769529+08:00",
   "count": 17,
   "items": [
     {
       "repo": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "stars_today": 2757,
-      "total_stars": 249221,
+      "total_stars": 249842,
       "language": "Shell",
       "description": "Sponsor Star mattpocock / skills Skills for Real Engineers. Straight from my .agents directory."
     },
@@ -16,7 +16,7 @@
       "repo": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
       "stars_today": 1683,
-      "total_stars": 124668,
+      "total_stars": 125176,
       "language": "JavaScript",
       "description": "Sponsor Star DietrichGebert / ponytail Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
     },
@@ -24,7 +24,7 @@
       "repo": "debpalash/VoiceStudio",
       "url": "https://github.com/debpalash/VoiceStudio",
       "stars_today": 1345,
-      "total_stars": 17113,
+      "total_stars": 17530,
       "language": "Python",
       "description": "Star debpalash / VoiceStudio VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
     },
@@ -32,7 +32,7 @@
       "repo": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "stars_today": 1139,
-      "total_stars": 247946,
+      "total_stars": 248206,
       "language": "JavaScript",
       "description": "Sponsor Star affaan-m / ECC The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
     },
@@ -40,7 +40,7 @@
       "repo": "blader/humanizer",
       "url": "https://github.com/blader/humanizer",
       "stars_today": 1132,
-      "total_stars": 42239,
+      "total_stars": 42500,
       "language": "Python",
       "description": "Star blader / humanizer Agent skill that removes signs of AI-generated writing from text"
     },
@@ -48,7 +48,7 @@
       "repo": "clshortfuse/renodx",
       "url": "https://github.com/clshortfuse/renodx",
       "stars_today": 759,
-      "total_stars": 3435,
+      "total_stars": 3479,
       "language": "HLSL",
       "description": "Star clshortfuse / renodx Renovation Engine for DirectX Games"
     },
@@ -56,7 +56,7 @@
       "repo": "bannedbook/fanqiang",
       "url": "https://github.com/bannedbook/fanqiang",
       "stars_today": 735,
-      "total_stars": 52648,
+      "total_stars": 52725,
       "language": "Kotlin",
       "description": "Star bannedbook / fanqiang 翻墙-科学上网"
     },
@@ -64,7 +64,7 @@
       "repo": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "stars_today": 721,
-      "total_stars": 241265,
+      "total_stars": 241371,
       "language": "Python",
       "description": "Star NousResearch / hermes-agent The agent that grows with you"
     },
@@ -72,7 +72,7 @@
       "repo": "fmtlib/fmt",
       "url": "https://github.com/fmtlib/fmt",
       "stars_today": 681,
-      "total_stars": 25413,
+      "total_stars": 25437,
       "language": "C++",
       "description": "Star fmtlib / fmt A modern formatting library"
     },
@@ -80,7 +80,7 @@
       "repo": "anthropics/skills",
       "url": "https://github.com/anthropics/skills",
       "stars_today": 512,
-      "total_stars": 173954,
+      "total_stars": 174030,
       "language": "Python",
       "description": "Star anthropics / skills Public repository for Agent Skills"
     },
@@ -88,7 +88,7 @@
       "repo": "JuliusBrussee/caveman",
       "url": "https://github.com/JuliusBrussee/caveman",
       "stars_today": 503,
-      "total_stars": 103405,
+      "total_stars": 103485,
       "language": "Go",
       "description": "Sponsor Star JuliusBrussee / caveman 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman"
     },
@@ -96,7 +96,7 @@
       "repo": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "stars_today": 426,
-      "total_stars": 30630,
+      "total_stars": 30777,
       "language": "HTML",
       "description": "Star cathrynlavery / diagram-design 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop."
     },
@@ -104,7 +104,7 @@
       "repo": "magnitudedev/magnitude",
       "url": "https://github.com/magnitudedev/magnitude",
       "stars_today": 395,
-      "total_stars": 2195,
+      "total_stars": 2293,
       "language": "TypeScript",
       "description": "Star magnitudedev / magnitude Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline."
     },
@@ -112,7 +112,7 @@
       "repo": "google-research/timesfm",
       "url": "https://github.com/google-research/timesfm",
       "stars_today": 340,
-      "total_stars": 30918,
+      "total_stars": 30978,
       "language": "Python",
       "description": "Star google-research / timesfm TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting."
     },
@@ -120,7 +120,7 @@
       "repo": "anomalyco/opencode",
       "url": "https://github.com/anomalyco/opencode",
       "stars_today": 314,
-      "total_stars": 203800,
+      "total_stars": 203950,
       "language": "TypeScript",
       "description": "Sponsor Star anomalyco / opencode The open source coding agent."
     },
@@ -128,7 +128,7 @@
       "repo": "bikini/exploitarium",
       "url": "https://github.com/bikini/exploitarium",
       "stars_today": 68,
-      "total_stars": 4417,
+      "total_stars": 4463,
       "language": "Python",
       "description": "Star bikini / exploitarium A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way."
     },
@@ -136,7 +136,7 @@
       "repo": "radixark/miles",
       "url": "https://github.com/radixark/miles",
       "stars_today": 55,
-      "total_stars": 2483,
+      "total_stars": 2517,
       "language": "Python",
       "description": "Star radixark / miles Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked from and co-evolving with slime."
     }
