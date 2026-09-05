@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-09-06T00:07:11.656839+08:00",
+  "generated_at": "2026-09-06T02:23:39.212982+08:00",
   "count": 16,
   "items": [
     {
       "repo": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
       "stars_today": 2813,
-      "total_stars": 127470,
+      "total_stars": 127631,
       "language": "JavaScript",
       "description": "Sponsor Star DietrichGebert / ponytail Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
     },
@@ -16,7 +16,7 @@
       "repo": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "stars_today": 2666,
-      "total_stars": 251894,
+      "total_stars": 252114,
       "language": "Shell",
       "description": "Sponsor Star mattpocock / skills Skills for Real Engineers. Straight from my .agents directory."
     },
@@ -24,7 +24,7 @@
       "repo": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "stars_today": 1325,
-      "total_stars": 249380,
+      "total_stars": 249548,
       "language": "JavaScript",
       "description": "Sponsor Star affaan-m / ECC The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
     },
@@ -32,7 +32,7 @@
       "repo": "blader/humanizer",
       "url": "https://github.com/blader/humanizer",
       "stars_today": 988,
-      "total_stars": 43255,
+      "total_stars": 43333,
       "language": "Python",
       "description": "Star blader / humanizer Agent skill that removes signs of AI-generated writing from text"
     },
@@ -40,7 +40,7 @@
       "repo": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "stars_today": 852,
-      "total_stars": 31501,
+      "total_stars": 31560,
       "language": "HTML",
       "description": "Star cathrynlavery / diagram-design 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop."
     },
@@ -48,7 +48,7 @@
       "repo": "anomalyco/opencode",
       "url": "https://github.com/anomalyco/opencode",
       "stars_today": 725,
-      "total_stars": 204510,
+      "total_stars": 204568,
       "language": "TypeScript",
       "description": "Sponsor Star anomalyco / opencode The open source coding agent."
     },
@@ -56,7 +56,7 @@
       "repo": "magnitudedev/magnitude",
       "url": "https://github.com/magnitudedev/magnitude",
       "stars_today": 686,
-      "total_stars": 2977,
+      "total_stars": 3063,
       "language": "TypeScript",
       "description": "Star magnitudedev / magnitude Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline."
     },
@@ -64,7 +64,7 @@
       "repo": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "stars_today": 573,
-      "total_stars": 241843,
+      "total_stars": 241892,
       "language": "Python",
       "description": "Star NousResearch / hermes-agent The agent that grows with you"
     },
@@ -72,7 +72,7 @@
       "repo": "anthropics/skills",
       "url": "https://github.com/anthropics/skills",
       "stars_today": 472,
-      "total_stars": 174436,
+      "total_stars": 174474,
       "language": "Python",
       "description": "Star anthropics / skills Public repository for Agent Skills"
     },
@@ -80,7 +80,7 @@
       "repo": "humanlayer/skills",
       "url": "https://github.com/humanlayer/skills",
       "stars_today": 408,
-      "total_stars": 2580,
+      "total_stars": 2617,
       "language": "TypeScript",
       "description": ""
     },
@@ -88,7 +88,7 @@
       "repo": "bikini/exploitarium",
       "url": "https://github.com/bikini/exploitarium",
       "stars_today": 232,
-      "total_stars": 4641,
+      "total_stars": 4658,
       "language": "Python",
       "description": "Star bikini / exploitarium A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way."
     },
@@ -96,7 +96,7 @@
       "repo": "WorldFlowAI/everything-claude-code",
       "url": "https://github.com/WorldFlowAI/everything-claude-code",
       "stars_today": 139,
-      "total_stars": 2228,
+      "total_stars": 2263,
       "language": "JavaScript",
       "description": "Star WorldFlowAI / everything-claude-code Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development"
     },
@@ -104,7 +104,7 @@
       "repo": "fmtlib/fmt",
       "url": "https://github.com/fmtlib/fmt",
       "stars_today": 133,
-      "total_stars": 25550,
+      "total_stars": 25556,
       "language": "C++",
       "description": "Star fmtlib / fmt A modern formatting library"
     },
@@ -112,7 +112,7 @@
       "repo": "ruvnet/ruflo",
       "url": "https://github.com/ruvnet/ruflo",
       "stars_today": 127,
-      "total_stars": 70601,
+      "total_stars": 70630,
       "language": "TypeScript",
       "description": "Star ruvnet / ruflo 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated"
     },
@@ -120,7 +120,7 @@
       "repo": "BraveOPotato/FckSignups",
       "url": "https://github.com/BraveOPotato/FckSignups",
       "stars_today": 50,
-      "total_stars": 2735,
+      "total_stars": 2776,
       "language": "TypeScript",
       "description": "Star BraveOPotato / FckSignups A list of tools that are open-source, in-browser, and require no-signups!"
     },
@@ -128,7 +128,7 @@
       "repo": "nvm-sh/nvm",
       "url": "https://github.com/nvm-sh/nvm",
       "stars_today": 17,
-      "total_stars": 94866,
+      "total_stars": 94881,
       "language": "Shell",
       "description": "Star nvm-sh / nvm Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump"
     }
