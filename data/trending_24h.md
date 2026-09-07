@@ -1,24 +1,20 @@
 # GitHub 24h Star 增长榜
 
-- 生成时间: 2026-09-07 18:28:15 +0800
+- 生成时间: 2026-09-08 00:31:53 +0800
 
 | 排名 | 项目 | 24h 增长 | 总 Stars | 链接 |
 |---:|---|---:|---:|---|
-| 1 | `mattpocock/skills` | 2207 | 255601 | [跳转](https://github.com/mattpocock/skills) |
-| 2 | `DietrichGebert/ponytail` | 1539 | 130247 | [跳转](https://github.com/DietrichGebert/ponytail) |
-| 3 | `affaan-m/ECC` | 1485 | 252195 | [跳转](https://github.com/affaan-m/ECC) |
-| 4 | `blader/humanizer` | 748 | 44741 | [跳转](https://github.com/blader/humanizer) |
-| 5 | `cathrynlavery/diagram-design` | 620 | 33008 | [跳转](https://github.com/cathrynlavery/diagram-design) |
-| 6 | `magnitudedev/magnitude` | 604 | 3900 | [跳转](https://github.com/magnitudedev/magnitude) |
-| 7 | `anomalyco/opencode` | 551 | 205538 | [跳转](https://github.com/anomalyco/opencode) |
-| 8 | `NousResearch/hermes-agent` | 520 | 242829 | [跳转](https://github.com/NousResearch/hermes-agent) |
-| 9 | `humanlayer/skills` | 451 | 3354 | [跳转](https://github.com/humanlayer/skills) |
-| 10 | `BraveOPotato/FckSignups` | 436 | 3543 | [跳转](https://github.com/BraveOPotato/FckSignups) |
-| 11 | `coreyhaines31/marketingskills` | 329 | 47777 | [跳转](https://github.com/coreyhaines31/marketingskills) |
-| 12 | `ruvnet/ruflo` | 276 | 71175 | [跳转](https://github.com/ruvnet/ruflo) |
-| 13 | `aipoch/open-science` | 146 | 4044 | [跳转](https://github.com/aipoch/open-science) |
-| 14 | `The-Swarm-Corporation/AutoHedge` | 142 | 4965 | [跳转](https://github.com/The-Swarm-Corporation/AutoHedge) |
-| 15 | `Stremio/stremio-web` | 122 | 13645 | [跳转](https://github.com/Stremio/stremio-web) |
-| 16 | `OpenWhispr/openwhispr` | 121 | 7701 | [跳转](https://github.com/OpenWhispr/openwhispr) |
-| 17 | `openai/skills` | 46 | 25777 | [跳转](https://github.com/openai/skills) |
-| 18 | `llvm/llvm-project` | 23 | 40295 | [跳转](https://github.com/llvm/llvm-project) |
+| 1 | `affaan-m/ECC` | 1905 | 252495 | [跳转](https://github.com/affaan-m/ECC) |
+| 2 | `microsoft/markitdown` | 771 | 179736 | [跳转](https://github.com/microsoft/markitdown) |
+| 3 | `heygen-com/hyperframes` | 734 | 45242 | [跳转](https://github.com/heygen-com/hyperframes) |
+| 4 | `coreyhaines31/marketingskills` | 602 | 47955 | [跳转](https://github.com/coreyhaines31/marketingskills) |
+| 5 | `The-Swarm-Corporation/AutoHedge` | 541 | 5100 | [跳转](https://github.com/The-Swarm-Corporation/AutoHedge) |
+| 6 | `BraveOPotato/FckSignups` | 497 | 3674 | [跳转](https://github.com/BraveOPotato/FckSignups) |
+| 7 | `ruvnet/ruflo` | 392 | 71274 | [跳转](https://github.com/ruvnet/ruflo) |
+| 8 | `openai/skills` | 372 | 25893 | [跳转](https://github.com/openai/skills) |
+| 9 | `bytedance/deer-flow` | 188 | 81743 | [跳转](https://github.com/bytedance/deer-flow) |
+| 10 | `MoonTechLab/LunaTV` | 171 | 9642 | [跳转](https://github.com/MoonTechLab/LunaTV) |
+| 11 | `mksglu/context-mode` | 147 | 20661 | [跳转](https://github.com/mksglu/context-mode) |
+| 12 | `pascalorg/editor` | 136 | 22181 | [跳转](https://github.com/pascalorg/editor) |
+| 13 | `jo-inc/camofox-browser` | 117 | 9465 | [跳转](https://github.com/jo-inc/camofox-browser) |
+| 14 | `lightpanda-io/browser` | 116 | 34717 | [跳转](https://github.com/lightpanda-io/browser) |

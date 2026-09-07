@@ -1,152 +1,120 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-09-07T18:28:15.131547+08:00",
-  "count": 18,
+  "generated_at": "2026-09-08T00:31:53.056251+08:00",
+  "count": 14,
   "items": [
-    {
-      "repo": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "stars_today": 2207,
-      "total_stars": 255601,
-      "language": "Shell",
-      "description": "Sponsor Star mattpocock / skills Skills for Real Engineers. Straight from my .agents directory."
-    },
-    {
-      "repo": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "stars_today": 1539,
-      "total_stars": 130247,
-      "language": "JavaScript",
-      "description": "Sponsor Star DietrichGebert / ponytail Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
-    },
     {
       "repo": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "stars_today": 1485,
-      "total_stars": 252195,
+      "stars_today": 1905,
+      "total_stars": 252495,
       "language": "JavaScript",
       "description": "Sponsor Star affaan-m / ECC The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
     },
     {
-      "repo": "blader/humanizer",
-      "url": "https://github.com/blader/humanizer",
-      "stars_today": 748,
-      "total_stars": 44741,
+      "repo": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "stars_today": 771,
+      "total_stars": 179736,
       "language": "Python",
-      "description": "Star blader / humanizer Agent skill that removes signs of AI-generated writing from text"
+      "description": "Star microsoft / markitdown Python tool for converting files and office documents to Markdown."
     },
     {
-      "repo": "cathrynlavery/diagram-design",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "stars_today": 620,
-      "total_stars": 33008,
-      "language": "HTML",
-      "description": "Star cathrynlavery / diagram-design 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop."
-    },
-    {
-      "repo": "magnitudedev/magnitude",
-      "url": "https://github.com/magnitudedev/magnitude",
-      "stars_today": 604,
-      "total_stars": 3900,
+      "repo": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "stars_today": 734,
+      "total_stars": 45242,
       "language": "TypeScript",
-      "description": "Star magnitudedev / magnitude Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline."
-    },
-    {
-      "repo": "anomalyco/opencode",
-      "url": "https://github.com/anomalyco/opencode",
-      "stars_today": 551,
-      "total_stars": 205538,
-      "language": "TypeScript",
-      "description": "Sponsor Star anomalyco / opencode The open source coding agent."
-    },
-    {
-      "repo": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "stars_today": 520,
-      "total_stars": 242829,
-      "language": "Python",
-      "description": "Star NousResearch / hermes-agent The agent that grows with you"
-    },
-    {
-      "repo": "humanlayer/skills",
-      "url": "https://github.com/humanlayer/skills",
-      "stars_today": 451,
-      "total_stars": 3354,
-      "language": "TypeScript",
-      "description": ""
-    },
-    {
-      "repo": "BraveOPotato/FckSignups",
-      "url": "https://github.com/BraveOPotato/FckSignups",
-      "stars_today": 436,
-      "total_stars": 3543,
-      "language": "TypeScript",
-      "description": "Star BraveOPotato / FckSignups A list of tools that are open-source, in-browser, and require no-signups!"
+      "description": "Star heygen-com / hyperframes Write HTML. Render video. Built for agents."
     },
     {
       "repo": "coreyhaines31/marketingskills",
       "url": "https://github.com/coreyhaines31/marketingskills",
-      "stars_today": 329,
-      "total_stars": 47777,
+      "stars_today": 602,
+      "total_stars": 47955,
       "language": "JavaScript",
       "description": "Sponsor Star coreyhaines31 / marketingskills Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering."
     },
     {
-      "repo": "ruvnet/ruflo",
-      "url": "https://github.com/ruvnet/ruflo",
-      "stars_today": 276,
-      "total_stars": 71175,
-      "language": "TypeScript",
-      "description": "Star ruvnet / ruflo 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated"
-    },
-    {
-      "repo": "aipoch/open-science",
-      "url": "https://github.com/aipoch/open-science",
-      "stars_today": 146,
-      "total_stars": 4044,
-      "language": "TypeScript",
-      "description": "Star aipoch / open-science Open Science by AIPOCH is an open-source, local-first, model-agnostic AI research workbench for macOS, Windows, and Linux, with scientific agents, Python/R notebooks, data connectors, and reproducible provenance."
-    },
-    {
       "repo": "The-Swarm-Corporation/AutoHedge",
       "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
-      "stars_today": 142,
-      "total_stars": 4965,
+      "stars_today": 541,
+      "total_stars": 5100,
       "language": "Python",
       "description": "Star The-Swarm-Corporation / AutoHedge Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution."
     },
     {
-      "repo": "Stremio/stremio-web",
-      "url": "https://github.com/Stremio/stremio-web",
-      "stars_today": 122,
-      "total_stars": 13645,
-      "language": "JavaScript",
-      "description": "Star Stremio / stremio-web Stremio - Freedom to Stream"
+      "repo": "BraveOPotato/FckSignups",
+      "url": "https://github.com/BraveOPotato/FckSignups",
+      "stars_today": 497,
+      "total_stars": 3674,
+      "language": "TypeScript",
+      "description": "Star BraveOPotato / FckSignups A list of tools that are open-source, in-browser, and require no-signups!"
     },
     {
-      "repo": "OpenWhispr/openwhispr",
-      "url": "https://github.com/OpenWhispr/openwhispr",
-      "stars_today": 121,
-      "total_stars": 7701,
-      "language": "JavaScript",
-      "description": "Star OpenWhispr / openwhispr Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform."
+      "repo": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "stars_today": 392,
+      "total_stars": 71274,
+      "language": "TypeScript",
+      "description": "Star ruvnet / ruflo 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated"
     },
     {
       "repo": "openai/skills",
       "url": "https://github.com/openai/skills",
-      "stars_today": 46,
-      "total_stars": 25777,
+      "stars_today": 372,
+      "total_stars": 25893,
       "language": "Python",
       "description": "Star openai / skills Skills Catalog for Codex"
     },
     {
-      "repo": "llvm/llvm-project",
-      "url": "https://github.com/llvm/llvm-project",
-      "stars_today": 23,
-      "total_stars": 40295,
-      "language": "LLVM",
-      "description": "Sponsor Star llvm / llvm-project The LLVM Project is a collection of modular and reusable compiler and toolchain technologies."
+      "repo": "bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "stars_today": 188,
+      "total_stars": 81743,
+      "language": "Python",
+      "description": "Star bytedance / deer-flow An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours."
+    },
+    {
+      "repo": "MoonTechLab/LunaTV",
+      "url": "https://github.com/MoonTechLab/LunaTV",
+      "stars_today": 171,
+      "total_stars": 9642,
+      "language": "TypeScript",
+      "description": "Star MoonTechLab / LunaTV 本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源"
+    },
+    {
+      "repo": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "stars_today": 147,
+      "total_stars": 20661,
+      "language": "TypeScript",
+      "description": "Sponsor Star mksglu / context-mode Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks."
+    },
+    {
+      "repo": "pascalorg/editor",
+      "url": "https://github.com/pascalorg/editor",
+      "stars_today": 136,
+      "total_stars": 22181,
+      "language": "TypeScript",
+      "description": "Star pascalorg / editor Create and share 3D architectural projects."
+    },
+    {
+      "repo": "jo-inc/camofox-browser",
+      "url": "https://github.com/jo-inc/camofox-browser",
+      "stars_today": 117,
+      "total_stars": 9465,
+      "language": "JavaScript",
+      "description": "Star jo-inc / camofox-browser Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement."
+    },
+    {
+      "repo": "lightpanda-io/browser",
+      "url": "https://github.com/lightpanda-io/browser",
+      "stars_today": 116,
+      "total_stars": 34717,
+      "language": "Zig",
+      "description": "Star lightpanda-io / browser Lightpanda: the headless browser designed for AI and automation"
     }
   ]
 }
