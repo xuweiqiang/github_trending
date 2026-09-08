@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-09-08T22:38:12.540771+08:00",
+  "generated_at": "2026-09-09T02:47:00.159574+08:00",
   "count": 16,
   "items": [
     {
       "repo": "heygen-com/hyperframes",
       "url": "https://github.com/heygen-com/hyperframes",
       "stars_today": 2628,
-      "total_stars": 47436,
+      "total_stars": 47580,
       "language": "TypeScript",
       "description": "Star heygen-com / hyperframes Write HTML. Render video. Built for agents."
     },
@@ -16,7 +16,7 @@
       "repo": "microsoft/markitdown",
       "url": "https://github.com/microsoft/markitdown",
       "stars_today": 2045,
-      "total_stars": 181367,
+      "total_stars": 181518,
       "language": "Python",
       "description": "Star microsoft / markitdown Python tool for converting files and office documents to Markdown."
     },
@@ -24,15 +24,15 @@
       "repo": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "stars_today": 1426,
-      "total_stars": 253830,
+      "total_stars": 254055,
       "language": "JavaScript",
       "description": "Sponsor Star affaan-m / ECC The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
     },
     {
       "repo": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
-      "stars_today": 1070,
-      "total_stars": 34025,
+      "stars_today": 1020,
+      "total_stars": 34404,
       "language": "HTML",
       "description": "Star cathrynlavery / diagram-design 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop."
     },
@@ -40,7 +40,7 @@
       "repo": "jo-inc/camofox-browser",
       "url": "https://github.com/jo-inc/camofox-browser",
       "stars_today": 872,
-      "total_stars": 10255,
+      "total_stars": 10366,
       "language": "JavaScript",
       "description": "Star jo-inc / camofox-browser Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement."
     },
@@ -48,7 +48,7 @@
       "repo": "coreyhaines31/marketingskills",
       "url": "https://github.com/coreyhaines31/marketingskills",
       "stars_today": 666,
-      "total_stars": 48556,
+      "total_stars": 48679,
       "language": "JavaScript",
       "description": "Sponsor Star coreyhaines31 / marketingskills Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering."
     },
@@ -56,7 +56,7 @@
       "repo": "mksglu/context-mode",
       "url": "https://github.com/mksglu/context-mode",
       "stars_today": 652,
-      "total_stars": 21242,
+      "total_stars": 21309,
       "language": "TypeScript",
       "description": "Sponsor Star mksglu / context-mode Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks."
     },
@@ -64,7 +64,7 @@
       "repo": "MoonTechLab/LunaTV",
       "url": "https://github.com/MoonTechLab/LunaTV",
       "stars_today": 505,
-      "total_stars": 10099,
+      "total_stars": 10134,
       "language": "TypeScript",
       "description": "Star MoonTechLab / LunaTV 本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源"
     },
@@ -72,7 +72,7 @@
       "repo": "The-Swarm-Corporation/AutoHedge",
       "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
       "stars_today": 494,
-      "total_stars": 5532,
+      "total_stars": 5611,
       "language": "Python",
       "description": "Star The-Swarm-Corporation / AutoHedge Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution."
     },
@@ -80,7 +80,7 @@
       "repo": "openai/skills",
       "url": "https://github.com/openai/skills",
       "stars_today": 490,
-      "total_stars": 26342,
+      "total_stars": 26428,
       "language": "Python",
       "description": "Star openai / skills Skills Catalog for Codex"
     },
@@ -88,7 +88,7 @@
       "repo": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "stars_today": 446,
-      "total_stars": 283143,
+      "total_stars": 283233,
       "language": "Shell",
       "description": "Sponsor Star obra / superpowers An agentic skills framework & software development methodology that works."
     },
@@ -96,41 +96,41 @@
       "repo": "ayghri/i-have-adhd",
       "url": "https://github.com/ayghri/i-have-adhd",
       "stars_today": 422,
-      "total_stars": 28608,
+      "total_stars": 29485,
       "language": "Python",
       "description": "Star ayghri / i-have-adhd A skill to stop your coding agent from burying the answer. ADHD-friendly output."
-    },
-    {
-      "repo": "browser-use/browser-use",
-      "url": "https://github.com/browser-use/browser-use",
-      "stars_today": 330,
-      "total_stars": 113172,
-      "language": "Python",
-      "description": "Star browser-use / browser-use 🌐 Make websites accessible for AI agents. Automate tasks online with ease."
     },
     {
       "repo": "multica-ai/andrej-karpathy-skills",
       "url": "https://github.com/multica-ai/andrej-karpathy-skills",
       "stars_today": 325,
-      "total_stars": 211169,
+      "total_stars": 211321,
       "language": "",
       "description": "Star multica-ai / andrej-karpathy-skills A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls."
+    },
+    {
+      "repo": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "stars_today": 320,
+      "total_stars": 113329,
+      "language": "Python",
+      "description": "Star browser-use / browser-use 🌐 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "repo": "openai/plugins",
+      "url": "https://github.com/openai/plugins",
+      "stars_today": 176,
+      "total_stars": 5692,
+      "language": "JavaScript",
+      "description": "Star openai / plugins OpenAI Plugins"
     },
     {
       "repo": "viarotel-org/escrcpy",
       "url": "https://github.com/viarotel-org/escrcpy",
       "stars_today": 173,
-      "total_stars": 11239,
+      "total_stars": 11312,
       "language": "JavaScript",
       "description": "Star viarotel-org / escrcpy 📱 Display and control your Android device graphically with scrcpy."
-    },
-    {
-      "repo": "openai/plugins",
-      "url": "https://github.com/openai/plugins",
-      "stars_today": 45,
-      "total_stars": 5605,
-      "language": "JavaScript",
-      "description": "Star openai / plugins OpenAI Plugins"
     }
   ]
 }
