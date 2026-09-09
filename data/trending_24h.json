@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-09-10T02:41:46.253774+08:00",
+  "generated_at": "2026-09-10T05:45:05.767394+08:00",
   "count": 13,
   "items": [
     {
       "repo": "ayghri/i-have-adhd",
       "url": "https://github.com/ayghri/i-have-adhd",
       "stars_today": 4624,
-      "total_stars": 33927,
+      "total_stars": 34313,
       "language": "Python",
       "description": "Star ayghri / i-have-adhd A skill to stop your coding agent from burying the answer. ADHD-friendly output."
     },
@@ -16,7 +16,7 @@
       "repo": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "stars_today": 2286,
-      "total_stars": 36372,
+      "total_stars": 36481,
       "language": "HTML",
       "description": "Star cathrynlavery / diagram-design 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop."
     },
@@ -24,7 +24,7 @@
       "repo": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "stars_today": 1151,
-      "total_stars": 255000,
+      "total_stars": 255094,
       "language": "JavaScript",
       "description": "Sponsor Star affaan-m / ECC The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
     },
@@ -32,7 +32,7 @@
       "repo": "liquidslr/system-design-notes",
       "url": "https://github.com/liquidslr/system-design-notes",
       "stars_today": 910,
-      "total_stars": 17854,
+      "total_stars": 17935,
       "language": "",
       "description": "Star liquidslr / system-design-notes Notes of the book System Desgin Interview - An Insider's Guide"
     },
@@ -40,7 +40,7 @@
       "repo": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "stars_today": 690,
-      "total_stars": 283906,
+      "total_stars": 283979,
       "language": "Shell",
       "description": "Sponsor Star obra / superpowers An agentic skills framework & software development methodology that works."
     },
@@ -48,7 +48,7 @@
       "repo": "freestylefly/awesome-gpt-image-2",
       "url": "https://github.com/freestylefly/awesome-gpt-image-2",
       "stars_today": 612,
-      "total_stars": 29930,
+      "total_stars": 29978,
       "language": "JavaScript",
       "description": "Star freestylefly / awesome-gpt-image-2 Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中"
     },
@@ -56,7 +56,7 @@
       "repo": "Tencent/teamai-cli",
       "url": "https://github.com/Tencent/teamai-cli",
       "stars_today": 563,
-      "total_stars": 2856,
+      "total_stars": 2908,
       "language": "TypeScript",
       "description": "Star Tencent / teamai-cli Make Every Team AI Native"
     },
@@ -64,7 +64,7 @@
       "repo": "openai/plugins",
       "url": "https://github.com/openai/plugins",
       "stars_today": 505,
-      "total_stars": 6130,
+      "total_stars": 6158,
       "language": "JavaScript",
       "description": "Star openai / plugins OpenAI Plugins"
     },
@@ -72,7 +72,7 @@
       "repo": "vastsa/PI-Desktop",
       "url": "https://github.com/vastsa/PI-Desktop",
       "stars_today": 393,
-      "total_stars": 1577,
+      "total_stars": 1618,
       "language": "TypeScript",
       "description": "Star vastsa / PI-Desktop Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins"
     },
@@ -80,7 +80,7 @@
       "repo": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "stars_today": 382,
-      "total_stars": 53558,
+      "total_stars": 53628,
       "language": "Python",
       "description": "Sponsor Star rohitg00 / ai-engineering-from-scratch Learn it. Build it. Ship it for others."
     },
@@ -88,7 +88,7 @@
       "repo": "TauricResearch/TradingAgents",
       "url": "https://github.com/TauricResearch/TradingAgents",
       "stars_today": 367,
-      "total_stars": 103793,
+      "total_stars": 103877,
       "language": "Python",
       "description": "Star TauricResearch / TradingAgents TradingAgents: Multi-Agents LLM Financial Trading Framework"
     },
@@ -96,15 +96,15 @@
       "repo": "pascalorg/editor",
       "url": "https://github.com/pascalorg/editor",
       "stars_today": 171,
-      "total_stars": 22818,
+      "total_stars": 22856,
       "language": "TypeScript",
-      "description": "Star pascalorg / editor Create and share 3D architectural projects."
+      "description": "Star pascalorg / editor Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents."
     },
     {
       "repo": "earthtojake/text-to-cad",
       "url": "https://github.com/earthtojake/text-to-cad",
       "stars_today": 97,
-      "total_stars": 14959,
+      "total_stars": 15001,
       "language": "Python",
       "description": "Star earthtojake / text-to-cad A library of agent skills for CAD, CAE and CAM"
     }
