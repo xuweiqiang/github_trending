@@ -1,112 +1,136 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-09-10T17:50:09.169762+08:00",
-  "count": 13,
+  "generated_at": "2026-09-10T22:30:11.311002+08:00",
+  "count": 16,
   "items": [
     {
       "repo": "ayghri/i-have-adhd",
       "url": "https://github.com/ayghri/i-have-adhd",
-      "stars_today": 4650,
-      "total_stars": 36207,
+      "stars_today": 3854,
+      "total_stars": 37016,
       "language": "Python",
       "description": "Star ayghri / i-have-adhd A skill to stop your coding agent from burying the answer. ADHD-friendly output."
     },
     {
+      "repo": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "stars_today": 1588,
+      "total_stars": 22684,
+      "language": "JavaScript",
+      "description": "Star bilawalsidhu / gods-eye-view A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe."
+    },
+    {
       "repo": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
-      "stars_today": 2249,
-      "total_stars": 37134,
+      "stars_today": 1287,
+      "total_stars": 37393,
       "language": "HTML",
       "description": "Star cathrynlavery / diagram-design 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop."
     },
     {
-      "repo": "liquidslr/system-design-notes",
-      "url": "https://github.com/liquidslr/system-design-notes",
-      "stars_today": 1397,
-      "total_stars": 18362,
-      "language": "",
-      "description": "Star liquidslr / system-design-notes Notes of the book System Desgin Interview - An Insider's Guide"
-    },
-    {
-      "repo": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "stars_today": 1133,
-      "total_stars": 255472,
-      "language": "JavaScript",
-      "description": "Sponsor Star affaan-m / ECC The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
-    },
-    {
       "repo": "freestylefly/awesome-gpt-image-2",
       "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-      "stars_today": 705,
-      "total_stars": 30533,
+      "stars_today": 957,
+      "total_stars": 30677,
       "language": "JavaScript",
       "description": "Star freestylefly / awesome-gpt-image-2 Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。"
     },
     {
-      "repo": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "stars_today": 688,
-      "total_stars": 284326,
-      "language": "Shell",
-      "description": "Sponsor Star obra / superpowers An agentic skills framework & software development methodology that works."
+      "repo": "liquidslr/system-design-notes",
+      "url": "https://github.com/liquidslr/system-design-notes",
+      "stars_today": 891,
+      "total_stars": 18498,
+      "language": "",
+      "description": "Star liquidslr / system-design-notes Notes of the book System Desgin Interview - An Insider's Guide"
     },
     {
       "repo": "Tencent/teamai-cli",
       "url": "https://github.com/Tencent/teamai-cli",
-      "stars_today": 556,
-      "total_stars": 3413,
+      "stars_today": 837,
+      "total_stars": 3578,
       "language": "TypeScript",
       "description": "Star Tencent / teamai-cli Make Every Team AI Native"
     },
     {
-      "repo": "openai/plugins",
-      "url": "https://github.com/openai/plugins",
-      "stars_today": 498,
-      "total_stars": 6331,
-      "language": "JavaScript",
-      "description": "Star openai / plugins OpenAI Plugins"
+      "repo": "THU-MAIC/OpenMAIC",
+      "url": "https://github.com/THU-MAIC/OpenMAIC",
+      "stars_today": 806,
+      "total_stars": 35020,
+      "language": "TypeScript",
+      "description": "Star THU-MAIC / OpenMAIC Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click"
+    },
+    {
+      "repo": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "stars_today": 731,
+      "total_stars": 284468,
+      "language": "Shell",
+      "description": "Sponsor Star obra / superpowers An agentic skills framework & software development methodology that works."
     },
     {
       "repo": "vastsa/PI-Desktop",
       "url": "https://github.com/vastsa/PI-Desktop",
-      "stars_today": 417,
-      "total_stars": 1996,
+      "stars_today": 636,
+      "total_stars": 2129,
       "language": "TypeScript",
       "description": "Star vastsa / PI-Desktop Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins"
     },
     {
-      "repo": "TauricResearch/TradingAgents",
-      "url": "https://github.com/TauricResearch/TradingAgents",
-      "stars_today": 367,
-      "total_stars": 104340,
-      "language": "Python",
-      "description": "Star TauricResearch / TradingAgents TradingAgents: Multi-Agents LLM Financial Trading Framework"
-    },
-    {
-      "repo": "rohitg00/ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "stars_today": 343,
-      "total_stars": 54003,
-      "language": "Python",
-      "description": "Sponsor Star rohitg00 / ai-engineering-from-scratch Learn it. Build it. Ship it for others."
-    },
-    {
-      "repo": "earthtojake/text-to-cad",
-      "url": "https://github.com/earthtojake/text-to-cad",
-      "stars_today": 124,
-      "total_stars": 15261,
-      "language": "Python",
-      "description": "Star earthtojake / text-to-cad A library of agent skills for CAD, CAE and CAM"
-    },
-    {
-      "repo": "pascalorg/editor",
-      "url": "https://github.com/pascalorg/editor",
-      "stars_today": 107,
-      "total_stars": 23196,
+      "repo": "diegosouzapw/OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "stars_today": 591,
+      "total_stars": 63908,
       "language": "TypeScript",
-      "description": "Star pascalorg / editor Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents."
+      "description": "Sponsor Star diegosouzapw / OmniRoute Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors"
+    },
+    {
+      "repo": "alsk1992/CloddsBot",
+      "url": "https://github.com/alsk1992/CloddsBot",
+      "stars_today": 299,
+      "total_stars": 1393,
+      "language": "TypeScript",
+      "description": "Star alsk1992 / CloddsBot Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude."
+    },
+    {
+      "repo": "AlexsJones/llmfit",
+      "url": "https://github.com/AlexsJones/llmfit",
+      "stars_today": 247,
+      "total_stars": 35556,
+      "language": "Rust",
+      "description": "Sponsor Star AlexsJones / llmfit Hundreds of models & providers. One command to find what runs on your hardware."
+    },
+    {
+      "repo": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "stars_today": 157,
+      "total_stars": 27319,
+      "language": "C",
+      "description": "Star JustVugg / colibri Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦"
+    },
+    {
+      "repo": "vercel-labs/skills",
+      "url": "https://github.com/vercel-labs/skills",
+      "stars_today": 125,
+      "total_stars": 30944,
+      "language": "TypeScript",
+      "description": "Star vercel-labs / skills The open agent skills tool - npx skills"
+    },
+    {
+      "repo": "nashsu/llm_wiki",
+      "url": "https://github.com/nashsu/llm_wiki",
+      "stars_today": 94,
+      "total_stars": 17879,
+      "language": "TypeScript",
+      "description": "Star nashsu / llm_wiki LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。"
+    },
+    {
+      "repo": "armory3d/armorpaint",
+      "url": "https://github.com/armory3d/armorpaint",
+      "stars_today": 73,
+      "total_stars": 4276,
+      "language": "C",
+      "description": "Star armory3d / armorpaint Graphics Creation Tools"
     }
   ]
 }
