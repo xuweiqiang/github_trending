@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-09-11T02:32:59.373074+08:00",
+  "generated_at": "2026-09-11T05:41:17.465864+08:00",
   "count": 16,
   "items": [
     {
       "repo": "ayghri/i-have-adhd",
       "url": "https://github.com/ayghri/i-have-adhd",
       "stars_today": 3854,
-      "total_stars": 37652,
+      "total_stars": 38009,
       "language": "Python",
       "description": "Star ayghri / i-have-adhd A skill to stop your coding agent from burying the answer. ADHD-friendly output."
     },
@@ -16,7 +16,7 @@
       "repo": "bilawalsidhu/gods-eye-view",
       "url": "https://github.com/bilawalsidhu/gods-eye-view",
       "stars_today": 1588,
-      "total_stars": 23440,
+      "total_stars": 23939,
       "language": "JavaScript",
       "description": "Star bilawalsidhu / gods-eye-view A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe."
     },
@@ -24,7 +24,7 @@
       "repo": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "stars_today": 1287,
-      "total_stars": 37547,
+      "total_stars": 37659,
       "language": "HTML",
       "description": "Star cathrynlavery / diagram-design 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop."
     },
@@ -32,7 +32,7 @@
       "repo": "freestylefly/awesome-gpt-image-2",
       "url": "https://github.com/freestylefly/awesome-gpt-image-2",
       "stars_today": 957,
-      "total_stars": 30762,
+      "total_stars": 30795,
       "language": "JavaScript",
       "description": "Star freestylefly / awesome-gpt-image-2 Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。"
     },
@@ -40,7 +40,7 @@
       "repo": "liquidslr/system-design-notes",
       "url": "https://github.com/liquidslr/system-design-notes",
       "stars_today": 891,
-      "total_stars": 18626,
+      "total_stars": 18710,
       "language": "",
       "description": "Star liquidslr / system-design-notes Notes of the book System Desgin Interview - An Insider's Guide"
     },
@@ -48,7 +48,7 @@
       "repo": "Tencent/teamai-cli",
       "url": "https://github.com/Tencent/teamai-cli",
       "stars_today": 837,
-      "total_stars": 3676,
+      "total_stars": 3726,
       "language": "TypeScript",
       "description": "Star Tencent / teamai-cli Make Every Team AI Native"
     },
@@ -56,7 +56,7 @@
       "repo": "THU-MAIC/OpenMAIC",
       "url": "https://github.com/THU-MAIC/OpenMAIC",
       "stars_today": 806,
-      "total_stars": 35155,
+      "total_stars": 35231,
       "language": "TypeScript",
       "description": "Star THU-MAIC / OpenMAIC Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click"
     },
@@ -64,7 +64,7 @@
       "repo": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "stars_today": 731,
-      "total_stars": 284587,
+      "total_stars": 284661,
       "language": "Shell",
       "description": "Sponsor Star obra / superpowers An agentic skills framework & software development methodology that works."
     },
@@ -72,7 +72,7 @@
       "repo": "vastsa/PI-Desktop",
       "url": "https://github.com/vastsa/PI-Desktop",
       "stars_today": 636,
-      "total_stars": 2201,
+      "total_stars": 2246,
       "language": "TypeScript",
       "description": "Star vastsa / PI-Desktop Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins"
     },
@@ -80,7 +80,7 @@
       "repo": "diegosouzapw/OmniRoute",
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "stars_today": 591,
-      "total_stars": 64063,
+      "total_stars": 64158,
       "language": "TypeScript",
       "description": "Sponsor Star diegosouzapw / OmniRoute Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors"
     },
@@ -88,7 +88,7 @@
       "repo": "alsk1992/CloddsBot",
       "url": "https://github.com/alsk1992/CloddsBot",
       "stars_today": 299,
-      "total_stars": 1502,
+      "total_stars": 1581,
       "language": "TypeScript",
       "description": "Star alsk1992 / CloddsBot Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude."
     },
@@ -96,7 +96,7 @@
       "repo": "AlexsJones/llmfit",
       "url": "https://github.com/AlexsJones/llmfit",
       "stars_today": 247,
-      "total_stars": 35641,
+      "total_stars": 35690,
       "language": "Rust",
       "description": "Sponsor Star AlexsJones / llmfit Hundreds of models & providers. One command to find what runs on your hardware."
     },
@@ -104,7 +104,7 @@
       "repo": "vercel-labs/skills",
       "url": "https://github.com/vercel-labs/skills",
       "stars_today": 175,
-      "total_stars": 31029,
+      "total_stars": 31090,
       "language": "TypeScript",
       "description": "Star vercel-labs / skills The open agent skills tool - npx skills"
     },
@@ -112,7 +112,7 @@
       "repo": "JustVugg/colibri",
       "url": "https://github.com/JustVugg/colibri",
       "stars_today": 130,
-      "total_stars": 27375,
+      "total_stars": 27415,
       "language": "C",
       "description": "Star JustVugg / colibri Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦"
     },
@@ -120,7 +120,7 @@
       "repo": "nashsu/llm_wiki",
       "url": "https://github.com/nashsu/llm_wiki",
       "stars_today": 94,
-      "total_stars": 17962,
+      "total_stars": 18041,
       "language": "TypeScript",
       "description": "Star nashsu / llm_wiki LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。"
     },
@@ -128,7 +128,7 @@
       "repo": "armory3d/armorpaint",
       "url": "https://github.com/armory3d/armorpaint",
       "stars_today": 87,
-      "total_stars": 4339,
+      "total_stars": 4385,
       "language": "C",
       "description": "Star armory3d / armorpaint Graphics Creation Tools"
     }
