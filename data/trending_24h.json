@@ -1,134 +1,134 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-09-12T05:46:27.540642+08:00",
+  "generated_at": "2026-09-12T08:22:15.229343+08:00",
   "count": 16,
   "items": [
     {
       "repo": "bilawalsidhu/gods-eye-view",
       "url": "https://github.com/bilawalsidhu/gods-eye-view",
-      "stars_today": 3642,
-      "total_stars": 26874,
+      "stars_today": 3680,
+      "total_stars": 27088,
       "language": "JavaScript",
       "description": "Star bilawalsidhu / gods-eye-view A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe."
     },
     {
       "repo": "ayghri/i-have-adhd",
       "url": "https://github.com/ayghri/i-have-adhd",
-      "stars_today": 3440,
-      "total_stars": 41508,
+      "stars_today": 3463,
+      "total_stars": 41774,
       "language": "Python",
       "description": "Star ayghri / i-have-adhd A skill to stop your coding agent from burying the answer. ADHD-friendly output."
     },
     {
       "repo": "github/spec-kit",
       "url": "https://github.com/github/spec-kit",
-      "stars_today": 985,
-      "total_stars": 135730,
+      "stars_today": 1015,
+      "total_stars": 135763,
       "language": "Python",
       "description": "Star github / spec-kit 💫 Toolkit to help you get started with Spec-Driven Development"
     },
     {
       "repo": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "stars_today": 731,
-      "total_stars": 285331,
+      "stars_today": 729,
+      "total_stars": 285363,
       "language": "Shell",
       "description": "Sponsor Star obra / superpowers An agentic skills framework & software development methodology that works."
     },
     {
       "repo": "nashsu/llm_wiki",
       "url": "https://github.com/nashsu/llm_wiki",
-      "stars_today": 640,
-      "total_stars": 18686,
+      "stars_today": 647,
+      "total_stars": 18724,
       "language": "TypeScript",
       "description": "Star nashsu / llm_wiki LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。"
     },
     {
       "repo": "alsk1992/CloddsBot",
       "url": "https://github.com/alsk1992/CloddsBot",
-      "stars_today": 627,
-      "total_stars": 2105,
+      "stars_today": 626,
+      "total_stars": 2145,
       "language": "TypeScript",
       "description": "Star alsk1992 / CloddsBot Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude."
     },
     {
       "repo": "vastsa/PI-Desktop",
       "url": "https://github.com/vastsa/PI-Desktop",
-      "stars_today": 545,
-      "total_stars": 2750,
+      "stars_today": 552,
+      "total_stars": 2770,
       "language": "TypeScript",
       "description": "Star vastsa / PI-Desktop Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins"
     },
     {
       "repo": "armory3d/armorpaint",
       "url": "https://github.com/armory3d/armorpaint",
-      "stars_today": 354,
-      "total_stars": 4697,
+      "stars_today": 350,
+      "total_stars": 4717,
       "language": "C",
       "description": "Star armory3d / armorpaint Graphics Creation Tools"
     },
     {
       "repo": "p1neappleXpress/OpenFlux",
       "url": "https://github.com/p1neappleXpress/OpenFlux",
-      "stars_today": 201,
-      "total_stars": 1120,
+      "stars_today": 198,
+      "total_stars": 1139,
       "language": "Go",
       "description": "Star p1neappleXpress / OpenFlux Network stack research tool. TCP tunnel with pluggable transports."
     },
     {
       "repo": "Sonarr/Sonarr",
       "url": "https://github.com/Sonarr/Sonarr",
-      "stars_today": 174,
-      "total_stars": 15715,
+      "stars_today": 191,
+      "total_stars": 15732,
       "language": "C#",
       "description": "Star Sonarr / Sonarr Smart PVR for newsgroup and bittorrent users."
     },
     {
-      "repo": "alphaXiv/OpenResearch",
-      "url": "https://github.com/alphaXiv/OpenResearch",
-      "stars_today": 156,
-      "total_stars": 1237,
-      "language": "Rust",
-      "description": "Star alphaXiv / OpenResearch Run parallel research agents with any model"
-    },
-    {
-      "repo": "jihe520/MathModelAgent",
-      "url": "https://github.com/jihe520/MathModelAgent",
-      "stars_today": 132,
-      "total_stars": 4839,
-      "language": "Python",
-      "description": "Star jihe520 / MathModelAgent 🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission."
-    },
-    {
-      "repo": "melgarafael/DeskcommCRM",
-      "url": "https://github.com/melgarafael/DeskcommCRM",
-      "stars_today": 126,
-      "total_stars": 1289,
-      "language": "TypeScript",
-      "description": "Star melgarafael / DeskcommCRM Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD."
-    },
-    {
       "repo": "jordan-gibbs/hyperresearch",
       "url": "https://github.com/jordan-gibbs/hyperresearch",
-      "stars_today": 118,
-      "total_stars": 2536,
+      "stars_today": 153,
+      "total_stars": 2600,
       "language": "Python",
       "description": "Star jordan-gibbs / hyperresearch Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki."
     },
     {
+      "repo": "melgarafael/DeskcommCRM",
+      "url": "https://github.com/melgarafael/DeskcommCRM",
+      "stars_today": 152,
+      "total_stars": 1336,
+      "language": "TypeScript",
+      "description": "Star melgarafael / DeskcommCRM Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD."
+    },
+    {
+      "repo": "jihe520/MathModelAgent",
+      "url": "https://github.com/jihe520/MathModelAgent",
+      "stars_today": 129,
+      "total_stars": 4852,
+      "language": "Python",
+      "description": "Star jihe520 / MathModelAgent 🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission."
+    },
+    {
+      "repo": "alphaXiv/OpenResearch",
+      "url": "https://github.com/alphaXiv/OpenResearch",
+      "stars_today": 120,
+      "total_stars": 1268,
+      "language": "Rust",
+      "description": "Star alphaXiv / OpenResearch Run parallel research agents with any model"
+    },
+    {
       "repo": "pascalorg/editor",
       "url": "https://github.com/pascalorg/editor",
-      "stars_today": 83,
-      "total_stars": 23547,
+      "stars_today": 106,
+      "total_stars": 23594,
       "language": "TypeScript",
       "description": "Star pascalorg / editor Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents."
     },
     {
       "repo": "nab138/iloader",
       "url": "https://github.com/nab138/iloader",
-      "stars_today": 36,
-      "total_stars": 2883,
+      "stars_today": 50,
+      "total_stars": 2903,
       "language": "TypeScript",
       "description": "Star nab138 / iloader User friendly sideloader"
     }
