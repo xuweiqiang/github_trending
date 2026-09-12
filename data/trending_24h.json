@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-09-13T03:26:57.004118+08:00",
+  "generated_at": "2026-09-13T06:23:21.196234+08:00",
   "count": 16,
   "items": [
     {
       "repo": "bilawalsidhu/gods-eye-view",
       "url": "https://github.com/bilawalsidhu/gods-eye-view",
       "stars_today": 2265,
-      "total_stars": 29387,
+      "total_stars": 29690,
       "language": "JavaScript",
       "description": "Star bilawalsidhu / gods-eye-view A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe."
     },
@@ -16,7 +16,7 @@
       "repo": "melgarafael/DeskcommCRM",
       "url": "https://github.com/melgarafael/DeskcommCRM",
       "stars_today": 505,
-      "total_stars": 1720,
+      "total_stars": 1769,
       "language": "TypeScript",
       "description": "Star melgarafael / DeskcommCRM Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD."
     },
@@ -24,7 +24,7 @@
       "repo": "alsk1992/CloddsBot",
       "url": "https://github.com/alsk1992/CloddsBot",
       "stars_today": 377,
-      "total_stars": 2430,
+      "total_stars": 2473,
       "language": "TypeScript",
       "description": "Star alsk1992 / CloddsBot Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude."
     },
@@ -32,7 +32,7 @@
       "repo": "asgeirtj/system_prompts_leaks",
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "stars_today": 357,
-      "total_stars": 65289,
+      "total_stars": 65354,
       "language": "JavaScript",
       "description": "Sponsor Star asgeirtj / system_prompts_leaks Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly."
     },
@@ -40,7 +40,7 @@
       "repo": "p1neappleXpress/OpenFlux",
       "url": "https://github.com/p1neappleXpress/OpenFlux",
       "stars_today": 355,
-      "total_stars": 1366,
+      "total_stars": 1388,
       "language": "Go",
       "description": "Star p1neappleXpress / OpenFlux Network stack research tool. TCP tunnel with pluggable transports."
     },
@@ -48,7 +48,7 @@
       "repo": "jihe520/MathModelAgent",
       "url": "https://github.com/jihe520/MathModelAgent",
       "stars_today": 264,
-      "total_stars": 5096,
+      "total_stars": 5110,
       "language": "Python",
       "description": "Star jihe520 / MathModelAgent 🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission."
     },
@@ -56,7 +56,7 @@
       "repo": "Shubhamsaboo/awesome-llm-apps",
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "stars_today": 237,
-      "total_stars": 137541,
+      "total_stars": 137589,
       "language": "Python",
       "description": "Star Shubhamsaboo / awesome-llm-apps 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source."
     },
@@ -64,7 +64,7 @@
       "repo": "armory3d/armorpaint",
       "url": "https://github.com/armory3d/armorpaint",
       "stars_today": 237,
-      "total_stars": 4887,
+      "total_stars": 4900,
       "language": "C",
       "description": "Star armory3d / armorpaint Graphics Creation Tools"
     },
@@ -72,7 +72,7 @@
       "repo": "Sonarr/Sonarr",
       "url": "https://github.com/Sonarr/Sonarr",
       "stars_today": 228,
-      "total_stars": 15888,
+      "total_stars": 15906,
       "language": "C#",
       "description": "Star Sonarr / Sonarr Smart PVR for newsgroup and bittorrent users."
     },
@@ -80,7 +80,7 @@
       "repo": "nab138/iloader",
       "url": "https://github.com/nab138/iloader",
       "stars_today": 209,
-      "total_stars": 3049,
+      "total_stars": 3065,
       "language": "TypeScript",
       "description": "Star nab138 / iloader User friendly sideloader"
     },
@@ -88,7 +88,7 @@
       "repo": "multimodal-art-projection/YuE",
       "url": "https://github.com/multimodal-art-projection/YuE",
       "stars_today": 193,
-      "total_stars": 7207,
+      "total_stars": 7253,
       "language": "Python",
       "description": "Star multimodal-art-projection / YuE YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing."
     },
@@ -96,7 +96,7 @@
       "repo": "vxcontrol/pentagi",
       "url": "https://github.com/vxcontrol/pentagi",
       "stars_today": 193,
-      "total_stars": 23321,
+      "total_stars": 23401,
       "language": "Go",
       "description": "Star vxcontrol / pentagi Fully autonomous AI Agents system capable of performing complex penetration testing tasks"
     },
@@ -104,7 +104,7 @@
       "repo": "yuliskov/SmartTube",
       "url": "https://github.com/yuliskov/SmartTube",
       "stars_today": 160,
-      "total_stars": 33164,
+      "total_stars": 33195,
       "language": "Java",
       "description": "Star yuliskov / SmartTube Browse media content with your own rules on Android TV"
     },
@@ -112,7 +112,7 @@
       "repo": "max-sixty/worktrunk",
       "url": "https://github.com/max-sixty/worktrunk",
       "stars_today": 137,
-      "total_stars": 7167,
+      "total_stars": 7202,
       "language": "Rust",
       "description": "Star max-sixty / worktrunk Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows"
     },
@@ -120,7 +120,7 @@
       "repo": "SnailSploit/Claude-Red",
       "url": "https://github.com/SnailSploit/Claude-Red",
       "stars_today": 99,
-      "total_stars": 3515,
+      "total_stars": 3564,
       "language": "Python",
       "description": "Star SnailSploit / Claude-Red claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development."
     },
@@ -128,7 +128,7 @@
       "repo": "Flowseal/zapret-discord-youtube",
       "url": "https://github.com/Flowseal/zapret-discord-youtube",
       "stars_today": 52,
-      "total_stars": 33196,
+      "total_stars": 33200,
       "language": "Batchfile",
       "description": ""
     }
