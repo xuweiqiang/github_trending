@@ -1,160 +1,168 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-09-14T14:26:41.342147+08:00",
-  "count": 19,
+  "generated_at": "2026-09-14T22:13:32.309892+08:00",
+  "count": 20,
   "items": [
-    {
-      "repo": "bilawalsidhu/gods-eye-view",
-      "url": "https://github.com/bilawalsidhu/gods-eye-view",
-      "stars_today": 2680,
-      "total_stars": 32404,
-      "language": "JavaScript",
-      "description": "Star bilawalsidhu / gods-eye-view A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe."
-    },
     {
       "repo": "debpalash/VoiceStudio",
       "url": "https://github.com/debpalash/VoiceStudio",
-      "stars_today": 2632,
-      "total_stars": 27508,
+      "stars_today": 2774,
+      "total_stars": 28414,
       "language": "Python",
       "description": "Star debpalash / VoiceStudio VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
     },
     {
       "repo": "JustVugg/colibri",
       "url": "https://github.com/JustVugg/colibri",
-      "stars_today": 868,
-      "total_stars": 30355,
+      "stars_today": 2233,
+      "total_stars": 31268,
       "language": "C",
       "description": "Star JustVugg / colibri Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦"
     },
     {
+      "repo": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "stars_today": 1796,
+      "total_stars": 24744,
+      "language": "Go",
+      "description": "Star alibaba / open-code-review Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible."
+    },
+    {
+      "repo": "ever-co/ever-gauzy",
+      "url": "https://github.com/ever-co/ever-gauzy",
+      "stars_today": 1095,
+      "total_stars": 5729,
+      "language": "TypeScript",
+      "description": "Sponsor Star ever-co / ever-gauzy Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co"
+    },
+    {
       "repo": "asgeirtj/system_prompts_leaks",
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
-      "stars_today": 706,
-      "total_stars": 66264,
+      "stars_today": 770,
+      "total_stars": 66516,
       "language": "JavaScript",
       "description": "Sponsor Star asgeirtj / system_prompts_leaks Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly."
     },
     {
-      "repo": "vxcontrol/pentagi",
-      "url": "https://github.com/vxcontrol/pentagi",
-      "stars_today": 590,
-      "total_stars": 24151,
-      "language": "Go",
-      "description": "Star vxcontrol / pentagi Fully autonomous AI Agents system capable of performing complex penetration testing tasks"
+      "repo": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "stars_today": 756,
+      "total_stars": 105757,
+      "language": "Python",
+      "description": "Star TauricResearch / TradingAgents TradingAgents: Multi-Agents LLM Financial Trading Framework"
     },
     {
-      "repo": "tonhowtf/omniget",
-      "url": "https://github.com/tonhowtf/omniget",
-      "stars_today": 507,
-      "total_stars": 11954,
-      "language": "Rust",
-      "description": "Sponsor Star tonhowtf / omniget Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer."
+      "repo": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "stars_today": 640,
+      "total_stars": 80885,
+      "language": "Python",
+      "description": "Star Panniantong / Agent-Reach Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees."
     },
     {
       "repo": "SnailSploit/Claude-Red",
       "url": "https://github.com/SnailSploit/Claude-Red",
-      "stars_today": 506,
-      "total_stars": 4289,
+      "stars_today": 606,
+      "total_stars": 4506,
       "language": "Python",
       "description": "Star SnailSploit / Claude-Red claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development."
     },
     {
       "repo": "multimodal-art-projection/YuE",
       "url": "https://github.com/multimodal-art-projection/YuE",
-      "stars_today": 487,
-      "total_stars": 7919,
+      "stars_today": 578,
+      "total_stars": 8135,
       "language": "Python",
       "description": "Star multimodal-art-projection / YuE YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing."
     },
     {
-      "repo": "jiji262/douyin-downloader",
-      "url": "https://github.com/jiji262/douyin-downloader",
-      "stars_today": 452,
-      "total_stars": 11547,
-      "language": "Python",
-      "description": "Star jiji262 / douyin-downloader A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries, SQLite deduplication, and browser fallback support. 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。"
-    },
-    {
-      "repo": "alibaba/open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
-      "stars_today": 443,
-      "total_stars": 23843,
-      "language": "Go",
-      "description": "Star alibaba / open-code-review Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible."
-    },
-    {
-      "repo": "melgarafael/DeskcommCRM",
-      "url": "https://github.com/melgarafael/DeskcommCRM",
-      "stars_today": 432,
-      "total_stars": 2333,
-      "language": "TypeScript",
-      "description": "Star melgarafael / DeskcommCRM Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD."
-    },
-    {
-      "repo": "calesthio/OpenMontage",
-      "url": "https://github.com/calesthio/OpenMontage",
-      "stars_today": 380,
-      "total_stars": 58706,
-      "language": "Python",
-      "description": "Sponsor Star calesthio / OpenMontage World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio."
-    },
-    {
-      "repo": "alphaXiv/OpenResearch",
-      "url": "https://github.com/alphaXiv/OpenResearch",
-      "stars_today": 289,
-      "total_stars": 2242,
-      "language": "Rust",
-      "description": "Star alphaXiv / OpenResearch Turn your coding agents into research agents"
-    },
-    {
-      "repo": "tech-leads-club/agent-skills",
-      "url": "https://github.com/tech-leads-club/agent-skills",
-      "stars_today": 265,
-      "total_stars": 5796,
-      "language": "TypeScript",
-      "description": "Star tech-leads-club / agent-skills The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence."
-    },
-    {
-      "repo": "jihe520/MathModelAgent",
-      "url": "https://github.com/jihe520/MathModelAgent",
-      "stars_today": 246,
-      "total_stars": 5446,
-      "language": "Python",
-      "description": "Star jihe520 / MathModelAgent 🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission."
-    },
-    {
-      "repo": "yuliskov/SmartTube",
-      "url": "https://github.com/yuliskov/SmartTube",
-      "stars_today": 233,
-      "total_stars": 33522,
-      "language": "Java",
-      "description": "Star yuliskov / SmartTube Browse media content with your own rules on Android TV"
-    },
-    {
-      "repo": "ever-co/ever-gauzy",
-      "url": "https://github.com/ever-co/ever-gauzy",
-      "stars_today": 191,
-      "total_stars": 5388,
-      "language": "TypeScript",
-      "description": "Sponsor Star ever-co / ever-gauzy Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co"
-    },
-    {
       "repo": "huggingface/transformers",
       "url": "https://github.com/huggingface/transformers",
-      "stars_today": 152,
-      "total_stars": 165672,
+      "stars_today": 528,
+      "total_stars": 165831,
       "language": "Python",
       "description": "Star huggingface / transformers 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training."
     },
     {
-      "repo": "Swordfish90/cool-retro-term",
-      "url": "https://github.com/Swordfish90/cool-retro-term",
-      "stars_today": 57,
-      "total_stars": 26294,
-      "language": "QML",
-      "description": "Star Swordfish90 / cool-retro-term A good looking terminal emulator which mimics the old cathode display..."
+      "repo": "666ghj/MiroFish",
+      "url": "https://github.com/666ghj/MiroFish",
+      "stars_today": 524,
+      "total_stars": 72907,
+      "language": "Python",
+      "description": "Star 666ghj / MiroFish A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物"
+    },
+    {
+      "repo": "tech-leads-club/agent-skills",
+      "url": "https://github.com/tech-leads-club/agent-skills",
+      "stars_today": 506,
+      "total_stars": 5926,
+      "language": "TypeScript",
+      "description": "Star tech-leads-club / agent-skills The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence."
+    },
+    {
+      "repo": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "stars_today": 370,
+      "total_stars": 93674,
+      "language": "Rust",
+      "description": "Star ruvnet / RuView π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video."
+    },
+    {
+      "repo": "peetzweg/opendisplay",
+      "url": "https://github.com/peetzweg/opendisplay",
+      "stars_today": 314,
+      "total_stars": 3390,
+      "language": "Swift",
+      "description": "Sponsor Star peetzweg / opendisplay Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true second monitor for your Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input."
+    },
+    {
+      "repo": "reconurge/flowsint",
+      "url": "https://github.com/reconurge/flowsint",
+      "stars_today": 279,
+      "total_stars": 8185,
+      "language": "TypeScript",
+      "description": "Star reconurge / flowsint A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators."
+    },
+    {
+      "repo": "localsend/localsend",
+      "url": "https://github.com/localsend/localsend",
+      "stars_today": 213,
+      "total_stars": 91047,
+      "language": "Dart",
+      "description": "Star localsend / localsend An open-source cross-platform alternative to AirDrop"
+    },
+    {
+      "repo": "OpenBMB/VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "stars_today": 204,
+      "total_stars": 37238,
+      "language": "Python",
+      "description": "Star OpenBMB / VoxCPM VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning"
+    },
+    {
+      "repo": "dani-garcia/vaultwarden",
+      "url": "https://github.com/dani-garcia/vaultwarden",
+      "stars_today": 110,
+      "total_stars": 67438,
+      "language": "Rust",
+      "description": "Sponsor Star dani-garcia / vaultwarden Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs"
+    },
+    {
+      "repo": "rlaope/oh-my-hermes",
+      "url": "https://github.com/rlaope/oh-my-hermes",
+      "stars_today": 52,
+      "total_stars": 1861,
+      "language": "Python",
+      "description": "Star rlaope / oh-my-hermes All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages"
+    },
+    {
+      "repo": "Crosstalk-Solutions/project-nomad",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "stars_today": 26,
+      "total_stars": 36769,
+      "language": "TypeScript",
+      "description": "Star Crosstalk-Solutions / project-nomad Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required."
     }
   ]
 }
