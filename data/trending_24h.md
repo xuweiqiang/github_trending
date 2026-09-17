@@ -1,26 +1,26 @@
 # GitHub 24h Star 增长榜
 
-- 生成时间: 2026-09-17 15:47:53 +0800
+- 生成时间: 2026-09-17 21:35:05 +0800
 
 | 排名 | 项目 | 24h 增长 | 总 Stars | 链接 |
 |---:|---|---:|---:|---|
-| 1 | `alibaba/open-code-review` | 3231 | 32970 | [跳转](https://github.com/alibaba/open-code-review) |
-| 2 | `JustVugg/colibri` | 1546 | 35261 | [跳转](https://github.com/JustVugg/colibri) |
-| 3 | `Tencent/WeKnora` | 1197 | 25736 | [跳转](https://github.com/Tencent/WeKnora) |
-| 4 | `abue-ammar/tinycast` | 1179 | 5814 | [跳转](https://github.com/abue-ammar/tinycast) |
-| 5 | `NationalSecurityAgency/ghidra` | 1059 | 78075 | [跳转](https://github.com/NationalSecurityAgency/ghidra) |
-| 6 | `affaan-m/ECC` | 1057 | 260616 | [跳转](https://github.com/affaan-m/ECC) |
-| 7 | `alphaXiv/OpenResearch` | 1017 | 4685 | [跳转](https://github.com/alphaXiv/OpenResearch) |
-| 8 | `cloudflare/security-audit-skill` | 927 | 8200 | [跳转](https://github.com/cloudflare/security-audit-skill) |
-| 9 | `ever-co/ever-gauzy` | 778 | 7454 | [跳转](https://github.com/ever-co/ever-gauzy) |
-| 10 | `addyosmani/agent-skills` | 658 | 95659 | [跳转](https://github.com/addyosmani/agent-skills) |
-| 11 | `Lakr233/vphone-cli` | 547 | 13500 | [跳转](https://github.com/Lakr233/vphone-cli) |
-| 12 | `jamiepine/voicebox` | 417 | 54604 | [跳转](https://github.com/jamiepine/voicebox) |
-| 13 | `SnailSploit/Claude-Red` | 367 | 5915 | [跳转](https://github.com/SnailSploit/Claude-Red) |
-| 14 | `multimodal-art-projection/YuE` | 332 | 9502 | [跳转](https://github.com/multimodal-art-projection/YuE) |
-| 15 | `roboflow/supervision` | 260 | 50695 | [跳转](https://github.com/roboflow/supervision) |
-| 16 | `anthropics/claude-code` | 165 | 145688 | [跳转](https://github.com/anthropics/claude-code) |
-| 17 | `supabase/supabase` | 120 | 109914 | [跳转](https://github.com/supabase/supabase) |
-| 18 | `cline/cline` | 112 | 68489 | [跳转](https://github.com/cline/cline) |
-| 19 | `anthropics/knowledge-work-plugins` | 110 | 24380 | [跳转](https://github.com/anthropics/knowledge-work-plugins) |
-| 20 | `rlaope/oh-my-hermes` | 80 | 2639 | [跳转](https://github.com/rlaope/oh-my-hermes) |
+| 1 | `cloudflare/security-audit-skill` | 3606 | 9383 | [跳转](https://github.com/cloudflare/security-audit-skill) |
+| 2 | `alibaba/open-code-review` | 3290 | 33770 | [跳转](https://github.com/alibaba/open-code-review) |
+| 3 | `Tencent/BrowserSkill` | 1350 | 3697 | [跳转](https://github.com/Tencent/BrowserSkill) |
+| 4 | `affaan-m/ECC` | 1173 | 260899 | [跳转](https://github.com/affaan-m/ECC) |
+| 5 | `Tencent/WeKnora` | 1123 | 26012 | [跳转](https://github.com/Tencent/WeKnora) |
+| 6 | `alphaXiv/OpenResearch` | 940 | 4881 | [跳转](https://github.com/alphaXiv/OpenResearch) |
+| 7 | `NationalSecurityAgency/ghidra` | 912 | 78224 | [跳转](https://github.com/NationalSecurityAgency/ghidra) |
+| 8 | `JustVugg/colibri` | 872 | 35468 | [跳转](https://github.com/JustVugg/colibri) |
+| 9 | `abue-ammar/tinycast` | 738 | 5956 | [跳转](https://github.com/abue-ammar/tinycast) |
+| 10 | `addyosmani/agent-skills` | 680 | 95842 | [跳转](https://github.com/addyosmani/agent-skills) |
+| 11 | `jamiepine/voicebox` | 665 | 54755 | [跳转](https://github.com/jamiepine/voicebox) |
+| 12 | `anthropics/claude-code` | 538 | 145794 | [跳转](https://github.com/anthropics/claude-code) |
+| 13 | `ever-co/ever-gauzy` | 469 | 7551 | [跳转](https://github.com/ever-co/ever-gauzy) |
+| 14 | `TencentCloud/Octop` | 396 | 3246 | [跳转](https://github.com/TencentCloud/Octop) |
+| 15 | `cline/cline` | 381 | 68566 | [跳转](https://github.com/cline/cline) |
+| 16 | `roboflow/supervision` | 327 | 50750 | [跳转](https://github.com/roboflow/supervision) |
+| 17 | `anthropics/knowledge-work-plugins` | 287 | 24446 | [跳转](https://github.com/anthropics/knowledge-work-plugins) |
+| 18 | `n8n-io/n8n` | 225 | 204822 | [跳转](https://github.com/n8n-io/n8n) |
+| 19 | `coder/coder` | 83 | 14727 | [跳转](https://github.com/coder/coder) |
+| 20 | `cilium/cilium` | 20 | 25279 | [跳转](https://github.com/cilium/cilium) |
