@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-09-17T09:30:48.243823+08:00",
+  "generated_at": "2026-09-17T15:47:53.627464+08:00",
   "count": 20,
   "items": [
     {
       "repo": "alibaba/open-code-review",
       "url": "https://github.com/alibaba/open-code-review",
       "stars_today": 3231,
-      "total_stars": 31951,
+      "total_stars": 32970,
       "language": "Go",
       "description": "Star alibaba / open-code-review Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible."
     },
@@ -16,7 +16,7 @@
       "repo": "JustVugg/colibri",
       "url": "https://github.com/JustVugg/colibri",
       "stars_today": 1546,
-      "total_stars": 35048,
+      "total_stars": 35261,
       "language": "C",
       "description": "Star JustVugg / colibri Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦"
     },
@@ -24,7 +24,7 @@
       "repo": "Tencent/WeKnora",
       "url": "https://github.com/Tencent/WeKnora",
       "stars_today": 1197,
-      "total_stars": 25340,
+      "total_stars": 25736,
       "language": "Go",
       "description": "Star Tencent / WeKnora Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki."
     },
@@ -32,7 +32,7 @@
       "repo": "abue-ammar/tinycast",
       "url": "https://github.com/abue-ammar/tinycast",
       "stars_today": 1179,
-      "total_stars": 5610,
+      "total_stars": 5814,
       "language": "Swift",
       "description": "Star abue-ammar / tinycast Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history."
     },
@@ -40,7 +40,7 @@
       "repo": "NationalSecurityAgency/ghidra",
       "url": "https://github.com/NationalSecurityAgency/ghidra",
       "stars_today": 1059,
-      "total_stars": 77823,
+      "total_stars": 78075,
       "language": "Java",
       "description": "Star NationalSecurityAgency / ghidra Ghidra is a software reverse engineering (SRE) framework"
     },
@@ -48,7 +48,7 @@
       "repo": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "stars_today": 1057,
-      "total_stars": 260314,
+      "total_stars": 260616,
       "language": "JavaScript",
       "description": "Sponsor Star affaan-m / ECC The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
     },
@@ -56,7 +56,7 @@
       "repo": "alphaXiv/OpenResearch",
       "url": "https://github.com/alphaXiv/OpenResearch",
       "stars_today": 1017,
-      "total_stars": 4433,
+      "total_stars": 4685,
       "language": "Rust",
       "description": "Star alphaXiv / OpenResearch Turn your coding agents into research agents"
     },
@@ -64,7 +64,7 @@
       "repo": "cloudflare/security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
       "stars_today": 927,
-      "total_stars": 7314,
+      "total_stars": 8200,
       "language": "JavaScript",
       "description": "Star cloudflare / security-audit-skill A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
     },
@@ -72,7 +72,7 @@
       "repo": "ever-co/ever-gauzy",
       "url": "https://github.com/ever-co/ever-gauzy",
       "stars_today": 778,
-      "total_stars": 7322,
+      "total_stars": 7454,
       "language": "TypeScript",
       "description": "Sponsor Star ever-co / ever-gauzy Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co"
     },
@@ -80,7 +80,7 @@
       "repo": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "stars_today": 658,
-      "total_stars": 95469,
+      "total_stars": 95659,
       "language": "JavaScript",
       "description": "Star addyosmani / agent-skills Production-grade engineering skills for AI coding agents."
     },
@@ -88,7 +88,7 @@
       "repo": "Lakr233/vphone-cli",
       "url": "https://github.com/Lakr233/vphone-cli",
       "stars_today": 547,
-      "total_stars": 13352,
+      "total_stars": 13500,
       "language": "Swift",
       "description": ""
     },
@@ -96,7 +96,7 @@
       "repo": "jamiepine/voicebox",
       "url": "https://github.com/jamiepine/voicebox",
       "stars_today": 417,
-      "total_stars": 54397,
+      "total_stars": 54604,
       "language": "TypeScript",
       "description": "Star jamiepine / voicebox The open-source AI voice studio. Clone, dictate, create."
     },
@@ -104,7 +104,7 @@
       "repo": "SnailSploit/Claude-Red",
       "url": "https://github.com/SnailSploit/Claude-Red",
       "stars_today": 367,
-      "total_stars": 5781,
+      "total_stars": 5915,
       "language": "Python",
       "description": "Star SnailSploit / Claude-Red claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development."
     },
@@ -112,7 +112,7 @@
       "repo": "multimodal-art-projection/YuE",
       "url": "https://github.com/multimodal-art-projection/YuE",
       "stars_today": 332,
-      "total_stars": 9379,
+      "total_stars": 9502,
       "language": "Python",
       "description": "Star multimodal-art-projection / YuE YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing."
     },
@@ -120,7 +120,7 @@
       "repo": "roboflow/supervision",
       "url": "https://github.com/roboflow/supervision",
       "stars_today": 260,
-      "total_stars": 50605,
+      "total_stars": 50695,
       "language": "Python",
       "description": "Star roboflow / supervision We write your reusable computer vision tools. 💜"
     },
@@ -128,7 +128,7 @@
       "repo": "anthropics/claude-code",
       "url": "https://github.com/anthropics/claude-code",
       "stars_today": 165,
-      "total_stars": 145520,
+      "total_stars": 145688,
       "language": "TypeScript",
       "description": "Star anthropics / claude-code Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
     },
@@ -136,7 +136,7 @@
       "repo": "supabase/supabase",
       "url": "https://github.com/supabase/supabase",
       "stars_today": 120,
-      "total_stars": 109748,
+      "total_stars": 109914,
       "language": "TypeScript",
       "description": "Sponsor Star supabase / supabase The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
     },
@@ -144,7 +144,7 @@
       "repo": "cline/cline",
       "url": "https://github.com/cline/cline",
       "stars_today": 112,
-      "total_stars": 68385,
+      "total_stars": 68489,
       "language": "TypeScript",
       "description": "Star cline / cline Autonomous coding agent as an SDK, IDE extension, or CLI assistant."
     },
@@ -152,7 +152,7 @@
       "repo": "anthropics/knowledge-work-plugins",
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "stars_today": 110,
-      "total_stars": 24299,
+      "total_stars": 24380,
       "language": "Python",
       "description": "Star anthropics / knowledge-work-plugins Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
     },
@@ -160,7 +160,7 @@
       "repo": "rlaope/oh-my-hermes",
       "url": "https://github.com/rlaope/oh-my-hermes",
       "stars_today": 80,
-      "total_stars": 2556,
+      "total_stars": 2639,
       "language": "Python",
       "description": "Star rlaope / oh-my-hermes All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages"
     }
