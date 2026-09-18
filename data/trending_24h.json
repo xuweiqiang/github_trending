@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-09-18T14:01:18.264002+08:00",
-  "count": 20,
+  "generated_at": "2026-09-18T19:27:01.774365+08:00",
+  "count": 17,
   "items": [
     {
       "repo": "cloudflare/security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
       "stars_today": 3607,
-      "total_stars": 11127,
+      "total_stars": 11782,
       "language": "JavaScript",
       "description": "Star cloudflare / security-audit-skill A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
     },
@@ -16,15 +16,15 @@
       "repo": "alibaba/open-code-review",
       "url": "https://github.com/alibaba/open-code-review",
       "stars_today": 3286,
-      "total_stars": 35438,
+      "total_stars": 36116,
       "language": "Go",
-      "description": "Star alibaba / open-code-review Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible."
+      "description": "Star alibaba / open-code-review Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible."
     },
     {
       "repo": "Tencent/BrowserSkill",
       "url": "https://github.com/Tencent/BrowserSkill",
       "stars_today": 1302,
-      "total_stars": 4518,
+      "total_stars": 4836,
       "language": "TypeScript",
       "description": "Star Tencent / BrowserSkill Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent."
     },
@@ -32,137 +32,113 @@
       "repo": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "stars_today": 1171,
-      "total_stars": 261341,
+      "total_stars": 261523,
       "language": "JavaScript",
       "description": "Sponsor Star affaan-m / ECC The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
     },
     {
-      "repo": "Tencent/WeKnora",
-      "url": "https://github.com/Tencent/WeKnora",
-      "stars_today": 1125,
-      "total_stars": 26534,
+      "repo": "asciimoo/hister",
+      "url": "https://github.com/asciimoo/hister",
+      "stars_today": 842,
+      "total_stars": 4638,
       "language": "Go",
-      "description": "Star Tencent / WeKnora Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki."
-    },
-    {
-      "repo": "alphaXiv/OpenResearch",
-      "url": "https://github.com/alphaXiv/OpenResearch",
-      "stars_today": 939,
-      "total_stars": 5093,
-      "language": "Rust",
-      "description": "Star alphaXiv / OpenResearch Turn your coding agents into research agents"
-    },
-    {
-      "repo": "NationalSecurityAgency/ghidra",
-      "url": "https://github.com/NationalSecurityAgency/ghidra",
-      "stars_today": 912,
-      "total_stars": 78648,
-      "language": "Java",
-      "description": "Star NationalSecurityAgency / ghidra Ghidra is a software reverse engineering (SRE) framework"
-    },
-    {
-      "repo": "JustVugg/colibri",
-      "url": "https://github.com/JustVugg/colibri",
-      "stars_today": 873,
-      "total_stars": 35861,
-      "language": "C",
-      "description": "Star JustVugg / colibri Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦"
-    },
-    {
-      "repo": "abue-ammar/tinycast",
-      "url": "https://github.com/abue-ammar/tinycast",
-      "stars_today": 739,
-      "total_stars": 6234,
-      "language": "Swift",
-      "description": "Star abue-ammar / tinycast Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history."
+      "description": "Sponsor Star asciimoo / hister Your own search engine"
     },
     {
       "repo": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "stars_today": 680,
-      "total_stars": 95988,
+      "total_stars": 96145,
       "language": "JavaScript",
       "description": "Star addyosmani / agent-skills Production-grade engineering skills for AI coding agents."
     },
     {
-      "repo": "jamiepine/voicebox",
-      "url": "https://github.com/jamiepine/voicebox",
-      "stars_today": 667,
-      "total_stars": 54945,
+      "repo": "supabase/supabase",
+      "url": "https://github.com/supabase/supabase",
+      "stars_today": 586,
+      "total_stars": 109954,
       "language": "TypeScript",
-      "description": "Star jamiepine / voicebox The open-source AI voice studio. Clone, dictate, create."
+      "description": "Sponsor Star supabase / supabase The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
+    },
+    {
+      "repo": "rustfs/rustfs",
+      "url": "https://github.com/rustfs/rustfs",
+      "stars_today": 559,
+      "total_stars": 32919,
+      "language": "Rust",
+      "description": "Star rustfs / rustfs RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph."
     },
     {
       "repo": "anthropics/claude-code",
       "url": "https://github.com/anthropics/claude-code",
       "stars_today": 538,
-      "total_stars": 145951,
+      "total_stars": 146045,
       "language": "TypeScript",
       "description": "Star anthropics / claude-code Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
     },
     {
-      "repo": "ever-co/ever-gauzy",
-      "url": "https://github.com/ever-co/ever-gauzy",
-      "stars_today": 470,
-      "total_stars": 7631,
-      "language": "TypeScript",
-      "description": "Sponsor Star ever-co / ever-gauzy Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co"
-    },
-    {
-      "repo": "cline/cline",
-      "url": "https://github.com/cline/cline",
-      "stars_today": 380,
-      "total_stars": 68614,
-      "language": "TypeScript",
-      "description": "Star cline / cline Autonomous coding agent as an SDK, IDE extension, or CLI assistant."
+      "repo": "ankitects/anki",
+      "url": "https://github.com/ankitects/anki",
+      "stars_today": 430,
+      "total_stars": 31051,
+      "language": "Rust",
+      "description": "Star ankitects / anki Anki is a smart spaced repetition flashcard program"
     },
     {
       "repo": "TencentCloud/Octop",
       "url": "https://github.com/TencentCloud/Octop",
       "stars_today": 367,
-      "total_stars": 3614,
+      "total_stars": 3761,
       "language": "Python",
       "description": "Star TencentCloud / Octop A smarter, self-hosted AI assistant — multi-user, multi-agent."
     },
     {
-      "repo": "roboflow/supervision",
-      "url": "https://github.com/roboflow/supervision",
-      "stars_today": 329,
-      "total_stars": 50864,
-      "language": "Python",
-      "description": "Star roboflow / supervision We write your reusable computer vision tools. 💜"
+      "repo": "Fission-AI/OpenSpec",
+      "url": "https://github.com/Fission-AI/OpenSpec",
+      "stars_today": 298,
+      "total_stars": 69057,
+      "language": "TypeScript",
+      "description": "Star Fission-AI / OpenSpec Spec-driven development (SDD) for AI coding assistants."
     },
     {
       "repo": "anthropics/knowledge-work-plugins",
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "stars_today": 287,
-      "total_stars": 24634,
+      "total_stars": 24705,
       "language": "Python",
       "description": "Star anthropics / knowledge-work-plugins Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
-    },
-    {
-      "repo": "n8n-io/n8n",
-      "url": "https://github.com/n8n-io/n8n",
-      "stars_today": 281,
-      "total_stars": 205111,
-      "language": "TypeScript",
-      "description": "Star n8n-io / n8n Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations."
     },
     {
       "repo": "coder/coder",
       "url": "https://github.com/coder/coder",
       "stars_today": 145,
-      "total_stars": 14939,
+      "total_stars": 15036,
       "language": "Go",
       "description": "Star coder / coder Secure environments for developers and their agents"
     },
     {
-      "repo": "cilium/cilium",
-      "url": "https://github.com/cilium/cilium",
-      "stars_today": 111,
-      "total_stars": 25308,
-      "language": "Go",
-      "description": "Star cilium / cilium eBPF-based Networking, Security, and Observability"
+      "repo": "ahmedkhaleel2004/gitdiagram",
+      "url": "https://github.com/ahmedkhaleel2004/gitdiagram",
+      "stars_today": 145,
+      "total_stars": 16235,
+      "language": "TypeScript",
+      "description": "Star ahmedkhaleel2004 / gitdiagram Free, simple, fast interactive diagrams for any GitHub repository"
+    },
+    {
+      "repo": "supermemoryai/supermemory",
+      "url": "https://github.com/supermemoryai/supermemory",
+      "stars_today": 140,
+      "total_stars": 30019,
+      "language": "TypeScript",
+      "description": "Star supermemoryai / supermemory Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era."
+    },
+    {
+      "repo": "tradesdontlie/tradingview-mcp",
+      "url": "https://github.com/tradesdontlie/tradingview-mcp",
+      "stars_today": 64,
+      "total_stars": 6338,
+      "language": "JavaScript",
+      "description": "Star tradesdontlie / tradingview-mcp AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation"
     }
   ]
 }

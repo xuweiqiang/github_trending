@@ -1,26 +1,23 @@
 # GitHub 24h Star 增长榜
 
-- 生成时间: 2026-09-18 14:01:18 +0800
+- 生成时间: 2026-09-18 19:27:01 +0800
 
 | 排名 | 项目 | 24h 增长 | 总 Stars | 链接 |
 |---:|---|---:|---:|---|
-| 1 | `cloudflare/security-audit-skill` | 3607 | 11127 | [跳转](https://github.com/cloudflare/security-audit-skill) |
-| 2 | `alibaba/open-code-review` | 3286 | 35438 | [跳转](https://github.com/alibaba/open-code-review) |
-| 3 | `Tencent/BrowserSkill` | 1302 | 4518 | [跳转](https://github.com/Tencent/BrowserSkill) |
-| 4 | `affaan-m/ECC` | 1171 | 261341 | [跳转](https://github.com/affaan-m/ECC) |
-| 5 | `Tencent/WeKnora` | 1125 | 26534 | [跳转](https://github.com/Tencent/WeKnora) |
-| 6 | `alphaXiv/OpenResearch` | 939 | 5093 | [跳转](https://github.com/alphaXiv/OpenResearch) |
-| 7 | `NationalSecurityAgency/ghidra` | 912 | 78648 | [跳转](https://github.com/NationalSecurityAgency/ghidra) |
-| 8 | `JustVugg/colibri` | 873 | 35861 | [跳转](https://github.com/JustVugg/colibri) |
-| 9 | `abue-ammar/tinycast` | 739 | 6234 | [跳转](https://github.com/abue-ammar/tinycast) |
-| 10 | `addyosmani/agent-skills` | 680 | 95988 | [跳转](https://github.com/addyosmani/agent-skills) |
-| 11 | `jamiepine/voicebox` | 667 | 54945 | [跳转](https://github.com/jamiepine/voicebox) |
-| 12 | `anthropics/claude-code` | 538 | 145951 | [跳转](https://github.com/anthropics/claude-code) |
-| 13 | `ever-co/ever-gauzy` | 470 | 7631 | [跳转](https://github.com/ever-co/ever-gauzy) |
-| 14 | `cline/cline` | 380 | 68614 | [跳转](https://github.com/cline/cline) |
-| 15 | `TencentCloud/Octop` | 367 | 3614 | [跳转](https://github.com/TencentCloud/Octop) |
-| 16 | `roboflow/supervision` | 329 | 50864 | [跳转](https://github.com/roboflow/supervision) |
-| 17 | `anthropics/knowledge-work-plugins` | 287 | 24634 | [跳转](https://github.com/anthropics/knowledge-work-plugins) |
-| 18 | `n8n-io/n8n` | 281 | 205111 | [跳转](https://github.com/n8n-io/n8n) |
-| 19 | `coder/coder` | 145 | 14939 | [跳转](https://github.com/coder/coder) |
-| 20 | `cilium/cilium` | 111 | 25308 | [跳转](https://github.com/cilium/cilium) |
+| 1 | `cloudflare/security-audit-skill` | 3607 | 11782 | [跳转](https://github.com/cloudflare/security-audit-skill) |
+| 2 | `alibaba/open-code-review` | 3286 | 36116 | [跳转](https://github.com/alibaba/open-code-review) |
+| 3 | `Tencent/BrowserSkill` | 1302 | 4836 | [跳转](https://github.com/Tencent/BrowserSkill) |
+| 4 | `affaan-m/ECC` | 1171 | 261523 | [跳转](https://github.com/affaan-m/ECC) |
+| 5 | `asciimoo/hister` | 842 | 4638 | [跳转](https://github.com/asciimoo/hister) |
+| 6 | `addyosmani/agent-skills` | 680 | 96145 | [跳转](https://github.com/addyosmani/agent-skills) |
+| 7 | `supabase/supabase` | 586 | 109954 | [跳转](https://github.com/supabase/supabase) |
+| 8 | `rustfs/rustfs` | 559 | 32919 | [跳转](https://github.com/rustfs/rustfs) |
+| 9 | `anthropics/claude-code` | 538 | 146045 | [跳转](https://github.com/anthropics/claude-code) |
+| 10 | `ankitects/anki` | 430 | 31051 | [跳转](https://github.com/ankitects/anki) |
+| 11 | `TencentCloud/Octop` | 367 | 3761 | [跳转](https://github.com/TencentCloud/Octop) |
+| 12 | `Fission-AI/OpenSpec` | 298 | 69057 | [跳转](https://github.com/Fission-AI/OpenSpec) |
+| 13 | `anthropics/knowledge-work-plugins` | 287 | 24705 | [跳转](https://github.com/anthropics/knowledge-work-plugins) |
+| 14 | `coder/coder` | 145 | 15036 | [跳转](https://github.com/coder/coder) |
+| 15 | `ahmedkhaleel2004/gitdiagram` | 145 | 16235 | [跳转](https://github.com/ahmedkhaleel2004/gitdiagram) |
+| 16 | `supermemoryai/supermemory` | 140 | 30019 | [跳转](https://github.com/supermemoryai/supermemory) |
+| 17 | `tradesdontlie/tradingview-mcp` | 64 | 6338 | [跳转](https://github.com/tradesdontlie/tradingview-mcp) |
