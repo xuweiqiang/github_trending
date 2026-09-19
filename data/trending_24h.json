@@ -1,46 +1,22 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-09-19T14:00:06.505154+08:00",
-  "count": 17,
+  "generated_at": "2026-09-19T19:10:41.039522+08:00",
+  "count": 15,
   "items": [
     {
       "repo": "cloudflare/security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
       "stars_today": 3006,
-      "total_stars": 14221,
+      "total_stars": 14880,
       "language": "JavaScript",
       "description": "Star cloudflare / security-audit-skill A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
-    },
-    {
-      "repo": "alibaba/open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
-      "stars_today": 2704,
-      "total_stars": 36891,
-      "language": "Go",
-      "description": "Star alibaba / open-code-review Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible."
-    },
-    {
-      "repo": "Tencent/BrowserSkill",
-      "url": "https://github.com/Tencent/BrowserSkill",
-      "stars_today": 1306,
-      "total_stars": 5447,
-      "language": "TypeScript",
-      "description": "Star Tencent / BrowserSkill Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent."
-    },
-    {
-      "repo": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "stars_today": 958,
-      "total_stars": 262227,
-      "language": "JavaScript",
-      "description": "Sponsor Star affaan-m / ECC The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
     },
     {
       "repo": "asciimoo/hister",
       "url": "https://github.com/asciimoo/hister",
       "stars_today": 889,
-      "total_stars": 5014,
+      "total_stars": 5079,
       "language": "Go",
       "description": "Sponsor Star asciimoo / hister Your own search engine"
     },
@@ -48,97 +24,105 @@
       "repo": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "stars_today": 675,
-      "total_stars": 96516,
+      "total_stars": 96650,
       "language": "JavaScript",
       "description": "Star addyosmani / agent-skills Production-grade engineering skills for AI coding agents."
-    },
-    {
-      "repo": "TencentCloud/Octop",
-      "url": "https://github.com/TencentCloud/Octop",
-      "stars_today": 569,
-      "total_stars": 4033,
-      "language": "Python",
-      "description": "Star TencentCloud / Octop A smarter, self-hosted AI assistant — multi-user, multi-agent."
     },
     {
       "repo": "coder/coder",
       "url": "https://github.com/coder/coder",
       "stars_today": 478,
-      "total_stars": 15357,
+      "total_stars": 15437,
       "language": "Go",
       "description": "Star coder / coder Secure environments for developers and their agents"
+    },
+    {
+      "repo": "Open-Dev-Society/OpenStock",
+      "url": "https://github.com/Open-Dev-Society/OpenStock",
+      "stars_today": 477,
+      "total_stars": 15683,
+      "language": "TypeScript",
+      "description": "Star Open-Dev-Society / OpenStock OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free."
     },
     {
       "repo": "anthropics/claude-code",
       "url": "https://github.com/anthropics/claude-code",
       "stars_today": 444,
-      "total_stars": 146398,
+      "total_stars": 146503,
       "language": "TypeScript",
       "description": "Star anthropics / claude-code Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
+    },
+    {
+      "repo": "trycua/cua",
+      "url": "https://github.com/trycua/cua",
+      "stars_today": 383,
+      "total_stars": 23848,
+      "language": "HTML",
+      "description": "Sponsor Star trycua / cua Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation."
+    },
+    {
+      "repo": "higgsfield-ai/higgsfield",
+      "url": "https://github.com/higgsfield-ai/higgsfield",
+      "stars_today": 325,
+      "total_stars": 4662,
+      "language": "Jupyter Notebook",
+      "description": "Star higgsfield-ai / higgsfield Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters"
     },
     {
       "repo": "anthropics/knowledge-work-plugins",
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "stars_today": 299,
-      "total_stars": 24935,
+      "total_stars": 24974,
       "language": "Python",
       "description": "Star anthropics / knowledge-work-plugins Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
     },
     {
-      "repo": "Fission-AI/OpenSpec",
-      "url": "https://github.com/Fission-AI/OpenSpec",
-      "stars_today": 296,
-      "total_stars": 69440,
-      "language": "TypeScript",
-      "description": "Star Fission-AI / OpenSpec Spec-driven development (SDD) for AI coding assistants."
+      "repo": "cactus-compute/needle",
+      "url": "https://github.com/cactus-compute/needle",
+      "stars_today": 207,
+      "total_stars": 11395,
+      "language": "Python",
+      "description": "Star cactus-compute / needle Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers."
     },
     {
-      "repo": "rustfs/rustfs",
-      "url": "https://github.com/rustfs/rustfs",
-      "stars_today": 267,
-      "total_stars": 33230,
+      "repo": "ruanyf/weekly",
+      "url": "https://github.com/ruanyf/weekly",
+      "stars_today": 144,
+      "total_stars": 102951,
+      "language": "",
+      "description": "Star ruanyf / weekly 科技爱好者周刊，每周五发布"
+    },
+    {
+      "repo": "docling-project/docling",
+      "url": "https://github.com/docling-project/docling",
+      "stars_today": 94,
+      "total_stars": 66721,
+      "language": "Python",
+      "description": "Star docling-project / docling Get your documents ready for gen AI"
+    },
+    {
+      "repo": "yynxxxxx/Codex-X",
+      "url": "https://github.com/yynxxxxx/Codex-X",
+      "stars_today": 64,
+      "total_stars": 3307,
       "language": "Rust",
-      "description": "Star rustfs / rustfs RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph."
+      "description": "Star yynxxxxx / Codex-X OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。"
     },
     {
-      "repo": "ankitects/anki",
-      "url": "https://github.com/ankitects/anki",
-      "stars_today": 174,
-      "total_stars": 31247,
+      "repo": "ZuodaoTech/everyone-can-use-english",
+      "url": "https://github.com/ZuodaoTech/everyone-can-use-english",
+      "stars_today": 31,
+      "total_stars": 37652,
+      "language": "TypeScript",
+      "description": "Star ZuodaoTech / everyone-can-use-english 人人都能用英语"
+    },
+    {
+      "repo": "cloudflare/quiche",
+      "url": "https://github.com/cloudflare/quiche",
+      "stars_today": 5,
+      "total_stars": 11854,
       "language": "Rust",
-      "description": "Star ankitects / anki Anki is a smart spaced repetition flashcard program"
-    },
-    {
-      "repo": "ahmedkhaleel2004/gitdiagram",
-      "url": "https://github.com/ahmedkhaleel2004/gitdiagram",
-      "stars_today": 152,
-      "total_stars": 16520,
-      "language": "TypeScript",
-      "description": "Star ahmedkhaleel2004 / gitdiagram Free, simple, fast interactive diagrams for any GitHub repository"
-    },
-    {
-      "repo": "supermemoryai/supermemory",
-      "url": "https://github.com/supermemoryai/supermemory",
-      "stars_today": 140,
-      "total_stars": 30386,
-      "language": "TypeScript",
-      "description": "Star supermemoryai / supermemory Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era."
-    },
-    {
-      "repo": "supabase/supabase",
-      "url": "https://github.com/supabase/supabase",
-      "stars_today": 120,
-      "total_stars": 110205,
-      "language": "TypeScript",
-      "description": "Sponsor Star supabase / supabase The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
-    },
-    {
-      "repo": "tradesdontlie/tradingview-mcp",
-      "url": "https://github.com/tradesdontlie/tradingview-mcp",
-      "stars_today": 79,
-      "total_stars": 6512,
-      "language": "JavaScript",
-      "description": "Star tradesdontlie / tradingview-mcp AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation"
+      "description": "Star cloudflare / quiche 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3"
     }
   ]
 }
