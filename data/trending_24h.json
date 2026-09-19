@@ -1,62 +1,62 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-09-19T19:10:41.039522+08:00",
+  "generated_at": "2026-09-19T22:30:42.866523+08:00",
   "count": 15,
   "items": [
     {
       "repo": "cloudflare/security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
-      "stars_today": 3006,
-      "total_stars": 14880,
+      "stars_today": 3162,
+      "total_stars": 15355,
       "language": "JavaScript",
       "description": "Star cloudflare / security-audit-skill A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
     },
     {
-      "repo": "asciimoo/hister",
-      "url": "https://github.com/asciimoo/hister",
-      "stars_today": 889,
-      "total_stars": 5079,
-      "language": "Go",
-      "description": "Sponsor Star asciimoo / hister Your own search engine"
-    },
-    {
       "repo": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
-      "stars_today": 675,
-      "total_stars": 96650,
+      "stars_today": 547,
+      "total_stars": 96760,
       "language": "JavaScript",
       "description": "Star addyosmani / agent-skills Production-grade engineering skills for AI coding agents."
     },
     {
-      "repo": "coder/coder",
-      "url": "https://github.com/coder/coder",
-      "stars_today": 478,
-      "total_stars": 15437,
-      "language": "Go",
-      "description": "Star coder / coder Secure environments for developers and their agents"
+      "repo": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "stars_today": 482,
+      "total_stars": 146559,
+      "language": "TypeScript",
+      "description": "Star anthropics / claude-code Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
     },
     {
       "repo": "Open-Dev-Society/OpenStock",
       "url": "https://github.com/Open-Dev-Society/OpenStock",
       "stars_today": 477,
-      "total_stars": 15683,
+      "total_stars": 15780,
       "language": "TypeScript",
       "description": "Star Open-Dev-Society / OpenStock OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free."
     },
     {
-      "repo": "anthropics/claude-code",
-      "url": "https://github.com/anthropics/claude-code",
-      "stars_today": 444,
-      "total_stars": 146503,
-      "language": "TypeScript",
-      "description": "Star anthropics / claude-code Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
+      "repo": "asciimoo/hister",
+      "url": "https://github.com/asciimoo/hister",
+      "stars_today": 430,
+      "total_stars": 5121,
+      "language": "Go",
+      "description": "Sponsor Star asciimoo / hister Your own search engine"
+    },
+    {
+      "repo": "coder/coder",
+      "url": "https://github.com/coder/coder",
+      "stars_today": 406,
+      "total_stars": 15474,
+      "language": "Go",
+      "description": "Star coder / coder Secure environments for developers and their agents"
     },
     {
       "repo": "trycua/cua",
       "url": "https://github.com/trycua/cua",
       "stars_today": 383,
-      "total_stars": 23848,
+      "total_stars": 23988,
       "language": "HTML",
       "description": "Sponsor Star trycua / cua Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation."
     },
@@ -64,15 +64,15 @@
       "repo": "higgsfield-ai/higgsfield",
       "url": "https://github.com/higgsfield-ai/higgsfield",
       "stars_today": 325,
-      "total_stars": 4662,
+      "total_stars": 4758,
       "language": "Jupyter Notebook",
       "description": "Star higgsfield-ai / higgsfield Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters"
     },
     {
       "repo": "anthropics/knowledge-work-plugins",
       "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "stars_today": 299,
-      "total_stars": 24974,
+      "stars_today": 280,
+      "total_stars": 25010,
       "language": "Python",
       "description": "Star anthropics / knowledge-work-plugins Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
     },
@@ -80,7 +80,7 @@
       "repo": "cactus-compute/needle",
       "url": "https://github.com/cactus-compute/needle",
       "stars_today": 207,
-      "total_stars": 11395,
+      "total_stars": 11462,
       "language": "Python",
       "description": "Star cactus-compute / needle Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers."
     },
@@ -88,7 +88,7 @@
       "repo": "ruanyf/weekly",
       "url": "https://github.com/ruanyf/weekly",
       "stars_today": 144,
-      "total_stars": 102951,
+      "total_stars": 103016,
       "language": "",
       "description": "Star ruanyf / weekly 科技爱好者周刊，每周五发布"
     },
@@ -96,7 +96,7 @@
       "repo": "docling-project/docling",
       "url": "https://github.com/docling-project/docling",
       "stars_today": 94,
-      "total_stars": 66721,
+      "total_stars": 66801,
       "language": "Python",
       "description": "Star docling-project / docling Get your documents ready for gen AI"
     },
@@ -104,7 +104,7 @@
       "repo": "yynxxxxx/Codex-X",
       "url": "https://github.com/yynxxxxx/Codex-X",
       "stars_today": 64,
-      "total_stars": 3307,
+      "total_stars": 3334,
       "language": "Rust",
       "description": "Star yynxxxxx / Codex-X OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。"
     },
@@ -112,7 +112,7 @@
       "repo": "ZuodaoTech/everyone-can-use-english",
       "url": "https://github.com/ZuodaoTech/everyone-can-use-english",
       "stars_today": 31,
-      "total_stars": 37652,
+      "total_stars": 37694,
       "language": "TypeScript",
       "description": "Star ZuodaoTech / everyone-can-use-english 人人都能用英语"
     },
@@ -120,7 +120,7 @@
       "repo": "cloudflare/quiche",
       "url": "https://github.com/cloudflare/quiche",
       "stars_today": 5,
-      "total_stars": 11854,
+      "total_stars": 11897,
       "language": "Rust",
       "description": "Star cloudflare / quiche 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3"
     }
