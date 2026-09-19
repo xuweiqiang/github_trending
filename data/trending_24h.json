@@ -1,62 +1,62 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-09-19T06:39:18.071991+08:00",
+  "generated_at": "2026-09-19T09:16:30.843971+08:00",
   "count": 17,
   "items": [
     {
       "repo": "cloudflare/security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
-      "stars_today": 3019,
-      "total_stars": 13506,
+      "stars_today": 3006,
+      "total_stars": 13726,
       "language": "JavaScript",
       "description": "Star cloudflare / security-audit-skill A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
     },
     {
       "repo": "alibaba/open-code-review",
       "url": "https://github.com/alibaba/open-code-review",
-      "stars_today": 2724,
-      "total_stars": 36604,
+      "stars_today": 2704,
+      "total_stars": 36684,
       "language": "Go",
       "description": "Star alibaba / open-code-review Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible."
     },
     {
       "repo": "Tencent/BrowserSkill",
       "url": "https://github.com/Tencent/BrowserSkill",
-      "stars_today": 1319,
-      "total_stars": 5242,
+      "stars_today": 1306,
+      "total_stars": 5312,
       "language": "TypeScript",
       "description": "Star Tencent / BrowserSkill Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent."
     },
     {
       "repo": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "stars_today": 965,
-      "total_stars": 262002,
+      "stars_today": 958,
+      "total_stars": 262079,
       "language": "JavaScript",
       "description": "Sponsor Star affaan-m / ECC The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
     },
     {
       "repo": "asciimoo/hister",
       "url": "https://github.com/asciimoo/hister",
-      "stars_today": 842,
-      "total_stars": 4935,
+      "stars_today": 889,
+      "total_stars": 4968,
       "language": "Go",
       "description": "Sponsor Star asciimoo / hister Your own search engine"
     },
     {
       "repo": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
-      "stars_today": 677,
-      "total_stars": 96371,
+      "stars_today": 675,
+      "total_stars": 96411,
       "language": "JavaScript",
       "description": "Star addyosmani / agent-skills Production-grade engineering skills for AI coding agents."
     },
     {
       "repo": "TencentCloud/Octop",
       "url": "https://github.com/TencentCloud/Octop",
-      "stars_today": 571,
-      "total_stars": 3932,
+      "stars_today": 569,
+      "total_stars": 3960,
       "language": "Python",
       "description": "Star TencentCloud / Octop A smarter, self-hosted AI assistant — multi-user, multi-agent."
     },
@@ -64,55 +64,55 @@
       "repo": "coder/coder",
       "url": "https://github.com/coder/coder",
       "stars_today": 478,
-      "total_stars": 15261,
+      "total_stars": 15297,
       "language": "Go",
       "description": "Star coder / coder Secure environments for developers and their agents"
     },
     {
       "repo": "anthropics/claude-code",
       "url": "https://github.com/anthropics/claude-code",
-      "stars_today": 442,
-      "total_stars": 146261,
+      "stars_today": 444,
+      "total_stars": 146303,
       "language": "TypeScript",
       "description": "Star anthropics / claude-code Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
     },
     {
       "repo": "anthropics/knowledge-work-plugins",
       "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "stars_today": 300,
-      "total_stars": 24860,
+      "stars_today": 299,
+      "total_stars": 24888,
       "language": "Python",
       "description": "Star anthropics / knowledge-work-plugins Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
     },
     {
       "repo": "Fission-AI/OpenSpec",
       "url": "https://github.com/Fission-AI/OpenSpec",
-      "stars_today": 298,
-      "total_stars": 69315,
+      "stars_today": 296,
+      "total_stars": 69360,
       "language": "TypeScript",
       "description": "Star Fission-AI / OpenSpec Spec-driven development (SDD) for AI coding assistants."
     },
     {
       "repo": "rustfs/rustfs",
       "url": "https://github.com/rustfs/rustfs",
-      "stars_today": 298,
-      "total_stars": 33135,
+      "stars_today": 267,
+      "total_stars": 33171,
       "language": "Rust",
       "description": "Star rustfs / rustfs RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph."
     },
     {
       "repo": "ankitects/anki",
       "url": "https://github.com/ankitects/anki",
-      "stars_today": 177,
-      "total_stars": 31193,
+      "stars_today": 174,
+      "total_stars": 31212,
       "language": "Rust",
       "description": "Star ankitects / anki Anki is a smart spaced repetition flashcard program"
     },
     {
       "repo": "ahmedkhaleel2004/gitdiagram",
       "url": "https://github.com/ahmedkhaleel2004/gitdiagram",
-      "stars_today": 145,
-      "total_stars": 16443,
+      "stars_today": 152,
+      "total_stars": 16470,
       "language": "TypeScript",
       "description": "Star ahmedkhaleel2004 / gitdiagram Free, simple, fast interactive diagrams for any GitHub repository"
     },
@@ -120,23 +120,23 @@
       "repo": "supermemoryai/supermemory",
       "url": "https://github.com/supermemoryai/supermemory",
       "stars_today": 140,
-      "total_stars": 30241,
+      "total_stars": 30286,
       "language": "TypeScript",
       "description": "Star supermemoryai / supermemory Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era."
     },
     {
       "repo": "supabase/supabase",
       "url": "https://github.com/supabase/supabase",
-      "stars_today": 128,
-      "total_stars": 110126,
+      "stars_today": 120,
+      "total_stars": 110154,
       "language": "TypeScript",
       "description": "Sponsor Star supabase / supabase The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
     },
     {
       "repo": "tradesdontlie/tradingview-mcp",
       "url": "https://github.com/tradesdontlie/tradingview-mcp",
-      "stars_today": 64,
-      "total_stars": 6450,
+      "stars_today": 79,
+      "total_stars": 6473,
       "language": "JavaScript",
       "description": "Star tradesdontlie / tradingview-mcp AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation"
     }
