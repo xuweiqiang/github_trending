@@ -1,19 +1,18 @@
 # GitHub 24h Star 增长榜
 
-- 生成时间: 2026-09-21 14:30:32 +0800
+- 生成时间: 2026-09-21 22:18:49 +0800
 
 | 排名 | 项目 | 24h 增长 | 总 Stars | 链接 |
 |---:|---|---:|---:|---|
-| 1 | `cloudflare/security-audit-skill` | 2428 | 18304 | [跳转](https://github.com/cloudflare/security-audit-skill) |
-| 2 | `trycua/cua` | 1018 | 25322 | [跳转](https://github.com/trycua/cua) |
-| 3 | `affaan-m/ECC` | 826 | 264018 | [跳转](https://github.com/affaan-m/ECC) |
-| 4 | `Open-Dev-Society/OpenStock` | 755 | 17048 | [跳转](https://github.com/Open-Dev-Society/OpenStock) |
-| 5 | `addyosmani/agent-skills` | 736 | 97842 | [跳转](https://github.com/addyosmani/agent-skills) |
-| 6 | `higgsfield-ai/higgsfield` | 465 | 5489 | [跳转](https://github.com/higgsfield-ai/higgsfield) |
-| 7 | `anthropics/claude-code` | 419 | 147271 | [跳转](https://github.com/anthropics/claude-code) |
-| 8 | `coder/coder` | 379 | 16162 | [跳转](https://github.com/coder/coder) |
-| 9 | `vercel-labs/json-render` | 291 | 17562 | [跳转](https://github.com/vercel-labs/json-render) |
-| 10 | `anthropics/financial-services` | 260 | 35499 | [跳转](https://github.com/anthropics/financial-services) |
-| 11 | `mihail911/modern-software-dev-assignments` | 172 | 4643 | [跳转](https://github.com/mihail911/modern-software-dev-assignments) |
-| 12 | `BuilderIO/agent-native` | 98 | 5411 | [跳转](https://github.com/BuilderIO/agent-native) |
-| 13 | `paperless-ngx/paperless-ngx` | 57 | 45685 | [跳转](https://github.com/paperless-ngx/paperless-ngx) |
+| 1 | `Open-Dev-Society/OpenStock` | 843 | 17357 | [跳转](https://github.com/Open-Dev-Society/OpenStock) |
+| 2 | `ruanyf/weekly` | 621 | 103824 | [跳转](https://github.com/ruanyf/weekly) |
+| 3 | `trycua/cua` | 609 | 25522 | [跳转](https://github.com/trycua/cua) |
+| 4 | `BuilderIO/agent-native` | 607 | 5653 | [跳转](https://github.com/BuilderIO/agent-native) |
+| 5 | `coder/coder` | 461 | 16296 | [跳转](https://github.com/coder/coder) |
+| 6 | `anthropics/financial-services` | 425 | 35657 | [跳转](https://github.com/anthropics/financial-services) |
+| 7 | `zhouxiaoka/autoclip` | 395 | 8055 | [跳转](https://github.com/zhouxiaoka/autoclip) |
+| 8 | `Crosstalk-Solutions/project-nomad` | 360 | 37638 | [跳转](https://github.com/Crosstalk-Solutions/project-nomad) |
+| 9 | `akitaonrails/ai-memory` | 217 | 7474 | [跳转](https://github.com/akitaonrails/ai-memory) |
+| 10 | `mvt-project/mvt` | 177 | 13409 | [跳转](https://github.com/mvt-project/mvt) |
+| 11 | `yynxxxxx/Codex-X` | 79 | 3615 | [跳转](https://github.com/yynxxxxx/Codex-X) |
+| 12 | `cloudflare/quiche` | 69 | 12203 | [跳转](https://github.com/cloudflare/quiche) |
