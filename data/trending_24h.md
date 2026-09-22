@@ -1,18 +1,14 @@
 # GitHub 24h Star 增长榜
 
-- 生成时间: 2026-09-22 15:46:58 +0800
+- 生成时间: 2026-09-22 21:28:09 +0800
 
 | 排名 | 项目 | 24h 增长 | 总 Stars | 链接 |
 |---:|---|---:|---:|---|
-| 1 | `Open-Dev-Society/OpenStock` | 844 | 18080 | [跳转](https://github.com/Open-Dev-Society/OpenStock) |
-| 2 | `trycua/cua` | 609 | 25846 | [跳转](https://github.com/trycua/cua) |
-| 3 | `BuilderIO/agent-native` | 607 | 6170 | [跳转](https://github.com/BuilderIO/agent-native) |
-| 4 | `coder/coder` | 460 | 16533 | [跳转](https://github.com/coder/coder) |
-| 5 | `anthropics/financial-services` | 424 | 35965 | [跳转](https://github.com/anthropics/financial-services) |
-| 6 | `Crosstalk-Solutions/project-nomad` | 394 | 38016 | [跳转](https://github.com/Crosstalk-Solutions/project-nomad) |
-| 7 | `zhouxiaoka/autoclip` | 250 | 8520 | [跳转](https://github.com/zhouxiaoka/autoclip) |
-| 8 | `ruanyf/weekly` | 182 | 104271 | [跳转](https://github.com/ruanyf/weekly) |
-| 9 | `mvt-project/mvt` | 169 | 13724 | [跳转](https://github.com/mvt-project/mvt) |
-| 10 | `akitaonrails/ai-memory` | 167 | 7884 | [跳转](https://github.com/akitaonrails/ai-memory) |
-| 11 | `yynxxxxx/Codex-X` | 50 | 3797 | [跳转](https://github.com/yynxxxxx/Codex-X) |
-| 12 | `cloudflare/quiche` | 32 | 12439 | [跳转](https://github.com/cloudflare/quiche) |
+| 1 | `google/ax` | 2324 | 6917 | [跳转](https://github.com/google/ax) |
+| 2 | `agent-substrate/substrate` | 498 | 2743 | [跳转](https://github.com/agent-substrate/substrate) |
+| 3 | `mvt-project/mvt` | 441 | 13816 | [跳转](https://github.com/mvt-project/mvt) |
+| 4 | `anthropics/financial-services` | 436 | 36089 | [跳转](https://github.com/anthropics/financial-services) |
+| 5 | `dream-num/univer` | 202 | 14994 | [跳转](https://github.com/dream-num/univer) |
+| 6 | `superdesigndev/treg` | 197 | 2009 | [跳转](https://github.com/superdesigndev/treg) |
+| 7 | `browser-use/video-use` | 155 | 25556 | [跳转](https://github.com/browser-use/video-use) |
+| 8 | `davila7/claude-code-templates` | 33 | 30949 | [跳转](https://github.com/davila7/claude-code-templates) |
