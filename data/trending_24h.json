@@ -1,30 +1,22 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-09-22T21:28:09.235910+08:00",
+  "generated_at": "2026-09-23T02:08:36.869336+08:00",
   "count": 8,
   "items": [
     {
       "repo": "google/ax",
       "url": "https://github.com/google/ax",
       "stars_today": 2324,
-      "total_stars": 6917,
+      "total_stars": 7296,
       "language": "Go",
       "description": "Star google / ax Google's open agentic orchestration runtime"
-    },
-    {
-      "repo": "agent-substrate/substrate",
-      "url": "https://github.com/agent-substrate/substrate",
-      "stars_today": 498,
-      "total_stars": 2743,
-      "language": "Go",
-      "description": "Star agent-substrate / substrate Agent Substrate: the core system"
     },
     {
       "repo": "mvt-project/mvt",
       "url": "https://github.com/mvt-project/mvt",
       "stars_today": 441,
-      "total_stars": 13816,
+      "total_stars": 13918,
       "language": "Python",
       "description": "Star mvt-project / mvt MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise."
     },
@@ -32,15 +24,23 @@
       "repo": "anthropics/financial-services",
       "url": "https://github.com/anthropics/financial-services",
       "stars_today": 436,
-      "total_stars": 36089,
+      "total_stars": 36211,
       "language": "Python",
       "description": ""
+    },
+    {
+      "repo": "agent-substrate/substrate",
+      "url": "https://github.com/agent-substrate/substrate",
+      "stars_today": 301,
+      "total_stars": 2855,
+      "language": "Go",
+      "description": "Star agent-substrate / substrate Agent Substrate: the core system"
     },
     {
       "repo": "dream-num/univer",
       "url": "https://github.com/dream-num/univer",
       "stars_today": 202,
-      "total_stars": 14994,
+      "total_stars": 15196,
       "language": "TypeScript",
       "description": "Star dream-num / univer The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime."
     },
@@ -48,7 +48,7 @@
       "repo": "superdesigndev/treg",
       "url": "https://github.com/superdesigndev/treg",
       "stars_today": 197,
-      "total_stars": 2009,
+      "total_stars": 2102,
       "language": "Python",
       "description": "Star superdesigndev / treg OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn"
     },
@@ -56,15 +56,15 @@
       "repo": "browser-use/video-use",
       "url": "https://github.com/browser-use/video-use",
       "stars_today": 155,
-      "total_stars": 25556,
+      "total_stars": 25686,
       "language": "Python",
       "description": "Star browser-use / video-use Edit videos with coding agents"
     },
     {
       "repo": "davila7/claude-code-templates",
       "url": "https://github.com/davila7/claude-code-templates",
-      "stars_today": 33,
-      "total_stars": 30949,
+      "stars_today": 113,
+      "total_stars": 31018,
       "language": "Python",
       "description": "Sponsor Star davila7 / claude-code-templates CLI tool for configuring and monitoring Claude Code"
     }
