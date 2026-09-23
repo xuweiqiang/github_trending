@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-09-23T08:41:19.938862+08:00",
+  "generated_at": "2026-09-23T14:04:58.325761+08:00",
   "count": 8,
   "items": [
     {
       "repo": "google/ax",
       "url": "https://github.com/google/ax",
       "stars_today": 2305,
-      "total_stars": 7589,
+      "total_stars": 7942,
       "language": "Go",
       "description": "Star google / ax Google's open agentic orchestration runtime"
     },
@@ -16,7 +16,7 @@
       "repo": "mvt-project/mvt",
       "url": "https://github.com/mvt-project/mvt",
       "stars_today": 441,
-      "total_stars": 14104,
+      "total_stars": 14226,
       "language": "Python",
       "description": "Star mvt-project / mvt MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise."
     },
@@ -24,7 +24,7 @@
       "repo": "anthropics/financial-services",
       "url": "https://github.com/anthropics/financial-services",
       "stars_today": 438,
-      "total_stars": 36330,
+      "total_stars": 36522,
       "language": "Python",
       "description": ""
     },
@@ -32,7 +32,7 @@
       "repo": "dream-num/univer",
       "url": "https://github.com/dream-num/univer",
       "stars_today": 255,
-      "total_stars": 15394,
+      "total_stars": 15752,
       "language": "TypeScript",
       "description": "Star dream-num / univer The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime."
     },
@@ -40,7 +40,7 @@
       "repo": "agent-substrate/substrate",
       "url": "https://github.com/agent-substrate/substrate",
       "stars_today": 245,
-      "total_stars": 2974,
+      "total_stars": 3098,
       "language": "Go",
       "description": "Star agent-substrate / substrate Agent Substrate: the core system"
     },
@@ -48,7 +48,7 @@
       "repo": "superdesigndev/treg",
       "url": "https://github.com/superdesigndev/treg",
       "stars_today": 230,
-      "total_stars": 2218,
+      "total_stars": 2331,
       "language": "Python",
       "description": "Star superdesigndev / treg OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn"
     },
@@ -56,7 +56,7 @@
       "repo": "browser-use/video-use",
       "url": "https://github.com/browser-use/video-use",
       "stars_today": 191,
-      "total_stars": 25840,
+      "total_stars": 26041,
       "language": "Python",
       "description": "Star browser-use / video-use Edit videos with coding agents"
     },
@@ -64,7 +64,7 @@
       "repo": "davila7/claude-code-templates",
       "url": "https://github.com/davila7/claude-code-templates",
       "stars_today": 64,
-      "total_stars": 31120,
+      "total_stars": 31213,
       "language": "Python",
       "description": "Sponsor Star davila7 / claude-code-templates CLI tool for configuring and monitoring Claude Code"
     }
