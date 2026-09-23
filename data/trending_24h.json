@@ -1,22 +1,46 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-09-23T14:04:58.325761+08:00",
-  "count": 8,
+  "generated_at": "2026-09-23T19:49:20.472289+08:00",
+  "count": 17,
   "items": [
     {
       "repo": "google/ax",
       "url": "https://github.com/google/ax",
       "stars_today": 2305,
-      "total_stars": 7942,
+      "total_stars": 8303,
       "language": "Go",
       "description": "Star google / ax Google's open agentic orchestration runtime"
+    },
+    {
+      "repo": "Open-Dev-Society/OpenStock",
+      "url": "https://github.com/Open-Dev-Society/OpenStock",
+      "stars_today": 832,
+      "total_stars": 18538,
+      "language": "TypeScript",
+      "description": "Star Open-Dev-Society / OpenStock OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free."
+    },
+    {
+      "repo": "BuilderIO/agent-native",
+      "url": "https://github.com/BuilderIO/agent-native",
+      "stars_today": 609,
+      "total_stars": 6361,
+      "language": "TypeScript",
+      "description": "Star BuilderIO / agent-native A framework for building agentic apps"
+    },
+    {
+      "repo": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "stars_today": 528,
+      "total_stars": 290423,
+      "language": "Shell",
+      "description": "Sponsor Star obra / superpowers An agentic skills framework & software development methodology that works."
     },
     {
       "repo": "mvt-project/mvt",
       "url": "https://github.com/mvt-project/mvt",
       "stars_today": 441,
-      "total_stars": 14226,
+      "total_stars": 14326,
       "language": "Python",
       "description": "Star mvt-project / mvt MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise."
     },
@@ -24,15 +48,23 @@
       "repo": "anthropics/financial-services",
       "url": "https://github.com/anthropics/financial-services",
       "stars_today": 438,
-      "total_stars": 36522,
+      "total_stars": 36687,
       "language": "Python",
       "description": ""
+    },
+    {
+      "repo": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "stars_today": 287,
+      "total_stars": 70061,
+      "language": "JavaScript",
+      "description": "Star pbakaus / impeccable The design language that makes your AI harness better at design."
     },
     {
       "repo": "dream-num/univer",
       "url": "https://github.com/dream-num/univer",
       "stars_today": 255,
-      "total_stars": 15752,
+      "total_stars": 16044,
       "language": "TypeScript",
       "description": "Star dream-num / univer The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime."
     },
@@ -40,7 +72,7 @@
       "repo": "agent-substrate/substrate",
       "url": "https://github.com/agent-substrate/substrate",
       "stars_today": 245,
-      "total_stars": 3098,
+      "total_stars": 3243,
       "language": "Go",
       "description": "Star agent-substrate / substrate Agent Substrate: the core system"
     },
@@ -48,25 +80,65 @@
       "repo": "superdesigndev/treg",
       "url": "https://github.com/superdesigndev/treg",
       "stars_today": 230,
-      "total_stars": 2331,
+      "total_stars": 2474,
       "language": "Python",
       "description": "Star superdesigndev / treg OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn"
+    },
+    {
+      "repo": "DeusData/codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "stars_today": 201,
+      "total_stars": 44289,
+      "language": "C",
+      "description": "Star DeusData / codebase-memory-mcp High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies."
     },
     {
       "repo": "browser-use/video-use",
       "url": "https://github.com/browser-use/video-use",
       "stars_today": 191,
-      "total_stars": 26041,
+      "total_stars": 26234,
       "language": "Python",
       "description": "Star browser-use / video-use Edit videos with coding agents"
+    },
+    {
+      "repo": "TNT-Likely/PanWatch",
+      "url": "https://github.com/TNT-Likely/PanWatch",
+      "stars_today": 175,
+      "total_stars": 1357,
+      "language": "Python",
+      "description": "Star TNT-Likely / PanWatch 盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股/港股/美股实时监控、持仓管理、智能分析、全渠道推送"
+    },
+    {
+      "repo": "strands-agents/harness-sdk",
+      "url": "https://github.com/strands-agents/harness-sdk",
+      "stars_today": 96,
+      "total_stars": 7612,
+      "language": "Python",
+      "description": "Star strands-agents / harness-sdk Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud."
+    },
+    {
+      "repo": "harry7557558/spirula-studio",
+      "url": "https://github.com/harry7557558/spirula-studio",
+      "stars_today": 86,
+      "total_stars": 622,
+      "language": "C++",
+      "description": "Star harry7557558 / spirula-studio Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA."
     },
     {
       "repo": "davila7/claude-code-templates",
       "url": "https://github.com/davila7/claude-code-templates",
       "stars_today": 64,
-      "total_stars": 31213,
+      "total_stars": 31306,
       "language": "Python",
       "description": "Sponsor Star davila7 / claude-code-templates CLI tool for configuring and monitoring Claude Code"
+    },
+    {
+      "repo": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "stars_today": 41,
+      "total_stars": 49732,
+      "language": "Python",
+      "description": "Star HKUDS / CLI-Anything \"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/"
     }
   ]
 }
