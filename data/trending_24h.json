@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-09-25T03:17:22.881353+08:00",
+  "generated_at": "2026-09-25T06:30:27.061030+08:00",
   "count": 14,
   "items": [
     {
       "repo": "vectorize-io/hindsight",
       "url": "https://github.com/vectorize-io/hindsight",
       "stars_today": 1607,
-      "total_stars": 27621,
+      "total_stars": 27720,
       "language": "Python",
       "description": "Star vectorize-io / hindsight Hindsight: Agent Memory That Learns"
     },
@@ -16,7 +16,7 @@
       "repo": "google/ax",
       "url": "https://github.com/google/ax",
       "stars_today": 1376,
-      "total_stars": 10122,
+      "total_stars": 10322,
       "language": "Go",
       "description": "Star google / ax Google's open agentic orchestration runtime"
     },
@@ -24,7 +24,7 @@
       "repo": "dream-num/univer",
       "url": "https://github.com/dream-num/univer",
       "stars_today": 1060,
-      "total_stars": 17406,
+      "total_stars": 17519,
       "language": "TypeScript",
       "description": "Star dream-num / univer The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime."
     },
@@ -32,7 +32,7 @@
       "repo": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "stars_today": 606,
-      "total_stars": 291141,
+      "total_stars": 291209,
       "language": "Shell",
       "description": "Sponsor Star obra / superpowers An agentic skills framework & software development methodology that works."
     },
@@ -40,7 +40,7 @@
       "repo": "anthropics/financial-services",
       "url": "https://github.com/anthropics/financial-services",
       "stars_today": 510,
-      "total_stars": 37297,
+      "total_stars": 37337,
       "language": "Python",
       "description": ""
     },
@@ -48,7 +48,7 @@
       "repo": "superdesigndev/treg",
       "url": "https://github.com/superdesigndev/treg",
       "stars_today": 470,
-      "total_stars": 3089,
+      "total_stars": 3134,
       "language": "Python",
       "description": "Star superdesigndev / treg OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn"
     },
@@ -56,7 +56,7 @@
       "repo": "strands-agents/harness-sdk",
       "url": "https://github.com/strands-agents/harness-sdk",
       "stars_today": 463,
-      "total_stars": 8190,
+      "total_stars": 8227,
       "language": "Python",
       "description": "Star strands-agents / harness-sdk Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud."
     },
@@ -64,7 +64,7 @@
       "repo": "HKUDS/CLI-Anything",
       "url": "https://github.com/HKUDS/CLI-Anything",
       "stars_today": 415,
-      "total_stars": 50253,
+      "total_stars": 50304,
       "language": "Python",
       "description": "Star HKUDS / CLI-Anything \"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/"
     },
@@ -72,7 +72,7 @@
       "repo": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "stars_today": 310,
-      "total_stars": 56335,
+      "total_stars": 56479,
       "language": "Python",
       "description": "Sponsor Star rohitg00 / ai-engineering-from-scratch Learn it. Build it. Ship it for others."
     },
@@ -80,7 +80,7 @@
       "repo": "mvt-project/mvt",
       "url": "https://github.com/mvt-project/mvt",
       "stars_today": 275,
-      "total_stars": 14671,
+      "total_stars": 14708,
       "language": "Python",
       "description": "Star mvt-project / mvt MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise."
     },
@@ -88,7 +88,7 @@
       "repo": "FxEmbed/FxEmbed",
       "url": "https://github.com/FxEmbed/FxEmbed",
       "stars_today": 165,
-      "total_stars": 5332,
+      "total_stars": 5352,
       "language": "TypeScript",
       "description": "Star FxEmbed / FxEmbed Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others"
     },
@@ -96,7 +96,7 @@
       "repo": "julyx10/lap",
       "url": "https://github.com/julyx10/lap",
       "stars_today": 151,
-      "total_stars": 2789,
+      "total_stars": 2844,
       "language": "Vue",
       "description": "Star julyx10 / lap An offline-first photo manager for large local libraries"
     },
@@ -104,7 +104,7 @@
       "repo": "leejet/stable-diffusion.cpp",
       "url": "https://github.com/leejet/stable-diffusion.cpp",
       "stars_today": 69,
-      "total_stars": 7205,
+      "total_stars": 7227,
       "language": "C++",
       "description": "Star leejet / stable-diffusion.cpp Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++"
     },
@@ -112,7 +112,7 @@
       "repo": "NVIDIA/Model-Optimizer",
       "url": "https://github.com/NVIDIA/Model-Optimizer",
       "stars_today": 22,
-      "total_stars": 4003,
+      "total_stars": 4045,
       "language": "Python",
       "description": "Star NVIDIA / Model-Optimizer A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed."
     }
