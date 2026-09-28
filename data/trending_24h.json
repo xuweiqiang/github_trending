@@ -1,80 +1,72 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-09-28T15:02:46.860539+08:00",
-  "count": 9,
+  "generated_at": "2026-09-28T23:36:53.158961+08:00",
+  "count": 8,
   "items": [
     {
       "repo": "vectorize-io/hindsight",
       "url": "https://github.com/vectorize-io/hindsight",
-      "stars_today": 4520,
-      "total_stars": 38467,
+      "stars_today": 4413,
+      "total_stars": 40197,
       "language": "Python",
       "description": "Star vectorize-io / hindsight Hindsight: Agent Memory That Learns"
     },
     {
       "repo": "debpalash/VoiceStudio",
       "url": "https://github.com/debpalash/VoiceStudio",
-      "stars_today": 3086,
-      "total_stars": 40902,
+      "stars_today": 3274,
+      "total_stars": 42578,
       "language": "Python",
       "description": "Star debpalash / VoiceStudio VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
     },
     {
       "repo": "paperclipai/paperclip",
       "url": "https://github.com/paperclipai/paperclip",
-      "stars_today": 2401,
-      "total_stars": 90811,
+      "stars_today": 3185,
+      "total_stars": 92011,
       "language": "TypeScript",
       "description": "Star paperclipai / paperclip The open-source app everyone uses to manage agents at work"
     },
     {
       "repo": "dream-num/univer",
       "url": "https://github.com/dream-num/univer",
-      "stars_today": 895,
-      "total_stars": 20788,
+      "stars_today": 1105,
+      "total_stars": 21046,
       "language": "TypeScript",
       "description": "Star dream-num / univer The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime."
     },
     {
-      "repo": "rohitg00/ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "stars_today": 790,
-      "total_stars": 59742,
-      "language": "Python",
-      "description": "Sponsor Star rohitg00 / ai-engineering-from-scratch Learn it. Build it. Ship it for others."
-    },
-    {
-      "repo": "InfinityLoop1308/PipePipe",
-      "url": "https://github.com/InfinityLoop1308/PipePipe",
-      "stars_today": 242,
-      "total_stars": 6694,
-      "language": "Shell",
-      "description": "Star InfinityLoop1308 / PipePipe An open-source Android app to let you browse YouTube and other services freely."
-    },
-    {
       "repo": "mvschwarz/openrig",
       "url": "https://github.com/mvschwarz/openrig",
-      "stars_today": 114,
-      "total_stars": 1186,
+      "stars_today": 781,
+      "total_stars": 1480,
       "language": "TypeScript",
       "description": "Star mvschwarz / openrig Multi-agent harness that runs Claude Code and Codex together as one system"
     },
     {
-      "repo": "vercel-labs/scriptc",
-      "url": "https://github.com/vercel-labs/scriptc",
-      "stars_today": 102,
-      "total_stars": 5503,
-      "language": "TypeScript",
-      "description": "Star vercel-labs / scriptc TypeScript-to-Native Compiler"
+      "repo": "byoungd/up",
+      "url": "https://github.com/byoungd/up",
+      "stars_today": 310,
+      "total_stars": 64493,
+      "language": "JavaScript",
+      "description": "Star byoungd / up An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语"
     },
     {
-      "repo": "willfaust/Madeira",
-      "url": "https://github.com/willfaust/Madeira",
-      "stars_today": 83,
-      "total_stars": 883,
-      "language": "C",
-      "description": "Star willfaust / Madeira Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT"
+      "repo": "cs341-illinois/coursebook",
+      "url": "https://github.com/cs341-illinois/coursebook",
+      "stars_today": 265,
+      "total_stars": 2326,
+      "language": "TeX",
+      "description": "Star cs341-illinois / coursebook Open Source Introductory Systems Programming Textbook for the University of Illinois"
+    },
+    {
+      "repo": "NawfalMotii79/PLFM_RADAR",
+      "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
+      "stars_today": 145,
+      "total_stars": 25653,
+      "language": "PLSQL",
+      "description": "Star NawfalMotii79 / PLFM_RADAR Open-source, low-cost 10.5 GHz PLFM phased array RADAR system"
     }
   ]
 }
