@@ -1,70 +1,70 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-09-29T06:08:03.722738+08:00",
+  "generated_at": "2026-09-29T10:03:23.503313+08:00",
   "count": 8,
   "items": [
     {
       "repo": "vectorize-io/hindsight",
       "url": "https://github.com/vectorize-io/hindsight",
-      "stars_today": 4413,
-      "total_stars": 40855,
+      "stars_today": 4561,
+      "total_stars": 41075,
       "language": "Python",
       "description": "Star vectorize-io / hindsight Hindsight: Agent Memory That Learns"
     },
     {
       "repo": "debpalash/VoiceStudio",
       "url": "https://github.com/debpalash/VoiceStudio",
-      "stars_today": 3274,
-      "total_stars": 43745,
+      "stars_today": 3221,
+      "total_stars": 44304,
       "language": "Python",
       "description": "Star debpalash / VoiceStudio VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
     },
     {
       "repo": "paperclipai/paperclip",
       "url": "https://github.com/paperclipai/paperclip",
-      "stars_today": 3185,
-      "total_stars": 92618,
+      "stars_today": 3197,
+      "total_stars": 92918,
       "language": "TypeScript",
       "description": "Star paperclipai / paperclip The open-source app everyone uses to manage agents at work"
     },
     {
       "repo": "dream-num/univer",
       "url": "https://github.com/dream-num/univer",
-      "stars_today": 1105,
-      "total_stars": 21186,
+      "stars_today": 1099,
+      "total_stars": 21297,
       "language": "TypeScript",
       "description": "Star dream-num / univer The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime."
     },
     {
       "repo": "mvschwarz/openrig",
       "url": "https://github.com/mvschwarz/openrig",
-      "stars_today": 781,
-      "total_stars": 1648,
+      "stars_today": 734,
+      "total_stars": 1766,
       "language": "TypeScript",
       "description": "Star mvschwarz / openrig Multi-agent harness that runs Claude Code and Codex together as one system"
     },
     {
-      "repo": "cs341-illinois/coursebook",
-      "url": "https://github.com/cs341-illinois/coursebook",
-      "stars_today": 316,
-      "total_stars": 2466,
-      "language": "TeX",
-      "description": "Star cs341-illinois / coursebook Open Source Introductory Systems Programming Textbook for the University of Illinois"
-    },
-    {
       "repo": "byoungd/up",
       "url": "https://github.com/byoungd/up",
-      "stars_today": 310,
-      "total_stars": 64611,
+      "stars_today": 327,
+      "total_stars": 64741,
       "language": "JavaScript",
       "description": "Star byoungd / up An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语"
     },
     {
+      "repo": "cs341-illinois/coursebook",
+      "url": "https://github.com/cs341-illinois/coursebook",
+      "stars_today": 195,
+      "total_stars": 2541,
+      "language": "TeX",
+      "description": "Star cs341-illinois / coursebook Open Source Introductory Systems Programming Textbook for the University of Illinois"
+    },
+    {
       "repo": "NawfalMotii79/PLFM_RADAR",
       "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
-      "stars_today": 145,
-      "total_stars": 25727,
+      "stars_today": 158,
+      "total_stars": 25784,
       "language": "PLSQL",
       "description": "Star NawfalMotii79 / PLFM_RADAR Open-source, low-cost 10.5 GHz PLFM phased array RADAR system"
     }
