@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-10-01T03:28:06.753014+08:00",
+  "generated_at": "2026-10-01T07:56:57.626161+08:00",
   "count": 17,
   "items": [
     {
       "repo": "debpalash/VoiceStudio",
       "url": "https://github.com/debpalash/VoiceStudio",
       "stars_today": 3481,
-      "total_stars": 50169,
+      "total_stars": 50399,
       "language": "Python",
       "description": "Star debpalash / VoiceStudio VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
     },
@@ -16,7 +16,7 @@
       "repo": "NVIDIA/OpenShell",
       "url": "https://github.com/NVIDIA/OpenShell",
       "stars_today": 1280,
-      "total_stars": 12223,
+      "total_stars": 12600,
       "language": "Rust",
       "description": "Star NVIDIA / OpenShell OpenShell is the safe, private runtime for autonomous AI agents."
     },
@@ -24,7 +24,7 @@
       "repo": "t8y2/dbx",
       "url": "https://github.com/t8y2/dbx",
       "stars_today": 1133,
-      "total_stars": 23054,
+      "total_stars": 23161,
       "language": "Rust",
       "description": "Star t8y2 / dbx 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。"
     },
@@ -32,7 +32,7 @@
       "repo": "VectifyAI/PageIndex",
       "url": "https://github.com/VectifyAI/PageIndex",
       "stars_today": 1095,
-      "total_stars": 38047,
+      "total_stars": 38110,
       "language": "Python",
       "description": "Sponsor Star VectifyAI / PageIndex 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG"
     },
@@ -40,7 +40,7 @@
       "repo": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "stars_today": 908,
-      "total_stars": 272857,
+      "total_stars": 272981,
       "language": "Shell",
       "description": "Sponsor Star mattpocock / skills Skills for Real Engineers. Straight from my .agents directory."
     },
@@ -48,7 +48,7 @@
       "repo": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
       "stars_today": 865,
-      "total_stars": 148990,
+      "total_stars": 149154,
       "language": "JavaScript",
       "description": "Sponsor Star DietrichGebert / ponytail Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
     },
@@ -56,7 +56,7 @@
       "repo": "byoungd/up",
       "url": "https://github.com/byoungd/up",
       "stars_today": 714,
-      "total_stars": 66331,
+      "total_stars": 66381,
       "language": "JavaScript",
       "description": "Star byoungd / up An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语"
     },
@@ -64,7 +64,7 @@
       "repo": "mvschwarz/openrig",
       "url": "https://github.com/mvschwarz/openrig",
       "stars_today": 622,
-      "total_stars": 2899,
+      "total_stars": 3004,
       "language": "TypeScript",
       "description": "Star mvschwarz / openrig Multi-agent harness that runs Claude Code and Codex together as one system"
     },
@@ -72,7 +72,7 @@
       "repo": "NawfalMotii79/PLFM_RADAR",
       "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
       "stars_today": 466,
-      "total_stars": 26384,
+      "total_stars": 26412,
       "language": "PLSQL",
       "description": "Star NawfalMotii79 / PLFM_RADAR Open-source, low-cost 10.5 GHz PLFM phased array RADAR system"
     },
@@ -80,7 +80,7 @@
       "repo": "harry0703/MoneyPrinterTurbo",
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "stars_today": 464,
-      "total_stars": 127447,
+      "total_stars": 127541,
       "language": "Python",
       "description": "Star harry0703 / MoneyPrinterTurbo 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow."
     },
@@ -88,7 +88,7 @@
       "repo": "heygen-com/hyperframes",
       "url": "https://github.com/heygen-com/hyperframes",
       "stars_today": 352,
-      "total_stars": 54616,
+      "total_stars": 54711,
       "language": "TypeScript",
       "description": "Star heygen-com / hyperframes Write HTML. Render video. Built for agents."
     },
@@ -96,7 +96,7 @@
       "repo": "colbymchenry/codegraph",
       "url": "https://github.com/colbymchenry/codegraph",
       "stars_today": 159,
-      "total_stars": 72539,
+      "total_stars": 72584,
       "language": "C",
       "description": "Star colbymchenry / codegraph Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local"
     },
@@ -104,7 +104,7 @@
       "repo": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
       "stars_today": 136,
-      "total_stars": 390938,
+      "total_stars": 390983,
       "language": "TypeScript",
       "description": "Sponsor Star openclaw / openclaw The AI that really does things. Any OS. Any Platform. The lobster way. 🦞"
     },
@@ -112,7 +112,7 @@
       "repo": "ComposioHQ/awesome-claude-skills",
       "url": "https://github.com/ComposioHQ/awesome-claude-skills",
       "stars_today": 118,
-      "total_stars": 76071,
+      "total_stars": 76118,
       "language": "Python",
       "description": "Star ComposioHQ / awesome-claude-skills A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows"
     },
@@ -120,7 +120,7 @@
       "repo": "mksglu/context-mode",
       "url": "https://github.com/mksglu/context-mode",
       "stars_today": 88,
-      "total_stars": 24413,
+      "total_stars": 24479,
       "language": "TypeScript",
       "description": "Sponsor Star mksglu / context-mode Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks."
     },
@@ -128,7 +128,7 @@
       "repo": "modelcontextprotocol/servers",
       "url": "https://github.com/modelcontextprotocol/servers",
       "stars_today": 48,
-      "total_stars": 90770,
+      "total_stars": 90804,
       "language": "TypeScript",
       "description": "Star modelcontextprotocol / servers Model Context Protocol Servers"
     },
@@ -136,7 +136,7 @@
       "repo": "firebase/firebase-ios-sdk",
       "url": "https://github.com/firebase/firebase-ios-sdk",
       "stars_today": 4,
-      "total_stars": 6739,
+      "total_stars": 6761,
       "language": "C++",
       "description": "Star firebase / firebase-ios-sdk Firebase SDK for Apple App Development"
     }
