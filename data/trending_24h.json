@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-09-30T08:33:34.973352+08:00",
+  "generated_at": "2026-09-30T14:50:25.440726+08:00",
   "count": 14,
   "items": [
     {
       "repo": "debpalash/VoiceStudio",
       "url": "https://github.com/debpalash/VoiceStudio",
       "stars_today": 4758,
-      "total_stars": 48092,
+      "total_stars": 48921,
       "language": "Python",
       "description": "Star debpalash / VoiceStudio VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
     },
@@ -16,7 +16,7 @@
       "repo": "vectorize-io/hindsight",
       "url": "https://github.com/vectorize-io/hindsight",
       "stars_today": 2575,
-      "total_stars": 42826,
+      "total_stars": 43191,
       "language": "Python",
       "description": "Star vectorize-io / hindsight Hindsight: Agent Memory That Learns"
     },
@@ -24,7 +24,7 @@
       "repo": "paperclipai/paperclip",
       "url": "https://github.com/paperclipai/paperclip",
       "stars_today": 2458,
-      "total_stars": 94451,
+      "total_stars": 94755,
       "language": "TypeScript",
       "description": "Star paperclipai / paperclip The open-source app everyone uses to manage agents at work"
     },
@@ -32,7 +32,7 @@
       "repo": "NVIDIA/OpenShell",
       "url": "https://github.com/NVIDIA/OpenShell",
       "stars_today": 990,
-      "total_stars": 10587,
+      "total_stars": 10907,
       "language": "Rust",
       "description": "Star NVIDIA / OpenShell OpenShell is the safe, private runtime for autonomous AI agents."
     },
@@ -40,7 +40,7 @@
       "repo": "VectifyAI/PageIndex",
       "url": "https://github.com/VectifyAI/PageIndex",
       "stars_today": 835,
-      "total_stars": 37357,
+      "total_stars": 37628,
       "language": "Python",
       "description": "Sponsor Star VectifyAI / PageIndex 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG"
     },
@@ -48,7 +48,7 @@
       "repo": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "stars_today": 786,
-      "total_stars": 61355,
+      "total_stars": 61704,
       "language": "Python",
       "description": "Sponsor Star rohitg00 / ai-engineering-from-scratch Learn it. Build it. Ship it for others."
     },
@@ -56,7 +56,7 @@
       "repo": "mvschwarz/openrig",
       "url": "https://github.com/mvschwarz/openrig",
       "stars_today": 737,
-      "total_stars": 2430,
+      "total_stars": 2571,
       "language": "TypeScript",
       "description": "Star mvschwarz / openrig Multi-agent harness that runs Claude Code and Codex together as one system"
     },
@@ -64,7 +64,7 @@
       "repo": "dream-num/univer",
       "url": "https://github.com/dream-num/univer",
       "stars_today": 696,
-      "total_stars": 21846,
+      "total_stars": 21991,
       "language": "TypeScript",
       "description": "Star dream-num / univer The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime."
     },
@@ -72,7 +72,7 @@
       "repo": "cs341-illinois/coursebook",
       "url": "https://github.com/cs341-illinois/coursebook",
       "stars_today": 572,
-      "total_stars": 3099,
+      "total_stars": 3209,
       "language": "TeX",
       "description": "Star cs341-illinois / coursebook Open Source Introductory Systems Programming Textbook for the University of Illinois"
     },
@@ -80,7 +80,7 @@
       "repo": "oblien/openship",
       "url": "https://github.com/oblien/openship",
       "stars_today": 437,
-      "total_stars": 13814,
+      "total_stars": 14017,
       "language": "TypeScript",
       "description": "Star oblien / openship Self-hosted deployment platform"
     },
@@ -88,7 +88,7 @@
       "repo": "t8y2/dbx",
       "url": "https://github.com/t8y2/dbx",
       "stars_today": 232,
-      "total_stars": 21984,
+      "total_stars": 22462,
       "language": "Rust",
       "description": "Star t8y2 / dbx 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。"
     },
@@ -96,7 +96,7 @@
       "repo": "averygan/reclip",
       "url": "https://github.com/averygan/reclip",
       "stars_today": 113,
-      "total_stars": 10089,
+      "total_stars": 10336,
       "language": "HTML",
       "description": "Star averygan / reclip Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI."
     },
@@ -104,7 +104,7 @@
       "repo": "willfaust/Madeira",
       "url": "https://github.com/willfaust/Madeira",
       "stars_today": 81,
-      "total_stars": 1097,
+      "total_stars": 1143,
       "language": "C",
       "description": "Star willfaust / Madeira Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT"
     },
@@ -112,7 +112,7 @@
       "repo": "rakyll/hey",
       "url": "https://github.com/rakyll/hey",
       "stars_today": 34,
-      "total_stars": 20471,
+      "total_stars": 20541,
       "language": "Go",
       "description": "Star rakyll / hey HTTP load generator, ApacheBench (ab) replacement"
     }
