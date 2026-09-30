@@ -1,20 +1,23 @@
 # GitHub 24h Star 增长榜
 
-- 生成时间: 2026-09-30 14:50:25 +0800
+- 生成时间: 2026-09-30 21:53:29 +0800
 
 | 排名 | 项目 | 24h 增长 | 总 Stars | 链接 |
 |---:|---|---:|---:|---|
-| 1 | `debpalash/VoiceStudio` | 4758 | 48921 | [跳转](https://github.com/debpalash/VoiceStudio) |
-| 2 | `vectorize-io/hindsight` | 2575 | 43191 | [跳转](https://github.com/vectorize-io/hindsight) |
-| 3 | `paperclipai/paperclip` | 2458 | 94755 | [跳转](https://github.com/paperclipai/paperclip) |
-| 4 | `NVIDIA/OpenShell` | 990 | 10907 | [跳转](https://github.com/NVIDIA/OpenShell) |
-| 5 | `VectifyAI/PageIndex` | 835 | 37628 | [跳转](https://github.com/VectifyAI/PageIndex) |
-| 6 | `rohitg00/ai-engineering-from-scratch` | 786 | 61704 | [跳转](https://github.com/rohitg00/ai-engineering-from-scratch) |
-| 7 | `mvschwarz/openrig` | 737 | 2571 | [跳转](https://github.com/mvschwarz/openrig) |
-| 8 | `dream-num/univer` | 696 | 21991 | [跳转](https://github.com/dream-num/univer) |
-| 9 | `cs341-illinois/coursebook` | 572 | 3209 | [跳转](https://github.com/cs341-illinois/coursebook) |
-| 10 | `oblien/openship` | 437 | 14017 | [跳转](https://github.com/oblien/openship) |
-| 11 | `t8y2/dbx` | 232 | 22462 | [跳转](https://github.com/t8y2/dbx) |
-| 12 | `averygan/reclip` | 113 | 10336 | [跳转](https://github.com/averygan/reclip) |
-| 13 | `willfaust/Madeira` | 81 | 1143 | [跳转](https://github.com/willfaust/Madeira) |
-| 14 | `rakyll/hey` | 34 | 20541 | [跳转](https://github.com/rakyll/hey) |
+| 1 | `debpalash/VoiceStudio` | 3481 | 49831 | [跳转](https://github.com/debpalash/VoiceStudio) |
+| 2 | `NVIDIA/OpenShell` | 1280 | 11477 | [跳转](https://github.com/NVIDIA/OpenShell) |
+| 3 | `t8y2/dbx` | 1133 | 22856 | [跳转](https://github.com/t8y2/dbx) |
+| 4 | `byoungd/up` | 1102 | 66168 | [跳转](https://github.com/byoungd/up) |
+| 5 | `VectifyAI/PageIndex` | 1095 | 37877 | [跳转](https://github.com/VectifyAI/PageIndex) |
+| 6 | `mattpocock/skills` | 736 | 272630 | [跳转](https://github.com/mattpocock/skills) |
+| 7 | `DietrichGebert/ponytail` | 675 | 148683 | [跳转](https://github.com/DietrichGebert/ponytail) |
+| 8 | `mvschwarz/openrig` | 622 | 2744 | [跳转](https://github.com/mvschwarz/openrig) |
+| 9 | `NawfalMotii79/PLFM_RADAR` | 466 | 26313 | [跳转](https://github.com/NawfalMotii79/PLFM_RADAR) |
+| 10 | `heygen-com/hyperframes` | 352 | 54455 | [跳转](https://github.com/heygen-com/hyperframes) |
+| 11 | `harry0703/MoneyPrinterTurbo` | 338 | 127292 | [跳转](https://github.com/harry0703/MoneyPrinterTurbo) |
+| 12 | `openclaw/openclaw` | 136 | 390848 | [跳转](https://github.com/openclaw/openclaw) |
+| 13 | `ComposioHQ/awesome-claude-skills` | 118 | 75976 | [跳转](https://github.com/ComposioHQ/awesome-claude-skills) |
+| 14 | `colbymchenry/codegraph` | 116 | 72469 | [跳转](https://github.com/colbymchenry/codegraph) |
+| 15 | `mksglu/context-mode` | 88 | 24323 | [跳转](https://github.com/mksglu/context-mode) |
+| 16 | `modelcontextprotocol/servers` | 48 | 90718 | [跳转](https://github.com/modelcontextprotocol/servers) |
+| 17 | `firebase/firebase-ios-sdk` | 4 | 6712 | [跳转](https://github.com/firebase/firebase-ios-sdk) |
