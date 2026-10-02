@@ -1,128 +1,144 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-10-02T13:51:41.031523+08:00",
-  "count": 15,
+  "generated_at": "2026-10-02T20:49:32.125680+08:00",
+  "count": 17,
   "items": [
-    {
-      "repo": "NVIDIA/OpenShell",
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "stars_today": 2456,
-      "total_stars": 14114,
-      "language": "Rust",
-      "description": "Star NVIDIA / OpenShell OpenShell is the safe, private runtime for autonomous AI agents."
-    },
     {
       "repo": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
-      "stars_today": 1194,
-      "total_stars": 150802,
+      "stars_today": 1429,
+      "total_stars": 151184,
       "language": "JavaScript",
       "description": "Sponsor Star DietrichGebert / ponytail Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
     },
     {
       "repo": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
-      "stars_today": 883,
-      "total_stars": 274088,
+      "stars_today": 955,
+      "total_stars": 274358,
       "language": "Shell",
       "description": "Sponsor Star mattpocock / skills Skills for Real Engineers. Straight from my .agents directory."
     },
     {
-      "repo": "mvschwarz/openrig",
-      "url": "https://github.com/mvschwarz/openrig",
-      "stars_today": 642,
-      "total_stars": 3844,
-      "language": "TypeScript",
-      "description": "Star mvschwarz / openrig Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work."
-    },
-    {
-      "repo": "heygen-com/hyperframes",
-      "url": "https://github.com/heygen-com/hyperframes",
-      "stars_today": 627,
-      "total_stars": 55456,
-      "language": "TypeScript",
-      "description": "Star heygen-com / hyperframes Write HTML. Render video. Built for agents."
-    },
-    {
       "repo": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
-      "stars_today": 495,
-      "total_stars": 73821,
+      "stars_today": 717,
+      "total_stars": 73986,
       "language": "JavaScript",
       "description": "Star pbakaus / impeccable The design language that makes your AI harness better at design."
     },
     {
-      "repo": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "stars_today": 455,
-      "total_stars": 294073,
-      "language": "Shell",
-      "description": "Sponsor Star obra / superpowers An agentic skills framework & software development methodology that works."
-    },
-    {
-      "repo": "HunxByts/GhostTrack",
-      "url": "https://github.com/HunxByts/GhostTrack",
-      "stars_today": 368,
-      "total_stars": 16502,
-      "language": "Python",
-      "description": "Star HunxByts / GhostTrack Useful tool to track location or mobile number"
-    },
-    {
-      "repo": "mksglu/context-mode",
-      "url": "https://github.com/mksglu/context-mode",
-      "stars_today": 362,
-      "total_stars": 24844,
+      "repo": "mvschwarz/openrig",
+      "url": "https://github.com/mvschwarz/openrig",
+      "stars_today": 691,
+      "total_stars": 4033,
       "language": "TypeScript",
-      "description": "Sponsor Star mksglu / context-mode Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks."
+      "description": "Star mvschwarz / openrig Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work."
+    },
+    {
+      "repo": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "stars_today": 683,
+      "total_stars": 87857,
+      "language": "Python",
+      "description": "Star Panniantong / Agent-Reach Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees."
     },
     {
       "repo": "pablostanley/yoinks",
       "url": "https://github.com/pablostanley/yoinks",
-      "stars_today": 361,
-      "total_stars": 3058,
+      "stars_today": 629,
+      "total_stars": 3231,
       "language": "TypeScript",
       "description": "Star pablostanley / yoinks yoink any video from your terminal. no shady ads."
     },
     {
-      "repo": "earendil-works/pi",
-      "url": "https://github.com/earendil-works/pi",
-      "stars_today": 298,
-      "total_stars": 111364,
+      "repo": "NVIDIA/OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "stars_today": 584,
+      "total_stars": 14241,
+      "language": "Rust",
+      "description": "Star NVIDIA / OpenShell OpenShell is the safe, private runtime for autonomous AI agents."
+    },
+    {
+      "repo": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "stars_today": 584,
+      "total_stars": 55618,
       "language": "TypeScript",
-      "description": "Star earendil-works / pi AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI"
+      "description": "Star heygen-com / hyperframes Write HTML. Render video. Built for agents."
     },
     {
-      "repo": "Friedrich-M/UniMate",
-      "url": "https://github.com/Friedrich-M/UniMate",
-      "stars_today": 217,
-      "total_stars": 1125,
-      "language": "Python",
-      "description": "Star Friedrich-M / UniMate [SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons"
+      "repo": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "stars_today": 561,
+      "total_stars": 294215,
+      "language": "Shell",
+      "description": "Sponsor Star obra / superpowers An agentic skills framework & software development methodology that works."
     },
     {
-      "repo": "tile-ai/tilelang",
-      "url": "https://github.com/tile-ai/tilelang",
-      "stars_today": 163,
-      "total_stars": 8160,
-      "language": "Python",
-      "description": "Star tile-ai / tilelang Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels"
+      "repo": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "stars_today": 276,
+      "total_stars": 24921,
+      "language": "TypeScript",
+      "description": "Sponsor Star mksglu / context-mode Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks."
+    },
+    {
+      "repo": "colbymchenry/codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "stars_today": 241,
+      "total_stars": 72833,
+      "language": "C",
+      "description": "Star colbymchenry / codegraph Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local"
+    },
+    {
+      "repo": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "stars_today": 193,
+      "total_stars": 108861,
+      "language": "Go",
+      "description": "Sponsor Star JuliusBrussee / caveman 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman."
     },
     {
       "repo": "cursor/plugins",
       "url": "https://github.com/cursor/plugins",
-      "stars_today": 150,
-      "total_stars": 9352,
+      "stars_today": 168,
+      "total_stars": 9403,
       "language": "TypeScript",
       "description": "Star cursor / plugins Cursor plugin specification and official plugins"
     },
     {
-      "repo": "firebase/firebase-ios-sdk",
-      "url": "https://github.com/firebase/firebase-ios-sdk",
-      "stars_today": 112,
-      "total_stars": 6885,
-      "language": "C++",
-      "description": "Star firebase / firebase-ios-sdk Firebase SDK for Apple App Development"
+      "repo": "coreyhaines31/marketingskills",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "stars_today": 139,
+      "total_stars": 52237,
+      "language": "JavaScript",
+      "description": "Sponsor Star coreyhaines31 / marketingskills Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering."
+    },
+    {
+      "repo": "Effect-TS/effect",
+      "url": "https://github.com/Effect-TS/effect",
+      "stars_today": 76,
+      "total_stars": 16400,
+      "language": "TypeScript",
+      "description": "Star Effect-TS / effect Build production-ready applications in TypeScript"
+    },
+    {
+      "repo": "google/skills",
+      "url": "https://github.com/google/skills",
+      "stars_today": 30,
+      "total_stars": 20611,
+      "language": "Python",
+      "description": "Star google / skills Agent Skills for Google products and technologies"
+    },
+    {
+      "repo": "getsentry/sentry",
+      "url": "https://github.com/getsentry/sentry",
+      "stars_today": 12,
+      "total_stars": 44927,
+      "language": "Python",
+      "description": "Star getsentry / sentry Developer-first error tracking and performance monitoring"
     }
   ]
 }
