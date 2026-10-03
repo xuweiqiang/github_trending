@@ -1,23 +1,25 @@
 # GitHub 24h Star 增长榜
 
-- 生成时间: 2026-10-03 16:16:37 +0800
+- 生成时间: 2026-10-03 21:30:02 +0800
 
 | 排名 | 项目 | 24h 增长 | 总 Stars | 链接 |
 |---:|---|---:|---:|---|
-| 1 | `DietrichGebert/ponytail` | 1435 | 152149 | [跳转](https://github.com/DietrichGebert/ponytail) |
-| 2 | `mattpocock/skills` | 955 | 274904 | [跳转](https://github.com/mattpocock/skills) |
-| 3 | `pbakaus/impeccable` | 722 | 74531 | [跳转](https://github.com/pbakaus/impeccable) |
-| 4 | `Panniantong/Agent-Reach` | 696 | 89119 | [跳转](https://github.com/Panniantong/Agent-Reach) |
-| 5 | `mvschwarz/openrig` | 683 | 4484 | [跳转](https://github.com/mvschwarz/openrig) |
-| 6 | `pablostanley/yoinks` | 623 | 3641 | [跳转](https://github.com/pablostanley/yoinks) |
-| 7 | `NVIDIA/OpenShell` | 594 | 14541 | [跳转](https://github.com/NVIDIA/OpenShell) |
-| 8 | `heygen-com/hyperframes` | 580 | 56031 | [跳转](https://github.com/heygen-com/hyperframes) |
-| 9 | `obra/superpowers` | 556 | 294600 | [跳转](https://github.com/obra/superpowers) |
-| 10 | `mksglu/context-mode` | 282 | 25116 | [跳转](https://github.com/mksglu/context-mode) |
-| 11 | `JuliusBrussee/caveman` | 209 | 109233 | [跳转](https://github.com/JuliusBrussee/caveman) |
-| 12 | `cursor/plugins` | 163 | 9562 | [跳转](https://github.com/cursor/plugins) |
-| 13 | `coreyhaines31/marketingskills` | 140 | 52517 | [跳转](https://github.com/coreyhaines31/marketingskills) |
-| 14 | `colbymchenry/codegraph` | 98 | 73052 | [跳转](https://github.com/colbymchenry/codegraph) |
-| 15 | `Effect-TS/effect` | 80 | 16637 | [跳转](https://github.com/Effect-TS/effect) |
-| 16 | `google/skills` | 39 | 20834 | [跳转](https://github.com/google/skills) |
-| 17 | `getsentry/sentry` | 16 | 45084 | [跳转](https://github.com/getsentry/sentry) |
+| 1 | `Panniantong/Agent-Reach` | 1683 | 89403 | [跳转](https://github.com/Panniantong/Agent-Reach) |
+| 2 | `DietrichGebert/ponytail` | 1289 | 152527 | [跳转](https://github.com/DietrichGebert/ponytail) |
+| 3 | `mattpocock/skills` | 750 | 275072 | [跳转](https://github.com/mattpocock/skills) |
+| 4 | `pbakaus/impeccable` | 705 | 74743 | [跳转](https://github.com/pbakaus/impeccable) |
+| 5 | `affaan-m/ECC` | 578 | 271838 | [跳转](https://github.com/affaan-m/ECC) |
+| 6 | `obra/superpowers` | 578 | 294717 | [跳转](https://github.com/obra/superpowers) |
+| 7 | `JuliusBrussee/caveman` | 505 | 109337 | [跳转](https://github.com/JuliusBrussee/caveman) |
+| 8 | `earendil-works/pi` | 408 | 111981 | [跳转](https://github.com/earendil-works/pi) |
+| 9 | `Effect-TS/effect` | 302 | 16703 | [跳转](https://github.com/Effect-TS/effect) |
+| 10 | `mksglu/context-mode` | 256 | 25170 | [跳转](https://github.com/mksglu/context-mode) |
+| 11 | `pingdotgg/t3code` | 251 | 24453 | [跳转](https://github.com/pingdotgg/t3code) |
+| 12 | `OpenCut-app/OpenCut` | 234 | 91379 | [跳转](https://github.com/OpenCut-app/OpenCut) |
+| 13 | `getsentry/sentry` | 211 | 45126 | [跳转](https://github.com/getsentry/sentry) |
+| 14 | `jamwithai/production-agentic-rag-course` | 192 | 9297 | [跳转](https://github.com/jamwithai/production-agentic-rag-course) |
+| 15 | `addyosmani/agent-skills` | 189 | 100700 | [跳转](https://github.com/addyosmani/agent-skills) |
+| 16 | `anthropics/claude-code` | 127 | 149058 | [跳转](https://github.com/anthropics/claude-code) |
+| 17 | `thedotmack/claude-mem` | 115 | 95290 | [跳转](https://github.com/thedotmack/claude-mem) |
+| 18 | `cloudflare/cloudflare-os` | 84 | 10413 | [跳转](https://github.com/cloudflare/cloudflare-os) |
+| 19 | `meituan-longcat/LongCat-Video` | 43 | 8615 | [跳转](https://github.com/meituan-longcat/LongCat-Video) |
