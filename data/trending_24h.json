@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-10-05T09:02:03.723591+08:00",
+  "generated_at": "2026-10-05T15:11:14.719058+08:00",
   "count": 16,
   "items": [
     {
       "repo": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
       "stars_today": 1894,
-      "total_stars": 154888,
+      "total_stars": 155230,
       "language": "JavaScript",
       "description": "Sponsor Star DietrichGebert / ponytail Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
     },
@@ -16,7 +16,7 @@
       "repo": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
       "stars_today": 1171,
-      "total_stars": 76298,
+      "total_stars": 76539,
       "language": "JavaScript",
       "description": "Star pbakaus / impeccable The design language that makes your AI harness better at design."
     },
@@ -24,7 +24,7 @@
       "repo": "Panniantong/Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "stars_today": 980,
-      "total_stars": 90885,
+      "total_stars": 91189,
       "language": "Python",
       "description": "Star Panniantong / Agent-Reach Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees."
     },
@@ -32,7 +32,7 @@
       "repo": "thedotmack/claude-mem",
       "url": "https://github.com/thedotmack/claude-mem",
       "stars_today": 628,
-      "total_stars": 96133,
+      "total_stars": 96269,
       "language": "TypeScript",
       "description": "Sponsor Star thedotmack / claude-mem Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More"
     },
@@ -40,7 +40,7 @@
       "repo": "OpenCut-app/OpenCut",
       "url": "https://github.com/OpenCut-app/OpenCut",
       "stars_today": 512,
-      "total_stars": 92144,
+      "total_stars": 92369,
       "language": "TypeScript",
       "description": "Sponsor Star OpenCut-app / OpenCut The open-source CapCut alternative"
     },
@@ -48,7 +48,7 @@
       "repo": "pingdotgg/t3code",
       "url": "https://github.com/pingdotgg/t3code",
       "stars_today": 490,
-      "total_stars": 25175,
+      "total_stars": 25303,
       "language": "TypeScript",
       "description": ""
     },
@@ -56,7 +56,7 @@
       "repo": "tester-army/e2e",
       "url": "https://github.com/tester-army/e2e",
       "stars_today": 345,
-      "total_stars": 3121,
+      "total_stars": 3504,
       "language": "TypeScript",
       "description": "Star tester-army / e2e Next generation e2e testing framework for web and mobile apps."
     },
@@ -64,7 +64,7 @@
       "repo": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "stars_today": 336,
-      "total_stars": 101218,
+      "total_stars": 101305,
       "language": "JavaScript",
       "description": "Star addyosmani / agent-skills Production-grade engineering skills for AI coding agents."
     },
@@ -72,7 +72,7 @@
       "repo": "calesthio/OpenMontage",
       "url": "https://github.com/calesthio/OpenMontage",
       "stars_today": 245,
-      "total_stars": 63225,
+      "total_stars": 63392,
       "language": "Python",
       "description": "Sponsor Star calesthio / OpenMontage World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio."
     },
@@ -80,7 +80,7 @@
       "repo": "michael-denyer/pstack-claude",
       "url": "https://github.com/michael-denyer/pstack-claude",
       "stars_today": 232,
-      "total_stars": 1141,
+      "total_stars": 1226,
       "language": "JavaScript",
       "description": "Star michael-denyer / pstack-claude Claude Code, Codex, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses."
     },
@@ -88,7 +88,7 @@
       "repo": "antirez/ds4",
       "url": "https://github.com/antirez/ds4",
       "stars_today": 211,
-      "total_stars": 23447,
+      "total_stars": 23497,
       "language": "C",
       "description": "Sponsor Star antirez / ds4 DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm"
     },
@@ -96,7 +96,7 @@
       "repo": "coreyhaines31/marketingskills",
       "url": "https://github.com/coreyhaines31/marketingskills",
       "stars_today": 197,
-      "total_stars": 53074,
+      "total_stars": 53203,
       "language": "JavaScript",
       "description": "Sponsor Star coreyhaines31 / marketingskills Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering."
     },
@@ -104,7 +104,7 @@
       "repo": "getsentry/sentry",
       "url": "https://github.com/getsentry/sentry",
       "stars_today": 152,
-      "total_stars": 45384,
+      "total_stars": 45439,
       "language": "Python",
       "description": "Star getsentry / sentry Developer-first error tracking and performance monitoring"
     },
@@ -112,7 +112,7 @@
       "repo": "garrytan/gstack",
       "url": "https://github.com/garrytan/gstack",
       "stars_today": 125,
-      "total_stars": 135164,
+      "total_stars": 135236,
       "language": "TypeScript",
       "description": "Star garrytan / gstack Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA"
     },
@@ -120,7 +120,7 @@
       "repo": "earthtojake/text-to-cad",
       "url": "https://github.com/earthtojake/text-to-cad",
       "stars_today": 83,
-      "total_stars": 16866,
+      "total_stars": 16998,
       "language": "Python",
       "description": "Star earthtojake / text-to-cad Give your agent CAD superpowers."
     },
@@ -128,7 +128,7 @@
       "repo": "caddyserver/caddy",
       "url": "https://github.com/caddyserver/caddy",
       "stars_today": 24,
-      "total_stars": 76567,
+      "total_stars": 76693,
       "language": "Go",
       "description": "Star caddyserver / caddy Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS"
     }
