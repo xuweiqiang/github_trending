@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-10-07T01:16:51.426920+08:00",
+  "generated_at": "2026-10-07T05:42:33.903381+08:00",
   "count": 12,
   "items": [
     {
       "repo": "morluto/rea",
       "url": "https://github.com/morluto/rea",
       "stars_today": 2963,
-      "total_stars": 7927,
+      "total_stars": 8822,
       "language": "TypeScript",
       "description": "Star morluto / rea Reverse engineer anything with agents, from app behavior down to native binaries."
     },
@@ -16,7 +16,7 @@
       "repo": "tester-army/e2e",
       "url": "https://github.com/tester-army/e2e",
       "stars_today": 1720,
-      "total_stars": 5943,
+      "total_stars": 6176,
       "language": "TypeScript",
       "description": "Star tester-army / e2e Next generation e2e testing framework for web and mobile apps."
     },
@@ -24,7 +24,7 @@
       "repo": "DuarteSantos8/openGym",
       "url": "https://github.com/DuarteSantos8/openGym",
       "stars_today": 1419,
-      "total_stars": 5319,
+      "total_stars": 5571,
       "language": "JavaScript",
       "description": "Sponsor Star DuarteSantos8 / openGym Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server."
     },
@@ -32,7 +32,7 @@
       "repo": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "stars_today": 972,
-      "total_stars": 277825,
+      "total_stars": 278039,
       "language": "Shell",
       "description": "Sponsor Star mattpocock / skills Skills for Real Engineers. Straight from my .agents directory."
     },
@@ -40,7 +40,7 @@
       "repo": "boykopovar/AnyPS5",
       "url": "https://github.com/boykopovar/AnyPS5",
       "stars_today": 943,
-      "total_stars": 5823,
+      "total_stars": 6294,
       "language": "C++",
       "description": "Star boykopovar / AnyPS5 Tool for automatic PS5 executables porting to Linux and Windows"
     },
@@ -48,7 +48,7 @@
       "repo": "msitarzewski/agency-agents",
       "url": "https://github.com/msitarzewski/agency-agents",
       "stars_today": 621,
-      "total_stars": 157674,
+      "total_stars": 157757,
       "language": "Shell",
       "description": "Sponsor Star msitarzewski / agency-agents A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables."
     },
@@ -56,7 +56,7 @@
       "repo": "earthtojake/text-to-cad",
       "url": "https://github.com/earthtojake/text-to-cad",
       "stars_today": 620,
-      "total_stars": 17825,
+      "total_stars": 17919,
       "language": "Python",
       "description": "Star earthtojake / text-to-cad Give your agent CAD superpowers."
     },
@@ -64,7 +64,7 @@
       "repo": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
       "stars_today": 609,
-      "total_stars": 77523,
+      "total_stars": 77625,
       "language": "JavaScript",
       "description": "Star pbakaus / impeccable The design language that makes your AI harness better at design."
     },
@@ -72,7 +72,7 @@
       "repo": "thedotmack/claude-mem",
       "url": "https://github.com/thedotmack/claude-mem",
       "stars_today": 536,
-      "total_stars": 97007,
+      "total_stars": 97107,
       "language": "TypeScript",
       "description": "Sponsor Star thedotmack / claude-mem Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More"
     },
@@ -80,7 +80,7 @@
       "repo": "deepseek-ai/DeepGEMM",
       "url": "https://github.com/deepseek-ai/DeepGEMM",
       "stars_today": 363,
-      "total_stars": 8623,
+      "total_stars": 8668,
       "language": "Cuda",
       "description": "Star deepseek-ai / DeepGEMM DeepGEMM: clean and efficient BLAS kernel library on GPU"
     },
@@ -88,7 +88,7 @@
       "repo": "ayghri/i-have-adhd",
       "url": "https://github.com/ayghri/i-have-adhd",
       "stars_today": 318,
-      "total_stars": 54249,
+      "total_stars": 54341,
       "language": "Python",
       "description": "Star ayghri / i-have-adhd A skill to stop your coding agent from burying the answer. ADHD-friendly output."
     },
@@ -96,7 +96,7 @@
       "repo": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "stars_today": 227,
-      "total_stars": 43820,
+      "total_stars": 43970,
       "language": "HTML",
       "description": "Sponsor Star cathrynlavery / diagram-design Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop."
     }
