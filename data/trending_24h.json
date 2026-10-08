@@ -1,112 +1,112 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-10-08T06:04:21.079548+08:00",
+  "generated_at": "2026-10-08T10:03:25.428837+08:00",
   "count": 13,
   "items": [
     {
       "repo": "morluto/rea",
       "url": "https://github.com/morluto/rea",
-      "stars_today": 4666,
-      "total_stars": 14544,
+      "stars_today": 4655,
+      "total_stars": 15549,
       "language": "TypeScript",
       "description": "Star morluto / rea Reverse engineer anything with agents, from app behavior down to native binaries."
     },
     {
       "repo": "boykopovar/AnyPS5",
       "url": "https://github.com/boykopovar/AnyPS5",
-      "stars_today": 2725,
-      "total_stars": 10208,
+      "stars_today": 2716,
+      "total_stars": 10747,
       "language": "C++",
       "description": "Star boykopovar / AnyPS5 Tool for automatic PS5 executables porting to Linux and Windows"
     },
     {
       "repo": "DuarteSantos8/openGym",
       "url": "https://github.com/DuarteSantos8/openGym",
-      "stars_today": 1494,
-      "total_stars": 6800,
+      "stars_today": 1493,
+      "total_stars": 6968,
       "language": "JavaScript",
       "description": "Sponsor Star DuarteSantos8 / openGym Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server."
     },
     {
       "repo": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
-      "stars_today": 1406,
-      "total_stars": 279477,
+      "stars_today": 1403,
+      "total_stars": 279677,
       "language": "Shell",
       "description": "Sponsor Star mattpocock / skills Skills for Real Engineers. Straight from my .agents directory."
     },
     {
       "repo": "tester-army/e2e",
       "url": "https://github.com/tester-army/e2e",
-      "stars_today": 1391,
-      "total_stars": 7338,
+      "stars_today": 1390,
+      "total_stars": 7514,
       "language": "TypeScript",
       "description": "Star tester-army / e2e Next generation e2e testing framework for web and mobile apps."
     },
     {
       "repo": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
-      "stars_today": 828,
-      "total_stars": 44895,
+      "stars_today": 825,
+      "total_stars": 45038,
       "language": "HTML",
       "description": "Sponsor Star cathrynlavery / diagram-design Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop."
     },
     {
       "repo": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
-      "stars_today": 693,
-      "total_stars": 102733,
+      "stars_today": 677,
+      "total_stars": 102852,
       "language": "JavaScript",
       "description": "Star addyosmani / agent-skills Production-grade engineering skills for AI coding agents."
     },
     {
       "repo": "ayghri/i-have-adhd",
       "url": "https://github.com/ayghri/i-have-adhd",
-      "stars_today": 620,
-      "total_stars": 55047,
+      "stars_today": 619,
+      "total_stars": 55162,
       "language": "Python",
       "description": "Star ayghri / i-have-adhd A skill to stop your coding agent from burying the answer. ADHD-friendly output."
-    },
-    {
-      "repo": "cloudflare/security-audit-skill",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "stars_today": 617,
-      "total_stars": 25977,
-      "language": "JavaScript",
-      "description": "Star cloudflare / security-audit-skill A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
     },
     {
       "repo": "thedotmack/claude-mem",
       "url": "https://github.com/thedotmack/claude-mem",
       "stars_today": 578,
-      "total_stars": 97660,
+      "total_stars": 97753,
       "language": "TypeScript",
       "description": "Sponsor Star thedotmack / claude-mem Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More"
     },
     {
+      "repo": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "stars_today": 576,
+      "total_stars": 26082,
+      "language": "JavaScript",
+      "description": "Star cloudflare / security-audit-skill A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
+    },
+    {
       "repo": "trycua/cua",
       "url": "https://github.com/trycua/cua",
-      "stars_today": 229,
-      "total_stars": 28708,
+      "stars_today": 228,
+      "total_stars": 28771,
       "language": "Rust",
       "description": "Sponsor Star trycua / cua Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation."
     },
     {
-      "repo": "manaflow-ai/cmux",
-      "url": "https://github.com/manaflow-ai/cmux",
-      "stars_today": 96,
-      "total_stars": 27815,
-      "language": "Swift",
-      "description": "Star manaflow-ai / cmux Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability."
-    },
-    {
       "repo": "EpicGames/raddebugger",
       "url": "https://github.com/EpicGames/raddebugger",
-      "stars_today": 82,
-      "total_stars": 7837,
+      "stars_today": 90,
+      "total_stars": 7876,
       "language": "C",
       "description": "Star EpicGames / raddebugger A native, user-mode, multi-process, graphical debugger."
+    },
+    {
+      "repo": "manaflow-ai/cmux",
+      "url": "https://github.com/manaflow-ai/cmux",
+      "stars_today": 44,
+      "total_stars": 27865,
+      "language": "Swift",
+      "description": "Star manaflow-ai / cmux Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability."
     }
   ]
 }
