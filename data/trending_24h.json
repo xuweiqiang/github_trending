@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-10-09T00:36:56.144932+08:00",
+  "generated_at": "2026-10-09T06:11:25.880997+08:00",
   "count": 9,
   "items": [
     {
       "repo": "morluto/rea",
       "url": "https://github.com/morluto/rea",
       "stars_today": 7744,
-      "total_stars": 20849,
+      "total_stars": 24805,
       "language": "TypeScript",
       "description": "Star morluto / rea Reverse engineer anything with agents, from app behavior down to native binaries."
     },
@@ -16,7 +16,7 @@
       "repo": "boykopovar/AnyPS5",
       "url": "https://github.com/boykopovar/AnyPS5",
       "stars_today": 4640,
-      "total_stars": 14102,
+      "total_stars": 15212,
       "language": "C++",
       "description": "Star boykopovar / AnyPS5 Tool for automatic PS5 executables porting to Linux and Windows"
     },
@@ -24,7 +24,7 @@
       "repo": "storytold/artcraft",
       "url": "https://github.com/storytold/artcraft",
       "stars_today": 2510,
-      "total_stars": 6759,
+      "total_stars": 7636,
       "language": "Rust",
       "description": "Star storytold / artcraft ArtCraft is an intentional crafting engine for artists, designers, and filmmakers"
     },
@@ -32,7 +32,7 @@
       "repo": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "stars_today": 1770,
-      "total_stars": 280868,
+      "total_stars": 280969,
       "language": "Shell",
       "description": "Sponsor Star mattpocock / skills Skills for Real Engineers. Straight from my .agents directory."
     },
@@ -40,7 +40,7 @@
       "repo": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "stars_today": 1163,
-      "total_stars": 45893,
+      "total_stars": 46207,
       "language": "HTML",
       "description": "Sponsor Star cathrynlavery / diagram-design Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop."
     },
@@ -48,7 +48,7 @@
       "repo": "thedotmack/claude-mem",
       "url": "https://github.com/thedotmack/claude-mem",
       "stars_today": 662,
-      "total_stars": 98215,
+      "total_stars": 98384,
       "language": "TypeScript",
       "description": "Sponsor Star thedotmack / claude-mem Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More"
     },
@@ -56,7 +56,7 @@
       "repo": "liquidslr/system-design-notes",
       "url": "https://github.com/liquidslr/system-design-notes",
       "stars_today": 398,
-      "total_stars": 24366,
+      "total_stars": 24547,
       "language": "",
       "description": "Star liquidslr / system-design-notes Notes of the book System Desgin Interview - An Insider's Guide"
     },
@@ -64,7 +64,7 @@
       "repo": "anthropics/knowledge-work-plugins",
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "stars_today": 309,
-      "total_stars": 27360,
+      "total_stars": 27471,
       "language": "Python",
       "description": "Star anthropics / knowledge-work-plugins Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
     },
@@ -72,7 +72,7 @@
       "repo": "EpicGames/raddebugger",
       "url": "https://github.com/EpicGames/raddebugger",
       "stars_today": 283,
-      "total_stars": 8027,
+      "total_stars": 8088,
       "language": "C",
       "description": "Star EpicGames / raddebugger A native, user-mode, multi-process, graphical debugger."
     }
