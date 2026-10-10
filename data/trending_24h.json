@@ -1,96 +1,112 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-10-10T15:16:05.561262+08:00",
-  "count": 11,
+  "generated_at": "2026-10-10T21:50:16.535146+08:00",
+  "count": 13,
   "items": [
     {
       "repo": "morluto/rea",
       "url": "https://github.com/morluto/rea",
-      "stars_today": 14927,
-      "total_stars": 54551,
+      "stars_today": 25784,
+      "total_stars": 62529,
       "language": "TypeScript",
       "description": "Star morluto / rea Reverse engineer anything with agents, from app behavior down to native binaries."
     },
     {
       "repo": "boykopovar/AnyPS5",
       "url": "https://github.com/boykopovar/AnyPS5",
-      "stars_today": 5868,
-      "total_stars": 23404,
+      "stars_today": 5831,
+      "total_stars": 24854,
       "language": "C++",
       "description": "Star boykopovar / AnyPS5 Tool for automatic PS5 executables porting to Linux and Windows"
     },
     {
       "repo": "storytold/artcraft",
       "url": "https://github.com/storytold/artcraft",
-      "stars_today": 3752,
-      "total_stars": 12266,
+      "stars_today": 3217,
+      "total_stars": 13118,
       "language": "Rust",
       "description": "Star storytold / artcraft ArtCraft is an intentional crafting engine for artists, designers, and filmmakers"
     },
     {
-      "repo": "cathrynlavery/diagram-design",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "stars_today": 1739,
-      "total_stars": 48225,
-      "language": "HTML",
-      "description": "Sponsor Star cathrynlavery / diagram-design Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop."
-    },
-    {
       "repo": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
-      "stars_today": 1687,
-      "total_stars": 283233,
+      "stars_today": 1737,
+      "total_stars": 283760,
       "language": "Shell",
       "description": "Sponsor Star mattpocock / skills Skills for Real Engineers. Straight from my .agents directory."
     },
     {
+      "repo": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "stars_today": 1189,
+      "total_stars": 48536,
+      "language": "HTML",
+      "description": "Sponsor Star cathrynlavery / diagram-design Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop."
+    },
+    {
       "repo": "anthropics/knowledge-work-plugins",
       "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "stars_today": 709,
-      "total_stars": 28440,
+      "stars_today": 626,
+      "total_stars": 28613,
       "language": "Python",
       "description": "Star anthropics / knowledge-work-plugins Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
     },
     {
-      "repo": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "stars_today": 436,
-      "total_stars": 104193,
-      "language": "JavaScript",
-      "description": "Star addyosmani / agent-skills Production-grade engineering skills for AI coding agents."
-    },
-    {
-      "repo": "alibaba/open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
-      "stars_today": 326,
-      "total_stars": 45533,
-      "language": "Go",
-      "description": "Star alibaba / open-code-review Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible."
-    },
-    {
-      "repo": "Robbyant/lingbot-map",
-      "url": "https://github.com/Robbyant/lingbot-map",
-      "stars_today": 110,
-      "total_stars": 17818,
+      "repo": "hugohe3/ppt-master",
+      "url": "https://github.com/hugohe3/ppt-master",
+      "stars_today": 372,
+      "total_stars": 59054,
       "language": "Python",
-      "description": "Star Robbyant / lingbot-map [ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction"
+      "description": "Star hugohe3 / ppt-master AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He"
     },
     {
-      "repo": "BerriAI/litellm",
-      "url": "https://github.com/BerriAI/litellm",
-      "stars_today": 95,
-      "total_stars": 60797,
-      "language": "Python",
-      "description": "Sponsor Star BerriAI / litellm The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]"
-    },
-    {
-      "repo": "twostraws/SwiftUI-Agent-Skill",
-      "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
-      "stars_today": 65,
-      "total_stars": 5584,
+      "repo": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "stars_today": 279,
+      "total_stars": 217914,
       "language": "",
-      "description": "Star twostraws / SwiftUI-Agent-Skill SwiftUI agent skill for Claude Code, Codex, and other AI tools."
+      "description": "Star multica-ai / andrej-karpathy-skills A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls."
+    },
+    {
+      "repo": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "stars_today": 178,
+      "total_stars": 26083,
+      "language": "TypeScript",
+      "description": "Sponsor Star mksglu / context-mode Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks."
+    },
+    {
+      "repo": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "stars_today": 94,
+      "total_stars": 167024,
+      "language": "Python",
+      "description": "Star huggingface / transformers 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training."
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "url": "https://github.com/pytorch/pytorch",
+      "stars_today": 81,
+      "total_stars": 104047,
+      "language": "Python",
+      "description": "Star pytorch / pytorch Tensors and Dynamic neural networks in Python with strong GPU acceleration"
+    },
+    {
+      "repo": "flutter/flutter",
+      "url": "https://github.com/flutter/flutter",
+      "stars_today": 39,
+      "total_stars": 179314,
+      "language": "Dart",
+      "description": "Star flutter / flutter Flutter makes it easy and fast to build beautiful apps for mobile and beyond"
+    },
+    {
+      "repo": "tensorflow/tensorflow",
+      "url": "https://github.com/tensorflow/tensorflow",
+      "stars_today": 24,
+      "total_stars": 200612,
+      "language": "C++",
+      "description": "Star tensorflow / tensorflow An Open Source Machine Learning Framework for Everyone"
     }
   ]
 }
