@@ -1,112 +1,72 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-10-11T17:02:27.240062+08:00",
-  "count": 13,
+  "generated_at": "2026-10-11T23:47:52.540040+08:00",
+  "count": 8,
   "items": [
     {
       "repo": "morluto/rea",
       "url": "https://github.com/morluto/rea",
-      "stars_today": 25793,
-      "total_stars": 82173,
+      "stars_today": 25585,
+      "total_stars": 92606,
       "language": "TypeScript",
       "description": "Star morluto / rea Reverse engineer anything with agents, from app behavior down to native binaries."
     },
     {
       "repo": "boykopovar/AnyPS5",
       "url": "https://github.com/boykopovar/AnyPS5",
-      "stars_today": 5805,
-      "total_stars": 27844,
+      "stars_today": 3977,
+      "total_stars": 28872,
       "language": "C++",
       "description": "Star boykopovar / AnyPS5 Tool for automatic PS5 executables porting to Linux and Windows"
     },
     {
       "repo": "storytold/artcraft",
       "url": "https://github.com/storytold/artcraft",
-      "stars_today": 3222,
-      "total_stars": 15434,
+      "stars_today": 2956,
+      "total_stars": 16553,
       "language": "Rust",
       "description": "Star storytold / artcraft ArtCraft is an intentional crafting engine for artists, designers, and filmmakers"
     },
     {
-      "repo": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "stars_today": 1736,
-      "total_stars": 285079,
-      "language": "Shell",
-      "description": "Sponsor Star mattpocock / skills Skills for Real Engineers. Straight from my .agents directory."
-    },
-    {
       "repo": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
-      "stars_today": 1190,
-      "total_stars": 49366,
+      "stars_today": 1083,
+      "total_stars": 49841,
       "language": "HTML",
       "description": "Sponsor Star cathrynlavery / diagram-design Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop."
     },
     {
-      "repo": "anthropics/knowledge-work-plugins",
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "stars_today": 625,
-      "total_stars": 28955,
-      "language": "Python",
-      "description": "Star anthropics / knowledge-work-plugins Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
+      "repo": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "stars_today": 872,
+      "total_stars": 51023,
+      "language": "JavaScript",
+      "description": "Star bilawalsidhu / gods-eye-view A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe."
     },
     {
-      "repo": "hugohe3/ppt-master",
-      "url": "https://github.com/hugohe3/ppt-master",
-      "stars_today": 461,
-      "total_stars": 59885,
-      "language": "Python",
-      "description": "Star hugohe3 / ppt-master AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He"
+      "repo": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "stars_today": 541,
+      "total_stars": 36230,
+      "language": "Jupyter Notebook",
+      "description": "Sponsor Star lyogavin / airllm AirLLM 70B inference with single 4GB GPU"
     },
     {
-      "repo": "multica-ai/andrej-karpathy-skills",
-      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-      "stars_today": 278,
-      "total_stars": 218545,
-      "language": "",
-      "description": "Star multica-ai / andrej-karpathy-skills A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls."
-    },
-    {
-      "repo": "mksglu/context-mode",
-      "url": "https://github.com/mksglu/context-mode",
-      "stars_today": 178,
-      "total_stars": 26500,
-      "language": "TypeScript",
-      "description": "Sponsor Star mksglu / context-mode Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks."
-    },
-    {
-      "repo": "huggingface/transformers",
-      "url": "https://github.com/huggingface/transformers",
-      "stars_today": 96,
-      "total_stars": 167436,
-      "language": "Python",
-      "description": "Star huggingface / transformers 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training."
-    },
-    {
-      "repo": "flutter/flutter",
-      "url": "https://github.com/flutter/flutter",
-      "stars_today": 88,
-      "total_stars": 179677,
-      "language": "Dart",
-      "description": "Star flutter / flutter Flutter makes it easy and fast to build beautiful apps for mobile and beyond"
+      "repo": "chrislgarry/Apollo-11",
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "stars_today": 496,
+      "total_stars": 73980,
+      "language": "Assembly",
+      "description": "Sponsor Star chrislgarry / Apollo-11 Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules."
     },
     {
       "repo": "pytorch/pytorch",
       "url": "https://github.com/pytorch/pytorch",
-      "stars_today": 84,
-      "total_stars": 104229,
+      "stars_today": 314,
+      "total_stars": 104340,
       "language": "Python",
       "description": "Star pytorch / pytorch Tensors and Dynamic neural networks in Python with strong GPU acceleration"
-    },
-    {
-      "repo": "tensorflow/tensorflow",
-      "url": "https://github.com/tensorflow/tensorflow",
-      "stars_today": 26,
-      "total_stars": 200821,
-      "language": "C++",
-      "description": "Star tensorflow / tensorflow An Open Source Machine Learning Framework for Everyone"
     }
   ]
 }
