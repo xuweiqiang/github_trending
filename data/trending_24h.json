@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-10-12T04:22:34.018232+08:00",
+  "generated_at": "2026-10-12T07:46:18.010019+08:00",
   "count": 8,
   "items": [
     {
       "repo": "morluto/rea",
       "url": "https://github.com/morluto/rea",
       "stars_today": 25585,
-      "total_stars": 98728,
+      "total_stars": 103047,
       "language": "TypeScript",
       "description": "Star morluto / rea Reverse engineer anything with agents, from app behavior down to native binaries."
     },
@@ -16,7 +16,7 @@
       "repo": "boykopovar/AnyPS5",
       "url": "https://github.com/boykopovar/AnyPS5",
       "stars_today": 3977,
-      "total_stars": 29563,
+      "total_stars": 30013,
       "language": "C++",
       "description": "Star boykopovar / AnyPS5 Tool for automatic PS5 executables porting to Linux and Windows"
     },
@@ -24,7 +24,7 @@
       "repo": "storytold/artcraft",
       "url": "https://github.com/storytold/artcraft",
       "stars_today": 2956,
-      "total_stars": 17314,
+      "total_stars": 17787,
       "language": "Rust",
       "description": "Star storytold / artcraft ArtCraft is an intentional crafting engine for artists, designers, and filmmakers"
     },
@@ -32,7 +32,7 @@
       "repo": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "stars_today": 1083,
-      "total_stars": 50108,
+      "total_stars": 50290,
       "language": "HTML",
       "description": "Sponsor Star cathrynlavery / diagram-design Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop."
     },
@@ -40,31 +40,31 @@
       "repo": "bilawalsidhu/gods-eye-view",
       "url": "https://github.com/bilawalsidhu/gods-eye-view",
       "stars_today": 872,
-      "total_stars": 51382,
+      "total_stars": 51621,
       "language": "JavaScript",
       "description": "Star bilawalsidhu / gods-eye-view A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe."
+    },
+    {
+      "repo": "chrislgarry/Apollo-11",
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "stars_today": 581,
+      "total_stars": 74230,
+      "language": "Assembly",
+      "description": "Sponsor Star chrislgarry / Apollo-11 Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules."
     },
     {
       "repo": "lyogavin/airllm",
       "url": "https://github.com/lyogavin/airllm",
       "stars_today": 541,
-      "total_stars": 36344,
+      "total_stars": 36451,
       "language": "Jupyter Notebook",
       "description": "Sponsor Star lyogavin / airllm AirLLM 70B inference with single 4GB GPU"
-    },
-    {
-      "repo": "chrislgarry/Apollo-11",
-      "url": "https://github.com/chrislgarry/Apollo-11",
-      "stars_today": 496,
-      "total_stars": 74145,
-      "language": "Assembly",
-      "description": "Sponsor Star chrislgarry / Apollo-11 Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules."
     },
     {
       "repo": "pytorch/pytorch",
       "url": "https://github.com/pytorch/pytorch",
       "stars_today": 314,
-      "total_stars": 104413,
+      "total_stars": 104468,
       "language": "Python",
       "description": "Star pytorch / pytorch Tensors and Dynamic neural networks in Python with strong GPU acceleration"
     }
