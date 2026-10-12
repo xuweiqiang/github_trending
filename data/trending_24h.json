@@ -1,72 +1,80 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-10-12T14:09:46.795586+08:00",
-  "count": 8,
+  "generated_at": "2026-10-12T23:43:12.990128+08:00",
+  "count": 9,
   "items": [
     {
       "repo": "morluto/rea",
       "url": "https://github.com/morluto/rea",
-      "stars_today": 25599,
-      "total_stars": 117227,
+      "stars_today": 45495,
+      "total_stars": 140680,
       "language": "TypeScript",
       "description": "Star morluto / rea Reverse engineer anything with agents, from app behavior down to native binaries."
     },
     {
-      "repo": "boykopovar/AnyPS5",
-      "url": "https://github.com/boykopovar/AnyPS5",
-      "stars_today": 3952,
-      "total_stars": 30813,
-      "language": "C++",
-      "description": "Star boykopovar / AnyPS5 Tool for automatic PS5 executables porting to Linux and Windows"
-    },
-    {
       "repo": "storytold/artcraft",
       "url": "https://github.com/storytold/artcraft",
-      "stars_today": 2957,
-      "total_stars": 18820,
+      "stars_today": 4106,
+      "total_stars": 20552,
       "language": "Rust",
       "description": "Star storytold / artcraft ArtCraft is an intentional crafting engine for artists, designers, and filmmakers"
     },
     {
       "repo": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
-      "stars_today": 1083,
-      "total_stars": 50891,
+      "stars_today": 2100,
+      "total_stars": 52040,
       "language": "HTML",
       "description": "Sponsor Star cathrynlavery / diagram-design Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop."
     },
     {
       "repo": "bilawalsidhu/gods-eye-view",
       "url": "https://github.com/bilawalsidhu/gods-eye-view",
-      "stars_today": 886,
-      "total_stars": 52128,
+      "stars_today": 1903,
+      "total_stars": 52989,
       "language": "JavaScript",
       "description": "Star bilawalsidhu / gods-eye-view A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe."
     },
     {
       "repo": "lyogavin/airllm",
       "url": "https://github.com/lyogavin/airllm",
-      "stars_today": 548,
-      "total_stars": 36717,
+      "stars_today": 886,
+      "total_stars": 37192,
       "language": "Jupyter Notebook",
       "description": "Sponsor Star lyogavin / airllm AirLLM 70B inference with single 4GB GPU"
     },
     {
-      "repo": "chrislgarry/Apollo-11",
-      "url": "https://github.com/chrislgarry/Apollo-11",
-      "stars_today": 466,
-      "total_stars": 74392,
-      "language": "Assembly",
-      "description": "Sponsor Star chrislgarry / Apollo-11 Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules."
+      "repo": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "stars_today": 705,
+      "total_stars": 58557,
+      "language": "Python",
+      "description": "Star Alishahryar1 / free-claude-code Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)"
     },
     {
-      "repo": "pytorch/pytorch",
-      "url": "https://github.com/pytorch/pytorch",
-      "stars_today": 315,
-      "total_stars": 104620,
+      "repo": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "stars_today": 485,
+      "total_stars": 26968,
+      "language": "TypeScript",
+      "description": "Sponsor Star mksglu / context-mode Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks."
+    },
+    {
+      "repo": "microsoft/BitNet",
+      "url": "https://github.com/microsoft/BitNet",
+      "stars_today": 195,
+      "total_stars": 40788,
+      "language": "C++",
+      "description": "Star microsoft / BitNet Official inference framework for 1-bit LLMs"
+    },
+    {
+      "repo": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "stars_today": 142,
+      "total_stars": 154613,
       "language": "Python",
-      "description": "Star pytorch / pytorch Tensors and Dynamic neural networks in Python with strong GPU acceleration"
+      "description": "Sponsor Star open-webui / open-webui User-friendly AI Interface (Supports Ollama, OpenAI API, ...)"
     }
   ]
 }
