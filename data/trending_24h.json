@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-10-12T23:43:12.990128+08:00",
+  "generated_at": "2026-10-13T07:04:05.174546+08:00",
   "count": 9,
   "items": [
     {
       "repo": "morluto/rea",
       "url": "https://github.com/morluto/rea",
       "stars_today": 45495,
-      "total_stars": 140680,
+      "total_stars": 154279,
       "language": "TypeScript",
       "description": "Star morluto / rea Reverse engineer anything with agents, from app behavior down to native binaries."
     },
@@ -16,7 +16,7 @@
       "repo": "storytold/artcraft",
       "url": "https://github.com/storytold/artcraft",
       "stars_today": 4106,
-      "total_stars": 20552,
+      "total_stars": 21783,
       "language": "Rust",
       "description": "Star storytold / artcraft ArtCraft is an intentional crafting engine for artists, designers, and filmmakers"
     },
@@ -24,7 +24,7 @@
       "repo": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "stars_today": 2100,
-      "total_stars": 52040,
+      "total_stars": 52499,
       "language": "HTML",
       "description": "Sponsor Star cathrynlavery / diagram-design Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop."
     },
@@ -32,7 +32,7 @@
       "repo": "bilawalsidhu/gods-eye-view",
       "url": "https://github.com/bilawalsidhu/gods-eye-view",
       "stars_today": 1903,
-      "total_stars": 52989,
+      "total_stars": 53570,
       "language": "JavaScript",
       "description": "Star bilawalsidhu / gods-eye-view A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe."
     },
@@ -40,41 +40,41 @@
       "repo": "lyogavin/airllm",
       "url": "https://github.com/lyogavin/airllm",
       "stars_today": 886,
-      "total_stars": 37192,
+      "total_stars": 37489,
       "language": "Jupyter Notebook",
-      "description": "Sponsor Star lyogavin / airllm AirLLM 70B inference with single 4GB GPU"
+      "description": "Sponsor Star lyogavin / airllm AirLLM 2.8T LLM inference with single 4GB GPU"
     },
     {
       "repo": "Alishahryar1/free-claude-code",
       "url": "https://github.com/Alishahryar1/free-claude-code",
       "stars_today": 705,
-      "total_stars": 58557,
+      "total_stars": 59040,
       "language": "Python",
       "description": "Star Alishahryar1 / free-claude-code Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)"
     },
     {
       "repo": "mksglu/context-mode",
       "url": "https://github.com/mksglu/context-mode",
-      "stars_today": 485,
-      "total_stars": 26968,
+      "stars_today": 394,
+      "total_stars": 27241,
       "language": "TypeScript",
       "description": "Sponsor Star mksglu / context-mode Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks."
-    },
-    {
-      "repo": "microsoft/BitNet",
-      "url": "https://github.com/microsoft/BitNet",
-      "stars_today": 195,
-      "total_stars": 40788,
-      "language": "C++",
-      "description": "Star microsoft / BitNet Official inference framework for 1-bit LLMs"
     },
     {
       "repo": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
       "stars_today": 142,
-      "total_stars": 154613,
+      "total_stars": 154923,
       "language": "Python",
       "description": "Sponsor Star open-webui / open-webui User-friendly AI Interface (Supports Ollama, OpenAI API, ...)"
+    },
+    {
+      "repo": "microsoft/BitNet",
+      "url": "https://github.com/microsoft/BitNet",
+      "stars_today": 134,
+      "total_stars": 40889,
+      "language": "C++",
+      "description": "Star microsoft / BitNet Official inference framework for 1-bit LLMs"
     }
   ]
 }
