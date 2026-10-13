@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-10-13T19:55:09.314740+08:00",
+  "generated_at": "2026-10-14T03:21:20.322940+08:00",
   "count": 9,
   "items": [
     {
       "repo": "morluto/rea",
       "url": "https://github.com/morluto/rea",
       "stars_today": 54706,
-      "total_stars": 186215,
+      "total_stars": 201242,
       "language": "TypeScript",
       "description": "Star morluto / rea Reverse engineer anything with agents, from app behavior down to native binaries."
     },
@@ -16,15 +16,23 @@
       "repo": "storytold/artcraft",
       "url": "https://github.com/storytold/artcraft",
       "stars_today": 4078,
-      "total_stars": 23964,
+      "total_stars": 25075,
       "language": "Rust",
       "description": "Star storytold / artcraft ArtCraft is an intentional crafting engine for artists, designers, and filmmakers"
+    },
+    {
+      "repo": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "stars_today": 2277,
+      "total_stars": 62639,
+      "language": "Python",
+      "description": "Star debpalash / VoiceStudio VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
     },
     {
       "repo": "bilawalsidhu/gods-eye-view",
       "url": "https://github.com/bilawalsidhu/gods-eye-view",
       "stars_today": 1961,
-      "total_stars": 54548,
+      "total_stars": 55067,
       "language": "JavaScript",
       "description": "Star bilawalsidhu / gods-eye-view A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe."
     },
@@ -32,23 +40,23 @@
       "repo": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "stars_today": 1813,
-      "total_stars": 53394,
+      "total_stars": 53865,
       "language": "HTML",
       "description": "Sponsor Star cathrynlavery / diagram-design Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop."
     },
     {
-      "repo": "debpalash/VoiceStudio",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "stars_today": 1691,
-      "total_stars": 61411,
-      "language": "Python",
-      "description": "Star debpalash / VoiceStudio VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
+      "repo": "xtool-org/xtool",
+      "url": "https://github.com/xtool-org/xtool",
+      "stars_today": 1182,
+      "total_stars": 9081,
+      "language": "Swift",
+      "description": "Star xtool-org / xtool Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS."
     },
     {
       "repo": "lyogavin/airllm",
       "url": "https://github.com/lyogavin/airllm",
       "stars_today": 1004,
-      "total_stars": 37965,
+      "total_stars": 38194,
       "language": "Jupyter Notebook",
       "description": "Sponsor Star lyogavin / airllm AirLLM 2.8T LLM inference with single 4GB GPU"
     },
@@ -56,23 +64,15 @@
       "repo": "mksglu/context-mode",
       "url": "https://github.com/mksglu/context-mode",
       "stars_today": 978,
-      "total_stars": 27766,
+      "total_stars": 28052,
       "language": "TypeScript",
       "description": "Sponsor Star mksglu / context-mode Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks."
-    },
-    {
-      "repo": "xtool-org/xtool",
-      "url": "https://github.com/xtool-org/xtool",
-      "stars_today": 936,
-      "total_stars": 8584,
-      "language": "Swift",
-      "description": "Star xtool-org / xtool Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS."
     },
     {
       "repo": "vercel-labs/skills",
       "url": "https://github.com/vercel-labs/skills",
       "stars_today": 187,
-      "total_stars": 34138,
+      "total_stars": 34349,
       "language": "TypeScript",
       "description": "Star vercel-labs / skills The open agent skills tool - npx skills"
     }
