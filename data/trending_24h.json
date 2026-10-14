@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-10-14T09:59:14.456276+08:00",
+  "generated_at": "2026-10-14T15:46:39.800405+08:00",
   "count": 9,
   "items": [
     {
       "repo": "morluto/rea",
       "url": "https://github.com/morluto/rea",
       "stars_today": 54679,
-      "total_stars": 209615,
+      "total_stars": 219841,
       "language": "TypeScript",
       "description": "Star morluto / rea Reverse engineer anything with agents, from app behavior down to native binaries."
     },
@@ -16,7 +16,7 @@
       "repo": "storytold/artcraft",
       "url": "https://github.com/storytold/artcraft",
       "stars_today": 4081,
-      "total_stars": 25801,
+      "total_stars": 26554,
       "language": "Rust",
       "description": "Star storytold / artcraft ArtCraft is an intentional crafting engine for artists, designers, and filmmakers"
     },
@@ -24,7 +24,7 @@
       "repo": "bilawalsidhu/gods-eye-view",
       "url": "https://github.com/bilawalsidhu/gods-eye-view",
       "stars_today": 1961,
-      "total_stars": 55491,
+      "total_stars": 55922,
       "language": "JavaScript",
       "description": "Star bilawalsidhu / gods-eye-view A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe."
     },
@@ -32,7 +32,7 @@
       "repo": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "stars_today": 1815,
-      "total_stars": 54222,
+      "total_stars": 54685,
       "language": "HTML",
       "description": "Sponsor Star cathrynlavery / diagram-design Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop."
     },
@@ -40,7 +40,7 @@
       "repo": "debpalash/VoiceStudio",
       "url": "https://github.com/debpalash/VoiceStudio",
       "stars_today": 1748,
-      "total_stars": 63474,
+      "total_stars": 64315,
       "language": "Python",
       "description": "Star debpalash / VoiceStudio VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
     },
@@ -48,7 +48,7 @@
       "repo": "xtool-org/xtool",
       "url": "https://github.com/xtool-org/xtool",
       "stars_today": 1198,
-      "total_stars": 9465,
+      "total_stars": 9839,
       "language": "Swift",
       "description": "Star xtool-org / xtool Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS."
     },
@@ -56,7 +56,7 @@
       "repo": "lyogavin/airllm",
       "url": "https://github.com/lyogavin/airllm",
       "stars_today": 1001,
-      "total_stars": 38363,
+      "total_stars": 38506,
       "language": "Jupyter Notebook",
       "description": "Sponsor Star lyogavin / airllm AirLLM 2.8T LLM inference with single 4GB GPU"
     },
@@ -64,7 +64,7 @@
       "repo": "mksglu/context-mode",
       "url": "https://github.com/mksglu/context-mode",
       "stars_today": 969,
-      "total_stars": 28285,
+      "total_stars": 28532,
       "language": "TypeScript",
       "description": "Sponsor Star mksglu / context-mode Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks."
     },
@@ -72,7 +72,7 @@
       "repo": "vercel-labs/skills",
       "url": "https://github.com/vercel-labs/skills",
       "stars_today": 190,
-      "total_stars": 34549,
+      "total_stars": 34735,
       "language": "TypeScript",
       "description": "Star vercel-labs / skills The open agent skills tool - npx skills"
     }
