@@ -1,104 +1,104 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-10-15T13:57:21.660858+08:00",
+  "generated_at": "2026-10-15T19:42:17.046269+08:00",
   "count": 12,
   "items": [
     {
       "repo": "morluto/rea",
       "url": "https://github.com/morluto/rea",
-      "stars_today": 41034,
-      "total_stars": 249753,
+      "stars_today": 32282,
+      "total_stars": 257745,
       "language": "TypeScript",
       "description": "Star morluto / rea Reverse engineer anything with agents, from app behavior down to native binaries."
     },
     {
       "repo": "debpalash/VoiceStudio",
       "url": "https://github.com/debpalash/VoiceStudio",
-      "stars_today": 3538,
-      "total_stars": 67045,
+      "stars_today": 3027,
+      "total_stars": 67823,
       "language": "Python",
       "description": "Star debpalash / VoiceStudio VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
     },
     {
-      "repo": "ifixai-ai/iFixAi",
-      "url": "https://github.com/ifixai-ai/iFixAi",
-      "stars_today": 2109,
-      "total_stars": 27765,
-      "language": "Python",
-      "description": "Star ifixai-ai / iFixAi Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds."
-    },
-    {
-      "repo": "xtool-org/xtool",
-      "url": "https://github.com/xtool-org/xtool",
-      "stars_today": 1502,
-      "total_stars": 11115,
-      "language": "Swift",
-      "description": "Star xtool-org / xtool Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS."
-    },
-    {
-      "repo": "vxcontrol/pentagi",
-      "url": "https://github.com/vxcontrol/pentagi",
-      "stars_today": 1025,
-      "total_stars": 29857,
-      "language": "Go",
-      "description": "Star vxcontrol / pentagi Fully autonomous AI Agents system capable of performing complex penetration testing tasks"
-    },
-    {
       "repo": "NationalSecurityAgency/ghidra",
       "url": "https://github.com/NationalSecurityAgency/ghidra",
-      "stars_today": 1008,
-      "total_stars": 87819,
+      "stars_today": 1366,
+      "total_stars": 88124,
       "language": "Java",
       "description": "Star NationalSecurityAgency / ghidra Ghidra is a software reverse engineering (SRE) framework"
     },
     {
-      "repo": "mksglu/context-mode",
-      "url": "https://github.com/mksglu/context-mode",
-      "stars_today": 947,
-      "total_stars": 29326,
-      "language": "TypeScript",
-      "description": "Sponsor Star mksglu / context-mode Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks."
-    },
-    {
-      "repo": "rust-lang/rust",
-      "url": "https://github.com/rust-lang/rust",
-      "stars_today": 207,
-      "total_stars": 120148,
-      "language": "Rust",
-      "description": "Star rust-lang / rust Empowering everyone to build reliable and efficient software."
-    },
-    {
       "repo": "K-Dense-AI/scientific-agent-skills",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "stars_today": 163,
-      "total_stars": 49598,
+      "stars_today": 1091,
+      "total_stars": 49930,
       "language": "Python",
       "description": "Star K-Dense-AI / scientific-agent-skills Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard."
     },
     {
-      "repo": "ntdevlabs/tiny11builder",
-      "url": "https://github.com/ntdevlabs/tiny11builder",
-      "stars_today": 139,
-      "total_stars": 20346,
-      "language": "C#",
-      "description": "Sponsor Star ntdevlabs / tiny11builder WinUI app for building smaller, customized Windows 11 images."
+      "repo": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "stars_today": 1015,
+      "total_stars": 279857,
+      "language": "JavaScript",
+      "description": "Sponsor Star affaan-m / ECC The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
     },
     {
-      "repo": "HKUDS/CLI-Anything",
-      "url": "https://github.com/HKUDS/CLI-Anything",
-      "stars_today": 103,
-      "total_stars": 52695,
-      "language": "Python",
-      "description": "Star HKUDS / CLI-Anything \"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/"
+      "repo": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "stars_today": 902,
+      "total_stars": 29561,
+      "language": "TypeScript",
+      "description": "Sponsor Star mksglu / context-mode Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks."
     },
     {
-      "repo": "nvm-sh/nvm",
-      "url": "https://github.com/nvm-sh/nvm",
-      "stars_today": 52,
-      "total_stars": 95494,
+      "repo": "xerj-org/xerj",
+      "url": "https://github.com/xerj-org/xerj",
+      "stars_today": 725,
+      "total_stars": 4766,
+      "language": "Rust",
+      "description": "Star xerj-org / xerj XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work."
+    },
+    {
+      "repo": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "stars_today": 534,
+      "total_stars": 299441,
       "language": "Shell",
-      "description": "Star nvm-sh / nvm Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions."
+      "description": "Sponsor Star obra / superpowers An agentic skills framework & software development methodology that works."
+    },
+    {
+      "repo": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "stars_today": 398,
+      "total_stars": 112067,
+      "language": "Go",
+      "description": "Sponsor Star JuliusBrussee / caveman 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman."
+    },
+    {
+      "repo": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "stars_today": 181,
+      "total_stars": 38274,
+      "language": "Python",
+      "description": "Star anthropics / claude-plugins-official Official, Anthropic-managed directory of high quality Claude Code Plugins."
+    },
+    {
+      "repo": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "stars_today": 146,
+      "total_stars": 74773,
+      "language": "TypeScript",
+      "description": "Star ruvnet / ruflo 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated"
+    },
+    {
+      "repo": "lightseekorg/tokenspeed",
+      "url": "https://github.com/lightseekorg/tokenspeed",
+      "stars_today": 25,
+      "total_stars": 2283,
+      "language": "Python",
+      "description": "Sponsor Star lightseekorg / tokenspeed TokenSpeed is a speed-of-light LLM inference engine."
     }
   ]
 }
