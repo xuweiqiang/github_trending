@@ -1,30 +1,30 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-10-16T07:42:44.348401+08:00",
-  "count": 12,
+  "generated_at": "2026-10-16T12:42:17.574067+08:00",
+  "count": 13,
   "items": [
     {
       "repo": "morluto/rea",
       "url": "https://github.com/morluto/rea",
-      "stars_today": 32282,
-      "total_stars": 269236,
+      "stars_today": 32314,
+      "total_stars": 275163,
       "language": "TypeScript",
       "description": "Star morluto / rea Reverse engineer anything with agents, from app behavior down to native binaries."
     },
     {
       "repo": "debpalash/VoiceStudio",
       "url": "https://github.com/debpalash/VoiceStudio",
-      "stars_today": 3027,
-      "total_stars": 69014,
+      "stars_today": 3024,
+      "total_stars": 69439,
       "language": "Python",
       "description": "Sponsor Star debpalash / VoiceStudio VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
     },
     {
       "repo": "NationalSecurityAgency/ghidra",
       "url": "https://github.com/NationalSecurityAgency/ghidra",
-      "stars_today": 1366,
-      "total_stars": 88709,
+      "stars_today": 1369,
+      "total_stars": 88958,
       "language": "Java",
       "description": "Star NationalSecurityAgency / ghidra Ghidra is a software reverse engineering (SRE) framework"
     },
@@ -32,71 +32,79 @@
       "repo": "K-Dense-AI/scientific-agent-skills",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "stars_today": 1091,
-      "total_stars": 50436,
+      "total_stars": 50687,
       "language": "Python",
       "description": "Star K-Dense-AI / scientific-agent-skills Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard."
     },
     {
       "repo": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "stars_today": 1015,
-      "total_stars": 280340,
+      "stars_today": 1013,
+      "total_stars": 280564,
       "language": "JavaScript",
       "description": "Sponsor Star affaan-m / ECC The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
     },
     {
+      "repo": "LibreSpark/LibreTV",
+      "url": "https://github.com/LibreSpark/LibreTV",
+      "stars_today": 978,
+      "total_stars": 18187,
+      "language": "TypeScript",
+      "description": "Star LibreSpark / LibreTV 一分钟搭建影视站，支持Docker等部署方式"
+    },
+    {
       "repo": "mksglu/context-mode",
       "url": "https://github.com/mksglu/context-mode",
-      "stars_today": 902,
-      "total_stars": 29779,
+      "stars_today": 904,
+      "total_stars": 29878,
       "language": "TypeScript",
       "description": "Sponsor Star mksglu / context-mode Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks."
     },
     {
       "repo": "xerj-org/xerj",
       "url": "https://github.com/xerj-org/xerj",
-      "stars_today": 725,
-      "total_stars": 5608,
+      "stars_today": 715,
+      "total_stars": 5865,
       "language": "Rust",
       "description": "Star xerj-org / xerj XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work."
     },
     {
       "repo": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "stars_today": 688,
-      "total_stars": 299863,
+      "stars_today": 582,
+      "total_stars": 300072,
       "language": "Shell",
       "description": "Sponsor Star obra / superpowers An agentic skills framework & software development methodology that works."
     },
     {
       "repo": "JuliusBrussee/caveman",
       "url": "https://github.com/JuliusBrussee/caveman",
-      "stars_today": 530,
-      "total_stars": 112519,
+      "stars_today": 433,
+      "total_stars": 112705,
       "language": "Go",
       "description": "Sponsor Star JuliusBrussee / caveman 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman."
     },
     {
       "repo": "anthropics/claude-plugins-official",
       "url": "https://github.com/anthropics/claude-plugins-official",
-      "stars_today": 525,
-      "total_stars": 39039,
+      "stars_today": 307,
+      "total_stars": 39310,
       "language": "Python",
       "description": "Star anthropics / claude-plugins-official Official, Anthropic-managed directory of high quality Claude Code Plugins."
     },
     {
       "repo": "ruvnet/ruflo",
       "url": "https://github.com/ruvnet/ruflo",
-      "stars_today": 224,
-      "total_stars": 75098,
+      "stars_today": 147,
+      "total_stars": 75238,
       "language": "TypeScript",
       "description": "Star ruvnet / ruflo 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated"
     },
     {
       "repo": "lightseekorg/tokenspeed",
       "url": "https://github.com/lightseekorg/tokenspeed",
-      "stars_today": 25,
-      "total_stars": 2471,
+      "stars_today": 30,
+      "total_stars": 2546,
       "language": "Python",
       "description": "Sponsor Star lightseekorg / tokenspeed TokenSpeed is a speed-of-light LLM inference engine."
     }
