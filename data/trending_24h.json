@@ -1,22 +1,22 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-10-17T06:07:41.653257+08:00",
+  "generated_at": "2026-10-17T08:35:02.819414+08:00",
   "count": 13,
   "items": [
     {
       "repo": "debpalash/VoiceStudio",
       "url": "https://github.com/debpalash/VoiceStudio",
       "stars_today": 2301,
-      "total_stars": 70951,
+      "total_stars": 71186,
       "language": "Python",
       "description": "Sponsor Star debpalash / VoiceStudio VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
     },
     {
       "repo": "xerj-org/xerj",
       "url": "https://github.com/xerj-org/xerj",
-      "stars_today": 1647,
-      "total_stars": 6857,
+      "stars_today": 1648,
+      "total_stars": 6924,
       "language": "Rust",
       "description": "Star xerj-org / xerj XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work."
     },
@@ -24,7 +24,7 @@
       "repo": "anthropics/claude-plugins-official",
       "url": "https://github.com/anthropics/claude-plugins-official",
       "stars_today": 1552,
-      "total_stars": 40439,
+      "total_stars": 40544,
       "language": "Python",
       "description": "Star anthropics / claude-plugins-official Official, Anthropic-managed directory of high quality Claude Code Plugins."
     },
@@ -32,7 +32,7 @@
       "repo": "K-Dense-AI/scientific-agent-skills",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "stars_today": 1158,
-      "total_stars": 51423,
+      "total_stars": 51507,
       "language": "Python",
       "description": "Star K-Dense-AI / scientific-agent-skills Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard."
     },
@@ -40,7 +40,7 @@
       "repo": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "stars_today": 1057,
-      "total_stars": 281398,
+      "total_stars": 281508,
       "language": "JavaScript",
       "description": "Sponsor Star affaan-m / ECC The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
     },
@@ -48,63 +48,63 @@
       "repo": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "stars_today": 973,
-      "total_stars": 300630,
+      "total_stars": 300680,
       "language": "Shell",
       "description": "Sponsor Star obra / superpowers An agentic skills framework & software development methodology that works."
     },
     {
       "repo": "MadsLorentzen/ai-job-search",
       "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "stars_today": 879,
-      "total_stars": 48388,
+      "stars_today": 898,
+      "total_stars": 48509,
       "language": "Python",
       "description": "Sponsor Star MadsLorentzen / ai-job-search The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it."
-    },
-    {
-      "repo": "hmjz100/LinkSwift",
-      "url": "https://github.com/hmjz100/LinkSwift",
-      "stars_today": 702,
-      "total_stars": 23617,
-      "language": "JavaScript",
-      "description": "Star hmjz100 / LinkSwift 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘"
     },
     {
       "repo": "ruvnet/ruflo",
       "url": "https://github.com/ruvnet/ruflo",
       "stars_today": 672,
-      "total_stars": 75585,
+      "total_stars": 75631,
       "language": "TypeScript",
       "description": "Star ruvnet / ruflo 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated"
+    },
+    {
+      "repo": "hmjz100/LinkSwift",
+      "url": "https://github.com/hmjz100/LinkSwift",
+      "stars_today": 538,
+      "total_stars": 23681,
+      "language": "JavaScript",
+      "description": "Star hmjz100 / LinkSwift 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘"
     },
     {
       "repo": "mksglu/context-mode",
       "url": "https://github.com/mksglu/context-mode",
       "stars_today": 449,
-      "total_stars": 30193,
+      "total_stars": 30227,
       "language": "TypeScript",
       "description": "Sponsor Star mksglu / context-mode Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks."
     },
     {
       "repo": "HKUDS/CLI-Anything",
       "url": "https://github.com/HKUDS/CLI-Anything",
-      "stars_today": 323,
-      "total_stars": 53432,
+      "stars_today": 281,
+      "total_stars": 53495,
       "language": "Python",
       "description": "Star HKUDS / CLI-Anything \"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/"
     },
     {
       "repo": "cursor/plugins",
       "url": "https://github.com/cursor/plugins",
-      "stars_today": 282,
-      "total_stars": 11903,
+      "stars_today": 278,
+      "total_stars": 11950,
       "language": "TypeScript",
       "description": "Star cursor / plugins Cursor plugin specification and official plugins"
     },
     {
       "repo": "android/skills",
       "url": "https://github.com/android/skills",
-      "stars_today": 163,
-      "total_stars": 8029,
+      "stars_today": 36,
+      "total_stars": 8068,
       "language": "Kotlin",
       "description": ""
     }
