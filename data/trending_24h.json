@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-10-17T22:15:58.851601+08:00",
-  "count": 13,
+  "generated_at": "2026-10-18T01:17:52.116290+08:00",
+  "count": 12,
   "items": [
     {
       "repo": "debpalash/VoiceStudio",
       "url": "https://github.com/debpalash/VoiceStudio",
       "stars_today": 2135,
-      "total_stars": 72394,
+      "total_stars": 72760,
       "language": "Python",
       "description": "Sponsor Star debpalash / VoiceStudio VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
     },
@@ -16,7 +16,7 @@
       "repo": "MadsLorentzen/ai-job-search",
       "url": "https://github.com/MadsLorentzen/ai-job-search",
       "stars_today": 1397,
-      "total_stars": 49448,
+      "total_stars": 49803,
       "language": "Python",
       "description": "Sponsor Star MadsLorentzen / ai-job-search The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it."
     },
@@ -24,7 +24,7 @@
       "repo": "anthropics/claude-plugins-official",
       "url": "https://github.com/anthropics/claude-plugins-official",
       "stars_today": 1383,
-      "total_stars": 41252,
+      "total_stars": 41421,
       "language": "Python",
       "description": "Star anthropics / claude-plugins-official Official, Anthropic-managed directory of high quality Claude Code Plugins."
     },
@@ -32,23 +32,15 @@
       "repo": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "stars_today": 1145,
-      "total_stars": 282027,
+      "total_stars": 282163,
       "language": "JavaScript",
       "description": "Sponsor Star affaan-m / ECC The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
-    },
-    {
-      "repo": "stablyai/orca",
-      "url": "https://github.com/stablyai/orca",
-      "stars_today": 1102,
-      "total_stars": 94956,
-      "language": "TypeScript",
-      "description": "Star stablyai / orca Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime."
     },
     {
       "repo": "xerj-org/xerj",
       "url": "https://github.com/xerj-org/xerj",
       "stars_today": 1102,
-      "total_stars": 7444,
+      "total_stars": 7568,
       "language": "Rust",
       "description": "Star xerj-org / xerj XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work."
     },
@@ -56,23 +48,31 @@
       "repo": "K-Dense-AI/scientific-agent-skills",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "stars_today": 879,
-      "total_stars": 51999,
+      "total_stars": 52095,
       "language": "Python",
       "description": "Star K-Dense-AI / scientific-agent-skills Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard."
+    },
+    {
+      "repo": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "stars_today": 829,
+      "total_stars": 95118,
+      "language": "TypeScript",
+      "description": "Star stablyai / orca Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime."
     },
     {
       "repo": "HKUDS/CLI-Anything",
       "url": "https://github.com/HKUDS/CLI-Anything",
       "stars_today": 580,
-      "total_stars": 53830,
+      "total_stars": 53901,
       "language": "Python",
       "description": "Star HKUDS / CLI-Anything \"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/"
     },
     {
       "repo": "anomalyco/opencode",
       "url": "https://github.com/anomalyco/opencode",
-      "stars_today": 488,
-      "total_stars": 214715,
+      "stars_today": 576,
+      "total_stars": 214880,
       "language": "TypeScript",
       "description": "Sponsor Star anomalyco / opencode The open source coding agent."
     },
@@ -80,7 +80,7 @@
       "repo": "ruvnet/ruflo",
       "url": "https://github.com/ruvnet/ruflo",
       "stars_today": 406,
-      "total_stars": 75857,
+      "total_stars": 75923,
       "language": "TypeScript",
       "description": "Star ruvnet / ruflo 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated"
     },
@@ -88,23 +88,15 @@
       "repo": "android/skills",
       "url": "https://github.com/android/skills",
       "stars_today": 368,
-      "total_stars": 8293,
+      "total_stars": 8333,
       "language": "Kotlin",
       "description": ""
-    },
-    {
-      "repo": "akitaonrails/ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "stars_today": 208,
-      "total_stars": 9728,
-      "language": "Rust",
-      "description": "Star akitaonrails / ai-memory Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors"
     },
     {
       "repo": "anthropics/claude-code",
       "url": "https://github.com/anthropics/claude-code",
       "stars_today": 168,
-      "total_stars": 151423,
+      "total_stars": 151514,
       "language": "TypeScript",
       "description": "Star anthropics / claude-code Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
     }
