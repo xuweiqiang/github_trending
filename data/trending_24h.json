@@ -1,30 +1,30 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-10-20T05:08:45.254257+08:00",
+  "generated_at": "2026-10-20T08:26:14.642551+08:00",
   "count": 12,
   "items": [
     {
       "repo": "MadsLorentzen/ai-job-search",
       "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "stars_today": 3860,
-      "total_stars": 56853,
+      "stars_today": 3856,
+      "total_stars": 57204,
       "language": "Python",
       "description": "Sponsor Star MadsLorentzen / ai-job-search The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it."
     },
     {
       "repo": "stablyai/orca",
       "url": "https://github.com/stablyai/orca",
-      "stars_today": 1591,
-      "total_stars": 98103,
+      "stars_today": 1590,
+      "total_stars": 98258,
       "language": "TypeScript",
       "description": "Star stablyai / orca Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime."
     },
     {
       "repo": "anomalyco/opencode",
       "url": "https://github.com/anomalyco/opencode",
-      "stars_today": 1310,
-      "total_stars": 217670,
+      "stars_today": 1311,
+      "total_stars": 217794,
       "language": "TypeScript",
       "description": "Sponsor Star anomalyco / opencode The open source coding agent."
     },
@@ -32,7 +32,7 @@
       "repo": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
       "stars_today": 1011,
-      "total_stars": 139584,
+      "total_stars": 139706,
       "language": "Python",
       "description": "Star Comfy-Org / ComfyUI The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world."
     },
@@ -40,15 +40,15 @@
       "repo": "akitaonrails/ai-memory",
       "url": "https://github.com/akitaonrails/ai-memory",
       "stars_today": 666,
-      "total_stars": 11244,
+      "total_stars": 11332,
       "language": "Rust",
       "description": "Star akitaonrails / ai-memory Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors"
     },
     {
       "repo": "HKUDS/CLI-Anything",
       "url": "https://github.com/HKUDS/CLI-Anything",
-      "stars_today": 607,
-      "total_stars": 55165,
+      "stars_today": 606,
+      "total_stars": 55228,
       "language": "Python",
       "description": "Star HKUDS / CLI-Anything \"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/"
     },
@@ -56,39 +56,39 @@
       "repo": "ruvnet/ruflo",
       "url": "https://github.com/ruvnet/ruflo",
       "stars_today": 564,
-      "total_stars": 77106,
+      "total_stars": 77179,
       "language": "TypeScript",
       "description": "Star ruvnet / ruflo 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated"
     },
     {
       "repo": "Kruk2/jasna",
       "url": "https://github.com/Kruk2/jasna",
-      "stars_today": 502,
-      "total_stars": 2851,
+      "stars_today": 498,
+      "total_stars": 2883,
       "language": "Python",
       "description": "Star Kruk2 / jasna Video restoration tool"
     },
     {
       "repo": "shiyu-coder/Kronos",
       "url": "https://github.com/shiyu-coder/Kronos",
-      "stars_today": 355,
-      "total_stars": 41570,
+      "stars_today": 363,
+      "total_stars": 41650,
       "language": "Python",
       "description": "Star shiyu-coder / Kronos Kronos: A Foundation Model for the Language of Financial Markets"
     },
     {
       "repo": "headroomlabs-ai/headroom",
       "url": "https://github.com/headroomlabs-ai/headroom",
-      "stars_today": 317,
-      "total_stars": 76182,
+      "stars_today": 310,
+      "total_stars": 76235,
       "language": "Python",
       "description": "Star headroomlabs-ai / headroom Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server."
     },
     {
       "repo": "withmarbleapp/os-taxonomy",
       "url": "https://github.com/withmarbleapp/os-taxonomy",
-      "stars_today": 301,
-      "total_stars": 6065,
+      "stars_today": 284,
+      "total_stars": 6111,
       "language": "JavaScript",
       "description": ""
     },
@@ -96,7 +96,7 @@
       "repo": "anthropics/claude-code",
       "url": "https://github.com/anthropics/claude-code",
       "stars_today": 167,
-      "total_stars": 152591,
+      "total_stars": 152645,
       "language": "TypeScript",
       "description": "Star anthropics / claude-code Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
     }
