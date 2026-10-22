@@ -1,102 +1,102 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-10-22T06:31:57.200254+08:00",
+  "generated_at": "2026-10-22T09:36:31.415181+08:00",
   "count": 12,
   "items": [
     {
       "repo": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
-      "stars_today": 2051,
-      "total_stars": 171488,
+      "stars_today": 2079,
+      "total_stars": 171700,
       "language": "JavaScript",
       "description": "Sponsor Star DietrichGebert / ponytail Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
     },
     {
       "repo": "cloudflare/security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
-      "stars_today": 1997,
-      "total_stars": 36185,
+      "stars_today": 2012,
+      "total_stars": 36579,
       "language": "JavaScript",
       "description": "Star cloudflare / security-audit-skill A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
     },
     {
       "repo": "stablyai/orca",
       "url": "https://github.com/stablyai/orca",
-      "stars_today": 1543,
-      "total_stars": 101151,
+      "stars_today": 1541,
+      "total_stars": 101329,
       "language": "TypeScript",
       "description": "Star stablyai / orca Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime."
     },
     {
       "repo": "Graphify-Labs/graphify",
       "url": "https://github.com/Graphify-Labs/graphify",
-      "stars_today": 1434,
-      "total_stars": 131546,
+      "stars_today": 1433,
+      "total_stars": 131677,
       "language": "Python",
       "description": "Star Graphify-Labs / graphify Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store."
     },
     {
       "repo": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
-      "stars_today": 914,
-      "total_stars": 141464,
+      "stars_today": 939,
+      "total_stars": 141545,
       "language": "Python",
       "description": "Star Comfy-Org / ComfyUI The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world."
     },
     {
       "repo": "shiyu-coder/Kronos",
       "url": "https://github.com/shiyu-coder/Kronos",
-      "stars_today": 570,
-      "total_stars": 42793,
+      "stars_today": 575,
+      "total_stars": 42845,
       "language": "Python",
       "description": "Star shiyu-coder / Kronos Kronos: A Foundation Model for the Language of Financial Markets"
     },
     {
       "repo": "supabase/supabase",
       "url": "https://github.com/supabase/supabase",
-      "stars_today": 509,
-      "total_stars": 112948,
+      "stars_today": 504,
+      "total_stars": 113028,
       "language": "TypeScript",
       "description": "Sponsor Star supabase / supabase The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
     },
     {
       "repo": "headroomlabs-ai/headroom",
       "url": "https://github.com/headroomlabs-ai/headroom",
-      "stars_today": 477,
-      "total_stars": 77214,
+      "stars_today": 474,
+      "total_stars": 77274,
       "language": "Python",
       "description": "Star headroomlabs-ai / headroom Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server."
     },
     {
       "repo": "vllm-project/vllm",
       "url": "https://github.com/vllm-project/vllm",
-      "stars_today": 439,
-      "total_stars": 94832,
+      "stars_today": 441,
+      "total_stars": 94894,
       "language": "Python",
       "description": "Sponsor Star vllm-project / vllm A high-throughput and memory-efficient inference and serving engine for LLMs"
     },
     {
       "repo": "strelov1/freehire",
       "url": "https://github.com/strelov1/freehire",
-      "stars_today": 396,
-      "total_stars": 2343,
+      "stars_today": 360,
+      "total_stars": 2412,
       "language": "Go",
       "description": "Sponsor Star strelov1 / freehire freehire — the open-source search engine for job seekers"
     },
     {
       "repo": "akitaonrails/ai-memory",
       "url": "https://github.com/akitaonrails/ai-memory",
-      "stars_today": 303,
-      "total_stars": 12278,
+      "stars_today": 286,
+      "total_stars": 12353,
       "language": "Rust",
       "description": "Star akitaonrails / ai-memory Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors"
     },
     {
       "repo": "twentyhq/twenty",
       "url": "https://github.com/twentyhq/twenty",
-      "stars_today": 105,
-      "total_stars": 59116,
+      "stars_today": 112,
+      "total_stars": 59191,
       "language": "TypeScript",
       "description": "Star twentyhq / twenty The open alternative to Salesforce, designed for AI."
     }
