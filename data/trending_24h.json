@@ -1,104 +1,80 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-10-22T15:43:47.286385+08:00",
-  "count": 12,
+  "generated_at": "2026-10-22T21:54:01.951137+08:00",
+  "count": 9,
   "items": [
-    {
-      "repo": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "stars_today": 2079,
-      "total_stars": 172216,
-      "language": "JavaScript",
-      "description": "Sponsor Star DietrichGebert / ponytail Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
-    },
     {
       "repo": "cloudflare/security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
-      "stars_today": 2012,
-      "total_stars": 37515,
+      "stars_today": 2979,
+      "total_stars": 38315,
       "language": "JavaScript",
       "description": "Star cloudflare / security-audit-skill A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
     },
     {
-      "repo": "stablyai/orca",
-      "url": "https://github.com/stablyai/orca",
-      "stars_today": 1541,
-      "total_stars": 101830,
-      "language": "TypeScript",
-      "description": "Star stablyai / orca Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime."
+      "repo": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "stars_today": 1949,
+      "total_stars": 172752,
+      "language": "JavaScript",
+      "description": "Sponsor Star DietrichGebert / ponytail Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
     },
     {
       "repo": "Graphify-Labs/graphify",
       "url": "https://github.com/Graphify-Labs/graphify",
-      "stars_today": 1433,
-      "total_stars": 132030,
+      "stars_today": 1407,
+      "total_stars": 132410,
       "language": "Python",
       "description": "Star Graphify-Labs / graphify Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store."
     },
     {
-      "repo": "Comfy-Org/ComfyUI",
-      "url": "https://github.com/Comfy-Org/ComfyUI",
-      "stars_today": 939,
-      "total_stars": 141748,
-      "language": "Python",
-      "description": "Star Comfy-Org / ComfyUI The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world."
-    },
-    {
-      "repo": "shiyu-coder/Kronos",
-      "url": "https://github.com/shiyu-coder/Kronos",
-      "stars_today": 575,
-      "total_stars": 43000,
-      "language": "Python",
-      "description": "Star shiyu-coder / Kronos Kronos: A Foundation Model for the Language of Financial Markets"
-    },
-    {
       "repo": "supabase/supabase",
       "url": "https://github.com/supabase/supabase",
-      "stars_today": 504,
-      "total_stars": 113182,
+      "stars_today": 683,
+      "total_stars": 113306,
       "language": "TypeScript",
       "description": "Sponsor Star supabase / supabase The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
     },
     {
-      "repo": "headroomlabs-ai/headroom",
-      "url": "https://github.com/headroomlabs-ai/headroom",
-      "stars_today": 474,
-      "total_stars": 77421,
+      "repo": "luongnv89/claude-howto",
+      "url": "https://github.com/luongnv89/claude-howto",
+      "stars_today": 428,
+      "total_stars": 42706,
       "language": "Python",
-      "description": "Star headroomlabs-ai / headroom Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server."
+      "description": "Sponsor Star luongnv89 / claude-howto A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value."
     },
     {
-      "repo": "vllm-project/vllm",
-      "url": "https://github.com/vllm-project/vllm",
-      "stars_today": 441,
-      "total_stars": 95030,
+      "repo": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "stars_today": 303,
+      "total_stars": 31346,
       "language": "Python",
-      "description": "Sponsor Star vllm-project / vllm A high-throughput and memory-efficient inference and serving engine for LLMs"
+      "description": "Star anthropics / knowledge-work-plugins Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
     },
     {
-      "repo": "strelov1/freehire",
-      "url": "https://github.com/strelov1/freehire",
-      "stars_today": 360,
-      "total_stars": 2579,
-      "language": "Go",
-      "description": "Sponsor Star strelov1 / freehire freehire — the open-source search engine for job seekers"
+      "repo": "Meloong-Git/PCL",
+      "url": "https://github.com/Meloong-Git/PCL",
+      "stars_today": 115,
+      "total_stars": 8579,
+      "language": "Visual Basic .NET",
+      "description": "Star Meloong-Git / PCL Minecraft 启动器 Plain Craft Launcher（PCL）。"
     },
     {
-      "repo": "akitaonrails/ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "stars_today": 286,
-      "total_stars": 12539,
-      "language": "Rust",
-      "description": "Star akitaonrails / ai-memory Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors"
+      "repo": "php/php-src",
+      "url": "https://github.com/php/php-src",
+      "stars_today": 110,
+      "total_stars": 40860,
+      "language": "C",
+      "description": "Star php / php-src The PHP Interpreter"
     },
     {
-      "repo": "twentyhq/twenty",
-      "url": "https://github.com/twentyhq/twenty",
-      "stars_today": 112,
-      "total_stars": 59405,
-      "language": "TypeScript",
-      "description": "Star twentyhq / twenty The open alternative to Salesforce, designed for AI."
+      "repo": "fastapi/fastapi",
+      "url": "https://github.com/fastapi/fastapi",
+      "stars_today": 96,
+      "total_stars": 103480,
+      "language": "Python",
+      "description": "Star fastapi / fastapi FastAPI framework, high performance, easy to learn, fast to code, ready for production"
     }
   ]
 }
