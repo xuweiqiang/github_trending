@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-10-25T09:19:58.862302+08:00",
+  "generated_at": "2026-10-25T14:17:08.899629+08:00",
   "count": 10,
   "items": [
     {
       "repo": "cloudflare/security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
       "stars_today": 2264,
-      "total_stars": 44602,
+      "total_stars": 45126,
       "language": "JavaScript",
       "description": "Star cloudflare / security-audit-skill A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
     },
@@ -16,7 +16,7 @@
       "repo": "NVIDIA/OpenShell",
       "url": "https://github.com/NVIDIA/OpenShell",
       "stars_today": 896,
-      "total_stars": 19485,
+      "total_stars": 19611,
       "language": "Rust",
       "description": "Star NVIDIA / OpenShell OpenShell is the safe, private runtime for autonomous AI agents."
     },
@@ -24,7 +24,7 @@
       "repo": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
       "stars_today": 619,
-      "total_stars": 86428,
+      "total_stars": 86630,
       "language": "Rust",
       "description": "Star pbakaus / impeccable The design language that makes your AI harness better at design."
     },
@@ -32,7 +32,7 @@
       "repo": "makecindy/cindy",
       "url": "https://github.com/makecindy/cindy",
       "stars_today": 477,
-      "total_stars": 4111,
+      "total_stars": 4246,
       "language": "TypeScript",
       "description": "Star makecindy / cindy Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。"
     },
@@ -40,7 +40,7 @@
       "repo": "Nutlope/hallmark",
       "url": "https://github.com/Nutlope/hallmark",
       "stars_today": 455,
-      "total_stars": 32167,
+      "total_stars": 32457,
       "language": "CSS",
       "description": "Star Nutlope / hallmark Anti-AI-slop design skill for Claude Code, Cursor, and Codex."
     },
@@ -48,7 +48,7 @@
       "repo": "luongnv89/claude-howto",
       "url": "https://github.com/luongnv89/claude-howto",
       "stars_today": 392,
-      "total_stars": 44572,
+      "total_stars": 44714,
       "language": "Python",
       "description": "Sponsor Star luongnv89 / claude-howto A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value."
     },
@@ -56,7 +56,7 @@
       "repo": "pollen-robotics/microduck",
       "url": "https://github.com/pollen-robotics/microduck",
       "stars_today": 319,
-      "total_stars": 11005,
+      "total_stars": 11133,
       "language": "Rust",
       "description": "Star pollen-robotics / microduck A Tiny biped duck robot 🦆"
     },
@@ -64,7 +64,7 @@
       "repo": "jbiaojerry/ebook-treasure-chest",
       "url": "https://github.com/jbiaojerry/ebook-treasure-chest",
       "stars_today": 227,
-      "total_stars": 22624,
+      "total_stars": 22830,
       "language": "Python",
       "description": "Star jbiaojerry / ebook-treasure-chest 欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。"
     },
@@ -72,7 +72,7 @@
       "repo": "google-gemini/gemini-cli",
       "url": "https://github.com/google-gemini/gemini-cli",
       "stars_today": 44,
-      "total_stars": 108067,
+      "total_stars": 108217,
       "language": "TypeScript",
       "description": "Star google-gemini / gemini-cli An open-source AI agent that brings the power of Gemini directly into your terminal."
     },
@@ -80,7 +80,7 @@
       "repo": "aws/agent-toolkit-for-aws",
       "url": "https://github.com/aws/agent-toolkit-for-aws",
       "stars_today": 13,
-      "total_stars": 3138,
+      "total_stars": 3202,
       "language": "Python",
       "description": "Star aws / agent-toolkit-for-aws Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS"
     }
