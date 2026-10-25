@@ -1,16 +1,17 @@
 # GitHub 24h Star 增长榜
 
-- 生成时间: 2026-10-25 14:17:08 +0800
+- 生成时间: 2026-10-25 19:45:06 +0800
 
 | 排名 | 项目 | 24h 增长 | 总 Stars | 链接 |
 |---:|---|---:|---:|---|
-| 1 | `cloudflare/security-audit-skill` | 2264 | 45126 | [跳转](https://github.com/cloudflare/security-audit-skill) |
-| 2 | `NVIDIA/OpenShell` | 896 | 19611 | [跳转](https://github.com/NVIDIA/OpenShell) |
-| 3 | `pbakaus/impeccable` | 619 | 86630 | [跳转](https://github.com/pbakaus/impeccable) |
-| 4 | `makecindy/cindy` | 477 | 4246 | [跳转](https://github.com/makecindy/cindy) |
-| 5 | `Nutlope/hallmark` | 455 | 32457 | [跳转](https://github.com/Nutlope/hallmark) |
-| 6 | `luongnv89/claude-howto` | 392 | 44714 | [跳转](https://github.com/luongnv89/claude-howto) |
-| 7 | `pollen-robotics/microduck` | 319 | 11133 | [跳转](https://github.com/pollen-robotics/microduck) |
-| 8 | `jbiaojerry/ebook-treasure-chest` | 227 | 22830 | [跳转](https://github.com/jbiaojerry/ebook-treasure-chest) |
-| 9 | `google-gemini/gemini-cli` | 44 | 108217 | [跳转](https://github.com/google-gemini/gemini-cli) |
-| 10 | `aws/agent-toolkit-for-aws` | 13 | 3202 | [跳转](https://github.com/aws/agent-toolkit-for-aws) |
+| 1 | `cloudflare/security-audit-skill` | 2874 | 45766 | [跳转](https://github.com/cloudflare/security-audit-skill) |
+| 2 | `debpalash/VoiceStudio` | 1588 | 85648 | [跳转](https://github.com/debpalash/VoiceStudio) |
+| 3 | `Nutlope/hallmark` | 1359 | 32826 | [跳转](https://github.com/Nutlope/hallmark) |
+| 4 | `pbakaus/impeccable` | 1113 | 86943 | [跳转](https://github.com/pbakaus/impeccable) |
+| 5 | `makecindy/cindy` | 677 | 4410 | [跳转](https://github.com/makecindy/cindy) |
+| 6 | `pollen-robotics/microduck` | 657 | 11283 | [跳转](https://github.com/pollen-robotics/microduck) |
+| 7 | `Renhuai123/ziwei-doushu` | 489 | 7369 | [跳转](https://github.com/Renhuai123/ziwei-doushu) |
+| 8 | `TauricResearch/TradingAgents` | 309 | 113900 | [跳转](https://github.com/TauricResearch/TradingAgents) |
+| 9 | `AgriciDaniel/claude-seo` | 179 | 20201 | [跳转](https://github.com/AgriciDaniel/claude-seo) |
+| 10 | `coollabsio/coolify` | 150 | 63829 | [跳转](https://github.com/coollabsio/coolify) |
+| 11 | `JetBrains/thinkrail` | 52 | 1125 | [跳转](https://github.com/JetBrains/thinkrail) |
