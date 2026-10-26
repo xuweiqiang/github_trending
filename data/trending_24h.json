@@ -1,94 +1,94 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-10-26T06:38:45.163983+08:00",
+  "generated_at": "2026-10-26T09:19:36.561476+08:00",
   "count": 11,
   "items": [
     {
       "repo": "cloudflare/security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
-      "stars_today": 2874,
-      "total_stars": 46752,
+      "stars_today": 2878,
+      "total_stars": 46943,
       "language": "JavaScript",
       "description": "Star cloudflare / security-audit-skill A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
     },
     {
       "repo": "debpalash/VoiceStudio",
       "url": "https://github.com/debpalash/VoiceStudio",
-      "stars_today": 1588,
-      "total_stars": 86667,
+      "stars_today": 1592,
+      "total_stars": 86861,
       "language": "Python",
       "description": "Sponsor Star debpalash / VoiceStudio VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
     },
     {
       "repo": "Nutlope/hallmark",
       "url": "https://github.com/Nutlope/hallmark",
-      "stars_today": 1359,
-      "total_stars": 33628,
+      "stars_today": 1317,
+      "total_stars": 33820,
       "language": "CSS",
       "description": "Star Nutlope / hallmark Anti-AI-slop design skill for Claude Code, Cursor, and Codex."
     },
     {
       "repo": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
-      "stars_today": 1113,
-      "total_stars": 87600,
+      "stars_today": 1092,
+      "total_stars": 87724,
       "language": "Rust",
       "description": "Star pbakaus / impeccable The design language that makes your AI harness better at design."
     },
     {
       "repo": "makecindy/cindy",
       "url": "https://github.com/makecindy/cindy",
-      "stars_today": 677,
-      "total_stars": 4794,
+      "stars_today": 675,
+      "total_stars": 4890,
       "language": "TypeScript",
       "description": "Star makecindy / cindy Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。"
     },
     {
       "repo": "pollen-robotics/microduck",
       "url": "https://github.com/pollen-robotics/microduck",
-      "stars_today": 657,
-      "total_stars": 11584,
+      "stars_today": 647,
+      "total_stars": 11660,
       "language": "Rust",
       "description": "Star pollen-robotics / microduck A Tiny biped duck robot 🦆"
     },
     {
       "repo": "TauricResearch/TradingAgents",
       "url": "https://github.com/TauricResearch/TradingAgents",
-      "stars_today": 636,
-      "total_stars": 114525,
+      "stars_today": 381,
+      "total_stars": 114631,
       "language": "Python",
       "description": "Star TauricResearch / TradingAgents TradingAgents: Multi-Agents LLM Financial Trading Framework"
     },
     {
       "repo": "Renhuai123/ziwei-doushu",
       "url": "https://github.com/Renhuai123/ziwei-doushu",
-      "stars_today": 255,
-      "total_stars": 7517,
+      "stars_today": 199,
+      "total_stars": 7585,
       "language": "TypeScript",
       "description": "Star Renhuai123 / ziwei-doushu 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据"
     },
     {
-      "repo": "coollabsio/coolify",
-      "url": "https://github.com/coollabsio/coolify",
-      "stars_today": 192,
-      "total_stars": 64303,
-      "language": "PHP",
-      "description": "Sponsor Star coollabsio / coolify An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers."
-    },
-    {
       "repo": "AgriciDaniel/claude-seo",
       "url": "https://github.com/AgriciDaniel/claude-seo",
-      "stars_today": 179,
-      "total_stars": 20771,
+      "stars_today": 197,
+      "total_stars": 20898,
       "language": "Python",
       "description": "Star AgriciDaniel / claude-seo Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data."
     },
     {
+      "repo": "coollabsio/coolify",
+      "url": "https://github.com/coollabsio/coolify",
+      "stars_today": 152,
+      "total_stars": 64403,
+      "language": "PHP",
+      "description": "Sponsor Star coollabsio / coolify An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers."
+    },
+    {
       "repo": "JetBrains/thinkrail",
       "url": "https://github.com/JetBrains/thinkrail",
-      "stars_today": 52,
-      "total_stars": 1591,
+      "stars_today": 51,
+      "total_stars": 1765,
       "language": "TypeScript",
       "description": "Star JetBrains / thinkrail Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need"
     }
