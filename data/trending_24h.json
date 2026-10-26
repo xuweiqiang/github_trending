@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-10-26T22:23:12.412426+08:00",
+  "generated_at": "2026-10-27T04:01:34.592385+08:00",
   "count": 14,
   "items": [
     {
       "repo": "debpalash/VoiceStudio",
       "url": "https://github.com/debpalash/VoiceStudio",
       "stars_today": 2292,
-      "total_stars": 88171,
+      "total_stars": 88840,
       "language": "Python",
       "description": "Sponsor Star debpalash / VoiceStudio VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
     },
@@ -16,7 +16,7 @@
       "repo": "Nutlope/hallmark",
       "url": "https://github.com/Nutlope/hallmark",
       "stars_today": 2235,
-      "total_stars": 35354,
+      "total_stars": 35878,
       "language": "CSS",
       "description": "Star Nutlope / hallmark Anti-AI-slop design skill for Claude Code, Cursor, and Codex."
     },
@@ -24,7 +24,7 @@
       "repo": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
       "stars_today": 1551,
-      "total_stars": 88598,
+      "total_stars": 88969,
       "language": "Rust",
       "description": "Star pbakaus / impeccable The design language that makes your AI harness better at design."
     },
@@ -32,7 +32,7 @@
       "repo": "TauricResearch/TradingAgents",
       "url": "https://github.com/TauricResearch/TradingAgents",
       "stars_today": 1376,
-      "total_stars": 115449,
+      "total_stars": 115840,
       "language": "Python",
       "description": "Star TauricResearch / TradingAgents TradingAgents: Multi-Agents LLM Financial Trading Framework"
     },
@@ -40,7 +40,7 @@
       "repo": "makecindy/cindy",
       "url": "https://github.com/makecindy/cindy",
       "stars_today": 1268,
-      "total_stars": 5856,
+      "total_stars": 6273,
       "language": "TypeScript",
       "description": "Star makecindy / cindy Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。"
     },
@@ -48,15 +48,15 @@
       "repo": "JetBrains/thinkrail",
       "url": "https://github.com/JetBrains/thinkrail",
       "stars_today": 1156,
-      "total_stars": 2408,
+      "total_stars": 2707,
       "language": "TypeScript",
       "description": "Star JetBrains / thinkrail Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need"
     },
     {
       "repo": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "stars_today": 853,
-      "total_stars": 289347,
+      "stars_today": 987,
+      "total_stars": 289675,
       "language": "JavaScript",
       "description": "Sponsor Star affaan-m / ECC The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
     },
@@ -64,7 +64,7 @@
       "repo": "pollen-robotics/microduck",
       "url": "https://github.com/pollen-robotics/microduck",
       "stars_today": 844,
-      "total_stars": 12173,
+      "total_stars": 12320,
       "language": "Rust",
       "description": "Star pollen-robotics / microduck A Tiny biped duck robot 🦆"
     },
@@ -72,49 +72,49 @@
       "repo": "Panniantong/Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "stars_today": 723,
-      "total_stars": 103046,
+      "total_stars": 103350,
       "language": "Python",
       "description": "Star Panniantong / Agent-Reach Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees."
     },
     {
       "repo": "multica-ai/andrej-karpathy-skills",
       "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-      "stars_today": 457,
-      "total_stars": 224244,
+      "stars_today": 702,
+      "total_stars": 224466,
       "language": "",
       "description": "Star multica-ai / andrej-karpathy-skills A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls."
+    },
+    {
+      "repo": "alchaincyf/huashu-design",
+      "url": "https://github.com/alchaincyf/huashu-design",
+      "stars_today": 409,
+      "total_stars": 26663,
+      "language": "HTML",
+      "description": "Star alchaincyf / huashu-design Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor & any agent"
+    },
+    {
+      "repo": "nightly-labs/openbot",
+      "url": "https://github.com/nightly-labs/openbot",
+      "stars_today": 312,
+      "total_stars": 1352,
+      "language": "TypeScript",
+      "description": "Star nightly-labs / openbot A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration."
     },
     {
       "repo": "NVIDIA/SkillSpector",
       "url": "https://github.com/NVIDIA/SkillSpector",
       "stars_today": 203,
-      "total_stars": 21805,
+      "total_stars": 22017,
       "language": "Python",
       "description": "Star NVIDIA / SkillSpector Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them."
-    },
-    {
-      "repo": "alchaincyf/huashu-design",
-      "url": "https://github.com/alchaincyf/huashu-design",
-      "stars_today": 177,
-      "total_stars": 26545,
-      "language": "HTML",
-      "description": "Star alchaincyf / huashu-design Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor & any agent"
     },
     {
       "repo": "gitroomhq/postiz-app",
       "url": "https://github.com/gitroomhq/postiz-app",
       "stars_today": 146,
-      "total_stars": 38048,
+      "total_stars": 38313,
       "language": "TypeScript",
       "description": "Star gitroomhq / postiz-app 📨 The ultimate agentic social media scheduling tool 🤖"
-    },
-    {
-      "repo": "nightly-labs/openbot",
-      "url": "https://github.com/nightly-labs/openbot",
-      "stars_today": 86,
-      "total_stars": 1173,
-      "language": "TypeScript",
-      "description": "Star nightly-labs / openbot A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration."
     }
   ]
 }
