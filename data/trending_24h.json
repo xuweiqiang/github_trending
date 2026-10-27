@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-10-28T00:43:37.878556+08:00",
-  "count": 10,
+  "generated_at": "2026-10-28T05:23:11.865829+08:00",
+  "count": 11,
   "items": [
     {
       "repo": "Nutlope/hallmark",
       "url": "https://github.com/Nutlope/hallmark",
       "stars_today": 2859,
-      "total_stars": 38423,
+      "total_stars": 38813,
       "language": "CSS",
       "description": "Star Nutlope / hallmark Anti-AI-slop design skill for Claude Code, Cursor, and Codex."
     },
@@ -16,7 +16,7 @@
       "repo": "HKUDS/DeepTutor",
       "url": "https://github.com/HKUDS/DeepTutor",
       "stars_today": 1587,
-      "total_stars": 45426,
+      "total_stars": 45694,
       "language": "Python",
       "description": "Star HKUDS / DeepTutor DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ ."
     },
@@ -24,7 +24,7 @@
       "repo": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
       "stars_today": 1458,
-      "total_stars": 90179,
+      "total_stars": 90381,
       "language": "Rust",
       "description": "Star pbakaus / impeccable The design language that makes your AI harness better at design."
     },
@@ -32,15 +32,23 @@
       "repo": "makecindy/cindy",
       "url": "https://github.com/makecindy/cindy",
       "stars_today": 1446,
-      "total_stars": 7287,
+      "total_stars": 7403,
       "language": "TypeScript",
       "description": "Star makecindy / cindy Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。"
+    },
+    {
+      "repo": "elayadesign/ai-design-skills",
+      "url": "https://github.com/elayadesign/ai-design-skills",
+      "stars_today": 1395,
+      "total_stars": 9115,
+      "language": "",
+      "description": ""
     },
     {
       "repo": "JetBrains/thinkrail",
       "url": "https://github.com/JetBrains/thinkrail",
       "stars_today": 1211,
-      "total_stars": 3737,
+      "total_stars": 3872,
       "language": "TypeScript",
       "description": "Star JetBrains / thinkrail Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need"
     },
@@ -48,7 +56,7 @@
       "repo": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "stars_today": 1183,
-      "total_stars": 290559,
+      "total_stars": 290775,
       "language": "JavaScript",
       "description": "Sponsor Star affaan-m / ECC The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
     },
@@ -56,7 +64,7 @@
       "repo": "gitroomhq/postiz-app",
       "url": "https://github.com/gitroomhq/postiz-app",
       "stars_today": 953,
-      "total_stars": 39076,
+      "total_stars": 39248,
       "language": "TypeScript",
       "description": "Star gitroomhq / postiz-app 📨 The ultimate agentic social media scheduling tool 🤖"
     },
@@ -64,7 +72,7 @@
       "repo": "togg53192-cmd/jailbreaks",
       "url": "https://github.com/togg53192-cmd/jailbreaks",
       "stars_today": 890,
-      "total_stars": 5155,
+      "total_stars": 5380,
       "language": "",
       "description": "Star togg53192-cmd / jailbreaks LIST OF ALL MY JAILBREAKS"
     },
@@ -72,7 +80,7 @@
       "repo": "nightly-labs/openbot",
       "url": "https://github.com/nightly-labs/openbot",
       "stars_today": 794,
-      "total_stars": 2130,
+      "total_stars": 2330,
       "language": "TypeScript",
       "description": "Star nightly-labs / openbot A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration."
     },
@@ -80,7 +88,7 @@
       "repo": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "stars_today": 608,
-      "total_stars": 306156,
+      "total_stars": 306342,
       "language": "Shell",
       "description": "Sponsor Star obra / superpowers An agentic skills framework & software development methodology that works."
     }
