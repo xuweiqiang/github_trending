@@ -1,38 +1,46 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-10-28T14:54:29.197399+08:00",
-  "count": 11,
+  "generated_at": "2026-10-28T22:06:46.525195+08:00",
+  "count": 14,
   "items": [
     {
-      "repo": "Nutlope/hallmark",
-      "url": "https://github.com/Nutlope/hallmark",
-      "stars_today": 2830,
-      "total_stars": 39467,
-      "language": "CSS",
-      "description": "Star Nutlope / hallmark Anti-AI-slop design skill for Claude Code, Cursor, and Codex."
+      "repo": "hmjz100/LinkSwift",
+      "url": "https://github.com/hmjz100/LinkSwift",
+      "stars_today": 3209,
+      "total_stars": 33925,
+      "language": "JavaScript",
+      "description": "Star hmjz100 / LinkSwift 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘"
     },
     {
       "repo": "HKUDS/DeepTutor",
       "url": "https://github.com/HKUDS/DeepTutor",
-      "stars_today": 1598,
-      "total_stars": 46586,
+      "stars_today": 2376,
+      "total_stars": 47378,
       "language": "Python",
       "description": "Star HKUDS / DeepTutor DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ ."
     },
     {
-      "repo": "makecindy/cindy",
-      "url": "https://github.com/makecindy/cindy",
-      "stars_today": 1465,
-      "total_stars": 7690,
-      "language": "TypeScript",
-      "description": "Star makecindy / cindy Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。"
+      "repo": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "stars_today": 2109,
+      "total_stars": 40121,
+      "language": "CSS",
+      "description": "Star Nutlope / hallmark Anti-AI-slop design skill for Claude Code, Cursor, and Codex."
+    },
+    {
+      "repo": "togg53192-cmd/jailbreaks",
+      "url": "https://github.com/togg53192-cmd/jailbreaks",
+      "stars_today": 1478,
+      "total_stars": 6524,
+      "language": "",
+      "description": "Star togg53192-cmd / jailbreaks LIST OF ALL MY JAILBREAKS"
     },
     {
       "repo": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
-      "stars_today": 1449,
-      "total_stars": 90987,
+      "stars_today": 1471,
+      "total_stars": 91559,
       "language": "Rust",
       "description": "Star pbakaus / impeccable The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships."
     },
@@ -40,57 +48,73 @@
       "repo": "elayadesign/ai-design-skills",
       "url": "https://github.com/elayadesign/ai-design-skills",
       "stars_today": 1395,
-      "total_stars": 9981,
+      "total_stars": 10678,
       "language": "",
       "description": ""
     },
     {
+      "repo": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "stars_today": 1096,
+      "total_stars": 307037,
+      "language": "Shell",
+      "description": "Sponsor Star obra / superpowers An agentic skills framework & software development methodology that works."
+    },
+    {
       "repo": "JetBrains/thinkrail",
       "url": "https://github.com/JetBrains/thinkrail",
-      "stars_today": 1204,
-      "total_stars": 4338,
+      "stars_today": 1075,
+      "total_stars": 4640,
       "language": "TypeScript",
       "description": "Star JetBrains / thinkrail Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need"
     },
     {
-      "repo": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "stars_today": 1165,
-      "total_stars": 291120,
-      "language": "JavaScript",
-      "description": "Sponsor Star affaan-m / ECC The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
-    },
-    {
-      "repo": "gitroomhq/postiz-app",
-      "url": "https://github.com/gitroomhq/postiz-app",
-      "stars_today": 951,
-      "total_stars": 39643,
-      "language": "TypeScript",
-      "description": "Star gitroomhq / postiz-app 📨 The ultimate agentic social media scheduling tool 🤖"
-    },
-    {
-      "repo": "togg53192-cmd/jailbreaks",
-      "url": "https://github.com/togg53192-cmd/jailbreaks",
-      "stars_today": 902,
-      "total_stars": 5986,
-      "language": "",
-      "description": "Star togg53192-cmd / jailbreaks LIST OF ALL MY JAILBREAKS"
-    },
-    {
       "repo": "nightly-labs/openbot",
       "url": "https://github.com/nightly-labs/openbot",
-      "stars_today": 777,
-      "total_stars": 2681,
+      "stars_today": 1053,
+      "total_stars": 2970,
       "language": "TypeScript",
       "description": "Star nightly-labs / openbot A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration."
     },
     {
-      "repo": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "stars_today": 617,
-      "total_stars": 306701,
+      "repo": "makecindy/cindy",
+      "url": "https://github.com/makecindy/cindy",
+      "stars_today": 740,
+      "total_stars": 7865,
+      "language": "TypeScript",
+      "description": "Star makecindy / cindy Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。"
+    },
+    {
+      "repo": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "stars_today": 415,
+      "total_stars": 100633,
+      "language": "Rust",
+      "description": "Star ruvnet / RuView π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video."
+    },
+    {
+      "repo": "expo/skills",
+      "url": "https://github.com/expo/skills",
+      "stars_today": 212,
+      "total_stars": 3394,
       "language": "Shell",
-      "description": "Sponsor Star obra / superpowers An agentic skills framework & software development methodology that works."
+      "description": "Star expo / skills A collection of AI agent skills for working with Expo projects and Expo Application Services"
+    },
+    {
+      "repo": "xiaolai/the-craft-of-selfteaching",
+      "url": "https://github.com/xiaolai/the-craft-of-selfteaching",
+      "stars_today": 143,
+      "total_stars": 18334,
+      "language": "Jupyter Notebook",
+      "description": "Star xiaolai / the-craft-of-selfteaching One has no future if one couldn't teach themself."
+    },
+    {
+      "repo": "macro-inc/macro",
+      "url": "https://github.com/macro-inc/macro",
+      "stars_today": 106,
+      "total_stars": 5226,
+      "language": "Rust",
+      "description": "Star macro-inc / macro Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory."
     }
   ]
 }
