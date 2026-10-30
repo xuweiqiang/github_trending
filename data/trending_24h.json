@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-10-31T00:43:40.190277+08:00",
+  "generated_at": "2026-10-31T05:35:21.673502+08:00",
   "count": 15,
   "items": [
     {
       "repo": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
       "stars_today": 2299,
-      "total_stars": 96687,
+      "total_stars": 96921,
       "language": "Rust",
       "description": "Star pbakaus / impeccable The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships."
     },
@@ -16,7 +16,7 @@
       "repo": "HKUDS/DeepTutor",
       "url": "https://github.com/HKUDS/DeepTutor",
       "stars_today": 2282,
-      "total_stars": 51526,
+      "total_stars": 51690,
       "language": "Python",
       "description": "Star HKUDS / DeepTutor DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ ."
     },
@@ -24,7 +24,7 @@
       "repo": "togg53192-cmd/jailbreaks",
       "url": "https://github.com/togg53192-cmd/jailbreaks",
       "stars_today": 2053,
-      "total_stars": 10405,
+      "total_stars": 10813,
       "language": "",
       "description": "Star togg53192-cmd / jailbreaks LIST OF ALL MY JAILBREAKS"
     },
@@ -32,7 +32,7 @@
       "repo": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "stars_today": 1255,
-      "total_stars": 309245,
+      "total_stars": 309360,
       "language": "Shell",
       "description": "Sponsor Star obra / superpowers An agentic skills framework & software development methodology that works."
     },
@@ -40,7 +40,7 @@
       "repo": "Renhuai123/ziwei-doushu",
       "url": "https://github.com/Renhuai123/ziwei-doushu",
       "stars_today": 1146,
-      "total_stars": 11029,
+      "total_stars": 11150,
       "language": "TypeScript",
       "description": "Star Renhuai123 / ziwei-doushu 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据"
     },
@@ -48,7 +48,7 @@
       "repo": "thedotmack/claude-mem",
       "url": "https://github.com/thedotmack/claude-mem",
       "stars_today": 1145,
-      "total_stars": 105728,
+      "total_stars": 106079,
       "language": "TypeScript",
       "description": "Sponsor Star thedotmack / claude-mem Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More"
     },
@@ -56,7 +56,7 @@
       "repo": "pingdotgg/t3code",
       "url": "https://github.com/pingdotgg/t3code",
       "stars_today": 920,
-      "total_stars": 32491,
+      "total_stars": 32650,
       "language": "TypeScript",
       "description": ""
     },
@@ -64,15 +64,15 @@
       "repo": "milind-soni/OpenMausBot",
       "url": "https://github.com/milind-soni/OpenMausBot",
       "stars_today": 899,
-      "total_stars": 8227,
+      "total_stars": 8506,
       "language": "TypeScript",
       "description": "Sponsor Star milind-soni / OpenMausBot Open-source Grok Bot alternative with a virtual machine that bots can use"
     },
     {
       "repo": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
-      "stars_today": 882,
-      "total_stars": 307221,
+      "stars_today": 889,
+      "total_stars": 307400,
       "language": "Shell",
       "description": "Sponsor Star mattpocock / skills Skills for Real Engineers. Straight from my .agents directory."
     },
@@ -80,7 +80,7 @@
       "repo": "JetBrains/thinkrail",
       "url": "https://github.com/JetBrains/thinkrail",
       "stars_today": 717,
-      "total_stars": 6447,
+      "total_stars": 6521,
       "language": "TypeScript",
       "description": "Star JetBrains / thinkrail Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need"
     },
@@ -88,7 +88,7 @@
       "repo": "CopilotKit/OpenBot",
       "url": "https://github.com/CopilotKit/OpenBot",
       "stars_today": 707,
-      "total_stars": 8586,
+      "total_stars": 8714,
       "language": "TypeScript",
       "description": "Star CopilotKit / OpenBot Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent."
     },
@@ -96,7 +96,7 @@
       "repo": "lightpanda-io/browser",
       "url": "https://github.com/lightpanda-io/browser",
       "stars_today": 559,
-      "total_stars": 38062,
+      "total_stars": 38270,
       "language": "Zig",
       "description": "Star lightpanda-io / browser Lightpanda: the headless browser designed for AI and automation"
     },
@@ -104,25 +104,25 @@
       "repo": "anthropics/skills",
       "url": "https://github.com/anthropics/skills",
       "stars_today": 287,
-      "total_stars": 185088,
+      "total_stars": 185231,
       "language": "Python",
       "description": "Star anthropics / skills Public repository for Agent Skills"
-    },
-    {
-      "repo": "expo/skills",
-      "url": "https://github.com/expo/skills",
-      "stars_today": 233,
-      "total_stars": 3822,
-      "language": "Shell",
-      "description": "Star expo / skills A collection of AI agent skills for working with Expo projects and Expo Application Services"
     },
     {
       "repo": "macro-inc/macro",
       "url": "https://github.com/macro-inc/macro",
       "stars_today": 117,
-      "total_stars": 5763,
+      "total_stars": 5833,
       "language": "Rust",
       "description": "Star macro-inc / macro Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory."
+    },
+    {
+      "repo": "expo/skills",
+      "url": "https://github.com/expo/skills",
+      "stars_today": 108,
+      "total_stars": 3864,
+      "language": "Shell",
+      "description": "Star expo / skills A collection of AI agent skills for working with Expo projects and Expo Application Services"
     }
   ]
 }
