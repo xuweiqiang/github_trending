@@ -1,21 +1,19 @@
 # GitHub 24h Star 增长榜
 
-- 生成时间: 2026-11-03 11:30:03 +0800
+- 生成时间: 2026-11-03 20:03:26 +0800
 
 | 排名 | 项目 | 24h 增长 | 总 Stars | 链接 |
 |---:|---|---:|---:|---|
-| 1 | `pingdotgg/t3code` | 3229 | 42237 | [跳转](https://github.com/pingdotgg/t3code) |
-| 2 | `vercel-labs/agent-desktop` | 2275 | 10233 | [跳转](https://github.com/vercel-labs/agent-desktop) |
-| 3 | `thedotmack/claude-mem` | 1803 | 110876 | [跳转](https://github.com/thedotmack/claude-mem) |
-| 4 | `Donchitos/Claude-Code-Game-Studios` | 1379 | 33709 | [跳转](https://github.com/Donchitos/Claude-Code-Game-Studios) |
-| 5 | `mattpocock/skills` | 858 | 310361 | [跳转](https://github.com/mattpocock/skills) |
-| 6 | `shiyu-coder/Kronos` | 857 | 46059 | [跳转](https://github.com/shiyu-coder/Kronos) |
-| 7 | `D4Vinci/Scrapling` | 706 | 93112 | [跳转](https://github.com/D4Vinci/Scrapling) |
-| 8 | `JustVugg/colibri` | 675 | 46659 | [跳转](https://github.com/JustVugg/colibri) |
-| 9 | `FlashML-org/FreeToken` | 653 | 16162 | [跳转](https://github.com/FlashML-org/FreeToken) |
-| 10 | `hyprwm/Hyprland` | 509 | 40001 | [跳转](https://github.com/hyprwm/Hyprland) |
-| 11 | `p-e-w/heretic` | 420 | 38177 | [跳转](https://github.com/p-e-w/heretic) |
-| 12 | `kornia/kornia` | 412 | 12171 | [跳转](https://github.com/kornia/kornia) |
-| 13 | `paperclipai/paperclip` | 412 | 110476 | [跳转](https://github.com/paperclipai/paperclip) |
-| 14 | `karpathy/nanochat` | 321 | 59963 | [跳转](https://github.com/karpathy/nanochat) |
-| 15 | `max-sixty/worktrunk` | 77 | 10096 | [跳转](https://github.com/max-sixty/worktrunk) |
+| 1 | `vercel-labs/agent-desktop` | 3792 | 11564 | [跳转](https://github.com/vercel-labs/agent-desktop) |
+| 2 | `D4Vinci/Scrapling` | 1658 | 93736 | [跳转](https://github.com/D4Vinci/Scrapling) |
+| 3 | `Donchitos/Claude-Code-Game-Studios` | 1181 | 34157 | [跳转](https://github.com/Donchitos/Claude-Code-Game-Studios) |
+| 4 | `mattpocock/skills` | 1164 | 310808 | [跳转](https://github.com/mattpocock/skills) |
+| 5 | `thedotmack/claude-mem` | 1138 | 111312 | [跳转](https://github.com/thedotmack/claude-mem) |
+| 6 | `anomalyco/hex` | 1134 | 4224 | [跳转](https://github.com/anomalyco/hex) |
+| 7 | `JustVugg/colibri` | 803 | 46934 | [跳转](https://github.com/JustVugg/colibri) |
+| 8 | `p-e-w/heretic` | 699 | 38459 | [跳转](https://github.com/p-e-w/heretic) |
+| 9 | `shiyu-coder/Kronos` | 503 | 46228 | [跳转](https://github.com/shiyu-coder/Kronos) |
+| 10 | `max-sixty/worktrunk` | 437 | 10257 | [跳转](https://github.com/max-sixty/worktrunk) |
+| 11 | `floci-io/floci` | 219 | 28178 | [跳转](https://github.com/floci-io/floci) |
+| 12 | `Usagi-org/ai-goofish-monitor` | 204 | 16105 | [跳转](https://github.com/Usagi-org/ai-goofish-monitor) |
+| 13 | `spotify/portal-ai-plugins` | 94 | 2915 | [跳转](https://github.com/spotify/portal-ai-plugins) |
