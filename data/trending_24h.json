@@ -1,86 +1,86 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-11-05T06:40:52.032129+08:00",
+  "generated_at": "2026-11-05T11:32:54.507562+08:00",
   "count": 16,
   "items": [
     {
       "repo": "vercel-labs/agent-desktop",
       "url": "https://github.com/vercel-labs/agent-desktop",
-      "stars_today": 2463,
-      "total_stars": 14914,
+      "stars_today": 2470,
+      "total_stars": 15399,
       "language": "Rust",
       "description": "Star vercel-labs / agent-desktop Computer use CLI for AI agents"
     },
     {
       "repo": "NVIDIA/auto-ontology",
       "url": "https://github.com/NVIDIA/auto-ontology",
-      "stars_today": 2053,
-      "total_stars": 4797,
+      "stars_today": 2050,
+      "total_stars": 5370,
       "language": "Python",
       "description": "Star NVIDIA / auto-ontology Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows."
     },
     {
       "repo": "D4Vinci/Scrapling",
       "url": "https://github.com/D4Vinci/Scrapling",
-      "stars_today": 2006,
-      "total_stars": 96435,
+      "stars_today": 2005,
+      "total_stars": 96760,
       "language": "Python",
       "description": "Sponsor Star D4Vinci / Scrapling 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev"
     },
     {
       "repo": "JiaFeiMiao-K-Cat/DiscImageStudio",
       "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
-      "stars_today": 1792,
-      "total_stars": 6527,
+      "stars_today": 1778,
+      "total_stars": 6713,
       "language": "C#",
       "description": ""
     },
     {
       "repo": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
-      "stars_today": 1376,
-      "total_stars": 313218,
+      "stars_today": 1379,
+      "total_stars": 313510,
       "language": "Shell",
       "description": "Sponsor Star mattpocock / skills Skills for Real Engineers. Straight from my .agents directory."
     },
     {
       "repo": "thedotmack/claude-mem",
       "url": "https://github.com/thedotmack/claude-mem",
-      "stars_today": 1165,
-      "total_stars": 112778,
+      "stars_today": 1172,
+      "total_stars": 112966,
       "language": "TypeScript",
       "description": "Sponsor Star thedotmack / claude-mem Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More"
     },
     {
       "repo": "floci-io/floci",
       "url": "https://github.com/floci-io/floci",
-      "stars_today": 1082,
-      "total_stars": 29551,
+      "stars_today": 1090,
+      "total_stars": 29710,
       "language": "Java",
       "description": "Sponsor Star floci-io / floci Light, fluffy, and always free - The AWS Local Emulator alternative"
     },
     {
       "repo": "github/spec-kit",
       "url": "https://github.com/github/spec-kit",
-      "stars_today": 810,
-      "total_stars": 147252,
+      "stars_today": 808,
+      "total_stars": 147393,
       "language": "Python",
       "description": "Star github / spec-kit 💫 Toolkit to help you get started with SDD or any other process!"
     },
     {
       "repo": "harry0703/MoneyPrinterTurbo",
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "stars_today": 615,
-      "total_stars": 138894,
+      "stars_today": 617,
+      "total_stars": 139136,
       "language": "Python",
       "description": "Star harry0703 / MoneyPrinterTurbo 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow."
     },
     {
       "repo": "max-sixty/worktrunk",
       "url": "https://github.com/max-sixty/worktrunk",
-      "stars_today": 524,
-      "total_stars": 10991,
+      "stars_today": 531,
+      "total_stars": 11111,
       "language": "Rust",
       "description": "Star max-sixty / worktrunk Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows"
     },
@@ -88,39 +88,31 @@
       "repo": "FareedKhan-dev/kimi-k3-in-c",
       "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
       "stars_today": 351,
-      "total_stars": 10248,
+      "total_stars": 10391,
       "language": "C",
       "description": "Star FareedKhan-dev / kimi-k3-in-c A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU."
     },
     {
       "repo": "garrytan/gstack",
       "url": "https://github.com/garrytan/gstack",
-      "stars_today": 285,
-      "total_stars": 139291,
+      "stars_today": 290,
+      "total_stars": 139412,
       "language": "TypeScript",
       "description": "Star garrytan / gstack Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA"
     },
     {
       "repo": "The-PR-Agent/pr-agent",
       "url": "https://github.com/The-PR-Agent/pr-agent",
-      "stars_today": 279,
-      "total_stars": 14709,
+      "stars_today": 280,
+      "total_stars": 14833,
       "language": "Python",
       "description": "Star The-PR-Agent / pr-agent 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier."
-    },
-    {
-      "repo": "MichaelCade/90DaysOfDevOps",
-      "url": "https://github.com/MichaelCade/90DaysOfDevOps",
-      "stars_today": 264,
-      "total_stars": 30375,
-      "language": "Shell",
-      "description": "Sponsor Star MichaelCade / 90DaysOfDevOps This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic."
     },
     {
       "repo": "scenario-labs/skills",
       "url": "https://github.com/scenario-labs/skills",
       "stars_today": 224,
-      "total_stars": 2386,
+      "total_stars": 2516,
       "language": "Python",
       "description": "Star scenario-labs / skills Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity."
     },
@@ -128,9 +120,17 @@
       "repo": "Thysrael/Horizon",
       "url": "https://github.com/Thysrael/Horizon",
       "stars_today": 121,
-      "total_stars": 12452,
+      "total_stars": 12599,
       "language": "Python",
       "description": "Star Thysrael / Horizon 📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达"
+    },
+    {
+      "repo": "MichaelCade/90DaysOfDevOps",
+      "url": "https://github.com/MichaelCade/90DaysOfDevOps",
+      "stars_today": 97,
+      "total_stars": 30506,
+      "language": "Shell",
+      "description": "Sponsor Star MichaelCade / 90DaysOfDevOps This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic."
     }
   ]
 }
