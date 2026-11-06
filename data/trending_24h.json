@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-11-06T04:43:07.742771+08:00",
-  "count": 15,
+  "generated_at": "2026-11-06T09:37:57.058417+08:00",
+  "count": 14,
   "items": [
     {
       "repo": "NVIDIA/auto-ontology",
       "url": "https://github.com/NVIDIA/auto-ontology",
-      "stars_today": 2707,
-      "total_stars": 7088,
+      "stars_today": 2679,
+      "total_stars": 7412,
       "language": "Python",
       "description": "Star NVIDIA / auto-ontology Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows."
     },
@@ -16,55 +16,55 @@
       "repo": "vercel-labs/agent-desktop",
       "url": "https://github.com/vercel-labs/agent-desktop",
       "stars_today": 2173,
-      "total_stars": 16668,
+      "total_stars": 16903,
       "language": "Rust",
       "description": "Star vercel-labs / agent-desktop Computer use CLI for AI agents"
     },
     {
       "repo": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
-      "stars_today": 2053,
-      "total_stars": 314988,
+      "stars_today": 2071,
+      "total_stars": 315287,
       "language": "Shell",
       "description": "Sponsor Star mattpocock / skills Skills for Real Engineers. Straight from my .agents directory."
     },
     {
       "repo": "D4Vinci/Scrapling",
       "url": "https://github.com/D4Vinci/Scrapling",
-      "stars_today": 1661,
-      "total_stars": 97819,
+      "stars_today": 1655,
+      "total_stars": 98013,
       "language": "Python",
       "description": "Sponsor Star D4Vinci / Scrapling 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev"
     },
     {
       "repo": "JiaFeiMiao-K-Cat/DiscImageStudio",
       "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
-      "stars_today": 977,
-      "total_stars": 7197,
+      "stars_today": 984,
+      "total_stars": 7290,
       "language": "C#",
       "description": ""
     },
     {
       "repo": "floci-io/floci",
       "url": "https://github.com/floci-io/floci",
-      "stars_today": 784,
-      "total_stars": 30310,
+      "stars_today": 779,
+      "total_stars": 30432,
       "language": "Java",
       "description": "Sponsor Star floci-io / floci Light, fluffy, and always free - The AWS Local Emulator alternative"
     },
     {
       "repo": "scenario-labs/skills",
       "url": "https://github.com/scenario-labs/skills",
-      "stars_today": 674,
-      "total_stars": 2965,
+      "stars_today": 667,
+      "total_stars": 3083,
       "language": "Python",
       "description": "Star scenario-labs / skills Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity."
     },
     {
       "repo": "garrytan/gstack",
       "url": "https://github.com/garrytan/gstack",
-      "stars_today": 608,
-      "total_stars": 139864,
+      "stars_today": 612,
+      "total_stars": 139962,
       "language": "TypeScript",
       "description": "Star garrytan / gstack Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA"
     },
@@ -72,57 +72,49 @@
       "repo": "max-sixty/worktrunk",
       "url": "https://github.com/max-sixty/worktrunk",
       "stars_today": 546,
-      "total_stars": 11447,
+      "total_stars": 11528,
       "language": "Rust",
       "description": "Star max-sixty / worktrunk Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows"
     },
     {
       "repo": "Usagi-org/ai-goofish-monitor",
       "url": "https://github.com/Usagi-org/ai-goofish-monitor",
-      "stars_today": 242,
-      "total_stars": 17478,
+      "stars_today": 240,
+      "total_stars": 17584,
       "language": "Python",
       "description": "Star Usagi-org / ai-goofish-monitor 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。"
     },
     {
-      "repo": "ConardLi/garden-skills",
-      "url": "https://github.com/ConardLi/garden-skills",
-      "stars_today": 241,
-      "total_stars": 14075,
-      "language": "JavaScript",
-      "description": "Star ConardLi / garden-skills ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more."
-    },
-    {
       "repo": "microsoft/VibeVoice",
       "url": "https://github.com/microsoft/VibeVoice",
-      "stars_today": 214,
-      "total_stars": 55757,
+      "stars_today": 223,
+      "total_stars": 55966,
       "language": "Python",
       "description": "Star microsoft / VibeVoice Open-Source Frontier Voice AI"
     },
     {
       "repo": "google/skills",
       "url": "https://github.com/google/skills",
-      "stars_today": 199,
-      "total_stars": 22298,
+      "stars_today": 211,
+      "total_stars": 22394,
       "language": "Python",
       "description": "Star google / skills Agent Skills for Google products and technologies"
     },
     {
-      "repo": "vercel-labs/agent-browser",
-      "url": "https://github.com/vercel-labs/agent-browser",
-      "stars_today": 181,
-      "total_stars": 45801,
-      "language": "Rust",
-      "description": "Star vercel-labs / agent-browser Browser automation CLI for AI agents"
+      "repo": "ConardLi/garden-skills",
+      "url": "https://github.com/ConardLi/garden-skills",
+      "stars_today": 175,
+      "total_stars": 14154,
+      "language": "JavaScript",
+      "description": "Star ConardLi / garden-skills ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more."
     },
     {
-      "repo": "lz4/lz4",
-      "url": "https://github.com/lz4/lz4",
-      "stars_today": 16,
-      "total_stars": 12336,
-      "language": "C",
-      "description": "Star lz4 / lz4 Extremely Fast Compression algorithm"
+      "repo": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "stars_today": 150,
+      "total_stars": 45917,
+      "language": "Rust",
+      "description": "Star vercel-labs / agent-browser Browser automation CLI for AI agents"
     }
   ]
 }
