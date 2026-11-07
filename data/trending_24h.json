@@ -1,152 +1,128 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-11-07T18:26:31.468617+08:00",
-  "count": 18,
+  "generated_at": "2026-11-08T00:54:07.200636+08:00",
+  "count": 15,
   "items": [
     {
       "repo": "cloudflare/security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
-      "stars_today": 2548,
-      "total_stars": 64659,
+      "stars_today": 2088,
+      "total_stars": 65215,
       "language": "JavaScript",
       "description": "Star cloudflare / security-audit-skill A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
     },
     {
-      "repo": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "stars_today": 2070,
-      "total_stars": 317100,
-      "language": "Shell",
-      "description": "Sponsor Star mattpocock / skills Skills for Real Engineers. Straight from my .agents directory."
+      "repo": "milind-soni/OpenMausBot",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "stars_today": 1986,
+      "total_stars": 16618,
+      "language": "TypeScript",
+      "description": "Sponsor Star milind-soni / OpenMausBot Open-source Grok Bot alternative with a virtual machine that bots can use"
     },
     {
-      "repo": "NVIDIA/auto-ontology",
-      "url": "https://github.com/NVIDIA/auto-ontology",
-      "stars_today": 2015,
-      "total_stars": 9526,
+      "repo": "sherlock-project/sherlock",
+      "url": "https://github.com/sherlock-project/sherlock",
+      "stars_today": 1819,
+      "total_stars": 99937,
       "language": "Python",
-      "description": "Star NVIDIA / auto-ontology Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows."
-    },
-    {
-      "repo": "google/skills",
-      "url": "https://github.com/google/skills",
-      "stars_today": 534,
-      "total_stars": 23029,
-      "language": "Python",
-      "description": "Star google / skills Agent Skills for Google products and technologies"
-    },
-    {
-      "repo": "lz4/lz4",
-      "url": "https://github.com/lz4/lz4",
-      "stars_today": 315,
-      "total_stars": 12677,
-      "language": "C",
-      "description": "Star lz4 / lz4 Extremely Fast Compression algorithm"
+      "description": "Star sherlock-project / sherlock Hunt down social media accounts by username across social networks"
     },
     {
       "repo": "zed-industries/zed",
       "url": "https://github.com/zed-industries/zed",
-      "stars_today": 306,
-      "total_stars": 93994,
+      "stars_today": 1119,
+      "total_stars": 94144,
       "language": "Rust",
       "description": "Sponsor Star zed-industries / zed Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter."
     },
     {
-      "repo": "microsoft/vscode",
-      "url": "https://github.com/microsoft/vscode",
-      "stars_today": 301,
-      "total_stars": 195121,
-      "language": "TypeScript",
-      "description": "Star microsoft / vscode Visual Studio Code"
+      "repo": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "stars_today": 1111,
+      "total_stars": 317407,
+      "language": "Shell",
+      "description": "Sponsor Star mattpocock / skills Skills for Real Engineers. Straight from my .agents directory."
     },
     {
-      "repo": "react/react",
-      "url": "https://github.com/react/react",
-      "stars_today": 248,
-      "total_stars": 252340,
-      "language": "JavaScript",
-      "description": "Star react / react The library for web and native user interfaces."
+      "repo": "google/skills",
+      "url": "https://github.com/google/skills",
+      "stars_today": 449,
+      "total_stars": 23191,
+      "language": "Python",
+      "description": "Star google / skills Agent Skills for Google products and technologies"
     },
     {
-      "repo": "rust-lang/rust",
-      "url": "https://github.com/rust-lang/rust",
-      "stars_today": 192,
-      "total_stars": 121573,
-      "language": "Rust",
-      "description": "Star rust-lang / rust Empowering everyone to build reliable and efficient software."
+      "repo": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "stars_today": 386,
+      "total_stars": 188520,
+      "language": "Python",
+      "description": "Star anthropics / skills Public repository for Agent Skills"
     },
     {
       "repo": "astral-sh/ruff",
       "url": "https://github.com/astral-sh/ruff",
-      "stars_today": 169,
-      "total_stars": 50788,
+      "stars_today": 350,
+      "total_stars": 50882,
       "language": "Rust",
       "description": "Star astral-sh / ruff An extremely fast Python linter and code formatter, written in Rust."
     },
     {
       "repo": "prometheus/prometheus",
       "url": "https://github.com/prometheus/prometheus",
-      "stars_today": 148,
-      "total_stars": 67269,
+      "stars_today": 325,
+      "total_stars": 67355,
       "language": "Go",
       "description": "Star prometheus / prometheus The Prometheus monitoring system and time series database."
     },
     {
-      "repo": "rails/rails",
-      "url": "https://github.com/rails/rails",
-      "stars_today": 142,
-      "total_stars": 59071,
-      "language": "Ruby",
-      "description": "Star rails / rails Ruby on Rails"
-    },
-    {
-      "repo": "angular/angular",
-      "url": "https://github.com/angular/angular",
-      "stars_today": 135,
-      "total_stars": 101462,
+      "repo": "meta/astryx",
+      "url": "https://github.com/meta/astryx",
+      "stars_today": 185,
+      "total_stars": 14260,
       "language": "TypeScript",
-      "description": "Star angular / angular Deliver web apps with confidence 🚀"
+      "description": "Star meta / astryx An open source design system that's fully customizable and agent ready"
     },
     {
-      "repo": "nushell/nushell",
-      "url": "https://github.com/nushell/nushell",
-      "stars_today": 131,
-      "total_stars": 41044,
+      "repo": "ranxianglei/billion-context",
+      "url": "https://github.com/ranxianglei/billion-context",
+      "stars_today": 185,
+      "total_stars": 4504,
+      "language": "TypeScript",
+      "description": "Star ranxianglei / billion-context A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need"
+    },
+    {
+      "repo": "mbillow/localthings",
+      "url": "https://github.com/mbillow/localthings",
+      "stars_today": 184,
+      "total_stars": 986,
+      "language": "Python",
+      "description": "Sponsor Star mbillow / localthings Control your Samsung appliances from Home Assistant over your home network, with no cloud account."
+    },
+    {
+      "repo": "tailwindlabs/tailwindcss",
+      "url": "https://github.com/tailwindlabs/tailwindcss",
+      "stars_today": 181,
+      "total_stars": 98308,
+      "language": "TypeScript",
+      "description": "Star tailwindlabs / tailwindcss A utility-first CSS framework for rapid UI development."
+    },
+    {
+      "repo": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "stars_today": 180,
+      "total_stars": 46598,
       "language": "Rust",
-      "description": "Star nushell / nushell A new type of shell"
+      "description": "Star vercel-labs / agent-browser Browser automation CLI for AI agents"
     },
     {
-      "repo": "symfony/symfony",
-      "url": "https://github.com/symfony/symfony",
-      "stars_today": 128,
-      "total_stars": 31510,
-      "language": "PHP",
-      "description": "Star symfony / symfony The Symfony PHP framework"
-    },
-    {
-      "repo": "etcd-io/etcd",
-      "url": "https://github.com/etcd-io/etcd",
-      "stars_today": 128,
-      "total_stars": 52666,
+      "repo": "dsx-ai-factory/nvke",
+      "url": "https://github.com/dsx-ai-factory/nvke",
+      "stars_today": 125,
+      "total_stars": 436,
       "language": "Go",
-      "description": "Star etcd-io / etcd Distributed reliable key-value store for the most critical data of a distributed system"
-    },
-    {
-      "repo": "mpv-player/mpv",
-      "url": "https://github.com/mpv-player/mpv",
-      "stars_today": 37,
-      "total_stars": 37965,
-      "language": "C",
-      "description": "Star mpv-player / mpv 🎥 Command line media player"
-    },
-    {
-      "repo": "openssl/openssl",
-      "url": "https://github.com/openssl/openssl",
-      "stars_today": 26,
-      "total_stars": 31359,
-      "language": "C",
-      "description": "Sponsor Star openssl / openssl General purpose TLS and crypto library"
+      "description": "Star dsx-ai-factory / nvke NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal."
     }
   ]
 }
