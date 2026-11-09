@@ -1,80 +1,96 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-11-09T14:51:03.877028+08:00",
-  "count": 9,
+  "generated_at": "2026-11-10T01:38:56.689909+08:00",
+  "count": 11,
   "items": [
     {
       "repo": "sherlock-project/sherlock",
       "url": "https://github.com/sherlock-project/sherlock",
-      "stars_today": 2373,
-      "total_stars": 104782,
+      "stars_today": 4294,
+      "total_stars": 106569,
       "language": "Python",
       "description": "Star sherlock-project / sherlock Hunt down social media accounts by username across social networks"
     },
     {
-      "repo": "milind-soni/OpenMausBot",
-      "url": "https://github.com/milind-soni/OpenMausBot",
-      "stars_today": 1439,
-      "total_stars": 18767,
-      "language": "TypeScript",
-      "description": "Sponsor Star milind-soni / OpenMausBot Open-source Grok Bot alternative with a virtual machine that bots can use"
-    },
-    {
       "repo": "meta/astryx",
       "url": "https://github.com/meta/astryx",
-      "stars_today": 875,
-      "total_stars": 17661,
+      "stars_today": 3324,
+      "total_stars": 19236,
       "language": "TypeScript",
       "description": "Star meta / astryx An open source design system that's fully customizable and agent ready"
     },
     {
-      "repo": "vercel-labs/agent-browser",
-      "url": "https://github.com/vercel-labs/agent-browser",
-      "stars_today": 815,
-      "total_stars": 47892,
-      "language": "Rust",
-      "description": "Star vercel-labs / agent-browser Browser automation CLI for AI agents"
+      "repo": "milind-soni/OpenMausBot",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "stars_today": 1589,
+      "total_stars": 19465,
+      "language": "TypeScript",
+      "description": "Sponsor Star milind-soni / OpenMausBot Open-source Grok Bot alternative with a virtual machine that bots can use"
     },
     {
       "repo": "anthropics/skills",
       "url": "https://github.com/anthropics/skills",
-      "stars_today": 792,
-      "total_stars": 189929,
+      "stars_today": 1052,
+      "total_stars": 190581,
       "language": "Python",
       "description": "Star anthropics / skills Public repository for Agent Skills"
     },
     {
-      "repo": "ranxianglei/billion-context",
-      "url": "https://github.com/ranxianglei/billion-context",
-      "stars_today": 460,
-      "total_stars": 5393,
-      "language": "TypeScript",
-      "description": "Star ranxianglei / billion-context A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need"
-    },
-    {
-      "repo": "dsx-ai-factory/nvke",
-      "url": "https://github.com/dsx-ai-factory/nvke",
-      "stars_today": 345,
-      "total_stars": 940,
-      "language": "Go",
-      "description": "Star dsx-ai-factory / nvke NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal."
+      "repo": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "stars_today": 914,
+      "total_stars": 48296,
+      "language": "Rust",
+      "description": "Star vercel-labs / agent-browser Browser automation CLI for AI agents"
     },
     {
       "repo": "google-deepmind/mujoco",
       "url": "https://github.com/google-deepmind/mujoco",
-      "stars_today": 41,
-      "total_stars": 16578,
+      "stars_today": 579,
+      "total_stars": 16813,
       "language": "C++",
       "description": "Star google-deepmind / mujoco Multi-Joint dynamics with Contact. A general purpose physics simulator."
     },
     {
       "repo": "anthropics/claude-quickstarts",
       "url": "https://github.com/anthropics/claude-quickstarts",
-      "stars_today": 32,
-      "total_stars": 19600,
+      "stars_today": 560,
+      "total_stars": 19880,
       "language": "Python",
       "description": "Star anthropics / claude-quickstarts A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API"
+    },
+    {
+      "repo": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "stars_today": 505,
+      "total_stars": 68661,
+      "language": "Python",
+      "description": "Star ZhuLinsen / daily_stock_analysis LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs."
+    },
+    {
+      "repo": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "stars_today": 245,
+      "total_stars": 103301,
+      "language": "Rust",
+      "description": "Star ruvnet / RuView π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video."
+    },
+    {
+      "repo": "garrytan/gbrain",
+      "url": "https://github.com/garrytan/gbrain",
+      "stars_today": 215,
+      "total_stars": 32005,
+      "language": "TypeScript",
+      "description": "Star garrytan / gbrain Garry's Opinionated OpenClaw/Hermes Agent Brain"
+    },
+    {
+      "repo": "homeassistant-ai/ha-mcp",
+      "url": "https://github.com/homeassistant-ai/ha-mcp",
+      "stars_today": 31,
+      "total_stars": 5740,
+      "language": "Python",
+      "description": "Star homeassistant-ai / ha-mcp Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants."
     }
   ]
 }
