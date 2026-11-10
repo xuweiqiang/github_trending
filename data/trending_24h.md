@@ -1,17 +1,18 @@
 # GitHub 24h Star 增长榜
 
-- 生成时间: 2026-11-10 18:00:11 +0800
+- 生成时间: 2026-11-11 01:57:18 +0800
 
 | 排名 | 项目 | 24h 增长 | 总 Stars | 链接 |
 |---:|---|---:|---:|---|
-| 1 | `sherlock-project/sherlock` | 4267 | 108041 | [跳转](https://github.com/sherlock-project/sherlock) |
-| 2 | `meta/astryx` | 3278 | 21188 | [跳转](https://github.com/meta/astryx) |
-| 3 | `milind-soni/OpenMausBot` | 1587 | 20259 | [跳转](https://github.com/milind-soni/OpenMausBot) |
-| 4 | `anthropics/skills` | 1038 | 191620 | [跳转](https://github.com/anthropics/skills) |
-| 5 | `vercel-labs/agent-browser` | 916 | 48831 | [跳转](https://github.com/vercel-labs/agent-browser) |
-| 6 | `google-deepmind/mujoco` | 574 | 17133 | [跳转](https://github.com/google-deepmind/mujoco) |
-| 7 | `anthropics/claude-quickstarts` | 551 | 20214 | [跳转](https://github.com/anthropics/claude-quickstarts) |
-| 8 | `ZhuLinsen/daily_stock_analysis` | 506 | 69411 | [跳转](https://github.com/ZhuLinsen/daily_stock_analysis) |
-| 9 | `garrytan/gbrain` | 216 | 32375 | [跳转](https://github.com/garrytan/gbrain) |
-| 10 | `ruvnet/RuView` | 172 | 103755 | [跳转](https://github.com/ruvnet/RuView) |
-| 11 | `homeassistant-ai/ha-mcp` | 31 | 6283 | [跳转](https://github.com/homeassistant-ai/ha-mcp) |
+| 1 | `meta/astryx` | 3111 | 22229 | [跳转](https://github.com/meta/astryx) |
+| 2 | `sherlock-project/sherlock` | 2387 | 108662 | [跳转](https://github.com/sherlock-project/sherlock) |
+| 3 | `anthropics/skills` | 1676 | 192049 | [跳转](https://github.com/anthropics/skills) |
+| 4 | `mattpocock/skills` | 1223 | 320654 | [跳转](https://github.com/mattpocock/skills) |
+| 5 | `homeassistant-ai/ha-mcp` | 792 | 6472 | [跳转](https://github.com/homeassistant-ai/ha-mcp) |
+| 6 | `vercel-labs/agent-browser` | 775 | 49049 | [跳转](https://github.com/vercel-labs/agent-browser) |
+| 7 | `anthropics/claude-quickstarts` | 530 | 20372 | [跳转](https://github.com/anthropics/claude-quickstarts) |
+| 8 | `addyosmani/agent-skills` | 465 | 114972 | [跳转](https://github.com/addyosmani/agent-skills) |
+| 9 | `google-deepmind/mujoco` | 453 | 17257 | [跳转](https://github.com/google-deepmind/mujoco) |
+| 10 | `ranxianglei/billion-context` | 374 | 6138 | [跳转](https://github.com/ranxianglei/billion-context) |
+| 11 | `tokio-rs/topcoat` | 192 | 6689 | [跳转](https://github.com/tokio-rs/topcoat) |
+| 12 | `we-promise/sure` | 184 | 11692 | [跳转](https://github.com/we-promise/sure) |

@@ -1,96 +1,104 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-11-10T18:00:11.798632+08:00",
-  "count": 11,
+  "generated_at": "2026-11-11T01:57:18.280800+08:00",
+  "count": 12,
   "items": [
-    {
-      "repo": "sherlock-project/sherlock",
-      "url": "https://github.com/sherlock-project/sherlock",
-      "stars_today": 4267,
-      "total_stars": 108041,
-      "language": "Python",
-      "description": "Star sherlock-project / sherlock Hunt down social media accounts by username across social networks"
-    },
     {
       "repo": "meta/astryx",
       "url": "https://github.com/meta/astryx",
-      "stars_today": 3278,
-      "total_stars": 21188,
+      "stars_today": 3111,
+      "total_stars": 22229,
       "language": "TypeScript",
       "description": "Star meta / astryx An open source design system that's fully customizable and agent ready"
     },
     {
-      "repo": "milind-soni/OpenMausBot",
-      "url": "https://github.com/milind-soni/OpenMausBot",
-      "stars_today": 1587,
-      "total_stars": 20259,
-      "language": "TypeScript",
-      "description": "Sponsor Star milind-soni / OpenMausBot Open-source Grok Bot alternative with a virtual machine that bots can use"
+      "repo": "sherlock-project/sherlock",
+      "url": "https://github.com/sherlock-project/sherlock",
+      "stars_today": 2387,
+      "total_stars": 108662,
+      "language": "Python",
+      "description": "Star sherlock-project / sherlock Hunt down social media accounts by username across social networks"
     },
     {
       "repo": "anthropics/skills",
       "url": "https://github.com/anthropics/skills",
-      "stars_today": 1038,
-      "total_stars": 191620,
+      "stars_today": 1676,
+      "total_stars": 192049,
       "language": "Python",
       "description": "Star anthropics / skills Public repository for Agent Skills"
     },
     {
-      "repo": "vercel-labs/agent-browser",
-      "url": "https://github.com/vercel-labs/agent-browser",
-      "stars_today": 916,
-      "total_stars": 48831,
-      "language": "Rust",
-      "description": "Star vercel-labs / agent-browser Browser automation CLI for AI agents"
-    },
-    {
-      "repo": "google-deepmind/mujoco",
-      "url": "https://github.com/google-deepmind/mujoco",
-      "stars_today": 574,
-      "total_stars": 17133,
-      "language": "C++",
-      "description": "Star google-deepmind / mujoco Multi-Joint dynamics with Contact. A general purpose physics simulator."
-    },
-    {
-      "repo": "anthropics/claude-quickstarts",
-      "url": "https://github.com/anthropics/claude-quickstarts",
-      "stars_today": 551,
-      "total_stars": 20214,
-      "language": "Python",
-      "description": "Star anthropics / claude-quickstarts A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API"
-    },
-    {
-      "repo": "ZhuLinsen/daily_stock_analysis",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "stars_today": 506,
-      "total_stars": 69411,
-      "language": "Python",
-      "description": "Star ZhuLinsen / daily_stock_analysis LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs."
-    },
-    {
-      "repo": "garrytan/gbrain",
-      "url": "https://github.com/garrytan/gbrain",
-      "stars_today": 216,
-      "total_stars": 32375,
-      "language": "TypeScript",
-      "description": "Star garrytan / gbrain Garry's Opinionated OpenClaw/Hermes Agent Brain"
-    },
-    {
-      "repo": "ruvnet/RuView",
-      "url": "https://github.com/ruvnet/RuView",
-      "stars_today": 172,
-      "total_stars": 103755,
-      "language": "Rust",
-      "description": "Star ruvnet / RuView π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video."
+      "repo": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "stars_today": 1223,
+      "total_stars": 320654,
+      "language": "Shell",
+      "description": "Sponsor Star mattpocock / skills Skills for Real Engineers. Straight from my .agents directory."
     },
     {
       "repo": "homeassistant-ai/ha-mcp",
       "url": "https://github.com/homeassistant-ai/ha-mcp",
-      "stars_today": 31,
-      "total_stars": 6283,
+      "stars_today": 792,
+      "total_stars": 6472,
       "language": "Python",
       "description": "Star homeassistant-ai / ha-mcp Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants."
+    },
+    {
+      "repo": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "stars_today": 775,
+      "total_stars": 49049,
+      "language": "Rust",
+      "description": "Star vercel-labs / agent-browser Browser automation CLI for AI agents"
+    },
+    {
+      "repo": "anthropics/claude-quickstarts",
+      "url": "https://github.com/anthropics/claude-quickstarts",
+      "stars_today": 530,
+      "total_stars": 20372,
+      "language": "Python",
+      "description": "Star anthropics / claude-quickstarts A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API"
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "stars_today": 465,
+      "total_stars": 114972,
+      "language": "JavaScript",
+      "description": "Star addyosmani / agent-skills Production-grade engineering skills for AI coding agents."
+    },
+    {
+      "repo": "google-deepmind/mujoco",
+      "url": "https://github.com/google-deepmind/mujoco",
+      "stars_today": 453,
+      "total_stars": 17257,
+      "language": "C++",
+      "description": "Star google-deepmind / mujoco Multi-Joint dynamics with Contact. A general purpose physics simulator."
+    },
+    {
+      "repo": "ranxianglei/billion-context",
+      "url": "https://github.com/ranxianglei/billion-context",
+      "stars_today": 374,
+      "total_stars": 6138,
+      "language": "TypeScript",
+      "description": "Star ranxianglei / billion-context A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need"
+    },
+    {
+      "repo": "tokio-rs/topcoat",
+      "url": "https://github.com/tokio-rs/topcoat",
+      "stars_today": 192,
+      "total_stars": 6689,
+      "language": "Rust",
+      "description": "Sponsor Star tokio-rs / topcoat A batteries-included framework for building web apps"
+    },
+    {
+      "repo": "we-promise/sure",
+      "url": "https://github.com/we-promise/sure",
+      "stars_today": 184,
+      "total_stars": 11692,
+      "language": "Ruby",
+      "description": "Star we-promise / sure The personal finance app for everyone (by everyone)"
     }
   ]
 }
