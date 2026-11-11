@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-11-11T23:24:53.248061+08:00",
+  "generated_at": "2026-11-12T06:48:23.085308+08:00",
   "count": 10,
   "items": [
     {
       "repo": "meta/astryx",
       "url": "https://github.com/meta/astryx",
       "stars_today": 2842,
-      "total_stars": 24419,
+      "total_stars": 24846,
       "language": "TypeScript",
       "description": "Star meta / astryx An open source design system that's fully customizable and agent ready"
     },
@@ -16,7 +16,7 @@
       "repo": "we-promise/sure",
       "url": "https://github.com/we-promise/sure",
       "stars_today": 1079,
-      "total_stars": 12634,
+      "total_stars": 12890,
       "language": "Ruby",
       "description": "Star we-promise / sure The personal finance app for everyone (by everyone)"
     },
@@ -24,7 +24,7 @@
       "repo": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "stars_today": 788,
-      "total_stars": 115662,
+      "total_stars": 115887,
       "language": "JavaScript",
       "description": "Star addyosmani / agent-skills Production-grade engineering skills for AI coding agents."
     },
@@ -32,7 +32,7 @@
       "repo": "vercel-labs/agent-browser",
       "url": "https://github.com/vercel-labs/agent-browser",
       "stars_today": 712,
-      "total_stars": 49670,
+      "total_stars": 49822,
       "language": "Rust",
       "description": "Star vercel-labs / agent-browser Browser automation CLI for AI agents"
     },
@@ -40,7 +40,7 @@
       "repo": "homeassistant-ai/ha-mcp",
       "url": "https://github.com/homeassistant-ai/ha-mcp",
       "stars_today": 640,
-      "total_stars": 7065,
+      "total_stars": 7307,
       "language": "Python",
       "description": "Star homeassistant-ai / ha-mcp Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants."
     },
@@ -48,7 +48,7 @@
       "repo": "ZhuLinsen/daily_stock_analysis",
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "stars_today": 429,
-      "total_stars": 69931,
+      "total_stars": 70158,
       "language": "Python",
       "description": "Star ZhuLinsen / daily_stock_analysis LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs."
     },
@@ -56,7 +56,7 @@
       "repo": "shadcn/improve",
       "url": "https://github.com/shadcn/improve",
       "stars_today": 333,
-      "total_stars": 10549,
+      "total_stars": 10804,
       "language": "",
       "description": "Sponsor Star shadcn / improve Use your most capable model to audit your codebase and write plans for cheaper models to execute."
     },
@@ -64,15 +64,15 @@
       "repo": "GoogleChrome/modern-web-guidance-src",
       "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
       "stars_today": 133,
-      "total_stars": 1518,
+      "total_stars": 1696,
       "language": "TypeScript",
       "description": ""
     },
     {
       "repo": "TheAlgorithms/Java",
       "url": "https://github.com/TheAlgorithms/Java",
-      "stars_today": 39,
-      "total_stars": 66909,
+      "stars_today": 108,
+      "total_stars": 66990,
       "language": "Java",
       "description": "Star TheAlgorithms / Java All Algorithms implemented in Java"
     },
@@ -80,7 +80,7 @@
       "repo": "openai/codex-security",
       "url": "https://github.com/openai/codex-security",
       "stars_today": 20,
-      "total_stars": 11493,
+      "total_stars": 11670,
       "language": "TypeScript",
       "description": "Star openai / codex-security OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security"
     }
