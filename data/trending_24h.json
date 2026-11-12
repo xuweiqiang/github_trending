@@ -1,88 +1,112 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-11-12T11:54:18.938251+08:00",
-  "count": 10,
+  "generated_at": "2026-11-12T20:55:31.079998+08:00",
+  "count": 13,
   "items": [
     {
       "repo": "meta/astryx",
       "url": "https://github.com/meta/astryx",
-      "stars_today": 2776,
-      "total_stars": 25263,
+      "stars_today": 1789,
+      "total_stars": 25957,
       "language": "TypeScript",
       "description": "Star meta / astryx An open source design system that's fully customizable and agent ready"
     },
     {
       "repo": "we-promise/sure",
       "url": "https://github.com/we-promise/sure",
-      "stars_today": 1078,
-      "total_stars": 13079,
+      "stars_today": 974,
+      "total_stars": 13495,
       "language": "Ruby",
       "description": "Star we-promise / sure The personal finance app for everyone (by everyone)"
     },
     {
       "repo": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
-      "stars_today": 787,
-      "total_stars": 116057,
+      "stars_today": 812,
+      "total_stars": 116355,
       "language": "JavaScript",
       "description": "Star addyosmani / agent-skills Production-grade engineering skills for AI coding agents."
     },
     {
-      "repo": "vercel-labs/agent-browser",
-      "url": "https://github.com/vercel-labs/agent-browser",
-      "stars_today": 708,
-      "total_stars": 49968,
-      "language": "Rust",
-      "description": "Star vercel-labs / agent-browser Browser automation CLI for AI agents"
-    },
-    {
-      "repo": "homeassistant-ai/ha-mcp",
-      "url": "https://github.com/homeassistant-ai/ha-mcp",
-      "stars_today": 645,
-      "total_stars": 7452,
-      "language": "Python",
-      "description": "Star homeassistant-ai / ha-mcp Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants."
-    },
-    {
-      "repo": "shadcn/improve",
-      "url": "https://github.com/shadcn/improve",
-      "stars_today": 361,
-      "total_stars": 11035,
-      "language": "",
-      "description": "Sponsor Star shadcn / improve Use your most capable model to audit your codebase and write plans for cheaper models to execute."
-    },
-    {
-      "repo": "ZhuLinsen/daily_stock_analysis",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "stars_today": 278,
-      "total_stars": 70472,
-      "language": "Python",
-      "description": "Star ZhuLinsen / daily_stock_analysis LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs."
-    },
-    {
       "repo": "GoogleChrome/modern-web-guidance-src",
       "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
-      "stars_today": 159,
-      "total_stars": 1897,
+      "stars_today": 799,
+      "total_stars": 2266,
       "language": "TypeScript",
       "description": ""
     },
     {
       "repo": "openai/codex-security",
       "url": "https://github.com/openai/codex-security",
-      "stars_today": 52,
-      "total_stars": 11841,
+      "stars_today": 663,
+      "total_stars": 12096,
       "language": "TypeScript",
       "description": "Star openai / codex-security OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security"
     },
     {
-      "repo": "TheAlgorithms/Java",
-      "url": "https://github.com/TheAlgorithms/Java",
-      "stars_today": 51,
-      "total_stars": 67089,
-      "language": "Java",
-      "description": "Star TheAlgorithms / Java All Algorithms implemented in Java"
+      "repo": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "stars_today": 636,
+      "total_stars": 68887,
+      "language": "Python",
+      "description": "Star Alishahryar1 / free-claude-code Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)"
+    },
+    {
+      "repo": "pookjw/HermesEnabler",
+      "url": "https://github.com/pookjw/HermesEnabler",
+      "stars_today": 390,
+      "total_stars": 1355,
+      "language": "Objective-C",
+      "description": "Star pookjw / HermesEnabler Enable Hermès Watch Faces on any Apple Watch devices"
+    },
+    {
+      "repo": "CopilotKit/OpenBot",
+      "url": "https://github.com/CopilotKit/OpenBot",
+      "stars_today": 291,
+      "total_stars": 11244,
+      "language": "TypeScript",
+      "description": "Star CopilotKit / OpenBot Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent."
+    },
+    {
+      "repo": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "stars_today": 162,
+      "total_stars": 134271,
+      "language": "C++",
+      "description": "Star ggml-org / llama.cpp LLM inference in C/C++"
+    },
+    {
+      "repo": "QwenLM/qwen-code",
+      "url": "https://github.com/QwenLM/qwen-code",
+      "stars_today": 151,
+      "total_stars": 29571,
+      "language": "TypeScript",
+      "description": "Star QwenLM / qwen-code An open-source AI coding agent that lives in your terminal."
+    },
+    {
+      "repo": "nodejs/node",
+      "url": "https://github.com/nodejs/node",
+      "stars_today": 133,
+      "total_stars": 123506,
+      "language": "JavaScript",
+      "description": "Sponsor Star nodejs / node Node.js JavaScript runtime ✨🐢🚀✨"
+    },
+    {
+      "repo": "nvm-sh/nvm",
+      "url": "https://github.com/nvm-sh/nvm",
+      "stars_today": 79,
+      "total_stars": 95929,
+      "language": "Shell",
+      "description": "Star nvm-sh / nvm Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions."
+    },
+    {
+      "repo": "ashhart/TensorFold",
+      "url": "https://github.com/ashhart/TensorFold",
+      "stars_today": 58,
+      "total_stars": 1834,
+      "language": "Zig",
+      "description": "Sponsor Star ashhart / TensorFold LLM Inference Engine for Metal, CUDA and Vulkan."
     }
   ]
 }
