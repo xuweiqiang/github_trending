@@ -1,112 +1,104 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-11-13T17:42:51.105758+08:00",
-  "count": 13,
+  "generated_at": "2026-11-14T01:52:01.525562+08:00",
+  "count": 12,
   "items": [
-    {
-      "repo": "meta/astryx",
-      "url": "https://github.com/meta/astryx",
-      "stars_today": 1830,
-      "total_stars": 27028,
-      "language": "TypeScript",
-      "description": "Star meta / astryx An open source design system that's fully customizable and agent ready"
-    },
-    {
-      "repo": "we-promise/sure",
-      "url": "https://github.com/we-promise/sure",
-      "stars_today": 967,
-      "total_stars": 14280,
-      "language": "Ruby",
-      "description": "Star we-promise / sure The personal finance app for everyone (by everyone)"
-    },
-    {
-      "repo": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "stars_today": 816,
-      "total_stars": 116938,
-      "language": "JavaScript",
-      "description": "Star addyosmani / agent-skills Production-grade engineering skills for AI coding agents."
-    },
     {
       "repo": "GoogleChrome/modern-web-guidance-src",
       "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
-      "stars_today": 739,
-      "total_stars": 3923,
+      "stars_today": 1875,
+      "total_stars": 4514,
       "language": "TypeScript",
       "description": "Star GoogleChrome / modern-web-guidance-src Keep your coding agent up to date with the latest web best practices"
     },
     {
+      "repo": "we-promise/sure",
+      "url": "https://github.com/we-promise/sure",
+      "stars_today": 944,
+      "total_stars": 14547,
+      "language": "Ruby",
+      "description": "Star we-promise / sure The personal finance app for everyone (by everyone)"
+    },
+    {
       "repo": "openai/codex-security",
       "url": "https://github.com/openai/codex-security",
-      "stars_today": 643,
-      "total_stars": 12748,
+      "stars_today": 754,
+      "total_stars": 12977,
       "language": "TypeScript",
       "description": "Star openai / codex-security OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security"
     },
     {
-      "repo": "Alishahryar1/free-claude-code",
-      "url": "https://github.com/Alishahryar1/free-claude-code",
-      "stars_today": 415,
-      "total_stars": 69649,
+      "repo": "tailscale/tailcat",
+      "url": "https://github.com/tailscale/tailcat",
+      "stars_today": 324,
+      "total_stars": 9329,
+      "language": "Go",
+      "description": "Star tailscale / tailcat like netcat, but over Tailscale's data plane, without Tailscale's control plane"
+    },
+    {
+      "repo": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "stars_today": 272,
+      "total_stars": 71439,
       "language": "Python",
-      "description": "Star Alishahryar1 / free-claude-code Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)"
+      "description": "Sponsor Star ZhuLinsen / daily_stock_analysis LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs."
     },
     {
-      "repo": "CopilotKit/OpenBot",
-      "url": "https://github.com/CopilotKit/OpenBot",
-      "stars_today": 298,
-      "total_stars": 11942,
-      "language": "TypeScript",
-      "description": "Star CopilotKit / OpenBot Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent."
-    },
-    {
-      "repo": "pookjw/HermesEnabler",
-      "url": "https://github.com/pookjw/HermesEnabler",
-      "stars_today": 218,
-      "total_stars": 1681,
-      "language": "Objective-C",
-      "description": "Star pookjw / HermesEnabler Enable Hermès Watch Faces on any Apple Watch devices"
-    },
-    {
-      "repo": "ggml-org/llama.cpp",
-      "url": "https://github.com/ggml-org/llama.cpp",
-      "stars_today": 176,
-      "total_stars": 134783,
+      "repo": "Likely7/Veyra-NRVideo",
+      "url": "https://github.com/Likely7/Veyra-NRVideo",
+      "stars_today": 245,
+      "total_stars": 1521,
       "language": "C++",
-      "description": "Star ggml-org / llama.cpp LLM inference in C/C++"
+      "description": "Star Likely7 / Veyra-NRVideo Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience."
     },
     {
-      "repo": "QwenLM/qwen-code",
-      "url": "https://github.com/QwenLM/qwen-code",
-      "stars_today": 151,
-      "total_stars": 30054,
+      "repo": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "stars_today": 206,
+      "total_stars": 50401,
+      "language": "Go",
+      "description": "Star alibaba / open-code-review Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible."
+    },
+    {
+      "repo": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "stars_today": 145,
+      "total_stars": 55340,
       "language": "TypeScript",
-      "description": "Star QwenLM / qwen-code An open-source AI coding agent that lives in your terminal."
+      "description": "Star ChromeDevTools / chrome-devtools-mcp Chrome DevTools for coding agents"
     },
     {
-      "repo": "nvm-sh/nvm",
-      "url": "https://github.com/nvm-sh/nvm",
-      "stars_today": 63,
-      "total_stars": 96089,
-      "language": "Shell",
-      "description": "Star nvm-sh / nvm Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions."
+      "repo": "backnotprop/plannotator",
+      "url": "https://github.com/backnotprop/plannotator",
+      "stars_today": 100,
+      "total_stars": 10358,
+      "language": "TypeScript",
+      "description": "Star backnotprop / plannotator The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click."
     },
     {
-      "repo": "nodejs/node",
-      "url": "https://github.com/nodejs/node",
-      "stars_today": 62,
-      "total_stars": 123682,
+      "repo": "block/buzz",
+      "url": "https://github.com/block/buzz",
+      "stars_today": 95,
+      "total_stars": 37242,
+      "language": "Rust",
+      "description": "Star block / buzz A hive mind communication platform"
+    },
+    {
+      "repo": "louislam/uptime-kuma",
+      "url": "https://github.com/louislam/uptime-kuma",
+      "stars_today": 61,
+      "total_stars": 93745,
       "language": "JavaScript",
-      "description": "Sponsor Star nodejs / node Node.js JavaScript runtime ✨🐢🚀✨"
+      "description": "Sponsor Star louislam / uptime-kuma A fancy self-hosted monitoring tool"
     },
     {
-      "repo": "ashhart/TensorFold",
-      "url": "https://github.com/ashhart/TensorFold",
-      "stars_today": 54,
-      "total_stars": 2041,
-      "language": "Zig",
-      "description": "Sponsor Star ashhart / TensorFold LLM Inference Engine for Metal, CUDA and Vulkan."
+      "repo": "tradermonty/claude-trading-skills",
+      "url": "https://github.com/tradermonty/claude-trading-skills",
+      "stars_today": 60,
+      "total_stars": 4020,
+      "language": "Python",
+      "description": "Star tradermonty / claude-trading-skills Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development."
     }
   ]
 }
