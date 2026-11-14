@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-11-14T22:17:10.713844+08:00",
+  "generated_at": "2026-11-15T03:14:59.468852+08:00",
   "count": 15,
   "items": [
     {
       "repo": "GoogleChrome/modern-web-guidance-src",
       "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
       "stars_today": 1225,
-      "total_stars": 5463,
+      "total_stars": 5753,
       "language": "TypeScript",
       "description": "Star GoogleChrome / modern-web-guidance-src Keep your coding agent up to date with the latest web best practices"
     },
@@ -16,7 +16,7 @@
       "repo": "alibaba/open-code-review",
       "url": "https://github.com/alibaba/open-code-review",
       "stars_today": 897,
-      "total_stars": 51135,
+      "total_stars": 51300,
       "language": "Go",
       "description": "Star alibaba / open-code-review Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible."
     },
@@ -24,7 +24,7 @@
       "repo": "ChromeDevTools/chrome-devtools-mcp",
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "stars_today": 673,
-      "total_stars": 56004,
+      "total_stars": 56191,
       "language": "TypeScript",
       "description": "Star ChromeDevTools / chrome-devtools-mcp Chrome DevTools for coding agents"
     },
@@ -32,7 +32,7 @@
       "repo": "we-promise/sure",
       "url": "https://github.com/we-promise/sure",
       "stars_today": 659,
-      "total_stars": 15065,
+      "total_stars": 15186,
       "language": "Ruby",
       "description": "Star we-promise / sure The personal finance app for everyone (by everyone)"
     },
@@ -40,7 +40,7 @@
       "repo": "tradermonty/claude-trading-skills",
       "url": "https://github.com/tradermonty/claude-trading-skills",
       "stars_today": 556,
-      "total_stars": 4477,
+      "total_stars": 4657,
       "language": "Python",
       "description": "Star tradermonty / claude-trading-skills Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development."
     },
@@ -48,23 +48,15 @@
       "repo": "dream-num/univer",
       "url": "https://github.com/dream-num/univer",
       "stars_today": 495,
-      "total_stars": 24252,
+      "total_stars": 24378,
       "language": "TypeScript",
       "description": "Star dream-num / univer Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core."
-    },
-    {
-      "repo": "QwenLM/qwen-code",
-      "url": "https://github.com/QwenLM/qwen-code",
-      "stars_today": 462,
-      "total_stars": 30161,
-      "language": "TypeScript",
-      "description": "Star QwenLM / qwen-code An open-source AI coding agent that lives in your terminal."
     },
     {
       "repo": "louislam/uptime-kuma",
       "url": "https://github.com/louislam/uptime-kuma",
       "stars_today": 432,
-      "total_stars": 94078,
+      "total_stars": 94164,
       "language": "JavaScript",
       "description": "Sponsor Star louislam / uptime-kuma A fancy self-hosted monitoring tool"
     },
@@ -72,7 +64,7 @@
       "repo": "Likely7/Veyra-NRVideo",
       "url": "https://github.com/Likely7/Veyra-NRVideo",
       "stars_today": 423,
-      "total_stars": 1882,
+      "total_stars": 2059,
       "language": "C++",
       "description": "Star Likely7 / Veyra-NRVideo Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience."
     },
@@ -80,7 +72,7 @@
       "repo": "backnotprop/plannotator",
       "url": "https://github.com/backnotprop/plannotator",
       "stars_today": 412,
-      "total_stars": 10732,
+      "total_stars": 10938,
       "language": "TypeScript",
       "description": "Star backnotprop / plannotator The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click."
     },
@@ -88,7 +80,7 @@
       "repo": "martin-olivier/airgorah",
       "url": "https://github.com/martin-olivier/airgorah",
       "stars_today": 269,
-      "total_stars": 5512,
+      "total_stars": 5706,
       "language": "Rust",
       "description": "Star martin-olivier / airgorah A WiFi security auditing software"
     },
@@ -96,31 +88,39 @@
       "repo": "JuliusBrussee/caveman",
       "url": "https://github.com/JuliusBrussee/caveman",
       "stars_today": 227,
-      "total_stars": 119831,
+      "total_stars": 119958,
       "language": "Go",
       "description": "Sponsor Star JuliusBrussee / caveman 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman."
     },
     {
-      "repo": "ashhart/TensorFold",
-      "url": "https://github.com/ashhart/TensorFold",
-      "stars_today": 188,
-      "total_stars": 2091,
-      "language": "Zig",
-      "description": "Sponsor Star ashhart / TensorFold LLM Inference Engine for Metal, CUDA and Vulkan."
+      "repo": "QwenLM/qwen-code",
+      "url": "https://github.com/QwenLM/qwen-code",
+      "stars_today": 116,
+      "total_stars": 30258,
+      "language": "TypeScript",
+      "description": "Star QwenLM / qwen-code An open-source AI coding agent that lives in your terminal."
     },
     {
       "repo": "Tencent/LoopForge",
       "url": "https://github.com/Tencent/LoopForge",
-      "stars_today": 174,
-      "total_stars": 720,
+      "stars_today": 101,
+      "total_stars": 817,
       "language": "Go",
       "description": "Star Tencent / LoopForge Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants."
+    },
+    {
+      "repo": "ashhart/TensorFold",
+      "url": "https://github.com/ashhart/TensorFold",
+      "stars_today": 53,
+      "total_stars": 2129,
+      "language": "Zig",
+      "description": "Sponsor Star ashhart / TensorFold LLM Inference Engine for Metal, CUDA and Vulkan."
     },
     {
       "repo": "ag-ui-protocol/ag-ui",
       "url": "https://github.com/ag-ui-protocol/ag-ui",
       "stars_today": 9,
-      "total_stars": 17203,
+      "total_stars": 17283,
       "language": "TypeScript",
       "description": "Star ag-ui-protocol / ag-ui AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications."
     }
