@@ -1,38 +1,38 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-11-15T19:13:08.219512+08:00",
-  "count": 15,
+  "generated_at": "2026-11-16T01:50:20.003913+08:00",
+  "count": 12,
   "items": [
     {
       "repo": "GoogleChrome/modern-web-guidance-src",
       "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
       "stars_today": 1220,
-      "total_stars": 6494,
+      "total_stars": 6920,
       "language": "TypeScript",
       "description": "Star GoogleChrome / modern-web-guidance-src Keep your coding agent up to date with the latest web best practices"
+    },
+    {
+      "repo": "dream-num/univer",
+      "url": "https://github.com/dream-num/univer",
+      "stars_today": 1041,
+      "total_stars": 25414,
+      "language": "TypeScript",
+      "description": "Star dream-num / univer Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core."
     },
     {
       "repo": "backnotprop/plannotator",
       "url": "https://github.com/backnotprop/plannotator",
       "stars_today": 860,
-      "total_stars": 11503,
+      "total_stars": 11705,
       "language": "TypeScript",
       "description": "Star backnotprop / plannotator The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click."
-    },
-    {
-      "repo": "Likely7/Veyra-NRVideo",
-      "url": "https://github.com/Likely7/Veyra-NRVideo",
-      "stars_today": 731,
-      "total_stars": 2539,
-      "language": "C++",
-      "description": "Star Likely7 / Veyra-NRVideo Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience."
     },
     {
       "repo": "ChromeDevTools/chrome-devtools-mcp",
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "stars_today": 718,
-      "total_stars": 56561,
+      "total_stars": 56779,
       "language": "TypeScript",
       "description": "Star ChromeDevTools / chrome-devtools-mcp Chrome DevTools for coding agents"
     },
@@ -40,7 +40,7 @@
       "repo": "tradermonty/claude-trading-skills",
       "url": "https://github.com/tradermonty/claude-trading-skills",
       "stars_today": 707,
-      "total_stars": 5106,
+      "total_stars": 5338,
       "language": "Python",
       "description": "Star tradermonty / claude-trading-skills Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development."
     },
@@ -48,81 +48,57 @@
       "repo": "alibaba/open-code-review",
       "url": "https://github.com/alibaba/open-code-review",
       "stars_today": 688,
-      "total_stars": 51671,
+      "total_stars": 51868,
       "language": "Go",
       "description": "Star alibaba / open-code-review Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible."
     },
     {
-      "repo": "we-promise/sure",
-      "url": "https://github.com/we-promise/sure",
-      "stars_today": 520,
-      "total_stars": 15500,
-      "language": "Ruby",
-      "description": "Star we-promise / sure The personal finance app for everyone (by everyone)"
-    },
-    {
-      "repo": "dream-num/univer",
-      "url": "https://github.com/dream-num/univer",
-      "stars_today": 495,
-      "total_stars": 25185,
-      "language": "TypeScript",
-      "description": "Star dream-num / univer Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core."
-    },
-    {
-      "repo": "louislam/uptime-kuma",
-      "url": "https://github.com/louislam/uptime-kuma",
-      "stars_today": 352,
-      "total_stars": 94369,
-      "language": "JavaScript",
-      "description": "Sponsor Star louislam / uptime-kuma A fancy self-hosted monitoring tool"
-    },
-    {
-      "repo": "martin-olivier/airgorah",
-      "url": "https://github.com/martin-olivier/airgorah",
-      "stars_today": 270,
-      "total_stars": 6120,
-      "language": "Rust",
-      "description": "Star martin-olivier / airgorah A WiFi security auditing software"
-    },
-    {
-      "repo": "JuliusBrussee/caveman",
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "stars_today": 227,
-      "total_stars": 120281,
-      "language": "Go",
-      "description": "Sponsor Star JuliusBrussee / caveman 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman."
-    },
-    {
-      "repo": "QwenLM/qwen-code",
-      "url": "https://github.com/QwenLM/qwen-code",
-      "stars_today": 64,
-      "total_stars": 30474,
-      "language": "TypeScript",
-      "description": "Star QwenLM / qwen-code An open-source AI coding agent that lives in your terminal."
-    },
-    {
-      "repo": "ashhart/TensorFold",
-      "url": "https://github.com/ashhart/TensorFold",
-      "stars_today": 37,
-      "total_stars": 2221,
-      "language": "Zig",
-      "description": "Sponsor Star ashhart / TensorFold LLM Inference Engine for Metal, CUDA and Vulkan."
-    },
-    {
       "repo": "Tencent/LoopForge",
       "url": "https://github.com/Tencent/LoopForge",
-      "stars_today": 33,
-      "total_stars": 1110,
+      "stars_today": 484,
+      "total_stars": 1331,
       "language": "Go",
       "description": "Star Tencent / LoopForge Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants."
     },
     {
       "repo": "ag-ui-protocol/ag-ui",
       "url": "https://github.com/ag-ui-protocol/ag-ui",
-      "stars_today": 9,
-      "total_stars": 17527,
+      "stars_today": 393,
+      "total_stars": 17688,
       "language": "TypeScript",
       "description": "Star ag-ui-protocol / ag-ui AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications."
+    },
+    {
+      "repo": "google-labs-code/stitch-skills",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "stars_today": 248,
+      "total_stars": 9156,
+      "language": "TypeScript",
+      "description": "Star google-labs-code / stitch-skills A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor."
+    },
+    {
+      "repo": "elementalsouls/Claude-BugHunter",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "stars_today": 221,
+      "total_stars": 6114,
+      "language": "Python",
+      "description": "Sponsor Star elementalsouls / Claude-BugHunter A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices."
+    },
+    {
+      "repo": "NVIDIA/SkillEvaluator",
+      "url": "https://github.com/NVIDIA/SkillEvaluator",
+      "stars_today": 205,
+      "total_stars": 1468,
+      "language": "Python",
+      "description": "Star NVIDIA / SkillEvaluator Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior."
+    },
+    {
+      "repo": "ggml-org/ggml",
+      "url": "https://github.com/ggml-org/ggml",
+      "stars_today": 53,
+      "total_stars": 15846,
+      "language": "C++",
+      "description": "Star ggml-org / ggml Tensor library for machine learning"
     }
   ]
 }
