@@ -1,21 +1,21 @@
 # GitHub 24h Star 增长榜
 
-- 生成时间: 2026-11-17 12:35:51 +0800
+- 生成时间: 2026-11-17 22:39:05 +0800
 
 | 排名 | 项目 | 24h 增长 | 总 Stars | 链接 |
 |---:|---|---:|---:|---|
-| 1 | `dream-num/univer` | 1828 | 27935 | [跳转](https://github.com/dream-num/univer) |
-| 2 | `elementalsouls/Claude-BugHunter` | 1094 | 7594 | [跳转](https://github.com/elementalsouls/Claude-BugHunter) |
-| 3 | `alibaba/open-code-review` | 951 | 53086 | [跳转](https://github.com/alibaba/open-code-review) |
-| 4 | `NVIDIA/SkillEvaluator` | 873 | 2881 | [跳转](https://github.com/NVIDIA/SkillEvaluator) |
-| 5 | `ChromeDevTools/chrome-devtools-mcp` | 841 | 57778 | [跳转](https://github.com/ChromeDevTools/chrome-devtools-mcp) |
-| 6 | `tradermonty/claude-trading-skills` | 837 | 6458 | [跳转](https://github.com/tradermonty/claude-trading-skills) |
-| 7 | `ag-ui-protocol/ag-ui` | 791 | 19277 | [跳转](https://github.com/ag-ui-protocol/ag-ui) |
-| 8 | `backnotprop/plannotator` | 696 | 12698 | [跳转](https://github.com/backnotprop/plannotator) |
-| 9 | `google-labs-code/stitch-skills` | 529 | 9800 | [跳转](https://github.com/google-labs-code/stitch-skills) |
-| 10 | `kajisho5/ffmpeg-skill` | 367 | 7030 | [跳转](https://github.com/kajisho5/ffmpeg-skill) |
-| 11 | `google-research/paper-orchestra` | 313 | 1709 | [跳转](https://github.com/google-research/paper-orchestra) |
-| 12 | `DeanChensj/jiangshan-map` | 288 | 7098 | [跳转](https://github.com/DeanChensj/jiangshan-map) |
-| 13 | `mvanhorn/last30days-skill` | 135 | 68274 | [跳转](https://github.com/mvanhorn/last30days-skill) |
-| 14 | `sveltejs/svelte` | 115 | 89058 | [跳转](https://github.com/sveltejs/svelte) |
-| 15 | `getarcaneapp/arcane` | 46 | 8859 | [跳转](https://github.com/getarcaneapp/arcane) |
+| 1 | `obra/superpowers` | 1905 | 319043 | [跳转](https://github.com/obra/superpowers) |
+| 2 | `dream-num/univer` | 1776 | 28701 | [跳转](https://github.com/dream-num/univer) |
+| 3 | `ag-ui-protocol/ag-ui` | 1444 | 19823 | [跳转](https://github.com/ag-ui-protocol/ag-ui) |
+| 4 | `google-research/paper-orchestra` | 1175 | 2368 | [跳转](https://github.com/google-research/paper-orchestra) |
+| 5 | `elementalsouls/Claude-BugHunter` | 1007 | 8376 | [跳转](https://github.com/elementalsouls/Claude-BugHunter) |
+| 6 | `affaan-m/ECC` | 902 | 305099 | [跳转](https://github.com/affaan-m/ECC) |
+| 7 | `mvanhorn/last30days-skill` | 772 | 68660 | [跳转](https://github.com/mvanhorn/last30days-skill) |
+| 8 | `alibaba/open-code-review` | 764 | 53469 | [跳转](https://github.com/alibaba/open-code-review) |
+| 9 | `backnotprop/plannotator` | 691 | 12919 | [跳转](https://github.com/backnotprop/plannotator) |
+| 10 | `getarcaneapp/arcane` | 654 | 9105 | [跳转](https://github.com/getarcaneapp/arcane) |
+| 11 | `Tencent/LoopForge` | 590 | 2875 | [跳转](https://github.com/Tencent/LoopForge) |
+| 12 | `sveltejs/svelte` | 533 | 89351 | [跳转](https://github.com/sveltejs/svelte) |
+| 13 | `google-labs-code/stitch-skills` | 350 | 9954 | [跳转](https://github.com/google-labs-code/stitch-skills) |
+| 14 | `cursor/plugins` | 196 | 16768 | [跳转](https://github.com/cursor/plugins) |
+| 15 | `jingyaogong/minimind` | 188 | 65720 | [跳转](https://github.com/jingyaogong/minimind) |
