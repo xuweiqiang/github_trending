@@ -1,14 +1,14 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-11-18T22:15:35.638505+08:00",
+  "generated_at": "2026-11-19T06:06:53.606522+08:00",
   "count": 20,
   "items": [
     {
       "repo": "elementalsouls/Claude-BugHunter",
       "url": "https://github.com/elementalsouls/Claude-BugHunter",
       "stars_today": 2322,
-      "total_stars": 10609,
+      "total_stars": 11252,
       "language": "Python",
       "description": "Sponsor Star elementalsouls / Claude-BugHunter A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices."
     },
@@ -16,7 +16,7 @@
       "repo": "google-research/paper-orchestra",
       "url": "https://github.com/google-research/paper-orchestra",
       "stars_today": 1529,
-      "total_stars": 3806,
+      "total_stars": 4204,
       "language": "Python",
       "description": "Star google-research / paper-orchestra PaperOrchestra is a multi-agent framework for automated AI research paper writing."
     },
@@ -24,7 +24,7 @@
       "repo": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "stars_today": 1109,
-      "total_stars": 306135,
+      "total_stars": 306433,
       "language": "JavaScript",
       "description": "Sponsor Star affaan-m / ECC The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
     },
@@ -32,31 +32,15 @@
       "repo": "mvanhorn/last30days-skill",
       "url": "https://github.com/mvanhorn/last30days-skill",
       "stars_today": 1062,
-      "total_stars": 69660,
+      "total_stars": 69928,
       "language": "Python",
       "description": "Star mvanhorn / last30days-skill AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
-    },
-    {
-      "repo": "DeanChensj/jiangshan-map",
-      "url": "https://github.com/DeanChensj/jiangshan-map",
-      "stars_today": 991,
-      "total_stars": 7820,
-      "language": "JavaScript",
-      "description": "Star DeanChensj / jiangshan-map 江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes"
-    },
-    {
-      "repo": "NVIDIA/SkillEvaluator",
-      "url": "https://github.com/NVIDIA/SkillEvaluator",
-      "stars_today": 869,
-      "total_stars": 3502,
-      "language": "Python",
-      "description": "Star NVIDIA / SkillEvaluator Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior."
     },
     {
       "repo": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "stars_today": 823,
-      "total_stars": 319760,
+      "total_stars": 321277,
       "language": "Shell",
       "description": "Sponsor Star obra / superpowers An agentic skills framework & software development methodology that works."
     },
@@ -64,7 +48,7 @@
       "repo": "sveltejs/svelte",
       "url": "https://github.com/sveltejs/svelte",
       "stars_today": 694,
-      "total_stars": 89661,
+      "total_stars": 89696,
       "language": "JavaScript",
       "description": "Sponsor Star sveltejs / svelte web development for the rest of us"
     },
@@ -72,7 +56,7 @@
       "repo": "getarcaneapp/arcane",
       "url": "https://github.com/getarcaneapp/arcane",
       "stars_today": 547,
-      "total_stars": 9619,
+      "total_stars": 9770,
       "language": "Go",
       "description": "Star getarcaneapp / arcane Modern Docker Management, Designed for Everyone"
     },
@@ -80,7 +64,7 @@
       "repo": "HKUDS/CLI-Anything",
       "url": "https://github.com/HKUDS/CLI-Anything",
       "stars_today": 384,
-      "total_stars": 59398,
+      "total_stars": 59658,
       "language": "Python",
       "description": "Star HKUDS / CLI-Anything \"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/"
     },
@@ -88,15 +72,23 @@
       "repo": "google-labs-code/stitch-skills",
       "url": "https://github.com/google-labs-code/stitch-skills",
       "stars_today": 369,
-      "total_stars": 10297,
+      "total_stars": 10377,
       "language": "TypeScript",
       "description": "Star google-labs-code / stitch-skills A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor."
+    },
+    {
+      "repo": "NVIDIA/SkillEvaluator",
+      "url": "https://github.com/NVIDIA/SkillEvaluator",
+      "stars_today": 323,
+      "total_stars": 3673,
+      "language": "Python",
+      "description": "Star NVIDIA / SkillEvaluator Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior."
     },
     {
       "repo": "cursor/plugins",
       "url": "https://github.com/cursor/plugins",
       "stars_today": 315,
-      "total_stars": 17076,
+      "total_stars": 17168,
       "language": "TypeScript",
       "description": "Star cursor / plugins Cursor plugin specification and official plugins"
     },
@@ -104,15 +96,23 @@
       "repo": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
       "stars_today": 315,
-      "total_stars": 210883,
+      "total_stars": 211025,
       "language": "TypeScript",
       "description": "Star n8n-io / n8n Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations."
+    },
+    {
+      "repo": "DeanChensj/jiangshan-map",
+      "url": "https://github.com/DeanChensj/jiangshan-map",
+      "stars_today": 280,
+      "total_stars": 7908,
+      "language": "JavaScript",
+      "description": "Star DeanChensj / jiangshan-map 江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes"
     },
     {
       "repo": "jquery/jquery",
       "url": "https://github.com/jquery/jquery",
       "stars_today": 268,
-      "total_stars": 59988,
+      "total_stars": 60001,
       "language": "JavaScript",
       "description": "Star jquery / jquery jQuery JavaScript Library"
     },
@@ -120,7 +120,7 @@
       "repo": "astral-sh/uv",
       "url": "https://github.com/astral-sh/uv",
       "stars_today": 260,
-      "total_stars": 92145,
+      "total_stars": 92205,
       "language": "Rust",
       "description": "Star astral-sh / uv An extremely fast Python package and project manager, written in Rust."
     },
@@ -128,15 +128,15 @@
       "repo": "appwrite/appwrite",
       "url": "https://github.com/appwrite/appwrite",
       "stars_today": 239,
-      "total_stars": 58143,
+      "total_stars": 58212,
       "language": "TypeScript",
       "description": "Star appwrite / appwrite The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more"
     },
     {
       "repo": "nvm-sh/nvm",
       "url": "https://github.com/nvm-sh/nvm",
-      "stars_today": 199,
-      "total_stars": 96123,
+      "stars_today": 111,
+      "total_stars": 96147,
       "language": "Shell",
       "description": "Star nvm-sh / nvm Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions."
     },
@@ -144,7 +144,7 @@
       "repo": "punkpeye/awesome-mcp-servers",
       "url": "https://github.com/punkpeye/awesome-mcp-servers",
       "stars_today": 52,
-      "total_stars": 97891,
+      "total_stars": 97994,
       "language": "",
       "description": "Star punkpeye / awesome-mcp-servers A collection of MCP servers."
     },
@@ -152,7 +152,7 @@
       "repo": "solidjs/solid",
       "url": "https://github.com/solidjs/solid",
       "stars_today": 37,
-      "total_stars": 36378,
+      "total_stars": 36541,
       "language": "TypeScript",
       "description": "Star solidjs / solid A declarative, efficient, and flexible JavaScript library for building user interfaces."
     },
@@ -160,7 +160,7 @@
       "repo": "openvinotoolkit/openvino",
       "url": "https://github.com/openvinotoolkit/openvino",
       "stars_today": 18,
-      "total_stars": 11235,
+      "total_stars": 11303,
       "language": "C++",
       "description": "Star openvinotoolkit / openvino OpenVINO™ is an open source toolkit for optimizing and deploying AI inference"
     }
