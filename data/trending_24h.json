@@ -1,136 +1,136 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-11-22T16:09:41.530257+08:00",
+  "generated_at": "2026-11-23T00:25:14.873801+08:00",
   "count": 16,
   "items": [
     {
       "repo": "elementalsouls/Claude-BugHunter",
       "url": "https://github.com/elementalsouls/Claude-BugHunter",
-      "stars_today": 1803,
-      "total_stars": 16517,
+      "stars_today": 1721,
+      "total_stars": 17192,
       "language": "Python",
       "description": "Sponsor Star elementalsouls / Claude-BugHunter A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices."
     },
     {
       "repo": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "stars_today": 1006,
-      "total_stars": 206446,
+      "stars_today": 910,
+      "total_stars": 206748,
       "language": "TypeScript",
       "description": "Star firecrawl / firecrawl Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API."
     },
     {
       "repo": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "stars_today": 883,
-      "total_stars": 323916,
+      "stars_today": 785,
+      "total_stars": 323956,
       "language": "Shell",
       "description": "Sponsor Star obra / superpowers An agentic skills framework & software development methodology that works."
     },
     {
       "repo": "XiaoYouChR/Ghost-Downloader-3",
       "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
-      "stars_today": 779,
-      "total_stars": 14663,
+      "stars_today": 690,
+      "total_stars": 14927,
       "language": "Python",
       "description": "Star XiaoYouChR / Ghost-Downloader-3 The only downloader you need. 下载器的集大成者。"
     },
     {
       "repo": "HKUDS/CLI-Anything",
       "url": "https://github.com/HKUDS/CLI-Anything",
-      "stars_today": 769,
-      "total_stars": 62283,
+      "stars_today": 687,
+      "total_stars": 62571,
       "language": "Python",
       "description": "Star HKUDS / CLI-Anything \"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/"
     },
     {
-      "repo": "mjmirza/app-store-compliance",
-      "url": "https://github.com/mjmirza/app-store-compliance",
-      "stars_today": 720,
-      "total_stars": 3569,
-      "language": "Shell",
-      "description": "Sponsor Star mjmirza / app-store-compliance Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 111 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents."
-    },
-    {
-      "repo": "zhouxiaoka/autoclip",
-      "url": "https://github.com/zhouxiaoka/autoclip",
-      "stars_today": 683,
-      "total_stars": 13045,
-      "language": "Python",
-      "description": "Star zhouxiaoka / autoclip AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing."
-    },
-    {
-      "repo": "cathrynlavery/diagram-design",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "stars_today": 583,
-      "total_stars": 69955,
-      "language": "HTML",
-      "description": "Sponsor Star cathrynlavery / diagram-design Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop."
-    },
-    {
-      "repo": "toeverything/AFFiNE",
-      "url": "https://github.com/toeverything/AFFiNE",
-      "stars_today": 574,
-      "total_stars": 76449,
-      "language": "TypeScript",
-      "description": "Sponsor Star toeverything / AFFiNE There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use."
-    },
-    {
       "repo": "mvanhorn/last30days-skill",
       "url": "https://github.com/mvanhorn/last30days-skill",
-      "stars_today": 560,
-      "total_stars": 72220,
+      "stars_today": 673,
+      "total_stars": 72529,
       "language": "Python",
       "description": "Star mvanhorn / last30days-skill AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
     },
     {
+      "repo": "zhouxiaoka/autoclip",
+      "url": "https://github.com/zhouxiaoka/autoclip",
+      "stars_today": 640,
+      "total_stars": 13283,
+      "language": "Python",
+      "description": "Star zhouxiaoka / autoclip AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing."
+    },
+    {
+      "repo": "mjmirza/app-store-compliance",
+      "url": "https://github.com/mjmirza/app-store-compliance",
+      "stars_today": 617,
+      "total_stars": 3788,
+      "language": "Shell",
+      "description": "Sponsor Star mjmirza / app-store-compliance Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 112 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents."
+    },
+    {
+      "repo": "toeverything/AFFiNE",
+      "url": "https://github.com/toeverything/AFFiNE",
+      "stars_today": 537,
+      "total_stars": 76642,
+      "language": "TypeScript",
+      "description": "Sponsor Star toeverything / AFFiNE There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use."
+    },
+    {
+      "repo": "google-labs-code/stitch-skills",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "stars_today": 516,
+      "total_stars": 11803,
+      "language": "TypeScript",
+      "description": "Star google-labs-code / stitch-skills A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor."
+    },
+    {
+      "repo": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "stars_today": 513,
+      "total_stars": 70151,
+      "language": "HTML",
+      "description": "Sponsor Star cathrynlavery / diagram-design Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop."
+    },
+    {
       "repo": "jingyaogong/minimind",
       "url": "https://github.com/jingyaogong/minimind",
-      "stars_today": 488,
-      "total_stars": 68299,
+      "stars_today": 473,
+      "total_stars": 68506,
       "language": "Python",
       "description": "Star jingyaogong / minimind 🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours."
     },
     {
       "repo": "Tracer-Cloud/opensre",
       "url": "https://github.com/Tracer-Cloud/opensre",
-      "stars_today": 450,
-      "total_stars": 14108,
+      "stars_today": 395,
+      "total_stars": 14273,
       "language": "Python",
       "description": "Star Tracer-Cloud / opensre The open-source agent for CI/CD reliability."
     },
     {
-      "repo": "google-labs-code/stitch-skills",
-      "url": "https://github.com/google-labs-code/stitch-skills",
-      "stars_today": 326,
-      "total_stars": 11609,
-      "language": "TypeScript",
-      "description": "Star google-labs-code / stitch-skills A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor."
-    },
-    {
       "repo": "cursor/plugins",
       "url": "https://github.com/cursor/plugins",
-      "stars_today": 260,
-      "total_stars": 18196,
+      "stars_today": 301,
+      "total_stars": 18337,
       "language": "TypeScript",
       "description": "Star cursor / plugins Cursor plugin specification and official plugins"
     },
     {
-      "repo": "openvinotoolkit/openvino",
-      "url": "https://github.com/openvinotoolkit/openvino",
-      "stars_today": 200,
-      "total_stars": 11989,
-      "language": "C++",
-      "description": "Star openvinotoolkit / openvino OpenVINO™ is an open source toolkit for optimizing and deploying AI inference"
-    },
-    {
       "repo": "nginx/nginx",
       "url": "https://github.com/nginx/nginx",
-      "stars_today": 189,
-      "total_stars": 32782,
+      "stars_today": 168,
+      "total_stars": 32839,
       "language": "C",
       "description": "Star nginx / nginx The official NGINX Open Source repository."
+    },
+    {
+      "repo": "openvinotoolkit/openvino",
+      "url": "https://github.com/openvinotoolkit/openvino",
+      "stars_today": 155,
+      "total_stars": 12042,
+      "language": "C++",
+      "description": "Star openvinotoolkit / openvino OpenVINO™ is an open source toolkit for optimizing and deploying AI inference"
     }
   ]
 }
