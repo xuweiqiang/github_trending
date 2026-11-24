@@ -1,134 +1,134 @@
 {
   "source": "github_trending_daily",
   "window": "24h",
-  "generated_at": "2026-11-24T10:20:04.680844+08:00",
+  "generated_at": "2026-11-24T20:39:07.212472+08:00",
   "count": 16,
   "items": [
     {
       "repo": "elementalsouls/Claude-BugHunter",
       "url": "https://github.com/elementalsouls/Claude-BugHunter",
-      "stars_today": 2029,
-      "total_stars": 19873,
+      "stars_today": 1833,
+      "total_stars": 20660,
       "language": "Python",
       "description": "Sponsor Star elementalsouls / Claude-BugHunter A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices."
     },
     {
       "repo": "XiaoYouChR/Ghost-Downloader-3",
       "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
-      "stars_today": 1087,
-      "total_stars": 16388,
+      "stars_today": 1102,
+      "total_stars": 16959,
       "language": "Python",
       "description": "Star XiaoYouChR / Ghost-Downloader-3 The only downloader you need. 下载器的集大成者。"
     },
     {
+      "repo": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "stars_today": 1075,
+      "total_stars": 64262,
+      "language": "Python",
+      "description": "Star HKUDS / CLI-Anything \"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/"
+    },
+    {
+      "repo": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "stars_today": 1006,
+      "total_stars": 325557,
+      "language": "Shell",
+      "description": "Sponsor Star obra / superpowers An agentic skills framework & software development methodology that works."
+    },
+    {
       "repo": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "stars_today": 924,
-      "total_stars": 207983,
+      "stars_today": 990,
+      "total_stars": 208421,
       "language": "TypeScript",
       "description": "Star firecrawl / firecrawl Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API."
     },
     {
       "repo": "zhouxiaoka/autoclip",
       "url": "https://github.com/zhouxiaoka/autoclip",
-      "stars_today": 907,
-      "total_stars": 14477,
+      "stars_today": 981,
+      "total_stars": 15044,
       "language": "Python",
       "description": "Star zhouxiaoka / autoclip AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing."
     },
     {
-      "repo": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "stars_today": 840,
-      "total_stars": 325131,
-      "language": "Shell",
-      "description": "Sponsor Star obra / superpowers An agentic skills framework & software development methodology that works."
-    },
-    {
-      "repo": "jingyaogong/minimind",
-      "url": "https://github.com/jingyaogong/minimind",
-      "stars_today": 828,
-      "total_stars": 69518,
-      "language": "Python",
-      "description": "Star jingyaogong / minimind 🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours."
-    },
-    {
-      "repo": "mvanhorn/last30days-skill",
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "stars_today": 797,
-      "total_stars": 73479,
-      "language": "Python",
-      "description": "Star mvanhorn / last30days-skill AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
-    },
-    {
-      "repo": "HKUDS/CLI-Anything",
-      "url": "https://github.com/HKUDS/CLI-Anything",
-      "stars_today": 790,
-      "total_stars": 63725,
-      "language": "Python",
-      "description": "Star HKUDS / CLI-Anything \"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/"
-    },
-    {
       "repo": "mjmirza/app-store-compliance",
       "url": "https://github.com/mjmirza/app-store-compliance",
-      "stars_today": 761,
-      "total_stars": 5020,
+      "stars_today": 936,
+      "total_stars": 5411,
       "language": "Shell",
       "description": "Sponsor Star mjmirza / app-store-compliance Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 112 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents."
     },
     {
       "repo": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
-      "stars_today": 620,
-      "total_stars": 71025,
+      "stars_today": 794,
+      "total_stars": 71479,
       "language": "HTML",
       "description": "Sponsor Star cathrynlavery / diagram-design Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop."
     },
     {
+      "repo": "jingyaogong/minimind",
+      "url": "https://github.com/jingyaogong/minimind",
+      "stars_today": 727,
+      "total_stars": 69916,
+      "language": "Python",
+      "description": "Star jingyaogong / minimind 🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours."
+    },
+    {
+      "repo": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "stars_today": 695,
+      "total_stars": 73814,
+      "language": "Python",
+      "description": "Star mvanhorn / last30days-skill AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+    },
+    {
       "repo": "toeverything/AFFiNE",
       "url": "https://github.com/toeverything/AFFiNE",
-      "stars_today": 595,
-      "total_stars": 77431,
+      "stars_today": 589,
+      "total_stars": 77687,
       "language": "TypeScript",
       "description": "Sponsor Star toeverything / AFFiNE There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use."
     },
     {
       "repo": "Tracer-Cloud/opensre",
       "url": "https://github.com/Tracer-Cloud/opensre",
-      "stars_today": 436,
-      "total_stars": 14856,
+      "stars_today": 408,
+      "total_stars": 15018,
       "language": "Python",
       "description": "Star Tracer-Cloud / opensre The open-source agent for CI/CD reliability."
     },
     {
       "repo": "google-labs-code/stitch-skills",
       "url": "https://github.com/google-labs-code/stitch-skills",
-      "stars_today": 422,
-      "total_stars": 12327,
+      "stars_today": 401,
+      "total_stars": 12504,
       "language": "TypeScript",
       "description": "Star google-labs-code / stitch-skills A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor."
     },
     {
       "repo": "cursor/plugins",
       "url": "https://github.com/cursor/plugins",
-      "stars_today": 397,
-      "total_stars": 18836,
+      "stars_today": 359,
+      "total_stars": 19016,
       "language": "TypeScript",
       "description": "Star cursor / plugins Cursor plugin specification and official plugins"
     },
     {
       "repo": "openvinotoolkit/openvino",
       "url": "https://github.com/openvinotoolkit/openvino",
-      "stars_today": 184,
-      "total_stars": 12296,
+      "stars_today": 187,
+      "total_stars": 12378,
       "language": "C++",
       "description": "Star openvinotoolkit / openvino OpenVINO™ is an open source toolkit for optimizing and deploying AI inference"
     },
     {
       "repo": "nginx/nginx",
       "url": "https://github.com/nginx/nginx",
-      "stars_today": 174,
-      "total_stars": 33068,
+      "stars_today": 158,
+      "total_stars": 33127,
       "language": "C",
       "description": "Star nginx / nginx The official NGINX Open Source repository."
     }
